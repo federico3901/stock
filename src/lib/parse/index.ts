@@ -43,8 +43,8 @@ export function guessMeta(fileName: string, pages: string[]): ParsedFile["guess"
   const name = fileName.replace(/\.[a-z0-9]+$/i, "");
   const hay = (name + "\n" + head).toLowerCase();
   let type: DocType = "other";
-  if (/form\s*10-?k\b|annual report pursuant to section 13/.test(hay) || /\b10-?k\b/.test(name.toLowerCase())) type = "10-K";
-  else if (/form\s*10-?q\b|quarterly report pursuant to section 13/.test(hay) || /\b10-?q\b/.test(name.toLowerCase())) type = "10-Q";
+  if (/form\s*10-?k\b|annual report pursuant to section 13/.test(hay) || /(?<![a-z0-9])10-?k(?![a-z0-9])/.test(name.toLowerCase())) type = "10-K";
+  else if (/form\s*10-?q\b|quarterly report pursuant to section 13/.test(hay) || /(?<![a-z0-9])10-?q(?![a-z0-9])/.test(name.toLowerCase())) type = "10-Q";
   else if (/earnings call|conference call|operator:|question-and-answer/.test(hay)) type = "transcript";
   else if (/form\s*8-?k\b/.test(hay)) type = "8-K";
   else if (/reports? (first|second|third|fourth|full)[- ](quarter|year)|financial results|comunicato stampa|press release/.test(hay)) type = "earnings_release";
@@ -52,14 +52,15 @@ export function guessMeta(fileName: string, pages: string[]): ParsedFile["guess"
   else if (/annual report|relazione finanziaria annuale|bilancio consolidato/.test(hay)) type = "annual_report";
 
   let fiscalYear: number | undefined;
+  // "ended March 31, 2025" oppure "ended 31 March 2025": l'anno è l'ultimo numero della data
+  const ended = /(?:fiscal year|quarterly period|period|year|quarter|months) ended\s+(?:([a-z]+)\.?\s+\d{1,2},?\s+|\d{1,2}\s+([a-z]+)\.?,?\s+)?((?:19|20)\d{2})/i.exec(head);
   const fy =
-    /fiscal year ended[^0-9]{0,40}(\d{4})/i.exec(head) ??
-    /(?:quarterly period|period|year|quarter) ended[^0-9]{0,30}(\d{4})/i.exec(head) ??
+    (ended ? [ended[0], ended[3]] : null) ??
     /(?:fy|esercizio|anno)\s*'?(\d{4})/i.exec(hay) ??
     /\b(20\d{2})\b/.exec(name);
   if (fy) fiscalYear = Number(fy[1]);
   let fiscalPeriod: FiscalPeriod | undefined = type === "10-K" || type === "annual_report" ? "FY" : undefined;
-  const q = /\bq([1-4])\b/i.exec(name) ?? /\b(first|second|third|fourth)[- ]quarter/i.exec(head);
+  const q = /(?<![a-z0-9])q([1-4])(?![a-z0-9])/i.exec(name) ?? /\b(first|second|third|fourth)[- ]quarter/i.exec(head);
   if (q && type !== "10-K") {
     const map: Record<string, FiscalPeriod> = { "1": "Q1", "2": "Q2", "3": "Q3", "4": "Q4", first: "Q1", second: "Q2", third: "Q3", fourth: "Q4" };
     fiscalPeriod = map[q[1].toLowerCase()];
@@ -68,6 +69,12 @@ export function guessMeta(fileName: string, pages: string[]): ParsedFile["guess"
     "10-K": "10-K", "10-Q": "10-Q", "8-K": "8-K", earnings_release: "Comunicato risultati", presentation: "Presentazione",
     transcript: "Trascrizione call", annual_report: "Bilancio annuale", other: "",
   };
+  // 10-Q senza trimestre esplicito: lo si deduce dal mese di chiusura, ipotizzando l'esercizio solare
+  // (è solo una proposta: l'utente la vede e può correggerla prima di caricare)
+  if (type === "10-Q" && !fiscalPeriod && ended) {
+    const month = (ended[1] ?? ended[2] ?? "").slice(0, 3).toLowerCase();
+    fiscalPeriod = ({ mar: "Q1", jun: "Q2", sep: "Q3" } as Record<string, FiscalPeriod>)[month];
+  }
   const title = type === "other" ? name : [typeLabel[type], fiscalPeriod && fiscalPeriod !== "FY" ? fiscalPeriod : "", fiscalYear ?? ""].filter(Boolean).join(" ");
   return { type, fiscalYear, fiscalPeriod, title: title || name };
 }
