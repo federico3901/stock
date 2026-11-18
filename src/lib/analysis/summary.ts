@@ -31,7 +31,7 @@ export function analyze(b: CompanyBundle) {
   const pio = lastFy && prevFy ? piotroski(lastFy.values, prevFy.values) : null;
   const altman = lastFy ? altmanZ(lastFy.values, b.company.price ? multiples(lastFy.values, b.company.price).marketCap : undefined) : null;
   const beneish = lastFy && prevFy ? beneishM(lastFy.values, prevFy.values) : null;
-  const guidanceEvals = evaluateGuidance(b.guidance, b.periods);
+  const guidanceEvals = evaluateGuidance(b.guidance, b.periods, b.custom);
   const cred = credibility(guidanceEvals);
   const open = openGuidance(guidanceEvals);
   const valuationInputs = snapshot ? (b.valuation ?? defaultValuationInputs(b.company.id, annual, snapshot.values)) : null;

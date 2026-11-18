@@ -131,7 +131,7 @@ export function companyDigest(b: CompanyBundle): string {
   }
 
   if (b.guidance.length) {
-    const evals = evaluateGuidance(b.guidance, periods);
+    const evals = evaluateGuidance(b.guidance, periods, b.custom);
     const cred = credibility(evals);
     out.push("\n## Guidance");
     out.push(`Affidabilità: ${cred.verdict} (${cred.beat} superate, ${cred.inline} in linea, ${cred.miss} mancate; ${cred.raised} rialzi e ${cred.lowered} tagli in corso d'anno)`);

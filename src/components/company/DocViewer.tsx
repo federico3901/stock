@@ -13,7 +13,12 @@ export const useDocViewer = () => useContext(Ctx);
 
 export function DocViewerProvider({ documents, children }: { documents: DocumentMeta[]; children: ReactNode }) {
   const [state, setState] = useState<{ docId: string; page: number; highlight?: string } | null>(null);
-  const open = useCallback<OpenFn>((docId, page, highlight) => setState({ docId, page: page && page > 0 ? page : 1, highlight }), []);
+  const open = useCallback<OpenFn>((docId, page, highlight) => {
+    // i documenti delle aziende già caricate non hanno testo: si apre la fonte originale
+    const d = documents.find((x) => x.id === docId);
+    if (d && !d.pageCount && d.url) return void window.open(d.url, "_blank", "noopener,noreferrer");
+    setState({ docId, page: page && page > 0 ? page : 1, highlight });
+  }, [documents]);
   const title = useCallback((docId: string) => documents.find((d) => d.id === docId)?.title, [documents]);
   const value = useMemo(() => ({ open, title }), [open, title]);
   return (

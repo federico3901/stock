@@ -1,8 +1,20 @@
 # Stock
 
-Strumento personale per analizzare un'azienda quotata partendo dai suoi documenti: carichi 10-K, 10-Q, comunicati sui risultati, presentazioni e trascrizioni delle call, e ottieni bilanci normalizzati, metriche, guidance, valutazione e analisi qualitativa in un unico posto.
+Strumento personale per analizzare aziende quotate: bilanci normalizzati, metriche, guidance, valutazione e analisi qualitativa in un unico posto.
 
-Non è un servizio di consulenza: i numeri dipendono dai documenti caricati e dalle ipotesi che inserisci.
+Le aziende sono **già caricate** nel repository e l'app funziona senza chiave API e senza database. Oggi ci sono UnitedHealth Group, Redwire, Leonardo, Fincantieri, Prysmian e Air Liquide. Cosa c'è e cosa manca per ognuna è scritto in [`import/COPERTURA.md`](import/COPERTURA.md).
+
+Non è un servizio di consulenza: i numeri vengono da fonti pubbliche trascritte e vanno verificati sui documenti originali prima di una decisione.
+
+## Aziende già caricate
+
+- I dati stanno in `import/`: `companies/<id>.json` (anagrafica e prezzo), `raw/` (tabelle di bilancio annuali e infrannuali, dati standardizzati S&P Global letti da stockanalysis.com), `research/<id>.json` (documenti con collegamento, guidance, segmenti, KPI, analisi qualitativa; schema in `import/RESEARCH.md`).
+- `node scripts/build-seed.mjs` li trasforma in `src/seed/data/index.json`, che l'app legge all'avvio. `npx tsx scripts/check-seed.ts` esegue le quadrature.
+- Per aggiungere un'azienda si aggiungono i file in `import/` e si rigenera: non serve toccare il codice.
+- Quello che modifichi dall'app (prezzo, note, tesi, correzioni) viene salvato sopra i dati di partenza. Su Vercel senza `DATABASE_URL` queste modifiche non sono permanenti: per conservarle serve il database.
+- La guidance su misure rettificate (EBITA, adjusted EBITDA, FOCF…) è confrontata col dato pubblicato dalla società, non col bilancio standardizzato.
+
+Le funzioni che usano il modello (caricamento ed estrazione da documenti, chat, memo, confronto tra filing) sono facoltative e compaiono solo se imposti `ANTHROPIC_API_KEY`.
 
 ## Cosa fa
 
@@ -80,5 +92,6 @@ Struttura: `src/lib/analysis` (calcoli puri), `src/lib/llm` (prompt, schemi ed e
 
 - I PDF fatti di sole immagini (scansioni) non contengono testo e non vengono letti.
 - Il confronto tra filing riconosce le sezioni dei documenti SEC in inglese (Item 1, 1A, 7…).
-- Il prezzo dell'azione si inserisce a mano.
+- Il prezzo dell'azione è quello dell'ultima importazione, con la sua data; si aggiorna a mano.
+- Leonardo ha solo dati annuali: gli infrannuali della fonte erano incoerenti. Fincantieri e Air Liquide hanno dati semestrali.
 - Nel confronto tra aziende le valute non sono convertite.

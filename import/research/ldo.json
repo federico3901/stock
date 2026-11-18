@@ -1,0 +1,5020 @@
+{
+ "documents": [
+  {
+   "id": "ldo-risultati-fy2023",
+   "title": "Risultati esercizio 2023 e guidance 2024 (comunicato stampa)",
+   "type": "earnings_release",
+   "date": "2024-03-12",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "url": "https://www.leonardo.com/en/press-release-detail/-/detail/12.03.24-results"
+  },
+  {
+   "id": "ldo-piano-2024-2028",
+   "title": "Piano Industriale 2024-2028 (comunicato stampa)",
+   "type": "other",
+   "date": "2024-03-12",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "url": "https://www.leonardo.com/en/press-release-detail/-/detail/12-03-24-industrial-plan"
+  },
+  {
+   "id": "ldo-risultati-9m2024",
+   "title": "Risultati nove mesi 2024 (comunicato stampa)",
+   "type": "earnings_release",
+   "date": "2024-11-07",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "9M",
+   "url": "https://emarketstorage.it/sites/default/files/comunicati/2024-11/20241107_156660.pdf"
+  },
+  {
+   "id": "ldo-risultati-fy2024",
+   "title": "Risultati esercizio 2024 e guidance 2025 (comunicato stampa)",
+   "type": "earnings_release",
+   "date": "2025-03-11",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "url": "https://www.emarketstorage.it/sites/default/files/comunicati/2025-03/20250311_161664.pdf"
+  },
+  {
+   "id": "ldo-piano-2025-2029",
+   "title": "Aggiornamento Piano Industriale 2025-2029 (comunicato stampa)",
+   "type": "other",
+   "date": "2025-03-11",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "url": "https://emarketstorage.it/sites/default/files/comunicati/2025-03/20250311_161674.pdf"
+  },
+  {
+   "id": "ldo-piano-2025-2029-airframer",
+   "title": "Aggiornamento Piano Industriale 2025-2029 (comunicato Leonardo via Airframer)",
+   "type": "other",
+   "date": "2025-03-11",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "url": "https://www.airframer.com/news/release/leonardo-industrial-plan-update"
+  },
+  {
+   "id": "ldo-risultati-q1-2025",
+   "title": "Risultati primo trimestre 2025 (comunicato stampa)",
+   "type": "earnings_release",
+   "date": "2025-05-08",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q1",
+   "url": "https://www.emarketstorage.it/sites/default/files/comunicati/2025-05/20250508_166613.pdf"
+  },
+  {
+   "id": "ldo-risultati-h1-2025",
+   "title": "Risultati primo semestre 2025 (comunicato stampa)",
+   "type": "earnings_release",
+   "date": "2025-07-30",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "url": "https://www.emarketstorage.it/sites/default/files/comunicati/2025-07/20250730_170481.pdf"
+  },
+  {
+   "id": "ldo-risultati-9m2025",
+   "title": "Risultati nove mesi 2025 (comunicato stampa)",
+   "type": "earnings_release",
+   "date": "2025-11-05",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "url": "https://www.emarketstorage.it/sites/default/files/comunicati/2025-11/20251105_173880.pdf"
+  },
+  {
+   "id": "ldo-preliminari-fy2025",
+   "title": "Risultati preliminari esercizio 2025 (comunicato stampa)",
+   "type": "earnings_release",
+   "date": "2026-02-25",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "url": "https://www.emarketstorage.it/sites/default/files/comunicati/2026-02/20260225_177822.pdf"
+  },
+  {
+   "id": "ldo-risultati-fy2025",
+   "title": "Risultati esercizio 2025 e guidance 2026 (comunicato stampa, inglese)",
+   "type": "earnings_release",
+   "date": "2026-03-12",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "url": "https://www.emarketstorage.it/sites/default/files/comunicati/2026-03/20260312_178651.pdf"
+  },
+  {
+   "id": "ldo-risultati-fy2025-it",
+   "title": "Risultati esercizio 2025 e guidance 2026 (comunicato stampa, italiano)",
+   "type": "earnings_release",
+   "date": "2026-03-12",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "url": "https://www.emarketstorage.it/sites/default/files/comunicati/2026-03/20260312_178652.pdf"
+  },
+  {
+   "id": "ldo-piano-2026-2030",
+   "title": "Aggiornamento Piano Industriale 2026-2030 (comunicato stampa)",
+   "type": "other",
+   "date": "2026-03-12",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "url": "https://www.emarketstorage.it/sites/default/files/comunicati/2026-03/20260312_178653.pdf"
+  },
+  {
+   "id": "ldo-piano-2026-2030-presentazione",
+   "title": "Industrial Plan 2026 Update 2026-2030 (presentazione)",
+   "type": "presentation",
+   "date": "2026-03-12",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "url": "https://www.emarketstorage.it/sites/default/files/comunicati/2026-03/20260312_178673.pdf"
+  },
+  {
+   "id": "ldo-governance-2025",
+   "title": "Relazione sul governo societario e gli assetti proprietari 2025",
+   "type": "other",
+   "date": "2026-03-12",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "url": "https://www.emarketstorage.it/sites/default/files/comunicati/2026-03/20260312_178678.pdf"
+  },
+  {
+   "id": "ldo-risultati-q1-2026",
+   "title": "Risultati primo trimestre 2026 (comunicato stampa)",
+   "type": "earnings_release",
+   "date": "2026-05-06",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "url": "https://www.emarketstorage.it/sites/default/files/comunicati/2026-05/20260506_183440.pdf"
+  },
+  {
+   "id": "ldo-assemblea-2026",
+   "title": "Assemblea degli azionisti 7 maggio 2026: bilancio 2025, dividendo, nuovo CdA (comunicato stampa)",
+   "type": "other",
+   "date": "2026-05-07",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "url": "https://www.leonardo.com/en/press-release-detail/-/detail/07-05-2026-leonardo-s-shareholders-meeting-approves-2025-financial-statements-and-the-remuneration-report-appointed-the-new-board-of-directors-and-francesco-macri-chairman"
+  },
+  {
+   "id": "ldo-risultati-h1-2026",
+   "title": "Risultati primo semestre 2026 (comunicato stampa)",
+   "type": "earnings_release",
+   "date": "2026-07-30",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "url": "https://www.emarketstorage.it/sites/default/files/comunicati/2026-07/20260730_187548.pdf"
+  },
+  {
+   "id": "ldo-risultati-9m2026",
+   "title": "Risultati nove mesi 2026 (comunicato stampa Leonardo, copia su euroborsa.it)",
+   "type": "earnings_release",
+   "date": "2026-11-05",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "url": "https://euroborsa.it/public/euroborsa/Comunicati_Stampa/Leonardo/20261105_191343_1_.pdf"
+  },
+  {
+   "id": "ldo-reazione-9m2026-sole",
+   "title": "Reazione di mercato e analisti ai nove mesi 2026 (via Il Sole 24 Ore)",
+   "type": "other",
+   "date": "2026-11-05",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "url": "https://en.ilsole24ore.com/art/leonardos-share-price-slips-despite-better-than-expected-results-conservative-guidance-causes-concern-AJheOc5B"
+  }
+ ],
+ "guidance": [
+  {
+   "docId": "ldo-risultati-fy2023",
+   "issuedDate": "2024-03-12",
+   "metric": "other",
+   "label": "Ordini",
+   "targetFiscalYear": 2024,
+   "targetPeriod": "FY",
+   "low": 19500000000,
+   "high": 19500000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Guidance iniziale 2024. Ipotesi: cambio €/USD 1,15 e €/GBP 0,89; nessun ulteriore deterioramento rilevante del quadro geopolitico. Confronto con il 2023 pro-forma (Telespazio consolidata integralmente). 2023 pro-forma: 18,7 mld.",
+   "quote": ""
+  },
+  {
+   "docId": "ldo-risultati-fy2023",
+   "issuedDate": "2024-03-12",
+   "metric": "revenue",
+   "label": "Ricavi",
+   "targetFiscalYear": 2024,
+   "targetPeriod": "FY",
+   "low": 16800000000,
+   "high": 16800000000,
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Guidance iniziale 2024. Ipotesi: cambio €/USD 1,15 e €/GBP 0,89; nessun ulteriore deterioramento rilevante del quadro geopolitico. Confronto con il 2023 pro-forma (Telespazio consolidata integralmente). 2023 pro-forma: circa 16 mld.",
+   "quote": ""
+  },
+  {
+   "docId": "ldo-risultati-fy2023",
+   "issuedDate": "2024-03-12",
+   "metric": "operating_income",
+   "label": "EBITA",
+   "targetFiscalYear": 2024,
+   "targetPeriod": "FY",
+   "low": 1440000000,
+   "high": 1440000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Guidance iniziale 2024. Ipotesi: cambio €/USD 1,15 e €/GBP 0,89; nessun ulteriore deterioramento rilevante del quadro geopolitico. Confronto con il 2023 pro-forma (Telespazio consolidata integralmente). 2023 pro-forma: 1.326 mln.",
+   "quote": ""
+  },
+  {
+   "docId": "ldo-risultati-fy2023",
+   "issuedDate": "2024-03-12",
+   "metric": "fcf",
+   "label": "FOCF",
+   "targetFiscalYear": 2024,
+   "targetPeriod": "FY",
+   "low": 770000000,
+   "high": 770000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Guidance iniziale 2024. Ipotesi: cambio €/USD 1,15 e €/GBP 0,89; nessun ulteriore deterioramento rilevante del quadro geopolitico. Confronto con il 2023 pro-forma (Telespazio consolidata integralmente). 2023 pro-forma: 652 mln.",
+   "quote": ""
+  },
+  {
+   "docId": "ldo-risultati-fy2023",
+   "issuedDate": "2024-03-12",
+   "metric": "other",
+   "label": "Indebitamento netto di Gruppo",
+   "targetFiscalYear": 2024,
+   "targetPeriod": "FY",
+   "low": 2000000000,
+   "high": 2000000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Guidance iniziale 2024. Ipotesi: cambio €/USD 1,15 e €/GBP 0,89; nessun ulteriore deterioramento rilevante del quadro geopolitico. Confronto con il 2023 pro-forma (Telespazio consolidata integralmente). Include l'aumento del dividendo da 0,14 a 0,28 euro per azione.",
+   "quote": "from € 0.14 to € 0.28 per share"
+  },
+  {
+   "docId": "ldo-risultati-9m2024",
+   "issuedDate": "2024-11-07",
+   "metric": "other",
+   "label": "Ordini",
+   "targetFiscalYear": 2024,
+   "targetPeriod": "FY",
+   "low": 19500000000,
+   "high": 19500000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Guidance 2024 confermata con i nove mesi, senza modifiche rispetto a marzo 2024.",
+   "quote": "FY2024 Guidance confirmed"
+  },
+  {
+   "docId": "ldo-risultati-9m2024",
+   "issuedDate": "2024-11-07",
+   "metric": "revenue",
+   "label": "Ricavi",
+   "targetFiscalYear": 2024,
+   "targetPeriod": "FY",
+   "low": 16800000000,
+   "high": 16800000000,
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Guidance 2024 confermata con i nove mesi, senza modifiche rispetto a marzo 2024.",
+   "quote": "FY2024 Guidance confirmed"
+  },
+  {
+   "docId": "ldo-risultati-9m2024",
+   "issuedDate": "2024-11-07",
+   "metric": "operating_income",
+   "label": "EBITA",
+   "targetFiscalYear": 2024,
+   "targetPeriod": "FY",
+   "low": 1440000000,
+   "high": 1440000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Guidance 2024 confermata con i nove mesi, senza modifiche rispetto a marzo 2024.",
+   "quote": "FY2024 Guidance confirmed"
+  },
+  {
+   "docId": "ldo-risultati-9m2024",
+   "issuedDate": "2024-11-07",
+   "metric": "fcf",
+   "label": "FOCF",
+   "targetFiscalYear": 2024,
+   "targetPeriod": "FY",
+   "low": 770000000,
+   "high": 770000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Guidance 2024 confermata con i nove mesi, senza modifiche rispetto a marzo 2024.",
+   "quote": "FY2024 Guidance confirmed"
+  },
+  {
+   "docId": "ldo-risultati-9m2024",
+   "issuedDate": "2024-11-07",
+   "metric": "other",
+   "label": "Indebitamento netto di Gruppo",
+   "targetFiscalYear": 2024,
+   "targetPeriod": "FY",
+   "low": 2000000000,
+   "high": 2000000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Guidance 2024 confermata con i nove mesi, senza modifiche rispetto a marzo 2024. Ipotizza dividendo da 0,14 a 0,28 euro, nuovi leasing, investimenti strategici.",
+   "quote": "FY2024 Guidance confirmed"
+  },
+  {
+   "docId": "ldo-risultati-fy2024",
+   "issuedDate": "2025-03-11",
+   "metric": "other",
+   "label": "Ordini",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "low": 21000000000,
+   "high": 21000000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Guidance iniziale 2025. Ipotesi: cambio €/USD 1,08 e €/GBP 0,86; valutazioni correnti su geopolitica, supply chain, inflazione. Consuntivo 2024: 20,9 mld.",
+   "quote": "ca. €21 billion"
+  },
+  {
+   "docId": "ldo-risultati-fy2024",
+   "issuedDate": "2025-03-11",
+   "metric": "revenue",
+   "label": "Ricavi",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "low": 18600000000,
+   "high": 18600000000,
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Guidance iniziale 2025. Ipotesi: cambio €/USD 1,08 e €/GBP 0,86; valutazioni correnti su geopolitica, supply chain, inflazione. Consuntivo 2024: 17,8 mld.",
+   "quote": "approximately €18.6 billion"
+  },
+  {
+   "docId": "ldo-risultati-fy2024",
+   "issuedDate": "2025-03-11",
+   "metric": "operating_income",
+   "label": "EBITA",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "low": 1660000000,
+   "high": 1660000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Guidance iniziale 2025. Ipotesi: cambio €/USD 1,08 e €/GBP 0,86; valutazioni correnti su geopolitica, supply chain, inflazione. Consuntivo 2024: 1.525 mln (nuova definizione di EBITA).",
+   "quote": "approximately € 1,660 million"
+  },
+  {
+   "docId": "ldo-risultati-fy2024",
+   "issuedDate": "2025-03-11",
+   "metric": "fcf",
+   "label": "FOCF",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "low": 870000000,
+   "high": 870000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Guidance iniziale 2025. Ipotesi: cambio €/USD 1,08 e €/GBP 0,86; valutazioni correnti su geopolitica, supply chain, inflazione. Consuntivo 2024: 826 mln.",
+   "quote": "ca € 870 million"
+  },
+  {
+   "docId": "ldo-risultati-fy2024",
+   "issuedDate": "2025-03-11",
+   "metric": "other",
+   "label": "Indebitamento netto di Gruppo",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "low": 1600000000,
+   "high": 1600000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Guidance iniziale 2025. Ipotesi: cambio €/USD 1,08 e €/GBP 0,86; valutazioni correnti su geopolitica, supply chain, inflazione. Ipotizza dividendo da 0,28 a 0,52 euro per azione, un'operazione di M&A di circa 500 mln, remunerazione azionisti DRS, nuovi leasing.",
+   "quote": "approximately €1.6 billion"
+  },
+  {
+   "docId": "ldo-risultati-q1-2025",
+   "issuedDate": "2025-05-08",
+   "metric": "other",
+   "label": "Ordini",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "low": 21000000000,
+   "high": 21000000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Guidance 2025 confermata con il primo trimestre, invariata rispetto a marzo 2025.",
+   "quote": "We, therefore, reaffirm our 2025 guidance and our medium-to-long-term targets,"
+  },
+  {
+   "docId": "ldo-risultati-q1-2025",
+   "issuedDate": "2025-05-08",
+   "metric": "revenue",
+   "label": "Ricavi",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "low": 18600000000,
+   "high": 18600000000,
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Guidance 2025 confermata con il primo trimestre, invariata rispetto a marzo 2025.",
+   "quote": "We, therefore, reaffirm our 2025 guidance and our medium-to-long-term targets,"
+  },
+  {
+   "docId": "ldo-risultati-q1-2025",
+   "issuedDate": "2025-05-08",
+   "metric": "operating_income",
+   "label": "EBITA",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "low": 1660000000,
+   "high": 1660000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Guidance 2025 confermata con il primo trimestre, invariata rispetto a marzo 2025.",
+   "quote": "We, therefore, reaffirm our 2025 guidance and our medium-to-long-term targets,"
+  },
+  {
+   "docId": "ldo-risultati-q1-2025",
+   "issuedDate": "2025-05-08",
+   "metric": "fcf",
+   "label": "FOCF",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "low": 870000000,
+   "high": 870000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Guidance 2025 confermata con il primo trimestre, invariata rispetto a marzo 2025.",
+   "quote": "We, therefore, reaffirm our 2025 guidance and our medium-to-long-term targets,"
+  },
+  {
+   "docId": "ldo-risultati-q1-2025",
+   "issuedDate": "2025-05-08",
+   "metric": "other",
+   "label": "Indebitamento netto di Gruppo",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "low": 1600000000,
+   "high": 1600000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Guidance 2025 confermata con il primo trimestre, invariata rispetto a marzo 2025.",
+   "quote": "We, therefore, reaffirm our 2025 guidance and our medium-to-long-term targets,"
+  },
+  {
+   "docId": "ldo-risultati-h1-2025",
+   "issuedDate": "2025-07-30",
+   "metric": "other",
+   "label": "Ordini",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "low": 22250000000,
+   "high": 22750000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Revisione al rialzo (da circa 21 mld) per l'attesa acquisizione di ordini di grande taglia ('jumbo orders').",
+   "quote": ""
+  },
+  {
+   "docId": "ldo-risultati-h1-2025",
+   "issuedDate": "2025-07-30",
+   "metric": "revenue",
+   "label": "Ricavi",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "low": 18600000000,
+   "high": 18600000000,
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Confermata a circa 18,6 mld.",
+   "quote": ""
+  },
+  {
+   "docId": "ldo-risultati-h1-2025",
+   "issuedDate": "2025-07-30",
+   "metric": "operating_income",
+   "label": "EBITA",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "low": 1660000000,
+   "high": 1660000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Confermata a circa 1.660 mln.",
+   "quote": ""
+  },
+  {
+   "docId": "ldo-risultati-h1-2025",
+   "issuedDate": "2025-07-30",
+   "metric": "fcf",
+   "label": "FOCF",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "low": 920000000,
+   "high": 980000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Revisione al rialzo (da circa 870 mln) per l'andamento operativo e gli anticipi legati agli ordini aggiuntivi; l'intervallo include gli effetti della chiusura del contenzioso NH90 con la Norvegia.",
+   "quote": ""
+  },
+  {
+   "docId": "ldo-risultati-h1-2025",
+   "issuedDate": "2025-07-30",
+   "metric": "other",
+   "label": "Indebitamento netto di Gruppo",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "low": 1100000000,
+   "high": 1100000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Revisione migliorativa (da circa 1,6 mld) per la maggiore generazione di cassa e il rinvio al 2026 di parte dell'M&A previsto (operazione ipotizzata ridotta da circa 500 a circa 100 mln). Dividendo 0,52 euro per azione.",
+   "quote": ""
+  },
+  {
+   "docId": "ldo-risultati-9m2025",
+   "issuedDate": "2025-11-05",
+   "metric": "other",
+   "label": "Ordini",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "low": 22250000000,
+   "high": 22750000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Guidance 2025 (versione rivista a luglio) confermata con i nove mesi.",
+   "quote": "revised upwards last July"
+  },
+  {
+   "docId": "ldo-risultati-9m2025",
+   "issuedDate": "2025-11-05",
+   "metric": "revenue",
+   "label": "Ricavi",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "low": 18600000000,
+   "high": 18600000000,
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Guidance 2025 (versione rivista a luglio) confermata con i nove mesi.",
+   "quote": ""
+  },
+  {
+   "docId": "ldo-risultati-9m2025",
+   "issuedDate": "2025-11-05",
+   "metric": "operating_income",
+   "label": "EBITA",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "low": 1660000000,
+   "high": 1660000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Guidance 2025 (versione rivista a luglio) confermata con i nove mesi.",
+   "quote": ""
+  },
+  {
+   "docId": "ldo-risultati-9m2025",
+   "issuedDate": "2025-11-05",
+   "metric": "fcf",
+   "label": "FOCF",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "low": 920000000,
+   "high": 980000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Guidance 2025 (versione rivista a luglio) confermata con i nove mesi.",
+   "quote": ""
+  },
+  {
+   "docId": "ldo-risultati-9m2025",
+   "issuedDate": "2025-11-05",
+   "metric": "other",
+   "label": "Indebitamento netto di Gruppo",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "low": 1100000000,
+   "high": 1100000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Guidance 2025 (versione rivista a luglio) confermata con i nove mesi.",
+   "quote": ""
+  },
+  {
+   "docId": "ldo-risultati-fy2025",
+   "issuedDate": "2026-03-12",
+   "metric": "other",
+   "label": "Ordini",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 25000000000,
+   "high": 25000000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Guidance iniziale 2026 a perimetro costante, senza Iveco Defence Vehicles (IDV). Ipotesi: cambio €/USD 1,18 e €/GBP 0,86. Consuntivo 2025: 23,8 mld.",
+   "quote": "Assuming exchange rate of 1.18 €/USD and 0.86 €/GBP."
+  },
+  {
+   "docId": "ldo-risultati-fy2025",
+   "issuedDate": "2026-03-12",
+   "metric": "revenue",
+   "label": "Ricavi",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 21000000000,
+   "high": 21000000000,
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Guidance iniziale 2026 a perimetro costante, senza Iveco Defence Vehicles (IDV). Ipotesi: cambio €/USD 1,18 e €/GBP 0,86. Consuntivo 2025: 19,5 mld.",
+   "quote": "Assuming exchange rate of 1.18 €/USD and 0.86 €/GBP."
+  },
+  {
+   "docId": "ldo-risultati-fy2025",
+   "issuedDate": "2026-03-12",
+   "metric": "operating_income",
+   "label": "EBITA",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 2030000000,
+   "high": 2030000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Guidance iniziale 2026 a perimetro costante, senza Iveco Defence Vehicles (IDV). Ipotesi: cambio €/USD 1,18 e €/GBP 0,86. Consuntivo 2025: 1,75 mld.",
+   "quote": "Assuming exchange rate of 1.18 €/USD and 0.86 €/GBP."
+  },
+  {
+   "docId": "ldo-risultati-fy2025",
+   "issuedDate": "2026-03-12",
+   "metric": "fcf",
+   "label": "FOCF",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 1110000000,
+   "high": 1110000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Guidance iniziale 2026 a perimetro costante, senza Iveco Defence Vehicles (IDV). Ipotesi: cambio €/USD 1,18 e €/GBP 0,86. Consuntivo 2025: 1,01 mld.",
+   "quote": "Assuming exchange rate of 1.18 €/USD and 0.86 €/GBP."
+  },
+  {
+   "docId": "ldo-risultati-fy2025",
+   "issuedDate": "2026-03-12",
+   "metric": "other",
+   "label": "Indebitamento netto di Gruppo",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 800000000,
+   "high": 800000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Guidance iniziale 2026 a perimetro costante, senza Iveco Defence Vehicles (IDV). Ipotesi: cambio €/USD 1,18 e €/GBP 0,86. Esclude l'esborso per l'acquisizione di IDV, stimato in 1,7 mld. Consuntivo 2025: 1,0 mld.",
+   "quote": "Excluding cash outflows related to the acquisition of Iveco Defence Vehicles, estimated at €1.7 bn."
+  },
+  {
+   "docId": "ldo-risultati-q1-2026",
+   "issuedDate": "2026-05-06",
+   "metric": "other",
+   "label": "Ordini",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 25000000000,
+   "high": 25000000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Guidance 2026 di marzo confermata con il primo trimestre, ancora senza IDV. La società stima a parte il contributo di IDV per aprile-dicembre 2026: ordini 1,2 mld (totale implicito circa 26,2 mld).",
+   "quote": ""
+  },
+  {
+   "docId": "ldo-risultati-q1-2026",
+   "issuedDate": "2026-05-06",
+   "metric": "revenue",
+   "label": "Ricavi",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 21000000000,
+   "high": 21000000000,
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Guidance 2026 di marzo confermata con il primo trimestre, ancora senza IDV. La società stima a parte il contributo di IDV per aprile-dicembre 2026: ricavi 1,1 mld (totale implicito circa 22,1 mld).",
+   "quote": ""
+  },
+  {
+   "docId": "ldo-risultati-q1-2026",
+   "issuedDate": "2026-05-06",
+   "metric": "operating_income",
+   "label": "EBITA",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 2030000000,
+   "high": 2030000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Guidance 2026 di marzo confermata con il primo trimestre, ancora senza IDV. La società stima a parte il contributo di IDV per aprile-dicembre 2026: EBITA 0,12 mld (totale implicito circa 2,15 mld).",
+   "quote": ""
+  },
+  {
+   "docId": "ldo-risultati-q1-2026",
+   "issuedDate": "2026-05-06",
+   "metric": "fcf",
+   "label": "FOCF",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 1110000000,
+   "high": 1110000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Guidance 2026 di marzo confermata con il primo trimestre, ancora senza IDV. La società stima a parte il contributo di IDV per aprile-dicembre 2026: FOCF 0,22 mld (totale implicito circa 1,32 mld).",
+   "quote": ""
+  },
+  {
+   "docId": "ldo-risultati-q1-2026",
+   "issuedDate": "2026-05-06",
+   "metric": "other",
+   "label": "Indebitamento netto di Gruppo",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 800000000,
+   "high": 800000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Confermata a circa 0,8 mld, esclusi gli esborsi per IDV (circa 1,6 mld pagati al closing del 18 marzo 2026).",
+   "quote": ""
+  },
+  {
+   "docId": "ldo-risultati-h1-2026",
+   "issuedDate": "2026-07-30",
+   "metric": "other",
+   "label": "Ordini",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 28200000000,
+   "high": 28200000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Revisione al rialzo: da circa 26,2 mld (25 mld + 1,2 mld di IDV) a circa 28,2 mld, IDV inclusa.",
+   "quote": ""
+  },
+  {
+   "docId": "ldo-risultati-h1-2026",
+   "issuedDate": "2026-07-30",
+   "metric": "revenue",
+   "label": "Ricavi",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 22100000000,
+   "high": 22100000000,
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Confermata a circa 22,1 mld (21 mld + 1,1 mld di IDV per nove mesi).",
+   "quote": ""
+  },
+  {
+   "docId": "ldo-risultati-h1-2026",
+   "issuedDate": "2026-07-30",
+   "metric": "operating_income",
+   "label": "EBITA",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 2210000000,
+   "high": 2210000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Revisione al rialzo: da circa 2,15 mld a circa 2,21 mld, IDV inclusa; obiettivo di ROS a doppia cifra.",
+   "quote": ""
+  },
+  {
+   "docId": "ldo-risultati-h1-2026",
+   "issuedDate": "2026-07-30",
+   "metric": "fcf",
+   "label": "FOCF",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 1370000000,
+   "high": 1370000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Revisione al rialzo: da circa 1,32 mld a circa 1,37 mld, IDV inclusa; esclusi gli esborsi per l'acquisizione di IDV.",
+   "quote": ""
+  },
+  {
+   "docId": "ldo-risultati-h1-2026",
+   "issuedDate": "2026-07-30",
+   "metric": "other",
+   "label": "Indebitamento netto di Gruppo",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 2200000000,
+   "high": 2200000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Da circa 2,3 mld a circa 2,2 mld, incluso l'esborso per IDV. Non include l'acquisizione di Raft da parte di Leonardo DRS (circa 450 mln USD) né altro M&A.",
+   "quote": "Does not include Raft Leonardo DRS announced acquisition or additional M&A transactions."
+  },
+  {
+   "docId": "ldo-risultati-9m2026",
+   "issuedDate": "2026-11-05",
+   "metric": "other",
+   "label": "Ordini",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 29500000000,
+   "high": 29500000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Seconda revisione al rialzo: da circa 28,2 mld a 29,5 mld, IDV inclusa. È l'unica voce modificata a novembre.",
+   "quote": "aggiorna ulteriormente le Guidance 2026 per gli Ordini"
+  },
+  {
+   "docId": "ldo-risultati-9m2026",
+   "issuedDate": "2026-11-05",
+   "metric": "revenue",
+   "label": "Ricavi",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 22100000000,
+   "high": 22100000000,
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Confermata a novembre 2026 sul livello di luglio.",
+   "quote": ""
+  },
+  {
+   "docId": "ldo-risultati-9m2026",
+   "issuedDate": "2026-11-05",
+   "metric": "operating_income",
+   "label": "EBITA",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 2210000000,
+   "high": 2210000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Confermata a novembre 2026 sul livello di luglio. Obiettivo di ROS a doppia cifra.",
+   "quote": ""
+  },
+  {
+   "docId": "ldo-risultati-9m2026",
+   "issuedDate": "2026-11-05",
+   "metric": "fcf",
+   "label": "FOCF",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 1370000000,
+   "high": 1370000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Confermata a novembre 2026 sul livello di luglio.",
+   "quote": ""
+  },
+  {
+   "docId": "ldo-risultati-9m2026",
+   "issuedDate": "2026-11-05",
+   "metric": "other",
+   "label": "Indebitamento netto di Gruppo",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 2200000000,
+   "high": 2200000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Confermata a novembre 2026 sul livello di luglio. Esclude l'acquisizione di Raft da parte di Leonardo DRS e ulteriore M&A.",
+   "quote": ""
+  },
+  {
+   "docId": "ldo-piano-2024-2028",
+   "issuedDate": "2024-03-12",
+   "metric": "other",
+   "label": "Ordini cumulati 2024-2028",
+   "targetFiscalYear": 2028,
+   "targetPeriod": "FY",
+   "low": 105000000000,
+   "high": 105000000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Obiettivo di piano: ordini cumulati 2024-2028 pari a 105 mld, CAGR 4%, book-to-bill sopra 1, portafoglio da circa 40 a circa 50 mld a fine piano.",
+   "quote": ""
+  },
+  {
+   "docId": "ldo-piano-2024-2028",
+   "issuedDate": "2024-03-12",
+   "metric": "other",
+   "label": "Ricavi cumulati 2024-2028",
+   "targetFiscalYear": 2028,
+   "targetPeriod": "FY",
+   "low": 95000000000,
+   "high": 95000000000,
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Obiettivo di piano: ricavi cumulati 2024-2028 pari a 95 mld, CAGR 6%.",
+   "quote": ""
+  },
+  {
+   "docId": "ldo-piano-2024-2028",
+   "issuedDate": "2024-03-12",
+   "metric": "operating_margin",
+   "label": "ROS (EBITA/ricavi)",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 0.1,
+   "high": 0.1,
+   "unit": "percent",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Obiettivo di piano: redditività (EBITA su ricavi) al 10% nel 2026.",
+   "quote": ""
+  },
+  {
+   "docId": "ldo-piano-2024-2028",
+   "issuedDate": "2024-03-12",
+   "metric": "operating_margin",
+   "label": "ROS (EBITA/ricavi)",
+   "targetFiscalYear": 2028,
+   "targetPeriod": "FY",
+   "low": 0.115,
+   "high": 0.115,
+   "unit": "percent",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Obiettivo di piano: redditività (EBITA su ricavi) all'11,5% nel 2028.",
+   "quote": ""
+  },
+  {
+   "docId": "ldo-piano-2024-2028",
+   "issuedDate": "2024-03-12",
+   "metric": "fcf",
+   "label": "FOCF",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 1000000000,
+   "high": 1000000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Obiettivo di piano: FOCF di 1 mld nel 2026.",
+   "quote": ""
+  },
+  {
+   "docId": "ldo-piano-2024-2028",
+   "issuedDate": "2024-03-12",
+   "metric": "fcf",
+   "label": "FOCF",
+   "targetFiscalYear": 2028,
+   "targetPeriod": "FY",
+   "low": 1350000000,
+   "high": 1350000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Obiettivo di piano: FOCF di 1,35 mld a fine piano, il doppio del 2023; 5 mld di cassa generata nei cinque anni.",
+   "quote": ""
+  },
+  {
+   "docId": "ldo-piano-2024-2028",
+   "issuedDate": "2024-03-12",
+   "metric": "operating_income",
+   "label": "EBITA Aerostrutture (breakeven)",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": true,
+   "text": "Aerostrutture: pareggio a livello di EBITA entro fine 2025 (obiettivo poi spostato al 2028 nei piani successivi).",
+   "quote": ""
+  },
+  {
+   "docId": "ldo-piano-2024-2028",
+   "issuedDate": "2024-03-12",
+   "metric": "other",
+   "label": "Risparmi lordi cumulati",
+   "targetFiscalYear": 2028,
+   "targetPeriod": "FY",
+   "low": 1800000000,
+   "high": 1800000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Piano di efficienza: risparmi lordi cumulati di 1,8 mld nel 2024-2028, da 150 mln nel 2024 a 590 mln l'anno nel 2028.",
+   "quote": ""
+  },
+  {
+   "docId": "ldo-piano-2025-2029",
+   "issuedDate": "2025-03-11",
+   "metric": "other",
+   "label": "Ordini",
+   "targetFiscalYear": 2027,
+   "targetPeriod": "FY",
+   "low": 23600000000,
+   "high": 23600000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Obiettivo del piano 2025-2029 (incluse le nuove iniziative).",
+   "quote": ""
+  },
+  {
+   "docId": "ldo-piano-2025-2029",
+   "issuedDate": "2025-03-11",
+   "metric": "revenue",
+   "label": "Ricavi",
+   "targetFiscalYear": 2027,
+   "targetPeriod": "FY",
+   "low": 21000000000,
+   "high": 21000000000,
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Obiettivo del piano 2025-2029 (incluse le nuove iniziative).",
+   "quote": ""
+  },
+  {
+   "docId": "ldo-piano-2025-2029",
+   "issuedDate": "2025-03-11",
+   "metric": "operating_income",
+   "label": "EBITA",
+   "targetFiscalYear": 2027,
+   "targetPeriod": "FY",
+   "low": 2230000000,
+   "high": 2230000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Obiettivo del piano 2025-2029 (incluse le nuove iniziative).",
+   "quote": ""
+  },
+  {
+   "docId": "ldo-piano-2025-2029",
+   "issuedDate": "2025-03-11",
+   "metric": "fcf",
+   "label": "FOCF",
+   "targetFiscalYear": 2027,
+   "targetPeriod": "FY",
+   "low": 1170000000,
+   "high": 1170000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Obiettivo del piano 2025-2029 (incluse le nuove iniziative).",
+   "quote": ""
+  },
+  {
+   "docId": "ldo-piano-2025-2029",
+   "issuedDate": "2025-03-11",
+   "metric": "other",
+   "label": "Ordini",
+   "targetFiscalYear": 2029,
+   "targetPeriod": "FY",
+   "low": 26200000000,
+   "high": 26200000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Obiettivo del piano 2025-2029 (incluse le nuove iniziative).",
+   "quote": ""
+  },
+  {
+   "docId": "ldo-piano-2025-2029",
+   "issuedDate": "2025-03-11",
+   "metric": "revenue",
+   "label": "Ricavi",
+   "targetFiscalYear": 2029,
+   "targetPeriod": "FY",
+   "low": 24000000000,
+   "high": 24000000000,
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Obiettivo del piano 2025-2029 (incluse le nuove iniziative).",
+   "quote": ""
+  },
+  {
+   "docId": "ldo-piano-2025-2029",
+   "issuedDate": "2025-03-11",
+   "metric": "operating_income",
+   "label": "EBITA",
+   "targetFiscalYear": 2029,
+   "targetPeriod": "FY",
+   "low": 2830000000,
+   "high": 2830000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Obiettivo del piano 2025-2029 (incluse le nuove iniziative).",
+   "quote": ""
+  },
+  {
+   "docId": "ldo-piano-2025-2029",
+   "issuedDate": "2025-03-11",
+   "metric": "fcf",
+   "label": "FOCF",
+   "targetFiscalYear": 2029,
+   "targetPeriod": "FY",
+   "low": 1530000000,
+   "high": 1530000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Obiettivo del piano 2025-2029 (incluse le nuove iniziative).",
+   "quote": ""
+  },
+  {
+   "docId": "ldo-piano-2025-2029",
+   "issuedDate": "2025-03-11",
+   "metric": "other",
+   "label": "Ordini cumulati 2025-2029",
+   "targetFiscalYear": 2029,
+   "targetPeriod": "FY",
+   "low": 118000000000,
+   "high": 118000000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Ordini cumulati 2025-2029 circa 118 mld; CAGR 2023-2029 +5,8%.",
+   "quote": ""
+  },
+  {
+   "docId": "ldo-piano-2025-2029",
+   "issuedDate": "2025-03-11",
+   "metric": "other",
+   "label": "Ricavi cumulati 2025-2029",
+   "targetFiscalYear": 2029,
+   "targetPeriod": "FY",
+   "low": 106000000000,
+   "high": 106000000000,
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Ricavi cumulati 2025-2029 circa 106 mld; CAGR 2023-2029 +7%. CAGR EBITA 13,1%, FOCF 15,2%.",
+   "quote": ""
+  },
+  {
+   "docId": "ldo-piano-2025-2029-airframer",
+   "issuedDate": "2025-03-11",
+   "metric": "operating_income",
+   "label": "EBITA Aerostrutture (breakeven)",
+   "targetFiscalYear": 2028,
+   "targetPeriod": "FY",
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": true,
+   "text": "Aerostrutture: pareggio a livello di EBITA entro fine 2028 (nel piano 2024-2028 era previsto entro fine 2025).",
+   "quote": "Breakeven by end of 2028"
+  },
+  {
+   "docId": "ldo-piano-2026-2030",
+   "issuedDate": "2026-03-12",
+   "metric": "other",
+   "label": "Ordini",
+   "targetFiscalYear": 2027,
+   "targetPeriod": "FY",
+   "low": 26500000000,
+   "high": 26500000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Obiettivo del piano 2026-2030, escluso il consolidamento di Iveco Defence Vehicles.",
+   "quote": ""
+  },
+  {
+   "docId": "ldo-piano-2026-2030",
+   "issuedDate": "2026-03-12",
+   "metric": "revenue",
+   "label": "Ricavi",
+   "targetFiscalYear": 2027,
+   "targetPeriod": "FY",
+   "low": 22700000000,
+   "high": 22700000000,
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Obiettivo del piano 2026-2030, escluso il consolidamento di Iveco Defence Vehicles.",
+   "quote": ""
+  },
+  {
+   "docId": "ldo-piano-2026-2030",
+   "issuedDate": "2026-03-12",
+   "metric": "operating_income",
+   "label": "EBITA",
+   "targetFiscalYear": 2027,
+   "targetPeriod": "FY",
+   "low": 2380000000,
+   "high": 2380000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Obiettivo del piano 2026-2030, escluso il consolidamento di Iveco Defence Vehicles.",
+   "quote": ""
+  },
+  {
+   "docId": "ldo-piano-2026-2030",
+   "issuedDate": "2026-03-12",
+   "metric": "fcf",
+   "label": "FOCF",
+   "targetFiscalYear": 2027,
+   "targetPeriod": "FY",
+   "low": 1240000000,
+   "high": 1240000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Obiettivo del piano 2026-2030, escluso il consolidamento di Iveco Defence Vehicles.",
+   "quote": ""
+  },
+  {
+   "docId": "ldo-piano-2026-2030",
+   "issuedDate": "2026-03-12",
+   "metric": "other",
+   "label": "Ordini",
+   "targetFiscalYear": 2028,
+   "targetPeriod": "FY",
+   "low": 28100000000,
+   "high": 28100000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Obiettivo del piano 2026-2030, escluso il consolidamento di Iveco Defence Vehicles.",
+   "quote": ""
+  },
+  {
+   "docId": "ldo-piano-2026-2030",
+   "issuedDate": "2026-03-12",
+   "metric": "revenue",
+   "label": "Ricavi",
+   "targetFiscalYear": 2028,
+   "targetPeriod": "FY",
+   "low": 24900000000,
+   "high": 24900000000,
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Obiettivo del piano 2026-2030, escluso il consolidamento di Iveco Defence Vehicles.",
+   "quote": ""
+  },
+  {
+   "docId": "ldo-piano-2026-2030",
+   "issuedDate": "2026-03-12",
+   "metric": "operating_income",
+   "label": "EBITA",
+   "targetFiscalYear": 2028,
+   "targetPeriod": "FY",
+   "low": 2800000000,
+   "high": 2800000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Obiettivo del piano 2026-2030, escluso il consolidamento di Iveco Defence Vehicles.",
+   "quote": ""
+  },
+  {
+   "docId": "ldo-piano-2026-2030",
+   "issuedDate": "2026-03-12",
+   "metric": "fcf",
+   "label": "FOCF",
+   "targetFiscalYear": 2028,
+   "targetPeriod": "FY",
+   "low": 1430000000,
+   "high": 1430000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Obiettivo del piano 2026-2030, escluso il consolidamento di Iveco Defence Vehicles.",
+   "quote": ""
+  },
+  {
+   "docId": "ldo-piano-2026-2030",
+   "issuedDate": "2026-03-12",
+   "metric": "other",
+   "label": "Ordini",
+   "targetFiscalYear": 2029,
+   "targetPeriod": "FY",
+   "low": 30000000000,
+   "high": 30000000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Obiettivo del piano 2026-2030, escluso il consolidamento di Iveco Defence Vehicles.",
+   "quote": ""
+  },
+  {
+   "docId": "ldo-piano-2026-2030",
+   "issuedDate": "2026-03-12",
+   "metric": "revenue",
+   "label": "Ricavi",
+   "targetFiscalYear": 2029,
+   "targetPeriod": "FY",
+   "low": 27300000000,
+   "high": 27300000000,
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Obiettivo del piano 2026-2030, escluso il consolidamento di Iveco Defence Vehicles.",
+   "quote": ""
+  },
+  {
+   "docId": "ldo-piano-2026-2030",
+   "issuedDate": "2026-03-12",
+   "metric": "operating_income",
+   "label": "EBITA",
+   "targetFiscalYear": 2029,
+   "targetPeriod": "FY",
+   "low": 3220000000,
+   "high": 3220000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Obiettivo del piano 2026-2030, escluso il consolidamento di Iveco Defence Vehicles.",
+   "quote": ""
+  },
+  {
+   "docId": "ldo-piano-2026-2030",
+   "issuedDate": "2026-03-12",
+   "metric": "fcf",
+   "label": "FOCF",
+   "targetFiscalYear": 2029,
+   "targetPeriod": "FY",
+   "low": 1700000000,
+   "high": 1700000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Obiettivo del piano 2026-2030, escluso il consolidamento di Iveco Defence Vehicles.",
+   "quote": ""
+  },
+  {
+   "docId": "ldo-piano-2026-2030",
+   "issuedDate": "2026-03-12",
+   "metric": "other",
+   "label": "Ordini",
+   "targetFiscalYear": 2030,
+   "targetPeriod": "FY",
+   "low": 32000000000,
+   "high": 32000000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Obiettivo del piano 2026-2030, escluso il consolidamento di Iveco Defence Vehicles.",
+   "quote": ""
+  },
+  {
+   "docId": "ldo-piano-2026-2030",
+   "issuedDate": "2026-03-12",
+   "metric": "revenue",
+   "label": "Ricavi",
+   "targetFiscalYear": 2030,
+   "targetPeriod": "FY",
+   "low": 30000000000,
+   "high": 30000000000,
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Obiettivo del piano 2026-2030, escluso il consolidamento di Iveco Defence Vehicles.",
+   "quote": ""
+  },
+  {
+   "docId": "ldo-piano-2026-2030",
+   "issuedDate": "2026-03-12",
+   "metric": "operating_income",
+   "label": "EBITA",
+   "targetFiscalYear": 2030,
+   "targetPeriod": "FY",
+   "low": 3590000000,
+   "high": 3590000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Obiettivo del piano 2026-2030, escluso il consolidamento di Iveco Defence Vehicles.",
+   "quote": ""
+  },
+  {
+   "docId": "ldo-piano-2026-2030",
+   "issuedDate": "2026-03-12",
+   "metric": "fcf",
+   "label": "FOCF",
+   "targetFiscalYear": 2030,
+   "targetPeriod": "FY",
+   "low": 2060000000,
+   "high": 2060000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Obiettivo del piano 2026-2030, escluso il consolidamento di Iveco Defence Vehicles.",
+   "quote": ""
+  },
+  {
+   "docId": "ldo-piano-2026-2030",
+   "issuedDate": "2026-03-12",
+   "metric": "other",
+   "label": "Ordini cumulati 2026-2030",
+   "targetFiscalYear": 2030,
+   "targetPeriod": "FY",
+   "low": 142000000000,
+   "high": 142000000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Ordini cumulati 2026-2030 pari a 142 mld; CAGR 2025-2030 +6,1%. Senza IDV.",
+   "quote": ""
+  },
+  {
+   "docId": "ldo-piano-2026-2030",
+   "issuedDate": "2026-03-12",
+   "metric": "other",
+   "label": "Ricavi cumulati 2026-2030",
+   "targetFiscalYear": 2030,
+   "targetPeriod": "FY",
+   "low": 126000000000,
+   "high": 126000000000,
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Ricavi cumulati 2026-2030 pari a 126 mld; CAGR 2025-2030 +9%. EBITA cumulato 14 mld (CAGR 15,5%), FOCF cumulato 8 mld (CAGR 15,3%). Senza IDV.",
+   "quote": ""
+  },
+  {
+   "docId": "ldo-piano-2026-2030",
+   "issuedDate": "2026-03-12",
+   "metric": "operating_income",
+   "label": "EBITA Aerostrutture (breakeven)",
+   "targetFiscalYear": 2028,
+   "targetPeriod": "FY",
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": true,
+   "text": "Aerostrutture: pareggio a livello di EBITA confermato per il 2028.",
+   "quote": ""
+  },
+  {
+   "docId": "ldo-piano-2026-2030",
+   "issuedDate": "2026-03-12",
+   "metric": "other",
+   "label": "Leva finanziaria (indebitamento netto/EBITDA)",
+   "targetFiscalYear": 2028,
+   "targetPeriod": "FY",
+   "high": 0.8,
+   "unit": "other",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Leva non superiore a 0,8x nel 2028 (1,1x pro-forma 2025 includendo l'esborso di 1,7 mld per IDV); impegno a mantenere il rating Investment Grade.",
+   "quote": ""
+  },
+  {
+   "docId": "ldo-piano-2026-2030-presentazione",
+   "issuedDate": "2026-03-12",
+   "metric": "operating_margin",
+   "label": "ROS (EBITA/ricavi)",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 0.097,
+   "high": 0.097,
+   "unit": "percent",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "ROS di Gruppo indicato nella presentazione del piano 2026-2030 (senza IDV).",
+   "quote": ""
+  },
+  {
+   "docId": "ldo-piano-2026-2030-presentazione",
+   "issuedDate": "2026-03-12",
+   "metric": "operating_margin",
+   "label": "ROS (EBITA/ricavi)",
+   "targetFiscalYear": 2027,
+   "targetPeriod": "FY",
+   "low": 0.105,
+   "high": 0.105,
+   "unit": "percent",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "ROS di Gruppo indicato nella presentazione del piano 2026-2030 (senza IDV).",
+   "quote": ""
+  },
+  {
+   "docId": "ldo-piano-2026-2030-presentazione",
+   "issuedDate": "2026-03-12",
+   "metric": "operating_margin",
+   "label": "ROS (EBITA/ricavi)",
+   "targetFiscalYear": 2028,
+   "targetPeriod": "FY",
+   "low": 0.113,
+   "high": 0.113,
+   "unit": "percent",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "ROS di Gruppo indicato nella presentazione del piano 2026-2030 (senza IDV).",
+   "quote": ""
+  },
+  {
+   "docId": "ldo-piano-2026-2030-presentazione",
+   "issuedDate": "2026-03-12",
+   "metric": "operating_margin",
+   "label": "ROS (EBITA/ricavi)",
+   "targetFiscalYear": 2029,
+   "targetPeriod": "FY",
+   "low": 0.118,
+   "high": 0.118,
+   "unit": "percent",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "ROS di Gruppo indicato nella presentazione del piano 2026-2030 (senza IDV).",
+   "quote": ""
+  },
+  {
+   "docId": "ldo-piano-2026-2030-presentazione",
+   "issuedDate": "2026-03-12",
+   "metric": "operating_margin",
+   "label": "ROS (EBITA/ricavi)",
+   "targetFiscalYear": 2030,
+   "targetPeriod": "FY",
+   "low": 0.12,
+   "high": 0.12,
+   "unit": "percent",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "ROS di Gruppo indicato nella presentazione del piano 2026-2030 (senza IDV).",
+   "quote": ""
+  },
+  {
+   "docId": "ldo-piano-2026-2030-presentazione",
+   "issuedDate": "2026-03-12",
+   "metric": "other",
+   "label": "Remunerazione degli azionisti (payout)",
+   "targetFiscalYear": 2028,
+   "targetPeriod": "FY",
+   "low": 0.3,
+   "high": 0.4,
+   "unit": "percent",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Remunerazione degli azionisti pari al 30-40% del risultato netto adjusted (payout indicato circa 35%); circa 1,8 mld di ritorni agli azionisti nel 2026-2028 su circa 7,5 mld di cassa operativa prima dell'M&A.",
+   "quote": ""
+  }
+ ],
+ "custom": [
+  {
+   "category": "segment_revenue",
+   "name": "Elicotteri",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 5833000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Elicotteri",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 523000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Elettronica per la Difesa e Sicurezza",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 8350000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Elettronica per la Difesa e Sicurezza",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 1075000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Elettronica Europa",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 5144000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Elettronica Europa",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 738000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Leonardo DRS",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 3228000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Leonardo DRS",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 337000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Cyber & Security Solutions",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 798000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Cyber & Security Solutions",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 80000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Velivoli",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 3589000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Velivoli",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 460000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Aerostrutture",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 745000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Aerostrutture",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": -134000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Aeronautica (Velivoli + Aerostrutture + GIE ATR)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 4238000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Aeronautica (Velivoli + Aerostrutture + GIE ATR)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 326000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Spazio",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 1007000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Spazio",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 59000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Altre attività",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 639000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Altre attività",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": -311000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Elicotteri",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 5249000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Elicotteri",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 465000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Elettronica per la Difesa e Sicurezza",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 7583000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Elettronica per la Difesa e Sicurezza",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 970000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Elettronica Europa",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 4616000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Elettronica Europa",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 670000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Leonardo DRS",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 2988000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Leonardo DRS",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 300000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Cyber & Security Solutions",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 648000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Cyber & Security Solutions",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 49000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Velivoli",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 3166000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Velivoli",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 429000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Aerostrutture",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 746000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Aerostrutture",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": -168000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Aeronautica (Velivoli + Aerostrutture + GIE ATR)",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 3816000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Aeronautica (Velivoli + Aerostrutture + GIE ATR)",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 278000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Spazio",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 906000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Spazio",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 31000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Altre attività",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 591000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Altre attività",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": -311000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Elicotteri",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 4725000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2024"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Elicotteri",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 422000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2024"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Elettronica per la Difesa e Sicurezza",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 6955000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2024"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Elettronica per la Difesa e Sicurezza",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 840000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2024"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Cyber & Security Solutions",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 594000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2024"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Cyber & Security Solutions",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 36000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2024"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Velivoli",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 2938000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2024"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Velivoli",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 419000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2024"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Aerostrutture",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 636000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2024"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Aerostrutture",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": -151000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2024"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Elicotteri",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 4317000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Elicotteri",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 347000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Elettronica per la Difesa e Sicurezza",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 7149000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Elettronica per la Difesa e Sicurezza",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 895000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Elettronica Europa",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 4729000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Elettronica Europa",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 621000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Leonardo DRS",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 2432000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Leonardo DRS",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 274000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Cyber & Security Solutions",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 623000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Cyber & Security Solutions",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 56000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Velivoli",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 2373000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Velivoli",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 276000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Aerostrutture",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 735000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Aerostrutture",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": -88000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Aeronautica (Velivoli + Aerostrutture + GIE ATR)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 3002000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Aeronautica (Velivoli + Aerostrutture + GIE ATR)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 184000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Spazio",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 777000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Spazio",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 38000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Altre attività",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 544000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Altre attività",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": -219000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Elicotteri",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 4095000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Elicotteri",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 320000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Elettronica per la Difesa e Sicurezza",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 5817000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Elettronica per la Difesa e Sicurezza",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 667000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Elettronica Europa",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 3517000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Elettronica Europa",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 450000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Leonardo DRS",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 2315000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Leonardo DRS",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 217000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Cyber & Security Solutions",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 532000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Cyber & Security Solutions",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 41000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Velivoli",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 2345000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Velivoli",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 265000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Aerostrutture",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 510000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Aerostrutture",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": -135000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Aeronautica (Velivoli + Aerostrutture + GIE ATR)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 2799000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Aeronautica (Velivoli + Aerostrutture + GIE ATR)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 96000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Spazio",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 702000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Spazio",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 30000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Altre attività",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 456000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Altre attività",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": -209000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Elicotteri",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 2904000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Elicotteri",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 210000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Elettronica per la Difesa e Sicurezza",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 4512000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Elettronica per la Difesa e Sicurezza",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 557000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Elettronica Europa",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 3010000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Elettronica Europa",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 393000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Leonardo DRS",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 1507000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Leonardo DRS",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 164000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Cyber & Security Solutions",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 420000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Cyber & Security Solutions",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 39000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Velivoli",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 1597000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Velivoli",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 183000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Aerostrutture",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 481000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Aerostrutture",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": -66000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Aeronautica (Velivoli + Aerostrutture + GIE ATR)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 2004000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Aeronautica (Velivoli + Aerostrutture + GIE ATR)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 108000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Spazio",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 499000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Spazio",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 18000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Altre attività",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 395000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Altre attività",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": -152000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Elicotteri",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 2789000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Elicotteri",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 202000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Elettronica per la Difesa e Sicurezza",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 3795000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Elettronica per la Difesa e Sicurezza",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 425000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Elettronica Europa",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 2312000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Elettronica Europa",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 294000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Leonardo DRS",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 1489000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Leonardo DRS",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 131000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Cyber & Security Solutions",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 359000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Cyber & Security Solutions",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 29000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Velivoli",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 1616000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Velivoli",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 180000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Aerostrutture",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 334000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Aerostrutture",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": -96000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Aeronautica (Velivoli + Aerostrutture + GIE ATR)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 1913000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Aeronautica (Velivoli + Aerostrutture + GIE ATR)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 55000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Spazio",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 436000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Spazio",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 17000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Altre attività",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 302000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Altre attività",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": -147000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ordini - Elicotteri",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 6166000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ordini - Elettronica per la Difesa e Sicurezza",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 10663000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ordini - Cyber & Security Solutions",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 1052000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ordini - Velivoli",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 5022000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ordini - Aerostrutture",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 909000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ordini - Aeronautica (Velivoli + Aerostrutture + GIE ATR)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 5814000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ordini - Spazio",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 1047000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ordini - Elicotteri",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 5867000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ordini - Elettronica per la Difesa e Sicurezza",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 10162000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ordini - Cyber & Security Solutions",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 833000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ordini - Velivoli",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 3141000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ordini - Aerostrutture",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 692000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ordini - Aeronautica (Velivoli + Aerostrutture + GIE ATR)",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 3751000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ordini - Spazio",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 957000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ordini - Elicotteri",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 6234000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ordini - Elettronica per la Difesa e Sicurezza",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 11086000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ordini - Cyber & Security Solutions",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 766000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ordini - Velivoli",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 4448000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ordini - Aerostrutture",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 827000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ordini - Aeronautica (Velivoli + Aerostrutture + GIE ATR)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 5159000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ordini - Spazio",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 674000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ordini - Elicotteri",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 4881000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ordini - Elettronica per la Difesa e Sicurezza",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 7690000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ordini - Cyber & Security Solutions",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 700000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ordini - Velivoli",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 4309000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ordini - Aerostrutture",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 789000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ordini - Aeronautica (Velivoli + Aerostrutture + GIE ATR)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 5017000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ordini - Spazio",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 655000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Portafoglio ordini - Elicotteri",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 15020000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Portafoglio ordini - Elettronica per la Difesa e Sicurezza",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 19305000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Portafoglio ordini - Cyber & Security Solutions",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 1326000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Portafoglio ordini - Aeronautica (Velivoli + Aerostrutture + GIE ATR)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 10633000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Portafoglio ordini - Spazio",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 1664000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Portafoglio ordini - Elicotteri",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 16934000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Portafoglio ordini - Elettronica per la Difesa e Sicurezza",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 29134000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Portafoglio ordini - Cyber & Security Solutions",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 1518000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Portafoglio ordini - Aeronautica (Velivoli + Aerostrutture + GIE ATR)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 12806000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Portafoglio ordini - Spazio",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 1566000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ordini",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 17926000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2023"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Portafoglio ordini",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 39529000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2023"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ricavi di Gruppo",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 15291000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2023"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBITA di Gruppo",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 1289000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2023"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "ROS (EBITA/ricavi)",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 0.084,
+   "unit": "percent",
+   "source": {
+    "docId": "ldo-risultati-fy2023"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "FOCF",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 635000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2023"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Indebitamento netto di Gruppo",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 2323000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2023"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ordini",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 20945000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Portafoglio ordini",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 44178000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ricavi di Gruppo",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 17763000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBITA di Gruppo",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 1525000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "ROS (EBITA/ricavi)",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 0.086,
+   "unit": "percent",
+   "source": {
+    "docId": "ldo-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "FOCF",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 826000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Indebitamento netto di Gruppo",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 1795000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ordini",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 23782000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Portafoglio ordini",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 46624000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ricavi di Gruppo",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 19503000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBITA di Gruppo",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 1752000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "ROS (EBITA/ricavi)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 0.09,
+   "unit": "percent",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "FOCF",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 1011000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Indebitamento netto di Gruppo",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 1001000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ordini",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "9M",
+   "value": 14753000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Portafoglio ordini",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "9M",
+   "value": 43618000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ricavi di Gruppo",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "9M",
+   "value": 12076000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBITA di Gruppo",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "9M",
+   "value": 795000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "ROS (EBITA/ricavi)",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "9M",
+   "value": 0.066,
+   "unit": "percent",
+   "source": {
+    "docId": "ldo-risultati-9m2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "FOCF",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "9M",
+   "value": -550000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Indebitamento netto di Gruppo",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "9M",
+   "value": 3120000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ordini",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 18208000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Portafoglio ordini",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 47261000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ricavi di Gruppo",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 13444000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBITA di Gruppo",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 945000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "ROS (EBITA/ricavi)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 0.07,
+   "unit": "percent",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "FOCF",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": -426000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Indebitamento netto di Gruppo",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 2313000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ordini",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 23270000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Portafoglio ordini",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 60372000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ricavi di Gruppo",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 15347000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBITA di Gruppo",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 1301000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "ROS (EBITA/ricavi)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 0.085,
+   "unit": "percent",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "FOCF",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": -68000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Indebitamento netto di Gruppo",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 3325000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ordini",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 11243000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Portafoglio ordini",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 45030000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ricavi di Gruppo",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 8919000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBITA di Gruppo",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 581000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "ROS (EBITA/ricavi)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 0.065,
+   "unit": "percent",
+   "source": {
+    "docId": "ldo-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "FOCF",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": -408000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Indebitamento netto di Gruppo",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 2173000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ordini",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 16259000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Portafoglio ordini",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 58581000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ricavi di Gruppo",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 10003000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBITA di Gruppo",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 780000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "ROS (EBITA/ricavi)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 0.078,
+   "unit": "percent",
+   "source": {
+    "docId": "ldo-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "FOCF",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": -249000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Indebitamento netto di Gruppo",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 3248000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ordini",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q1",
+   "value": 6886000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-q1-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Portafoglio ordini",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q1",
+   "value": 46184000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-q1-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ricavi di Gruppo",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q1",
+   "value": 4159000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-q1-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBITA di Gruppo",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q1",
+   "value": 211000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-q1-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "ROS (EBITA/ricavi)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q1",
+   "value": 0.051,
+   "unit": "percent",
+   "source": {
+    "docId": "ldo-risultati-q1-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "FOCF",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q1",
+   "value": -580000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-q1-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Indebitamento netto di Gruppo",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q1",
+   "value": 2125000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-q1-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ordini",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 9002000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-q1-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Portafoglio ordini",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 56805000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-q1-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ricavi di Gruppo",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 4448000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-q1-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBITA di Gruppo",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 281000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-q1-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "ROS (EBITA/ricavi)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 0.063,
+   "unit": "percent",
+   "source": {
+    "docId": "ldo-risultati-q1-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "FOCF",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": -411000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-q1-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Indebitamento netto di Gruppo",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 3049000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-q1-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Book-to-bill",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 1.2,
+   "unit": "x",
+   "source": {
+    "docId": "ldo-risultati-fy2023"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Book-to-bill",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 1.2,
+   "unit": "x",
+   "source": {
+    "docId": "ldo-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Book-to-bill",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 1.3,
+   "unit": "x",
+   "source": {
+    "docId": "ldo-risultati-h1-2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Book-to-bill",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 1.6,
+   "unit": "x",
+   "source": {
+    "docId": "ldo-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Book-to-bill",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 1.5,
+   "unit": "x",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Risultato netto adjusted",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 1015000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Risultato netto adjusted",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 856000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Risultato netto",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 1334000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Risultato netto",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 1159000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBIT",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 1447000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBIT",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 1271000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBITDA",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 2429000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBITDA",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 2219000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Proventi (oneri) non ricorrenti",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": -202000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Proventi (oneri) non ricorrenti",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": -147000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Costi di ristrutturazione",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": -31000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Costi di ristrutturazione",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": -35000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Organico",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 62762,
+   "unit": "count",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Organico",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 60468,
+   "unit": "count",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "ROI",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 0.149,
+   "unit": "percent",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "ROI",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 0.134,
+   "unit": "percent",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EPS adjusted",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 1.569,
+   "unit": "EUR per azione",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EPS adjusted",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 1.337,
+   "unit": "EUR per azione",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "GIE ATR - contributo a EBITA",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 0,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "GIE ATR - contributo a EBITA",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 17000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Leonardo DRS - ordini (USD)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 4245000000,
+   "unit": "USD",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Leonardo DRS - ricavi (USD)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 3648000000,
+   "unit": "USD",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Leonardo DRS - EBITA (USD)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 381000000,
+   "unit": "USD",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Leonardo DRS - ordini (USD)",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 4077000000,
+   "unit": "USD",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Leonardo DRS - ricavi (USD)",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 3234000000,
+   "unit": "USD",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Leonardo DRS - EBITA (USD)",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 325000000,
+   "unit": "USD",
+   "source": {
+    "docId": "ldo-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ricavi di JV e collegate strategiche (quota Leonardo)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 3300000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025-it"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ricavi di JV e collegate strategiche (quota Leonardo)",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 3000000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Contributo a EBITA delle partecipazioni a patrimonio netto",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 156000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025-it"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Dividendi incassati da JV e collegate",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 243000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025-it"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Dividendi incassati da JV e collegate",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 148000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Spesa complessiva in R&S",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 3000000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-fy2025-it"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Dividendo per azione (esercizio di competenza)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 0.63,
+   "unit": "EUR per azione",
+   "source": {
+    "docId": "ldo-assemblea-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Dividendo per azione (esercizio di competenza)",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 0.52,
+   "unit": "EUR per azione",
+   "source": {
+    "docId": "ldo-piano-2025-2029"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Dividendo per azione (esercizio di competenza)",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 0.28,
+   "unit": "EUR per azione",
+   "source": {
+    "docId": "ldo-piano-2024-2028"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Risultato netto adjusted",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 812000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Risultato netto adjusted",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 466000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Risultato netto",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 792000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Risultato netto",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 735000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Organico",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 67313,
+   "unit": "count",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ricavi a perimetro costante (senza IDV)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 14659000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBITA a perimetro costante (senza IDV)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 1222000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ordini a perimetro costante (senza IDV)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 22279000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "FOCF a perimetro costante (senza IDV)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 22000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "GIE ATR - contributo a EBITA",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": -4000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "GIE ATR - contributo a EBITA",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": -34000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Consegne sezioni di fusoliera B787",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 63,
+   "unit": "count",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Consegne sezioni di fusoliera B787",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 51,
+   "unit": "count",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Consegne fusoliere ATR",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 30,
+   "unit": "count",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Consegne fusoliere ATR",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 17,
+   "unit": "count",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Leonardo DRS - ordini (USD)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 3609000000,
+   "unit": "USD",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Leonardo DRS - ricavi (USD)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 2825000000,
+   "unit": "USD",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Leonardo DRS - EBITA (USD)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 318000000,
+   "unit": "USD",
+   "source": {
+    "docId": "ldo-risultati-9m2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Azioni ordinarie emesse",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 578150395,
+   "unit": "count",
+   "source": {
+    "docId": "ldo-governance-2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Quota del Ministero dell'Economia e delle Finanze",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 0.30204,
+   "unit": "percent",
+   "source": {
+    "docId": "ldo-governance-2025"
+   }
+  }
+ ],
+ "insights": {
+  "id": "ldo-risultati-fy2025",
+  "summary": "Nel 2025 Leonardo ha chiuso con ordini a 23,8 mld (+14,5% a perimetro costante), ricavi a 19,5 mld (+10,9%), EBITA a 1.752 mln (ROS 9,0%) e FOCF a 1.011 mln, sopra la guidance che era già stata alzata a luglio 2025 su ordini, FOCF e debito; l'indebitamento netto è sceso a 1,0 mld. A marzo 2026 il piano 2026-2030 ha fissato ricavi a 30 mld ed EBITA a 3,59 mld nel 2030. Il 18 marzo 2026 è stata chiusa l'acquisizione di Iveco Defence Vehicles (circa 1,6 mld), che ha portato il debito netto a 3,3 mld a settembre 2026 e circa 6 mld di portafoglio. Nei nove mesi 2026 ordini a 23,3 mld (+27,8%), ricavi a 15,3 mld (+14,2%; +9,0% senza IDV), EBITA a 1.301 mln (+37,7%), portafoglio oltre 60 mld; la guidance 2026 sugli ordini è stata alzata due volte (28,2 e poi 29,5 mld), EBITA e FOCF una volta a luglio, ricavi solo confermati. A maggio 2026 sono cambiati presidente (Francesco Macrì) e amministratore delegato (Lorenzo Mariani al posto di Roberto Cingolani).",
+  "businessModel": "Gruppo dell'aerospazio, difesa e sicurezza che lavora in gran parte su commesse pluriennali per clienti governativi. Settori: Elettronica per la Difesa (8,35 mld di ricavi nel 2025, di cui 5,1 mld in Europa e 3,2 mld da Leonardo DRS, controllata quotata negli USA al 71,4%; dal secondo trimestre 2026 include i veicoli terrestri di IDV), Elicotteri (5,8 mld, anche civili), Aeronautica (4,2 mld: Velivoli militari, Aerostrutture per Boeing/Airbus/ATR, quota 50% in GIE ATR), Spazio (1,0 mld, con Telespazio al 67% consolidata dal 2024), Cyber & Security Solutions (0,8 mld). Una parte dei risultati arriva da partecipazioni valutate a patrimonio netto (MBDA 25%, Thales Alenia Space 33%, Hensoldt 22,8%, GIE ATR 50%), che contribuiscono a EBITA e, per la cassa, solo con i dividendi (243 mln nel 2025). Il Ministero dell'Economia detiene circa il 30,2% del capitale.",
+  "highlights": [
+   "Guidance 2025 superata su tutte le voci: ordini 23,8 mld contro 22,25-22,75 mld, ricavi 19,5 mld contro circa 18,6, EBITA 1.752 mln contro circa 1.660, FOCF 1.011 mln contro 920-980, debito netto 1,0 mld contro circa 1,1.",
+   "Nove mesi 2026: EBITA 1.301 mln (+37,7%; +29,3% senza IDV), ROS 8,5% dal 7,0%, risultato netto adjusted 812 mln (+74,2%).",
+   "Portafoglio ordini a 60,4 mld a settembre 2026 (46,6 mld a fine 2025), di cui circa 6 mld da IDV; book-to-bill circa 1,5x.",
+   "Cassa: FOCF dei nove mesi 2026 a -68 mln contro -426 mln un anno prima; a perimetro costante +22 mln.",
+   "Leonardo DRS nei nove mesi 2026: ricavi 2.825 mln USD (+9,2%), EBITA 318 mln USD (+30,9%), ROS 11,3%.",
+   "Dividendo salito da 0,28 euro (esercizio 2023) a 0,52 (2024) e 0,63 (2025, +21%); Moody's ha portato il rating a Baa2 con outlook positivo ad aprile 2026."
+  ],
+  "lowlights": [
+   "Aerostrutture ancora in perdita: EBITA -134 mln nel 2025 (-168 mln nel 2024) e -88 mln nei nove mesi 2026; il pareggio, promesso per fine 2025 nel piano di marzo 2024, è stato spostato al 2028.",
+   "Indebitamento netto a 3.325 mln a settembre 2026 contro 1.001 mln a fine 2025, per l'esborso di circa 1,6 mld per IDV e la stagionalità della cassa; il rientro a circa 2,2 mld dipende dal quarto trimestre.",
+   "Guidance 2026 su ricavi, EBITA e FOCF solo confermata a novembre nonostante risultati sopra le attese: secondo Equita implica un rallentamento nel quarto trimestre (crescita EBITA circa 11% contro 38% nei nove mesi).",
+   "Oneri non ricorrenti esclusi dall'EBITA in aumento: -202 mln nel 2025 contro -147 mln nel 2024; -99 mln nei nove mesi 2026.",
+   "Spazio a bassa redditività (ROS 5,9% nel 2025, 4,9% nei nove mesi 2026), con il manifatturiero di Thales Alenia Space ancora negativo nel 2025; GIE ATR a contributo nullo nel 2025 (17 mln nel 2024) per ritardi della supply chain.",
+   "Le 'Altre attività' (costi centrali) pesano per -311 mln di EBITA nel 2025 e -219 mln nei nove mesi 2026."
+  ],
+  "risks": [
+   {
+    "title": "Recupero delle Aerostrutture legato a Boeing",
+    "detail": "La divisione dipende dai ritmi produttivi del B787 e di ATR. Il pareggio è già slittato da fine 2025 al 2028; i volumi sono in ripresa (63 sezioni di fusoliera B787 nei nove mesi 2026 contro 51), ma il ROS resta a -12%.",
+    "severity": "media"
+   },
+   {
+    "title": "Integrazione di IDV e debito più alto",
+    "detail": "IDV è stata pagata circa 1,6 mld per cassa e porta il debito netto a 3,3 mld a settembre 2026. A questa si aggiunge l'acquisizione di Raft da parte di DRS (circa 450 mln USD, chiusura attesa nel quarto trimestre 2026) esclusa dalla guidance. L'obiettivo di leva è 0,8x o meno nel 2028.",
+    "severity": "media"
+   },
+   {
+    "title": "Conversione del portafoglio in produzione",
+    "detail": "Con oltre 60 mld di portafoglio e ordini che crescono più dei ricavi, il risultato dipende dalla capacità produttiva e dalla supply chain; lo stesso AD indica come priorità trasformare il portafoglio in maggiore capacità di produzione e consegna. Il piano prevede 28.000 assunzioni nel 2026-2030.",
+    "severity": "alta"
+   },
+   {
+    "title": "Stagionalità della cassa concentrata nel quarto trimestre",
+    "detail": "Il FOCF è negativo fino a settembre (-68 mln nel 2026) e l'obiettivo annuo di circa 1,37 mld si realizza quasi interamente nell'ultimo trimestre, con dipendenza da incassi e anticipi di clienti governativi.",
+    "severity": "media"
+   },
+   {
+    "title": "Esposizione al dollaro tramite Leonardo DRS",
+    "detail": "DRS vale circa 3,2 mld di ricavi; la guidance 2026 assume un cambio €/USD di 1,18 (1,08 nel 2025). Nel 2025 e nel primo trimestre 2026 l'effetto cambio è stato negativo su ricavi ed EBITA in euro.",
+    "severity": "media"
+   },
+   {
+    "title": "Operazioni di alleanza non ancora chiuse",
+    "detail": "La società spaziale con Airbus (35%) e Thales (32,5%; Leonardo 32,5%), oggetto di un memorandum del 23 ottobre 2025, dovrebbe essere operativa dal 2027; restano da ottenere le autorizzazioni. GCAP (Edgewing, 33,3%) ha un orizzonte al 2035. Il piano 2026-2030 include 6 mld di opportunità dal Michelangelo Dome non ancora contrattualizzate.",
+    "severity": "media"
+   }
+  ],
+  "accountingFlags": [
+   {
+    "title": "Nuova definizione di EBITA dal 2025",
+    "detail": "Dal 2025 l'EBITA esclude le componenti non ricorrenti o non operative dei risultati delle partecipate strategiche; i dati 2023 e 2024 sono stati rideterminati (EBITA 2023 da 1.289 a 1.317 mln). La misura è meno confrontabile con le serie precedenti.",
+    "severity": "media"
+   },
+   {
+    "title": "Risultato netto gonfiato da plusvalenze in entrambi gli anni",
+    "detail": "Il risultato netto 2025 (1.334 mln) include 339 mln da operazioni straordinarie, soprattutto la cessione di UAS a Fincantieri (circa 446 mln di corrispettivo) e di parte delle azioni Avio; il 2024 (1.159 mln) include circa 366 mln di plusvalenza da rimisurazione di Telespazio. Il risultato adjusted è 1.015 mln contro 856 mln.",
+    "severity": "media"
+   },
+   {
+    "title": "Oneri non ricorrenti ricorrenti",
+    "detail": "Voci escluse dall'EBITA: oneri non ricorrenti -202 mln (2025) e -147 mln (2024), ristrutturazioni -31 e -35 mln, ammortamenti da PPA -72 mln l'anno. Il risultato netto adjusted riaggiunge solo 28 mln di voci non ricorrenti nel 2025 (86 nel 2024).",
+    "severity": "media"
+   },
+   {
+    "title": "Cambi di perimetro nella guidance e nei confronti",
+    "detail": "La guidance 2026 è nata senza IDV, poi è stata ripresentata con IDV (nove mesi); il debito netto esclude prima IDV e poi Raft. I confronti 2024 sono a perimetro costante senza UAS (ricavi 17.592 mln contro 17.763 riportati). Le variazioni 2026 vanno lette a perimetro costante: ricavi nove mesi +9,0% contro +14,2% riportato.",
+    "severity": "media"
+   },
+   {
+    "title": "Riclassifiche di settore",
+    "detail": "Nel 2026 Velivoli e Aerostrutture sono aggregati in Aeronautica e GCAP è stato spostato da Altre attività; l'EBITA 2024 delle Aerostrutture è passato da -151 mln (comunicato 2024) a -168 mln (comparativo nel comunicato 2025). Per l'Elettronica il portafoglio 2024 compare con due valori (18.275 e 17.889 mln senza UAS).",
+    "severity": "bassa"
+   }
+  ],
+  "capitalAllocation": "Dividendo 0,63 euro per azione sull'esercizio 2025 (pagato il 24 giugno 2026; 0,52 e 0,28 nei due anni precedenti); politica dichiarata di remunerazione pari al 30-40% del risultato netto adjusted, circa 1,8 mld nel 2026-2028. Riacquisti solo al servizio dei piani azionari (fino a 2 milioni di azioni; circa 47 mln spesi nei nove mesi 2026). Acquisizioni: Iveco Defence Vehicles per circa 1,6 mld pagati con risorse proprie, GEM Elettronica (restante 35%, circa 33 mln), Becrypt (circa 37 mln), Raft tramite DRS (circa 450 mln USD, non ancora chiusa); nel 2025 ceduta UAS a Fincantieri. Il piano destina nel 2026-2028 circa 3,7 mld a investimenti organici (5,5% dei ricavi) e circa 1,3 mld a crescita esterna oltre IDV. Debito netto 1,0 mld a fine 2025, 3,3 mld a settembre 2026; obiettivo di leva non oltre 0,8x nel 2028 e mantenimento dell'Investment Grade (Moody's Baa2 positivo, S&P BBB positivo, Fitch BBB stabile).",
+  "competitivePosition": "Leonardo è presente in elicotteri, elettronica per la difesa, velivoli militari, spazio e cyber, con una base negli Stati Uniti tramite Leonardo DRS e, dal 2026, nei veicoli terrestri con IDV e la joint venture paritetica con Rheinmetall (carro armato e veicolo da combattimento per l'Esercito italiano). Partecipa ai principali programmi europei in consorzio: missili con MBDA (25%), caccia di sesta generazione GCAP con BAE Systems e Mitsubishi (Edgewing, 33,3% ciascuno), droni con Baykar (LBA Systems, 50%), spazio con Thales e, in prospettiva, con Airbus (nuova società da circa 6,5 mld di fatturato pro-forma 2024). La redditività (ROS 9,0% nel 2025) resta sotto l'obiettivo di doppia cifra, frenata da Aerostrutture, Spazio e costi centrali. I documenti aperti non riportano quote di mercato.",
+  "managementTone": {
+   "label": "positivo",
+   "rationale": "I comunicati sottolineano obiettivi superati e portafoglio record; la guidance sugli ordini è stata alzata più volte. Il nuovo AD Mariani ha però scelto di non alzare a novembre 2026 le stime di ricavi, EBITA e cassa, parlando di approccio 'serio' verso il mercato e rinviando al piano 2027-2031 atteso a marzo."
+  },
+  "nonGaapAdjustments": [
+   "EBITA: EBIT prima di ammortamenti da PPA (-72 mln nel 2025), costi di ristrutturazione (-31 mln) e proventi/oneri non ricorrenti (-202 mln); dal 2025 esclude anche le componenti non ricorrenti delle partecipate strategiche.",
+   "Risultato netto adjusted (1.015 mln nel 2025 contro 1.334 mln riportato): esclude il risultato di operazioni straordinarie e discontinued (339 mln) e riaggiunge voci non ricorrenti (28 mln) al netto dell'effetto fiscale (-8 mln).",
+   "FOCF: flusso di cassa operativo dopo gli investimenti, più i dividendi incassati dalle partecipate; esclude acquisizioni (IDV) e dividendi pagati.",
+   "Indebitamento netto di Gruppo: nella guidance è indicato escludendo di volta in volta IDV (marzo 2026) e Raft e altro M&A (da luglio 2026).",
+   "Confronti 'like-for-like': 2024 senza il business UAS ceduto; 2026 senza IDV."
+  ],
+  "keyQuotes": [
+   {
+    "text": "We have successfully met all the targets set out in our first Industrial Plan",
+    "why": "Roberto Cingolani alla presentazione del piano 2026-2030 (marzo 2026): è l'affermazione da verificare contro le guidance, tutte rispettate, e contro il pareggio delle Aerostrutture, che invece è slittato."
+   },
+   {
+    "text": "exceeded the challenging guidance, which had been already upgraded during the year",
+    "why": "Comunicato sui preliminari 2025: conferma l'abitudine a partire con stime prudenti e superarle."
+   },
+   {
+    "text": "confirm that we are delivering across all the key pillars of our Industrial Plan.",
+    "why": "Prima dichiarazione sui risultati del nuovo AD Lorenzo Mariani (semestrale 2026): continuità con il piano del predecessore."
+   },
+   {
+    "text": "aggiorna ulteriormente le Guidance 2026 per gli Ordini",
+    "why": "Nove mesi 2026: sale solo la stima sugli ordini (29,5 mld), mentre ricavi, EBITA e FOCF restano fermi."
+   }
+  ],
+  "openQuestions": [
+   "Quanto valgono, singolarmente, i risultati e i dividendi di MBDA, Thales Alenia Space, Hensoldt e GIE ATR dentro i 156 mln di contributo a EBITA e i 243 mln di dividendi del 2025?",
+   "Qual è la redditività di IDV a regime e quale parte del miglioramento di EBITA e FOCF 2026 deriva da IDV oltre le stime iniziali (0,12 e 0,22 mld)?",
+   "Il piano 2027-2031 atteso a marzo 2027 confermerà gli obiettivi 2030 di Cingolani (ricavi 30 mld, EBITA 3,59 mld) includendo IDV, e il pareggio delle Aerostrutture nel 2028?",
+   "A quali condizioni economiche e con quale trattamento contabile Leonardo conferirà le attività spaziali nella nuova società con Airbus e Thales, e cosa resterà nel settore Spazio?",
+   "Quanta parte degli ordini 2026 è fatta di anticipi e contratti di grande taglia non ripetibili, e come si distribuiscono ricavi e margini della joint venture con Rheinmetall e del programma GCAP?"
+  ]
+ },
+ "price": {
+  "value": 50.62,
+  "date": "2026-11-17",
+  "currency": "EUR",
+  "url": "https://www.teleborsa.it/azioni/leonardo-ldo-it0003856405-SVQwMDAzODU2NDA1/profilo"
+ },
+ "missing": [
+  "Relazione Finanziaria Annuale / Integrated Annual Report 2025 (e 2024): i PDF su leonardo.com non sono apribili (robots_disallowed). Mancano quindi ricavi per area geografica e per cliente, quota difesa/civile, sezione rischi, dettaglio di fondi e contratti onerosi.",
+  "Comunicato originale dei nove mesi 2026 su leonardo.com o emarketstorage: non trovato; usata la copia del comunicato ospitata su euroborsa.it.",
+  "Comunicati del primo trimestre e del primo semestre 2024 non aperti: l'assenza di revisioni della guidance 2024 è dedotta dal comunicato dei nove mesi 2024, che riporta i valori di marzo come confermati.",
+  "Trascrizioni delle conference call e presentazioni trimestrali dei risultati (solo comunicati stampa e la presentazione del piano 2026-2030).",
+  "Risultati singoli delle joint venture (MBDA, Thales Alenia Space, Telespazio, Hensoldt, GIE ATR) e dati economici della JV con Rheinmetall e di GCAP: non pubblicati nei documenti aperti.",
+  "Obiettivi assoluti di EBITA del piano 2024-2028 e ROS del piano 2025-2029: non presenti nei comunicati aperti.",
+  "Data e modalità della nomina di Lorenzo Mariani ad amministratore delegato: il comunicato dell'assemblea del 7 maggio 2026 lo elenca tra i consiglieri ma non riporta la nomina; risulta AD nel comunicato semestrale.",
+  "Comunicato dedicato all'accordo spaziale con Airbus e Thales (progetto Bromo) e all'assemblea 2025 sul dividendo di 0,52 euro: non aperti; i dati vengono dai comunicati sui risultati e sul piano.",
+  "Citazioni testuali: i comunicati sono stati letti tramite estrazione automatica dei PDF, quindi le citazioni sono brevi frammenti; per molte voci di guidance il campo quote è vuoto.",
+  "Variazione percentuale del titolo il giorno dei risultati dei nove mesi 2026: non riportata nelle fonti aperte."
+ ]
+}

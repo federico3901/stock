@@ -1,4 +1,4 @@
-import type { FinancialPeriod, FiscalPeriod, GuidanceItem, GuidanceMetric } from "../types";
+import type { CustomMetric, FinancialPeriod, FiscalPeriod, GuidanceItem, GuidanceMetric } from "../types";
 import { computeMetrics, derive } from "./metrics";
 import { quarterlySeries, sortPeriods, type Values } from "./periods";
 
@@ -9,6 +9,8 @@ export type GuidanceOutcome = "superata" | "in linea" | "mancata" | "in attesa" 
 export interface GuidanceEvaluation {
   item: GuidanceItem;
   actual?: number;
+  /** da dove viene il dato effettivo: il valore pubblicato dalla società (stessa definizione della guidance) o il bilancio standardizzato */
+  actualSource?: "pubblicato" | "bilancio";
   midpoint?: number;
   /** scostamento del dato effettivo dal punto medio, in % del punto medio (o in punti percentuali per i margini) */
   surprise?: number;
@@ -52,7 +54,40 @@ function findPeriod(periods: FinancialPeriod[], fy: number, fp: FiscalPeriod): F
  * Confronta ogni guidance con il dato effettivo (se il periodo è già stato caricato) e con la guidance
  * precedente sulla stessa metrica/periodo, per ricostruire la storia delle revisioni.
  */
-export function evaluateGuidance(items: GuidanceItem[], periods: FinancialPeriod[]): GuidanceEvaluation[] {
+const norm = (t: string) => t.toLowerCase().replace(/\s+/g, " ").trim();
+
+/**
+ * Dato pubblicato dalla società con la stessa etichetta della guidance (es. "EBITA", "Adjusted EBITDA", "FOCF").
+ * Serve per le misure rettificate, che non si possono confrontare con il bilancio standardizzato.
+ */
+export function reportedFor(item: GuidanceItem, reported: CustomMetric[]): number | undefined {
+  const l = norm(item.label);
+  if (!l) return undefined;
+  // per ricavi e utile la società può usare un nome diverso dall'etichetta della guidance
+  const alias = item.nonGaap ? [] : (REPORTED_ALIASES[item.metric] ?? []);
+  const exact = reported.find(
+    (c) => c.category === "kpi" && c.fiscalYear === item.targetFiscalYear && c.fiscalPeriod === item.targetPeriod && alias.includes(norm(c.name)) && (l === "ricavi" || l === "utile netto" || l === "risultato netto"),
+  );
+  if (exact) return exact.value;
+  const hit = reported.find(
+    (c) =>
+      c.category === "kpi" &&
+      c.fiscalYear === item.targetFiscalYear &&
+      c.fiscalPeriod === item.targetPeriod &&
+      ((n) => n === l || n === `${l} di gruppo` || n.startsWith(`${l} (`))(norm(c.name)),
+  );
+  return hit?.value;
+}
+
+const REPORTED_ALIASES: Partial<Record<GuidanceMetric, string[]>> = {
+  revenue: ["ricavi", "ricavi di gruppo", "ricavi e proventi", "ricavi consolidati"],
+  net_income: ["risultato netto", "utile netto", "utile netto di gruppo", "utile netto attribuibile agli azionisti"],
+};
+
+/** Misure per cui un valore più basso è il risultato migliore. */
+const lowerIsBetter = (label: string) => /indebitamento|debito|debt|leva|care ratio|cost ratio/i.test(label);
+
+export function evaluateGuidance(items: GuidanceItem[], periods: FinancialPeriod[], reported: CustomMetric[] = []): GuidanceEvaluation[] {
   const sorted = [...items].sort((a, b) => a.issuedDate.localeCompare(b.issuedDate) || a.createdAt.localeCompare(b.createdAt));
   const lastByKey = new Map<string, GuidanceItem>();
   const out: GuidanceEvaluation[] = [];
@@ -63,7 +98,7 @@ export function evaluateGuidance(items: GuidanceItem[], periods: FinancialPeriod
     if (ok(lo) && ok(hi)) ev.midpoint = (lo + hi) / 2;
 
     // revisione rispetto all'indicazione precedente
-    const key = `${item.metric}|${item.metric === "other" ? item.label.toLowerCase() : ""}|${item.nonGaap}|${item.targetFiscalYear}|${item.targetPeriod}`;
+    const key = `${item.metric}|${norm(item.label)}|${item.nonGaap}|${item.targetFiscalYear}|${item.targetPeriod}`;
     const before = lastByKey.get(key);
     if (!item.qualitative && ok(ev.midpoint)) {
       if (!before) ev.revision = "prima indicazione";
@@ -84,24 +119,36 @@ export function evaluateGuidance(items: GuidanceItem[], periods: FinancialPeriod
       lastByKey.set(key, item);
     }
 
-    // confronto con il dato effettivo
-    if (item.qualitative || !ok(ev.midpoint) || item.metric === "other") {
-      ev.outcome = item.qualitative || item.metric === "other" ? "non confrontabile" : "in attesa";
+    // confronto con il dato effettivo: prima il valore pubblicato dalla società con la stessa definizione,
+    // poi il bilancio, ma solo per le misure contabili (una misura rettificata non si confronta col bilancio)
+    if (item.qualitative || !ok(ev.midpoint)) {
+      ev.outcome = item.qualitative ? "non confrontabile" : "in attesa";
     } else {
-      const p = findPeriod(periods, item.targetFiscalYear, item.targetPeriod);
-      if (p) {
-        const series = item.targetPeriod.startsWith("Q") ? quarterlySeries(periods) : sortPeriods(periods);
-        const ya = series.find((x) => x.fiscalYear === item.targetFiscalYear - 1 && x.fiscalPeriod === item.targetPeriod);
-        const actual = actualFor(item.metric, p.values, ya?.values);
-        if (ok(actual)) {
-          ev.actual = actual;
-          ev.surprise = isRatio(item.metric) || ev.midpoint === 0 ? actual - ev.midpoint : actual / ev.midpoint - 1;
-          // per il capex e l'aliquota "sopra" non è "meglio": si valuta solo dentro/fuori dall'intervallo
-          const tol = isRatio(item.metric) ? 0.001 : Math.abs(ev.midpoint) * 0.002;
-          if (actual > hi! + tol) ev.outcome = "superata";
-          else if (actual < lo! - tol) ev.outcome = "mancata";
-          else ev.outcome = "in linea";
+      const ratio = isRatio(item.metric) || item.unit === "percent";
+      let actual = reportedFor(item, reported);
+      if (ok(actual)) ev.actualSource = "pubblicato";
+      else if (item.metric !== "other" && !item.nonGaap) {
+        const p = findPeriod(periods, item.targetFiscalYear, item.targetPeriod);
+        if (p) {
+          const series = item.targetPeriod.startsWith("Q") ? quarterlySeries(periods) : sortPeriods(periods);
+          const ya = series.find((x) => x.fiscalYear === item.targetFiscalYear - 1 && x.fiscalPeriod === item.targetPeriod);
+          actual = actualFor(item.metric, p.values, ya?.values);
+          if (ok(actual)) ev.actualSource = "bilancio";
         }
+      }
+      if (ok(actual)) {
+        ev.actual = actual;
+        ev.surprise = ratio || ev.midpoint === 0 ? actual - ev.midpoint : actual / ev.midpoint - 1;
+        // un valore puntuale ("circa X") ammette uno scarto più largo di un intervallo dichiarato
+        const tol = ratio ? 0.001 : Math.abs(ev.midpoint) * (lo === hi && item.low !== undefined && item.high !== undefined ? 0.02 : 0.002);
+        const inv = lowerIsBetter(item.label);
+        if (actual > hi! + tol) ev.outcome = inv ? "mancata" : "superata";
+        else if (item.low !== undefined && actual < lo! - tol) ev.outcome = inv ? "superata" : "mancata";
+        else ev.outcome = "in linea";
+      } else if (item.metric === "other" || item.nonGaap) {
+        // esercizio già chiuso ma nessun dato pubblicato con questa definizione
+        const closed = periods.some((x) => x.fiscalYear === item.targetFiscalYear && x.fiscalPeriod === "FY");
+        ev.outcome = closed ? "non confrontabile" : "in attesa";
       }
     }
     out.push(ev);
@@ -174,5 +221,8 @@ export function openGuidance(evals: GuidanceEvaluation[]): GuidanceEvaluation[] 
     latest.set(key, e);
   }
   // esclude le metriche per cui esiste già un dato effettivo nello stesso periodo
-  return [...latest.values()].filter((e) => e.outcome === "in attesa" || e.outcome === "non confrontabile");
+  // solo i periodi non ancora chiusi, dal più vicino; a parità di periodo prima le indicazioni numeriche più recenti
+  return [...latest.values()]
+    .filter((e) => e.outcome === "in attesa")
+    .sort((x, y) => x.item.targetFiscalYear - y.item.targetFiscalYear || y.item.issuedDate.localeCompare(x.item.issuedDate));
 }

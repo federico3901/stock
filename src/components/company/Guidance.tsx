@@ -26,6 +26,8 @@ const outcomeIcon = { superata: "▲", "in linea": "✓", mancata: "▼", "in at
 export function GuidanceTab({ bundle, analysis: a, refresh, setTab }: TabProps) {
   const cur = bundle.company.currency;
   const [editing, setEditing] = useState<Partial<GuidanceItem> | null>(null);
+  // per ogni periodo si mostra l'ultima indicazione di ogni metrica; la storia completa si apre a richiesta
+  const [expanded, setExpanded] = useState<Set<string>>(new Set());
   const evals = a.guidanceEvals;
 
   const remove = async (g: GuidanceItem) => {
@@ -89,18 +91,26 @@ export function GuidanceTab({ bundle, analysis: a, refresh, setTab }: TabProps) 
           <ul className="text-xs text-ink-2 space-y-1.5">
             <li><b className="text-ink">In linea</b>: il dato effettivo è dentro l&apos;intervallo indicato.</li>
             <li><b className="text-ink">Superata / mancata</b>: sopra o sotto l&apos;intervallo.</li>
-            <li>La guidance non-GAAP è confrontata coi dati GAAP caricati: lo scostamento può riflettere le rettifiche.</li>
-            <li>Per capex e aliquota fiscale &quot;superata&quot; significa solo &quot;sopra l&apos;intervallo&quot;.</li>
+            <li>Le misure rettificate (EBITA, adjusted EBITDA, FOCF…) sono confrontate col dato pubblicato dalla società, non col bilancio standardizzato; se manca, restano &quot;non confrontabili&quot;.</li>
+            <li>Per debito, leva e indici di costo &quot;superata&quot; vuol dire meglio dell&apos;obiettivo, cioè più basso.</li>
           </ul>
         </Card>
       </div>
 
       {keys.map((k) => {
-        const list = groups.get(k)!;
+        const all = groups.get(k)!;
         const [fy, fp] = k.split("|");
-        const pending = list.every((e) => e.actual === undefined);
+        const pending = all.every((e) => e.actual === undefined);
+        const lastOf = new Map<string, GuidanceEvaluation>();
+        const countOf = new Map<string, number>();
+        const mk = (e: GuidanceEvaluation) => `${e.item.metric}|${e.item.label.toLowerCase().trim()}|${e.item.nonGaap}`;
+        for (const e of all) { lastOf.set(mk(e), e); countOf.set(mk(e), (countOf.get(mk(e)) ?? 0) + 1); }
+        const isOpen = expanded.has(k);
+        const list = isOpen ? all : [...lastOf.values()];
+        const hidden = all.length - lastOf.size;
+        const toggle = () => setExpanded((s) => { const n = new Set(s); if (n.has(k)) n.delete(k); else n.add(k); return n; });
         return (
-          <Card key={k} title={`Obiettivi per ${periodLabel({ fiscalYear: Number(fy), fiscalPeriod: fp as FiscalPeriod })}`} action={pending ? <Badge tone="accent">periodo non ancora caricato</Badge> : undefined} pad={false}>
+          <Card key={k} title={`Obiettivi per ${periodLabel({ fiscalYear: Number(fy), fiscalPeriod: fp as FiscalPeriod })}`} action={<span className="flex items-center gap-2">{pending && <Badge tone="accent">periodo non ancora chiuso</Badge>}{hidden > 0 && <Button size="sm" variant="ghost" onClick={toggle}>{isOpen ? "Solo l'ultima indicazione" : `Tutta la storia (${all.length})`}</Button>}</span>} pad={false}>
             <div className="overflow-x-auto">
               <table className="w-full text-sm">
                 <thead>
@@ -133,10 +143,12 @@ export function GuidanceTab({ bundle, analysis: a, refresh, setTab }: TabProps) 
                           {e.revision === "confermata" && <Badge>= confermata</Badge>}
                           {e.revision === "ristretta" && <Badge>intervallo ristretto</Badge>}
                           {e.revision === "prima indicazione" && <span className="text-xs text-muted">prima indicazione</span>}
+                          {!isOpen && (countOf.get(mk(e)) ?? 1) > 1 && <div className="text-[11px] text-muted">{countOf.get(mk(e))} indicazioni nel tempo</div>}
                         </td>
                         <td className="text-right num whitespace-nowrap">
                           {e.actual !== undefined ? fmtG(g, e.actual, cur) : "–"}
                           {e.surprise !== undefined && <div className="text-[11px] text-muted">{fmtDelta(g, e.surprise)} vs punto medio</div>}
+                          {e.actualSource && <div className="text-[11px] text-muted">{e.actualSource === "pubblicato" ? "dato pubblicato dalla società" : "dal bilancio standardizzato"}</div>}
                         </td>
                         <td className="whitespace-nowrap">
                           <Badge tone={outcomeTone[e.outcome]}>{outcomeIcon[e.outcome]} {e.outcome}</Badge>

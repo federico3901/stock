@@ -297,9 +297,11 @@ function CustomTable({ metrics, quarterly, currency }: { metrics: CustomMetric[]
         const names = [...new Set(list.filter((m) => m.category === cat).map((m) => m.name))];
         const get = (name: string, p: { fiscalYear: number; fiscalPeriod: FiscalPeriod }) => list.find((m) => m.category === cat && m.name === name && m.fiscalYear === p.fiscalYear && m.fiscalPeriod === p.fiscalPeriod);
         const isMoney = cat !== "kpi";
-        const totals = periods.map((p) => names.reduce((a, n) => a + (get(n, p)?.value ?? 0), 0));
+        // i sottosegmenti ("Segmento - Dettaglio") non entrano nel totale, altrimenti sarebbero contati due volte
+        const top = names.filter((n) => !names.some((o) => o !== n && n.startsWith(`${o} - `)));
+        const totals = periods.map((p) => top.reduce((a, n) => a + (get(n, p)?.value ?? 0), 0));
         return (
-          <Card key={cat} title={CUSTOM_CATEGORY_LABELS[cat]} hint={isMoney && currency ? `${currency}; sotto ogni valore il peso sul totale e la crescita a/a` : undefined} pad={false}>
+          <Card key={cat} title={CUSTOM_CATEGORY_LABELS[cat]} hint={isMoney && currency ? (cat === "segment_profit" ? `${currency}; misura usata dalla società per i segmenti, con la crescita a/a` : `${currency}; sotto ogni valore il peso sul totale e la crescita a/a`) : undefined} pad={false}>
             <div className="overflow-x-auto">
               <table className="w-full text-sm num">
                 <thead>
@@ -327,8 +329,8 @@ function CustomTable({ metrics, quarterly, currency }: { metrics: CustomMetric[]
                             ) : fmt(m)}
                             {m && (isMoney || g !== undefined) && (
                               <div className="text-[11px] text-muted">
-                                {isMoney && totals[i] ? fmtPct(m.value / totals[i], 0) : ""}
-                                {isMoney && g !== undefined ? " · " : ""}
+                                {isMoney && cat !== "segment_profit" && totals[i] ? fmtPct(m.value / totals[i], 0) : ""}
+                                {isMoney && cat !== "segment_profit" && g !== undefined ? " · " : ""}
                                 {g !== undefined ? (g > 0 ? "+" : "") + fmtPct(g) : ""}
                               </div>
                             )}

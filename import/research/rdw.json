@@ -272,7 +272,7 @@
     {
       "docId": "rdw-annuncio-edge-autonomy",
       "issuedDate": "2025-01-20",
-      "metric": "revenue",
+      "metric": "other",
       "label": "Ricavi (società combinata con Edge Autonomy)",
       "targetFiscalYear": 2025,
       "targetPeriod": "FY",
@@ -287,7 +287,7 @@
     {
       "docId": "rdw-annuncio-edge-autonomy",
       "issuedDate": "2025-01-20",
-      "metric": "ebitda",
+      "metric": "other",
       "label": "Adjusted EBITDA (società combinata con Edge Autonomy)",
       "targetFiscalYear": 2025,
       "targetPeriod": "FY",
@@ -302,7 +302,7 @@
     {
       "docId": "rdw-annuncio-edge-autonomy",
       "issuedDate": "2025-01-20",
-      "metric": "fcf",
+      "metric": "other",
       "label": "Free Cash Flow (società combinata con Edge Autonomy)",
       "targetFiscalYear": 2025,
       "targetPeriod": "FY",
@@ -315,7 +315,7 @@
     {
       "docId": "rdw-risultati-fy2024",
       "issuedDate": "2025-03-10",
-      "metric": "revenue",
+      "metric": "other",
       "label": "Ricavi (società combinata con Edge Autonomy)",
       "targetFiscalYear": 2025,
       "targetPeriod": "FY",
@@ -330,7 +330,7 @@
     {
       "docId": "rdw-risultati-fy2024",
       "issuedDate": "2025-03-10",
-      "metric": "ebitda",
+      "metric": "other",
       "label": "Adjusted EBITDA (società combinata con Edge Autonomy)",
       "targetFiscalYear": 2025,
       "targetPeriod": "FY",
@@ -345,7 +345,7 @@
     {
       "docId": "rdw-risultati-fy2024",
       "issuedDate": "2025-03-10",
-      "metric": "fcf",
+      "metric": "other",
       "label": "Free Cash Flow (società combinata con Edge Autonomy)",
       "targetFiscalYear": 2025,
       "targetPeriod": "FY",
@@ -358,7 +358,7 @@
     {
       "docId": "rdw-risultati-q1-2025",
       "issuedDate": "2025-05-12",
-      "metric": "revenue",
+      "metric": "other",
       "label": "Ricavi (società combinata con Edge Autonomy)",
       "targetFiscalYear": 2025,
       "targetPeriod": "FY",
@@ -373,7 +373,7 @@
     {
       "docId": "rdw-risultati-q1-2025",
       "issuedDate": "2025-05-12",
-      "metric": "ebitda",
+      "metric": "other",
       "label": "Adjusted EBITDA (società combinata con Edge Autonomy)",
       "targetFiscalYear": 2025,
       "targetPeriod": "FY",
@@ -388,7 +388,7 @@
     {
       "docId": "rdw-risultati-q1-2025",
       "issuedDate": "2025-05-12",
-      "metric": "fcf",
+      "metric": "other",
       "label": "Free Cash Flow (società combinata con Edge Autonomy)",
       "targetFiscalYear": 2025,
       "targetPeriod": "FY",
@@ -401,7 +401,7 @@
     {
       "docId": "rdw-chiusura-edge-autonomy",
       "issuedDate": "2025-06-13",
-      "metric": "revenue",
+      "metric": "other",
       "label": "Ricavi (società combinata con Edge Autonomy)",
       "targetFiscalYear": 2025,
       "targetPeriod": "FY",
@@ -416,7 +416,7 @@
     {
       "docId": "rdw-chiusura-edge-autonomy",
       "issuedDate": "2025-06-13",
-      "metric": "ebitda",
+      "metric": "other",
       "label": "Adjusted EBITDA (società combinata con Edge Autonomy)",
       "targetFiscalYear": 2025,
       "targetPeriod": "FY",
@@ -431,7 +431,7 @@
     {
       "docId": "rdw-chiusura-edge-autonomy",
       "issuedDate": "2025-06-13",
-      "metric": "fcf",
+      "metric": "other",
       "label": "Free Cash Flow (società combinata con Edge Autonomy)",
       "targetFiscalYear": 2025,
       "targetPeriod": "FY",
