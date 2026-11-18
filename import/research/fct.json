@@ -1,0 +1,4624 @@
+{
+ "documents": [
+  {
+   "id": "fct-risultati-fy2023",
+   "title": "Risultati esercizio 2023 (comunicato stampa)",
+   "type": "earnings_release",
+   "date": "2024-03-07",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "url": "https://www.fincantieri.com/en/media/press-releases/2024/the-bod-approves-2023-consolidated-financial-statements-and-draft-financial-statements-of-the-parent-company"
+  },
+  {
+   "id": "fct-risultati-q1-2024",
+   "title": "Risultati primo trimestre 2024 (comunicato stampa)",
+   "type": "earnings_release",
+   "date": "2024-05-14",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "Q1",
+   "url": "https://www.fincantieri.com/en/media/press-releases/2024/solid-performance-in-the-first-quarter-of-2024-with-growth-in-all-key-metrics/"
+  },
+  {
+   "id": "fct-aumento-capitale-2024",
+   "title": "Conclusione dell'aumento di capitale in opzione 2024 (comunicato stampa)",
+   "type": "other",
+   "date": "2024-07-16",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "H1",
+   "url": "https://www.fincantieri.com/en/investor-relations/fincantieri-in-borsa/capital-increase/successful-completion-of-the-rights-issue"
+  },
+  {
+   "id": "fct-risultati-h1-2024",
+   "title": "Risultati primo semestre 2024 (comunicato stampa, via PressMare)",
+   "type": "earnings_release",
+   "date": "2024-07-30",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "H1",
+   "url": "https://pressmare.it/en/shipyards/fincantieri/2024-07-30/first-half-2024-results-approved-78837"
+  },
+  {
+   "id": "fct-risultati-9m-2024",
+   "title": "Risultati nove mesi 2024 (comunicato stampa)",
+   "type": "earnings_release",
+   "date": "2024-11-14",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "9M",
+   "url": "https://www.fincantieri.com/en/media/press-releases/2024/bod-approved-9m-2024-results"
+  },
+  {
+   "id": "fct-risultati-fy2024",
+   "title": "Risultati esercizio 2024 (comunicato stampa)",
+   "type": "earnings_release",
+   "date": "2025-03-24",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "url": "https://www.fincantieri.com/en/media/press-releases/2025/the-bod-approves-2024-consolidated-financial-statements-and-draft-financial-statements-of-the-parent-company"
+  },
+  {
+   "id": "fct-outlook-ir",
+   "title": "Pagina Outlook del sito investor relations: guidance 2024 a confronto con i risultati e guidance 2025",
+   "type": "other",
+   "date": "2025-03-24",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "url": "https://www.fincantieri.com/en/investor-relations/strategy/outlook"
+  },
+  {
+   "id": "fct-risultati-q1-2025",
+   "title": "Risultati primo trimestre 2025 (comunicato stampa)",
+   "type": "earnings_release",
+   "date": "2025-05-12",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q1",
+   "url": "https://www.fincantieri.com/en/media/press-releases/2025/approval-of-q1-2025-results/"
+  },
+  {
+   "id": "fct-risultati-h1-2025",
+   "title": "Risultati primo semestre 2025 (comunicato stampa)",
+   "type": "earnings_release",
+   "date": "2025-07-30",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "url": "https://www.fincantieri.com/en/media/press-releases/2025/approval-of-1h-2025-results/"
+  },
+  {
+   "id": "fct-risultati-9m-2025",
+   "title": "Risultati nove mesi 2025 (comunicato stampa)",
+   "type": "earnings_release",
+   "date": "2025-11-12",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "url": "https://www.fincantieri.com/en/media/press-releases/2025/approval-of-9m-2025-results/"
+  },
+  {
+   "id": "fct-cmd-2026",
+   "title": "Capital Markets Day 2026: Piano Industriale 2026-2030 (comunicato stampa)",
+   "type": "other",
+   "date": "2026-02-12",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "url": "https://www.fincantieri.com/en/newsroom/press-releases/2026/capital-markets-day-2026"
+  },
+  {
+   "id": "fct-abb-2026",
+   "title": "Conclusione dell'aumento di capitale riservato (accelerated bookbuild) di febbraio 2026 (comunicato stampa)",
+   "type": "other",
+   "date": "2026-02-18",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "url": "https://fincantieri.com/en/newsroom/press-releases/2026/Successful-completion-of-the-placement-reserved-to-qualified-and-or-institutional-investors-by-means-of-an-accelerated-bookbuild-offering-with-a-book-multiple-times-oversubscribed"
+  },
+  {
+   "id": "fct-risultati-fy2025",
+   "title": "Risultati esercizio 2025 (comunicato stampa)",
+   "type": "earnings_release",
+   "date": "2026-03-25",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "url": "https://www.fincantieri.com/en/newsroom/press-releases/2026/2025-financial-results-approved"
+  },
+  {
+   "id": "fct-presentazione-fy2025",
+   "title": "Risultati esercizio 2025 (presentazione al mercato)",
+   "type": "presentation",
+   "date": "2026-03-25",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "url": "https://dam.fincantieri.com/adobe/assets/urn:aaid:aem:800b5485-2901-4c5e-b38f-eb7aa9b61091/renditions/original/as/FINCANTIERI%20FY%202025%20Market%20Presentation.pdf"
+  },
+  {
+   "id": "fct-risultati-q1-2026",
+   "title": "Risultati primo trimestre 2026 (comunicato stampa)",
+   "type": "earnings_release",
+   "date": "2026-05-11",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "url": "https://www.fincantieri.com/en/newsroom/press-releases/2026/1q-2026-results-approved"
+  },
+  {
+   "id": "fct-acquisizioni-underwater-2026",
+   "title": "Acquisizione di quattro società nel segmento Underwater (via Forbes Italia)",
+   "type": "other",
+   "date": "2026-07-06",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "url": "https://forbes.it/2026/07/06/fincantieri-rafforza-il-polo-dellunderwater-con-quattro-acquisizioni-da-600-milioni"
+  },
+  {
+   "id": "fct-risultati-h1-2026",
+   "title": "Risultati primo semestre 2026 (comunicato stampa)",
+   "type": "earnings_release",
+   "date": "2026-07-29",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "url": "https://www.fincantieri.com/en/newsroom/press-releases/2026/first-half-2026-results-approved"
+  },
+  {
+   "id": "fct-semestrale-2026",
+   "title": "Relazione finanziaria semestrale al 30 giugno 2026",
+   "type": "other",
+   "date": "2026-07-29",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "url": "https://dam.fincantieri.com/adobe/assets/urn:aaid:aem:baf51058-459d-4b34-b29e-72030524e5cb/renditions/original/as/Fincantieri%20Group%20-%20Half-Year%20financial%20report%20as%20at%2030%20June%202026.pdf"
+  },
+  {
+   "id": "fct-risultati-9m-2026",
+   "title": "Risultati nove mesi 2026 (comunicato stampa)",
+   "type": "earnings_release",
+   "date": "2026-11-12",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "url": "https://www.fincantieri.com/en/newsroom/press-releases/2026/9M-2026-results-approved"
+  },
+  {
+   "id": "fct-presentazione-9m-2026",
+   "title": "Risultati nove mesi 2026 (presentazione al mercato)",
+   "type": "presentation",
+   "date": "2026-11-12",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "url": "https://dam.fincantieri.com/adobe/assets/urn:aaid:aem:cb0cc13b-91d1-448e-90e7-c39d5710e84d/renditions/original/as/FINCANTIERI%209M%202026%20Market%20Presentation.pdf"
+  }
+ ],
+ "guidance": [
+  {
+   "docId": "fct-risultati-fy2023",
+   "issuedDate": "2024-03-07",
+   "metric": "revenue",
+   "label": "Ricavi",
+   "targetFiscalYear": 2024,
+   "targetPeriod": "FY",
+   "low": 8000000000,
+   "high": 8000000000,
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Guidance iniziale 2024: ricavi di circa 8 miliardi, crescita di circa il 4,5%.",
+   "quote": "Revenues at approximately 8 billion euro"
+  },
+  {
+   "docId": "fct-risultati-fy2023",
+   "issuedDate": "2024-03-07",
+   "metric": "other",
+   "label": "EBITDA margin",
+   "targetFiscalYear": 2024,
+   "targetPeriod": "FY",
+   "low": 0.06,
+   "high": 0.06,
+   "unit": "percent",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Guidance iniziale 2024: EBITDA margin intorno al 6%, un punto in più del 2023.",
+   "quote": "EBITDA margin at around 6%, up by 1 percentage point vs 2023"
+  },
+  {
+   "docId": "fct-risultati-fy2023",
+   "issuedDate": "2024-03-07",
+   "metric": "other",
+   "label": "Leva finanziaria (PFN/EBITDA)",
+   "targetFiscalYear": 2024,
+   "targetPeriod": "FY",
+   "low": 5.5,
+   "high": 6.5,
+   "unit": "other",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Guidance iniziale 2024: rapporto PFN/EBITDA tra 5,5x e 6,5x, migliore dell'indicazione di maggio 2023 (6,0-7,0x). Valori espressi come multiplo.",
+   "quote": "to a value between 5.5x and 6.5x in 2024"
+  },
+  {
+   "docId": "fct-risultati-q1-2024",
+   "issuedDate": "2024-05-14",
+   "metric": "revenue",
+   "label": "Ricavi",
+   "targetFiscalYear": 2024,
+   "targetPeriod": "FY",
+   "low": 8000000000,
+   "high": 8000000000,
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Guidance 2024 confermata con i risultati del primo trimestre.",
+   "quote": "Revenues at approximately euro 8 billion,up by around 4.5% YoY"
+  },
+  {
+   "docId": "fct-risultati-q1-2024",
+   "issuedDate": "2024-05-14",
+   "metric": "other",
+   "label": "EBITDA margin",
+   "targetFiscalYear": 2024,
+   "targetPeriod": "FY",
+   "low": 0.06,
+   "high": 0.06,
+   "unit": "percent",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Guidance 2024 confermata.",
+   "quote": "EBITDA margin at around 6%, up by 1 percentage point vs 2023"
+  },
+  {
+   "docId": "fct-risultati-q1-2024",
+   "issuedDate": "2024-05-14",
+   "metric": "other",
+   "label": "Leva finanziaria (PFN/EBITDA)",
+   "targetFiscalYear": 2024,
+   "targetPeriod": "FY",
+   "low": 5.5,
+   "high": 6.5,
+   "unit": "other",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Guidance 2024 confermata. Multiplo.",
+   "quote": "Leverage ratio (NFP/EBITDA) between 5.5 and 6.5x"
+  },
+  {
+   "docId": "fct-risultati-h1-2024",
+   "issuedDate": "2024-07-30",
+   "metric": "revenue",
+   "label": "Ricavi",
+   "targetFiscalYear": 2024,
+   "targetPeriod": "FY",
+   "low": 8000000000,
+   "high": 8000000000,
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Confermata con i risultati semestrali.",
+   "quote": "Revenues at approximately euro 8 billion, up by around 4.5%"
+  },
+  {
+   "docId": "fct-risultati-h1-2024",
+   "issuedDate": "2024-07-30",
+   "metric": "other",
+   "label": "EBITDA margin",
+   "targetFiscalYear": 2024,
+   "targetPeriod": "FY",
+   "low": 0.06,
+   "high": 0.06,
+   "unit": "percent",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Confermata.",
+   "quote": "EBITDA margin at around 6%"
+  },
+  {
+   "docId": "fct-risultati-h1-2024",
+   "issuedDate": "2024-07-30",
+   "metric": "other",
+   "label": "Leva finanziaria (PFN/EBITDA)",
+   "targetFiscalYear": 2024,
+   "targetPeriod": "FY",
+   "low": 4.5,
+   "high": 5.5,
+   "unit": "other",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Revisione migliorativa: da 5,5-6,5x a 4,5-5,5x, escluso l'effetto temporaneo dell'aumento di capitale (3,7-4,7x includendolo). Multiplo.",
+   "quote": "Leverage ratio (NFP/EBITDA) expected between 4.5x and 5.5x"
+  },
+  {
+   "docId": "fct-risultati-9m-2024",
+   "issuedDate": "2024-11-14",
+   "metric": "revenue",
+   "label": "Ricavi",
+   "targetFiscalYear": 2024,
+   "targetPeriod": "FY",
+   "low": 8000000000,
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Revisione al rialzo: ricavi oltre 8 miliardi (prima circa 8 miliardi).",
+   "quote": "This enables Fincantieri to raise its guidance for 2024, with revenues in excess of euro 8 billion."
+  },
+  {
+   "docId": "fct-risultati-9m-2024",
+   "issuedDate": "2024-11-14",
+   "metric": "other",
+   "label": "EBITDA margin",
+   "targetFiscalYear": 2024,
+   "targetPeriod": "FY",
+   "low": 0.06,
+   "high": 0.06,
+   "unit": "percent",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Confermato EBITDA margin di circa il 6%.",
+   "quote": ""
+  },
+  {
+   "docId": "fct-risultati-9m-2024",
+   "issuedDate": "2024-11-14",
+   "metric": "other",
+   "label": "Leva finanziaria (PFN/EBITDA)",
+   "targetFiscalYear": 2024,
+   "targetPeriod": "FY",
+   "low": 4.5,
+   "high": 5.0,
+   "unit": "other",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Intervallo ristretto da 4,5-5,5x a 4,5-5,0x, escluso l'effetto temporaneo dell'aumento di capitale. Multiplo.",
+   "quote": "with a year-end leverage ratio (NFP/EBITDA) in the range between 4.5x and 5.0x"
+  },
+  {
+   "docId": "fct-risultati-fy2024",
+   "issuedDate": "2025-03-24",
+   "metric": "revenue",
+   "label": "Ricavi",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "low": 9000000000,
+   "high": 9000000000,
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Guidance iniziale 2025: ricavi di circa 9 miliardi, incluso il consolidamento di WASS.",
+   "quote": "revenues expected to grow to around euro 9 billion, including the consolidation of WASS."
+  },
+  {
+   "docId": "fct-risultati-fy2024",
+   "issuedDate": "2025-03-24",
+   "metric": "other",
+   "label": "EBITDA margin",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "low": 0.07,
+   "unit": "percent",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Guidance iniziale 2025: EBITDA margin superiore al 7%.",
+   "quote": "EBITDA margin over 7%"
+  },
+  {
+   "docId": "fct-risultati-fy2024",
+   "issuedDate": "2025-03-24",
+   "metric": "other",
+   "label": "Leva finanziaria (PFN/EBITDA)",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "unit": "other",
+   "nonGaap": true,
+   "qualitative": true,
+   "text": "Guidance iniziale 2025: rapporto PFN/EBITDA in linea con il 2024 (3,3x escluso il beneficio temporaneo dell'aumento di capitale), contro un obiettivo 2025 del Piano 2023-2027 di 4,5-5,5x.",
+   "quote": "Leverage ratio (NFP/EBITDA) in-line with 2024"
+  },
+  {
+   "docId": "fct-risultati-fy2024",
+   "issuedDate": "2025-03-24",
+   "metric": "net_income",
+   "label": "Risultato netto",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": true,
+   "text": "Guidance iniziale 2025: risultato netto positivo, senza importo.",
+   "quote": "a positive net result is confirmed in 2025."
+  },
+  {
+   "docId": "fct-risultati-q1-2025",
+   "issuedDate": "2025-05-12",
+   "metric": "other",
+   "label": "Guidance 2025 complessiva",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "unit": "other",
+   "nonGaap": false,
+   "qualitative": true,
+   "text": "Con i risultati del primo trimestre la guidance 2025 è confermata senza modifiche (ricavi circa 9 miliardi, EBITDA margin oltre il 7%, leva in linea con il 2024, utile netto).",
+   "quote": "Fincantieri confirms its 2025 guidance as communicated in its FY 2024 results release."
+  },
+  {
+   "docId": "fct-risultati-h1-2025",
+   "issuedDate": "2025-07-30",
+   "metric": "revenue",
+   "label": "Ricavi",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "low": 9000000000,
+   "high": 9000000000,
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Confermata con i risultati semestrali.",
+   "quote": "Revenues of approximately euro 9 billion"
+  },
+  {
+   "docId": "fct-risultati-h1-2025",
+   "issuedDate": "2025-07-30",
+   "metric": "other",
+   "label": "EBITDA margin",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "low": 0.07,
+   "unit": "percent",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Confermata.",
+   "quote": "EBITDA margin over 7%"
+  },
+  {
+   "docId": "fct-risultati-h1-2025",
+   "issuedDate": "2025-07-30",
+   "metric": "other",
+   "label": "Leva finanziaria (Net debt/EBITDA)",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "low": 2.7,
+   "high": 3.0,
+   "unit": "other",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Revisione migliorativa: da \"in linea con il 2024\" a un intervallo 2,7x-3,0x. Multiplo.",
+   "quote": "Leverage ratio (Net debt/EBITDA) between 2.7x and 3.0x, improving versus the previous guidance"
+  },
+  {
+   "docId": "fct-risultati-h1-2025",
+   "issuedDate": "2025-07-30",
+   "metric": "net_income",
+   "label": "Utile netto",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": true,
+   "text": "Confermato un utile netto positivo, senza importo.",
+   "quote": "A positive net income is also confirmed for 2025."
+  },
+  {
+   "docId": "fct-risultati-9m-2025",
+   "issuedDate": "2025-11-12",
+   "metric": "revenue",
+   "label": "Ricavi",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "low": 9000000000,
+   "high": 9000000000,
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Confermata con i risultati dei nove mesi.",
+   "quote": "Revenues of approximately euro 9 billion"
+  },
+  {
+   "docId": "fct-risultati-9m-2025",
+   "issuedDate": "2025-11-12",
+   "metric": "other",
+   "label": "EBITDA margin",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "low": 0.07,
+   "unit": "percent",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Confermata.",
+   "quote": "EBITDA margin over 7%"
+  },
+  {
+   "docId": "fct-risultati-9m-2025",
+   "issuedDate": "2025-11-12",
+   "metric": "other",
+   "label": "Leva finanziaria (Net debt/EBITDA)",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "low": 2.7,
+   "high": 3.0,
+   "unit": "other",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Confermata. Multiplo.",
+   "quote": "Leverage ratio (Net debt / EBITDA) between 2.7x and 3.0x"
+  },
+  {
+   "docId": "fct-risultati-9m-2025",
+   "issuedDate": "2025-11-12",
+   "metric": "net_income",
+   "label": "Utile netto",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": true,
+   "text": "Confermato un utile netto positivo, senza importo.",
+   "quote": "A positive net income is also confirmed for 2025"
+  },
+  {
+   "docId": "fct-cmd-2026",
+   "issuedDate": "2026-02-12",
+   "metric": "revenue",
+   "label": "Ricavi",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "low": 9000000000,
+   "high": 9000000000,
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Aggiornamento pre-chiusura dell'esercizio 2025 riportato nel comunicato del Capital Markets Day (il Piano era stato approvato dal CdA il 16 dicembre 2025). Ricavi di circa 9 miliardi, confermati.",
+   "quote": ""
+  },
+  {
+   "docId": "fct-cmd-2026",
+   "issuedDate": "2026-02-12",
+   "metric": "other",
+   "label": "EBITDA margin",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "low": 0.074,
+   "high": 0.074,
+   "unit": "percent",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Aggiornamento pre-chiusura dell'esercizio 2025 riportato nel comunicato del Capital Markets Day (il Piano era stato approvato dal CdA il 16 dicembre 2025). EBITDA margin al 7,4%, rivisto al rialzo rispetto a \"oltre il 7%\".",
+   "quote": ""
+  },
+  {
+   "docId": "fct-cmd-2026",
+   "issuedDate": "2026-02-12",
+   "metric": "net_income",
+   "label": "Utile netto",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "low": 110000000,
+   "high": 110000000,
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Aggiornamento pre-chiusura dell'esercizio 2025 riportato nel comunicato del Capital Markets Day (il Piano era stato approvato dal CdA il 16 dicembre 2025). Utile netto di 110 milioni: prima indicazione numerica (in precedenza solo \"utile netto positivo\").",
+   "quote": ""
+  },
+  {
+   "docId": "fct-cmd-2026",
+   "issuedDate": "2026-02-12",
+   "metric": "other",
+   "label": "Leva finanziaria (Net debt/EBITDA)",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "low": 2.8,
+   "high": 2.8,
+   "unit": "other",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Aggiornamento pre-chiusura dell'esercizio 2025 riportato nel comunicato del Capital Markets Day (il Piano era stato approvato dal CdA il 16 dicembre 2025). Net debt/EBITDA a 2,8x, ovvero 2,0x includendo i crediti finanziari non correnti nell'indebitamento netto (definizione adjusted). Multiplo.",
+   "quote": ""
+  },
+  {
+   "docId": "fct-cmd-2026",
+   "issuedDate": "2026-02-12",
+   "metric": "revenue",
+   "label": "Ricavi",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 9200000000.0,
+   "high": 9300000000.0,
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Guidance iniziale 2026 data al Capital Markets Day: ricavi 9,2-9,3 miliardi.",
+   "quote": ""
+  },
+  {
+   "docId": "fct-cmd-2026",
+   "issuedDate": "2026-02-12",
+   "metric": "ebitda",
+   "label": "EBITDA",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 700000000,
+   "high": 700000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Guidance iniziale 2026: EBITDA di circa 700 milioni.",
+   "quote": ""
+  },
+  {
+   "docId": "fct-cmd-2026",
+   "issuedDate": "2026-02-12",
+   "metric": "other",
+   "label": "EBITDA margin",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 0.075,
+   "high": 0.075,
+   "unit": "percent",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Guidance iniziale 2026: EBITDA margin di circa il 7,5%.",
+   "quote": ""
+  },
+  {
+   "docId": "fct-cmd-2026",
+   "issuedDate": "2026-02-12",
+   "metric": "net_income",
+   "label": "Utile netto",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": true,
+   "text": "Guidance iniziale 2026: utile netto superiore a quello del 2025, senza importo.",
+   "quote": ""
+  },
+  {
+   "docId": "fct-cmd-2026",
+   "issuedDate": "2026-02-12",
+   "metric": "other",
+   "label": "Leva finanziaria (Net debt/EBITDA)",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 2.0,
+   "high": 2.0,
+   "unit": "other",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Guidance iniziale 2026: Net debt/EBITDA di circa 2,0x. Multiplo.",
+   "quote": ""
+  },
+  {
+   "docId": "fct-risultati-fy2025",
+   "issuedDate": "2026-03-25",
+   "metric": "revenue",
+   "label": "Ricavi",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 9200000000.0,
+   "high": 9300000000.0,
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Confermata con i risultati 2025.",
+   "quote": "Fincantieri confirms the targets provided during the Capital Markets Day of 12 February 2026:"
+  },
+  {
+   "docId": "fct-risultati-fy2025",
+   "issuedDate": "2026-03-25",
+   "metric": "ebitda",
+   "label": "EBITDA",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 700000000,
+   "high": 700000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Confermato EBITDA di circa 700 milioni.",
+   "quote": "approximately euro 700 million"
+  },
+  {
+   "docId": "fct-risultati-fy2025",
+   "issuedDate": "2026-03-25",
+   "metric": "other",
+   "label": "EBITDA margin",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 0.075,
+   "high": 0.075,
+   "unit": "percent",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Confermato.",
+   "quote": "approximately 7.5%"
+  },
+  {
+   "docId": "fct-risultati-fy2025",
+   "issuedDate": "2026-03-25",
+   "metric": "net_income",
+   "label": "Utile netto",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": true,
+   "text": "Confermato utile netto superiore al 2025 (117 milioni).",
+   "quote": "Net profit higher than in 2025"
+  },
+  {
+   "docId": "fct-risultati-fy2025",
+   "issuedDate": "2026-03-25",
+   "metric": "other",
+   "label": "Leva finanziaria (Net debt adjusted/EBITDA)",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 2.0,
+   "high": 2.0,
+   "unit": "other",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Confermata circa 2,0x; 1,3x includendo l'aumento di capitale di febbraio 2026. Multiplo.",
+   "quote": "Net debt adjusted/EBITDA ratio at approximately 2.0x (1.3x including the capital increase completed in February 2026)"
+  },
+  {
+   "docId": "fct-risultati-q1-2026",
+   "issuedDate": "2026-05-11",
+   "metric": "revenue",
+   "label": "Ricavi",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 9300000000.0,
+   "high": 9400000000.0,
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Revisione al rialzo con il primo trimestre: da 9,2-9,3 a circa 9,3-9,4 miliardi.",
+   "quote": ""
+  },
+  {
+   "docId": "fct-risultati-q1-2026",
+   "issuedDate": "2026-05-11",
+   "metric": "ebitda",
+   "label": "EBITDA",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 700000000,
+   "high": 710000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Revisione al rialzo: da circa 700 a 700-710 milioni.",
+   "quote": ""
+  },
+  {
+   "docId": "fct-risultati-q1-2026",
+   "issuedDate": "2026-05-11",
+   "metric": "other",
+   "label": "EBITDA margin",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 0.075,
+   "high": 0.075,
+   "unit": "percent",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "EBITDA margin di circa il 7,5%, invariato.",
+   "quote": ""
+  },
+  {
+   "docId": "fct-risultati-q1-2026",
+   "issuedDate": "2026-05-11",
+   "metric": "net_income",
+   "label": "Utile netto",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 140000000,
+   "high": 180000000,
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Prima indicazione numerica: 140-180 milioni, al posto di \"superiore al 2025\".",
+   "quote": ""
+  },
+  {
+   "docId": "fct-risultati-q1-2026",
+   "issuedDate": "2026-05-11",
+   "metric": "other",
+   "label": "Leva finanziaria (Net debt adjusted/EBITDA)",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 2.0,
+   "high": 2.0,
+   "unit": "other",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Circa 2,0x, ovvero circa 1,3x includendo l'aumento di capitale di febbraio 2026. Multiplo.",
+   "quote": ""
+  },
+  {
+   "docId": "fct-risultati-h1-2026",
+   "issuedDate": "2026-07-29",
+   "metric": "revenue",
+   "label": "Ricavi",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 9300000000.0,
+   "high": 9400000000.0,
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Confermata con i risultati semestrali.",
+   "quote": "Revenue at approximately euro 9.3-9.4 billion"
+  },
+  {
+   "docId": "fct-risultati-h1-2026",
+   "issuedDate": "2026-07-29",
+   "metric": "ebitda",
+   "label": "EBITDA",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 700000000,
+   "high": 710000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Confermata.",
+   "quote": "EBITDA at euro 700-710 million"
+  },
+  {
+   "docId": "fct-risultati-h1-2026",
+   "issuedDate": "2026-07-29",
+   "metric": "other",
+   "label": "EBITDA margin",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 0.075,
+   "high": 0.075,
+   "unit": "percent",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Confermata.",
+   "quote": "EBITDA margin at approximately 7.5%"
+  },
+  {
+   "docId": "fct-risultati-h1-2026",
+   "issuedDate": "2026-07-29",
+   "metric": "net_income",
+   "label": "Utile netto",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 140000000,
+   "high": 180000000,
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Confermata.",
+   "quote": "Net profit of euro 140-180 million"
+  },
+  {
+   "docId": "fct-risultati-h1-2026",
+   "issuedDate": "2026-07-29",
+   "metric": "other",
+   "label": "Leva finanziaria (Net debt adjusted/EBITDA)",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 2.0,
+   "high": 2.0,
+   "unit": "other",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Confermata. Multiplo.",
+   "quote": "Net debt adjusted / EBITDA at 2.0x (1.3x including the capital increase completed in February 2026)"
+  },
+  {
+   "docId": "fct-risultati-9m-2026",
+   "issuedDate": "2026-11-12",
+   "metric": "revenue",
+   "label": "Ricavi",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 9300000000.0,
+   "high": 9400000000.0,
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Confermata con i risultati dei nove mesi. La guidance esclude l'effetto delle acquisizioni Underwater annunciate a luglio 2026.",
+   "quote": "Revenue at approximately euro 9.3-9.4 billion"
+  },
+  {
+   "docId": "fct-risultati-9m-2026",
+   "issuedDate": "2026-11-12",
+   "metric": "ebitda",
+   "label": "EBITDA",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 715000000,
+   "high": 725000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Revisione al rialzo: da 700-710 a 715-725 milioni.",
+   "quote": "EBITDA raised to euro 715-725 million (from previous \"euro 700-710 million\")"
+  },
+  {
+   "docId": "fct-risultati-9m-2026",
+   "issuedDate": "2026-11-12",
+   "metric": "net_income",
+   "label": "Utile netto",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 140000000,
+   "high": 180000000,
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Confermata.",
+   "quote": "Net profit of euro 140-180 million"
+  },
+  {
+   "docId": "fct-risultati-9m-2026",
+   "issuedDate": "2026-11-12",
+   "metric": "other",
+   "label": "Leva finanziaria (Adjusted net debt/EBITDA)",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 1.7,
+   "high": 1.7,
+   "unit": "other",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Revisione migliorativa: da circa 2,0x a circa 1,7x (circa 1,0x includendo l'aumento di capitale di febbraio 2026, prima 1,3x). Multiplo.",
+   "quote": "Adjusted net debt / EBITDA ratio improved to approximately 1.7x"
+  },
+  {
+   "docId": "fct-cmd-2026",
+   "issuedDate": "2026-02-12",
+   "metric": "revenue",
+   "label": "Ricavi",
+   "targetFiscalYear": 2028,
+   "targetPeriod": "FY",
+   "low": 11000000000,
+   "high": 11000000000,
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Obiettivo del Piano Industriale 2026-2030, al netto di eventi non prevedibili. Crescita media annua dei ricavi 2026-2030 dell'8%.",
+   "quote": ""
+  },
+  {
+   "docId": "fct-cmd-2026",
+   "issuedDate": "2026-02-12",
+   "metric": "ebitda",
+   "label": "EBITDA",
+   "targetFiscalYear": 2028,
+   "targetPeriod": "FY",
+   "low": 930000000,
+   "high": 930000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Obiettivo del Piano Industriale 2026-2030, al netto di eventi non prevedibili. ",
+   "quote": ""
+  },
+  {
+   "docId": "fct-cmd-2026",
+   "issuedDate": "2026-02-12",
+   "metric": "other",
+   "label": "EBITDA margin",
+   "targetFiscalYear": 2028,
+   "targetPeriod": "FY",
+   "low": 0.085,
+   "high": 0.085,
+   "unit": "percent",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Obiettivo del Piano Industriale 2026-2030, al netto di eventi non prevedibili. ",
+   "quote": ""
+  },
+  {
+   "docId": "fct-cmd-2026",
+   "issuedDate": "2026-02-12",
+   "metric": "net_income",
+   "label": "Utile netto",
+   "targetFiscalYear": 2028,
+   "targetPeriod": "FY",
+   "low": 220000000,
+   "high": 220000000,
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Obiettivo del Piano Industriale 2026-2030, al netto di eventi non prevedibili. ",
+   "quote": ""
+  },
+  {
+   "docId": "fct-cmd-2026",
+   "issuedDate": "2026-02-12",
+   "metric": "other",
+   "label": "Leva finanziaria (Net debt/EBITDA)",
+   "targetFiscalYear": 2028,
+   "targetPeriod": "FY",
+   "low": 1.7,
+   "high": 1.7,
+   "unit": "other",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Obiettivo del Piano Industriale 2026-2030, al netto di eventi non prevedibili. Multiplo.",
+   "quote": ""
+  },
+  {
+   "docId": "fct-cmd-2026",
+   "issuedDate": "2026-02-12",
+   "metric": "revenue",
+   "label": "Ricavi",
+   "targetFiscalYear": 2030,
+   "targetPeriod": "FY",
+   "low": 12500000000.0,
+   "high": 12500000000.0,
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Obiettivo del Piano Industriale 2026-2030, al netto di eventi non prevedibili. Crescita media annua dei ricavi 2026-2030 dell'8%.",
+   "quote": ""
+  },
+  {
+   "docId": "fct-cmd-2026",
+   "issuedDate": "2026-02-12",
+   "metric": "ebitda",
+   "label": "EBITDA",
+   "targetFiscalYear": 2030,
+   "targetPeriod": "FY",
+   "low": 1250000000,
+   "high": 1250000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Obiettivo del Piano Industriale 2026-2030, al netto di eventi non prevedibili. ",
+   "quote": ""
+  },
+  {
+   "docId": "fct-cmd-2026",
+   "issuedDate": "2026-02-12",
+   "metric": "other",
+   "label": "EBITDA margin",
+   "targetFiscalYear": 2030,
+   "targetPeriod": "FY",
+   "low": 0.1,
+   "high": 0.1,
+   "unit": "percent",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Obiettivo del Piano Industriale 2026-2030, al netto di eventi non prevedibili. ",
+   "quote": ""
+  },
+  {
+   "docId": "fct-cmd-2026",
+   "issuedDate": "2026-02-12",
+   "metric": "net_income",
+   "label": "Utile netto",
+   "targetFiscalYear": 2030,
+   "targetPeriod": "FY",
+   "low": 500000000,
+   "high": 500000000,
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Obiettivo del Piano Industriale 2026-2030, al netto di eventi non prevedibili. ",
+   "quote": ""
+  },
+  {
+   "docId": "fct-cmd-2026",
+   "issuedDate": "2026-02-12",
+   "metric": "other",
+   "label": "Leva finanziaria (Net debt/EBITDA)",
+   "targetFiscalYear": 2030,
+   "targetPeriod": "FY",
+   "low": 1.0,
+   "high": 1.0,
+   "unit": "other",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Obiettivo del Piano Industriale 2026-2030, al netto di eventi non prevedibili. Multiplo.",
+   "quote": ""
+  },
+  {
+   "docId": "fct-cmd-2026",
+   "issuedDate": "2026-02-12",
+   "metric": "capex",
+   "label": "Investimenti industriali cumulati 2026-2030",
+   "targetFiscalYear": 2030,
+   "targetPeriod": "FY",
+   "low": 1900000000.0,
+   "high": 1900000000.0,
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Investimenti cumulati 2026-2030 di circa 1,9 miliardi, inclusi 250 milioni per l'eventuale raddoppio della capacità Offshore in Vietnam; il piano li dichiara interamente finanziati dai flussi operativi.",
+   "quote": "industrial investments in the period 2026-2030 of approximately euro 1.9 billion"
+  },
+  {
+   "docId": "fct-cmd-2026",
+   "issuedDate": "2026-02-12",
+   "metric": "other",
+   "label": "Ordini cumulati 2026-2030",
+   "targetFiscalYear": 2030,
+   "targetPeriod": "FY",
+   "low": 50000000000,
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Acquisizione ordini cumulata 2026-2030 superiore a 50 miliardi, con ordini Difesa attesi già nel 2026.",
+   "quote": "Over €50 bn in order intake, with Defense orders already expected in 2026."
+  },
+  {
+   "docId": "fct-cmd-2026",
+   "issuedDate": "2026-02-12",
+   "metric": "other",
+   "label": "Politica dei dividendi",
+   "targetFiscalYear": 2028,
+   "targetPeriod": "FY",
+   "unit": "other",
+   "nonGaap": false,
+   "qualitative": true,
+   "text": "Il piano prevede di valutare l'avvio di una politica di dividendi dal 2028, sui risultati 2027, previa approvazione del CdA.",
+   "quote": "supporting the assessment of the initiation of a dividend policy"
+  },
+  {
+   "docId": "fct-cmd-2026",
+   "issuedDate": "2026-02-12",
+   "metric": "revenue",
+   "label": "Ricavi (prospettiva 2035)",
+   "targetFiscalYear": 2035,
+   "targetPeriod": "FY",
+   "low": 18000000000,
+   "high": 18000000000,
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Prospettiva di lungo periodo oltre il piano: ricavi di circa 18 miliardi nel 2035; posizione di cassa netta dal 2032.",
+   "quote": ""
+  },
+  {
+   "docId": "fct-cmd-2026",
+   "issuedDate": "2026-02-12",
+   "metric": "other",
+   "label": "EBITDA margin (prospettiva 2035)",
+   "targetFiscalYear": 2035,
+   "targetPeriod": "FY",
+   "low": 0.13,
+   "high": 0.13,
+   "unit": "percent",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Prospettiva 2035: EBITDA margin di circa il 13% (circa 2,3 miliardi) e utile netto di circa 1,35 miliardi (circa 7,5% dei ricavi).",
+   "quote": ""
+  }
+ ],
+ "custom": [
+  {
+   "category": "segment_revenue",
+   "name": "Shipbuilding",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 6592000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-presentazione-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Shipbuilding - Cruise",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 4404000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-presentazione-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Shipbuilding - Defense",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 2117000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-presentazione-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Shipbuilding - Ship Interiors",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 72000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-presentazione-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Offshore and Specialized Vessels",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 1356000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-presentazione-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Underwater",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 667000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-presentazione-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Equipment, Systems and Infrastructure",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 1320000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-presentazione-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Equipment, Systems and Infrastructure - Electronics and Digital Products",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 452000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-presentazione-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Equipment, Systems and Infrastructure - Mechanical Systems and Components",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 298000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-presentazione-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Equipment, Systems and Infrastructure - Infrastructure",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 568000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-presentazione-fy2025"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Shipbuilding (EBITDA)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 451000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-presentazione-fy2025"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Offshore and Specialized Vessels (EBITDA)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 72000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-presentazione-fy2025"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Underwater (EBITDA)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 117000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-presentazione-fy2025"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Equipment, Systems and Infrastructure (EBITDA)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 109000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-presentazione-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBITDA margin Shipbuilding",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 0.068,
+   "unit": "percent",
+   "source": {
+    "docId": "fct-presentazione-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBITDA margin Offshore and Specialized Vessels",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 0.053,
+   "unit": "percent",
+   "source": {
+    "docId": "fct-presentazione-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBITDA margin Underwater",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 0.176,
+   "unit": "percent",
+   "source": {
+    "docId": "fct-presentazione-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBITDA margin Equipment, Systems and Infrastructure",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 0.082,
+   "unit": "percent",
+   "source": {
+    "docId": "fct-presentazione-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Shipbuilding",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 5729000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-presentazione-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Shipbuilding - Cruise",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 3913000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-presentazione-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Shipbuilding - Defense",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 1754000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-presentazione-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Shipbuilding - Ship Interiors",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 62000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-presentazione-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Offshore and Specialized Vessels",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 1382000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-presentazione-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Underwater",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 354000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-presentazione-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Equipment, Systems and Infrastructure",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 1345000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-presentazione-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Equipment, Systems and Infrastructure - Electronics and Digital Products",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 431000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-presentazione-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Equipment, Systems and Infrastructure - Mechanical Systems and Components",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 230000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-presentazione-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Equipment, Systems and Infrastructure - Infrastructure",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 684000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-presentazione-fy2025"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Shipbuilding (EBITDA)",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 349000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-presentazione-fy2025"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Offshore and Specialized Vessels (EBITDA)",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 71000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-presentazione-fy2025"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Underwater (EBITDA)",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 65000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-presentazione-fy2025"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Equipment, Systems and Infrastructure (EBITDA)",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 82000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-presentazione-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBITDA margin Shipbuilding",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 0.061,
+   "unit": "percent",
+   "source": {
+    "docId": "fct-presentazione-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBITDA margin Offshore and Specialized Vessels",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 0.051,
+   "unit": "percent",
+   "source": {
+    "docId": "fct-presentazione-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBITDA margin Underwater",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 0.182,
+   "unit": "percent",
+   "source": {
+    "docId": "fct-presentazione-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBITDA margin Equipment, Systems and Infrastructure",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 0.061,
+   "unit": "percent",
+   "source": {
+    "docId": "fct-presentazione-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Shipbuilding (perimetro precedente, Underwater non separato)",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 6129000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-fy2024"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Offshore and Specialized Vessels (perimetro precedente, Underwater non separato)",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 1070000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-fy2024"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Equipment, Systems and Infrastructure (perimetro precedente, Underwater non separato)",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 1100000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-fy2024"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Shipbuilding (perimetro precedente, Underwater non separato) (EBITDA)",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 367000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-fy2024"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Offshore and Specialized Vessels (perimetro precedente, Underwater non separato) (EBITDA)",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 52000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-fy2024"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Equipment, Systems and Infrastructure (perimetro precedente, Underwater non separato) (EBITDA)",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 24000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-fy2024"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Shipbuilding",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 4556000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-presentazione-9m-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Shipbuilding - Cruise",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 3477000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-presentazione-9m-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Shipbuilding - Defense",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 1039000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-presentazione-9m-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Shipbuilding - Ship Interiors",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 40000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-presentazione-9m-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Offshore and Specialized Vessels",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 1124000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-presentazione-9m-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Underwater",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 531000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-presentazione-9m-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Equipment, Systems and Infrastructure",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 1037000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-presentazione-9m-2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Shipbuilding (EBITDA)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 335000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-presentazione-9m-2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Offshore and Specialized Vessels (EBITDA)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 61000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-presentazione-9m-2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Underwater (EBITDA)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 93000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-presentazione-9m-2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Equipment, Systems and Infrastructure (EBITDA)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 70000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-presentazione-9m-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBITDA margin Shipbuilding",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 0.073,
+   "unit": "percent",
+   "source": {
+    "docId": "fct-presentazione-9m-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBITDA margin Offshore and Specialized Vessels",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 0.054,
+   "unit": "percent",
+   "source": {
+    "docId": "fct-presentazione-9m-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBITDA margin Underwater",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 0.176,
+   "unit": "percent",
+   "source": {
+    "docId": "fct-presentazione-9m-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBITDA margin Equipment, Systems and Infrastructure",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 0.067,
+   "unit": "percent",
+   "source": {
+    "docId": "fct-presentazione-9m-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Shipbuilding",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 4885000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-presentazione-9m-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Shipbuilding - Cruise",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 3188000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-presentazione-9m-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Shipbuilding - Defense",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 1643000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-presentazione-9m-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Shipbuilding - Ship Interiors",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 54000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-presentazione-9m-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Offshore and Specialized Vessels",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 1041000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-presentazione-9m-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Underwater",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 386000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-presentazione-9m-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Equipment, Systems and Infrastructure",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 927000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-presentazione-9m-2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Shipbuilding (EBITDA)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 316000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-presentazione-9m-2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Offshore and Specialized Vessels (EBITDA)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 57000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-presentazione-9m-2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Underwater (EBITDA)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 67000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-presentazione-9m-2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Equipment, Systems and Infrastructure (EBITDA)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 68000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-presentazione-9m-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBITDA margin Shipbuilding",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 0.065,
+   "unit": "percent",
+   "source": {
+    "docId": "fct-presentazione-9m-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBITDA margin Offshore and Specialized Vessels",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 0.054,
+   "unit": "percent",
+   "source": {
+    "docId": "fct-presentazione-9m-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBITDA margin Underwater",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 0.173,
+   "unit": "percent",
+   "source": {
+    "docId": "fct-presentazione-9m-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBITDA margin Equipment, Systems and Infrastructure",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 0.074,
+   "unit": "percent",
+   "source": {
+    "docId": "fct-presentazione-9m-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Shipbuilding",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 3157000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Offshore and Specialized Vessels",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 792000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Underwater",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 356000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Equipment, Systems and Infrastructure",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 720000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Shipbuilding (EBITDA)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 236000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Offshore and Specialized Vessels (EBITDA)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 40000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Underwater (EBITDA)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 60000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Equipment, Systems and Infrastructure (EBITDA)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 47000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBITDA margin Shipbuilding",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 0.075,
+   "unit": "percent",
+   "source": {
+    "docId": "fct-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBITDA margin Offshore and Specialized Vessels",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 0.05,
+   "unit": "percent",
+   "source": {
+    "docId": "fct-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBITDA margin Underwater",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 0.17,
+   "unit": "percent",
+   "source": {
+    "docId": "fct-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBITDA margin Equipment, Systems and Infrastructure",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 0.065,
+   "unit": "percent",
+   "source": {
+    "docId": "fct-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Shipbuilding",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 3355000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-h1-2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Offshore and Specialized Vessels",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 643000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-h1-2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Underwater",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 274000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-h1-2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Equipment, Systems and Infrastructure",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 661000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-h1-2025"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Shipbuilding (EBITDA)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 218000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-h1-2025"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Offshore and Specialized Vessels (EBITDA)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 32000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-h1-2025"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Underwater (EBITDA)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 47000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-h1-2025"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Equipment, Systems and Infrastructure (EBITDA)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 46000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-h1-2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBITDA margin Shipbuilding",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 0.065,
+   "unit": "percent",
+   "source": {
+    "docId": "fct-risultati-h1-2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBITDA margin Offshore and Specialized Vessels",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 0.049,
+   "unit": "percent",
+   "source": {
+    "docId": "fct-risultati-h1-2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBITDA margin Underwater",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 0.17,
+   "unit": "percent",
+   "source": {
+    "docId": "fct-risultati-h1-2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBITDA margin Equipment, Systems and Infrastructure",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 0.069,
+   "unit": "percent",
+   "source": {
+    "docId": "fct-risultati-h1-2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Shipbuilding",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 1537000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-q1-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Offshore and Specialized Vessels",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 360000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-q1-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Underwater",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 135000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-q1-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Equipment, Systems and Infrastructure",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 309000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-q1-2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Shipbuilding (EBITDA)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 115000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-q1-2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Offshore and Specialized Vessels (EBITDA)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 18000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-q1-2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Underwater (EBITDA)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 23000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-q1-2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Equipment, Systems and Infrastructure (EBITDA)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 20000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-q1-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBITDA margin Shipbuilding",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 0.075,
+   "unit": "percent",
+   "source": {
+    "docId": "fct-risultati-q1-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBITDA margin Offshore and Specialized Vessels",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 0.05,
+   "unit": "percent",
+   "source": {
+    "docId": "fct-risultati-q1-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBITDA margin Underwater",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 0.171,
+   "unit": "percent",
+   "source": {
+    "docId": "fct-risultati-q1-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBITDA margin Equipment, Systems and Infrastructure",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 0.064,
+   "unit": "percent",
+   "source": {
+    "docId": "fct-risultati-q1-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Shipbuilding",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q1",
+   "value": 1828000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-q1-2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Offshore and Specialized Vessels",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q1",
+   "value": 319000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-q1-2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Underwater",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q1",
+   "value": 95000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-q1-2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Equipment, Systems and Infrastructure",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q1",
+   "value": 301000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-q1-2025"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Shipbuilding (EBITDA)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q1",
+   "value": 125000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-q1-2025"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Offshore and Specialized Vessels (EBITDA)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q1",
+   "value": 15000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-q1-2025"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Underwater (EBITDA)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q1",
+   "value": 16000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-q1-2025"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Equipment, Systems and Infrastructure (EBITDA)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q1",
+   "value": 15000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-q1-2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBITDA margin Shipbuilding",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q1",
+   "value": 0.068,
+   "unit": "percent",
+   "source": {
+    "docId": "fct-risultati-q1-2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBITDA margin Offshore and Specialized Vessels",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q1",
+   "value": 0.047,
+   "unit": "percent",
+   "source": {
+    "docId": "fct-risultati-q1-2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBITDA margin Underwater",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q1",
+   "value": 0.17,
+   "unit": "percent",
+   "source": {
+    "docId": "fct-risultati-q1-2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBITDA margin Equipment, Systems and Infrastructure",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q1",
+   "value": 0.049,
+   "unit": "percent",
+   "source": {
+    "docId": "fct-risultati-q1-2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ricavi e proventi",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 7651000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBITDA",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 397000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBITDA margin",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 0.052,
+   "unit": "percent",
+   "source": {
+    "docId": "fct-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ordini acquisiti",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 6600000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Backlog",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 23072000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Soft backlog",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 11700000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Carico di lavoro complessivo (total backlog)",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 34772000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ricavi e proventi",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 8128000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBITDA",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 509000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBITDA margin",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 0.063,
+   "unit": "percent",
+   "source": {
+    "docId": "fct-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ordini acquisiti",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 15355000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Backlog",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 30978000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Soft backlog",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 20200000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Carico di lavoro complessivo (total backlog)",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 51178000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ricavi e proventi",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 9194000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBITDA",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 681000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBITDA margin",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 0.074,
+   "unit": "percent",
+   "source": {
+    "docId": "fct-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ordini acquisiti",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 20331000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Backlog",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 41095000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Soft backlog",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 22100000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Carico di lavoro complessivo (total backlog)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 63195000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ricavi e proventi",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q1",
+   "value": 2376000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-q1-2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBITDA",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q1",
+   "value": 154000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-q1-2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBITDA margin",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q1",
+   "value": 0.065,
+   "unit": "percent",
+   "source": {
+    "docId": "fct-risultati-q1-2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ordini acquisiti",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q1",
+   "value": 11712000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-q1-2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Backlog",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q1",
+   "value": 40344000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-q1-2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Soft backlog",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q1",
+   "value": 17300000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-q1-2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Carico di lavoro complessivo (total backlog)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q1",
+   "value": 57644000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-q1-2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ricavi e proventi",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 4576000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-h1-2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBITDA",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 311000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-h1-2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBITDA margin",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 0.068,
+   "unit": "percent",
+   "source": {
+    "docId": "fct-risultati-h1-2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ordini acquisiti",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 14744000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-h1-2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Backlog",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 41852000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-h1-2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Soft backlog",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 15800000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-h1-2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Carico di lavoro complessivo (total backlog)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 57652000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-h1-2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ricavi e proventi",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 6725000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-9m-2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBITDA",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 461000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-9m-2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBITDA margin",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 0.069,
+   "unit": "percent",
+   "source": {
+    "docId": "fct-risultati-9m-2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ordini acquisiti",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 16020000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-9m-2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Backlog",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 40992000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-9m-2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Soft backlog",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 20100000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-9m-2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Carico di lavoro complessivo (total backlog)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 61092000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-9m-2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ricavi e proventi",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 2135000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-q1-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBITDA",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 159000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-q1-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBITDA margin",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 0.074,
+   "unit": "percent",
+   "source": {
+    "docId": "fct-risultati-q1-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ordini acquisiti",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 3387000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-q1-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Backlog",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 42700000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-q1-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Soft backlog",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 31500000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-q1-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Carico di lavoro complessivo (total backlog)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 74200000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-q1-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ricavi e proventi",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 4580000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBITDA",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 350000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBITDA margin",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 0.076,
+   "unit": "percent",
+   "source": {
+    "docId": "fct-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ordini acquisiti",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 6120000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Backlog",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 43016000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Soft backlog",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 30900000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Carico di lavoro complessivo (total backlog)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 73916000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ricavi e proventi",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 6605000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-presentazione-9m-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBITDA",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 511000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-presentazione-9m-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBITDA margin",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 0.077,
+   "unit": "percent",
+   "source": {
+    "docId": "fct-presentazione-9m-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ordini acquisiti",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 9693000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-presentazione-9m-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Backlog",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 44700000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-presentazione-9m-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Soft backlog",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 27900000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-presentazione-9m-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Carico di lavoro complessivo (total backlog)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 72600000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-presentazione-9m-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ricavi e proventi",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "Q1",
+   "value": 1767000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-q1-2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBITDA",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "Q1",
+   "value": 100000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-q1-2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBITDA margin",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "Q1",
+   "value": 0.057,
+   "unit": "percent",
+   "source": {
+    "docId": "fct-risultati-q1-2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ordini acquisiti",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "Q1",
+   "value": 539000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-q1-2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Backlog",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "Q1",
+   "value": 21956000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-q1-2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Soft backlog",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "Q1",
+   "value": 17300000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-q1-2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Carico di lavoro complessivo (total backlog)",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "Q1",
+   "value": 39256000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-q1-2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ricavi e proventi",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "9M",
+   "value": 5583000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-9m-2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBITDA",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "9M",
+   "value": 328000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-9m-2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBITDA margin",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "9M",
+   "value": 0.059,
+   "unit": "percent",
+   "source": {
+    "docId": "fct-risultati-9m-2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ordini acquisiti",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "9M",
+   "value": 8504000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-9m-2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Backlog",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "9M",
+   "value": 26400000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-9m-2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Soft backlog",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "9M",
+   "value": 13700000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-9m-2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Carico di lavoro complessivo (total backlog)",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "9M",
+   "value": 40100000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-9m-2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ricavi e proventi",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "H1",
+   "value": 3681000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-h1-2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBITDA",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "H1",
+   "value": 214000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-h1-2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBITDA margin",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "H1",
+   "value": 0.058,
+   "unit": "percent",
+   "source": {
+    "docId": "fct-risultati-h1-2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Total backlog / ricavi dell'esercizio",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 6.3,
+   "unit": "x",
+   "source": {
+    "docId": "fct-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Total backlog / ricavi dell'esercizio",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 6.9,
+   "unit": "x",
+   "source": {
+    "docId": "fct-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Total backlog / ricavi 2025",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 7.9,
+   "unit": "x",
+   "source": {
+    "docId": "fct-presentazione-9m-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Backlog / ricavi dell'esercizio",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 3.8,
+   "unit": "x",
+   "source": {
+    "docId": "fct-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Book-to-bill",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 1.9,
+   "unit": "x",
+   "source": {
+    "docId": "fct-presentazione-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Book-to-bill",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 2.2,
+   "unit": "x",
+   "source": {
+    "docId": "fct-presentazione-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Book-to-bill",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 1.5,
+   "unit": "x",
+   "source": {
+    "docId": "fct-presentazione-9m-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Book-to-bill",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 2.4,
+   "unit": "x",
+   "source": {
+    "docId": "fct-presentazione-9m-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ordini acquisiti Shipbuilding",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 12517000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-presentazione-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ordini acquisiti Shipbuilding",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 17773000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-presentazione-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ordini acquisiti Offshore and Specialized Vessels",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 1559000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-presentazione-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ordini acquisiti Offshore and Specialized Vessels",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 1291000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-presentazione-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ordini acquisiti Underwater",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 785000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-presentazione-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ordini acquisiti Underwater",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 581000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-presentazione-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ordini acquisiti Equipment, Systems and Infrastructure",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 1278000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-presentazione-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ordini acquisiti Equipment, Systems and Infrastructure",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 1337000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-presentazione-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ordini acquisiti Shipbuilding",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 14558000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-presentazione-9m-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ordini acquisiti Shipbuilding",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 7322000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-presentazione-9m-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ordini acquisiti Offshore and Specialized Vessels",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 964000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-presentazione-9m-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ordini acquisiti Offshore and Specialized Vessels",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 1210000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-presentazione-9m-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ordini acquisiti Underwater",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 208000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-presentazione-9m-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ordini acquisiti Underwater",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 565000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-presentazione-9m-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ordini acquisiti Equipment, Systems and Infrastructure",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 746000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-presentazione-9m-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ordini acquisiti Equipment, Systems and Infrastructure",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 968000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-presentazione-9m-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Contratti firmati non ancora efficaci (inclusi nel soft backlog)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 12300000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-9m-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Risultato netto adjusted",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": -7000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Risultato netto",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": -53000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Risultato netto adjusted",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 57000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Risultato netto",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 27000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Risultato netto adjusted",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 143000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Risultato netto",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 117000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Risultato netto",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 35000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-h1-2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Risultato netto adjusted",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 48000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-h1-2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Risultato netto",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 102000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Risultato netto adjusted",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 113000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBIT",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 246000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBIT",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 162000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBIT",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 368000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-presentazione-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Oneri estranei alla gestione ordinaria e non ricorrenti",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 44000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "di cui contenziosi amianto",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 38000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Oneri estranei alla gestione ordinaria e non ricorrenti",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 37000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-semestrale-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "di cui contenziosi amianto",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 35000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-semestrale-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Oneri estranei alla gestione ordinaria e non ricorrenti",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 15000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Posizione finanziaria netta (debito)",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 2271000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Posizione finanziaria netta (debito)",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 1281000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Posizione finanziaria netta escluso il beneficio temporaneo dell'aumento di capitale",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 1668000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Leva PFN/EBITDA",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 5.7,
+   "unit": "x",
+   "source": {
+    "docId": "fct-risultati-fy2023"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Leva PFN/EBITDA escluso aumento di capitale",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 3.3,
+   "unit": "x",
+   "source": {
+    "docId": "fct-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Net debt (ESMA, esclusi crediti finanziari non correnti)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 1872000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Net debt adjusted",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 1311000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Leva Net debt/EBITDA",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 2.7,
+   "unit": "x",
+   "source": {
+    "docId": "fct-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Leva Net debt adjusted/EBITDA",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 1.9,
+   "unit": "x",
+   "source": {
+    "docId": "fct-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Net debt",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q1",
+   "value": 1608000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-q1-2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Net debt",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 1644000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-h1-2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Net debt",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 1648000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-9m-2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Leva Net debt/EBITDA LTM",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 2.7,
+   "unit": "x",
+   "source": {
+    "docId": "fct-risultati-h1-2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Leva Net debt/EBITDA LTM",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 2.6,
+   "unit": "x",
+   "source": {
+    "docId": "fct-risultati-9m-2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Net debt adjusted",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 771000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-q1-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Net debt adjusted escluso aumento di capitale 2026",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 1249000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-q1-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Leva Net debt adjusted/EBITDA LTM",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 1.1,
+   "unit": "x",
+   "source": {
+    "docId": "fct-risultati-q1-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Leva Net debt adjusted/EBITDA LTM escluso aumento di capitale 2026",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 1.8,
+   "unit": "x",
+   "source": {
+    "docId": "fct-risultati-q1-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Net debt adjusted",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 756000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Net debt adjusted escluso aumento di capitale 2026",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 1234000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Leva Net debt adjusted/EBITDA LTM",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 1.0,
+   "unit": "x",
+   "source": {
+    "docId": "fct-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Leva Net debt adjusted/EBITDA LTM escluso aumento di capitale 2026",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 1.7,
+   "unit": "x",
+   "source": {
+    "docId": "fct-risultati-h1-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Net debt adjusted",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 730000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-9m-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Net debt adjusted escluso aumento di capitale 2026",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 1208000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-9m-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Leva Net debt adjusted/EBITDA LTM",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 1.0,
+   "unit": "x",
+   "source": {
+    "docId": "fct-risultati-9m-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Leva Net debt adjusted/EBITDA LTM escluso aumento di capitale 2026",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 1.7,
+   "unit": "x",
+   "source": {
+    "docId": "fct-risultati-9m-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Construction loans",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 0,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-h1-2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Construction loans",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 300000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-h1-2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Debiti verso fornitori per reverse factoring (esclusi dalla PFN)",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 493000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Debiti verso fornitori per reverse factoring (esclusi dalla PFN)",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 650000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Debiti verso fornitori per reverse factoring (esclusi dal Net debt adjusted)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 891000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-semestrale-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Crediti finanziari non correnti",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 561000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-semestrale-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Crediti finanziari non correnti",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 548000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-semestrale-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Capitale di esercizio netto",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": -634000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-semestrale-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Capitale di esercizio netto",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": -723000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-semestrale-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Investimenti",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 263000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Investimenti",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 389000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-semestrale-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Investimenti",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 169000000,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-semestrale-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Navi consegnate",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 26,
+   "unit": "count",
+   "source": {
+    "docId": "fct-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Navi consegnate",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 20,
+   "unit": "count",
+   "source": {
+    "docId": "fct-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Navi consegnate",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 24,
+   "unit": "count",
+   "source": {
+    "docId": "fct-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Navi consegnate",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 19,
+   "unit": "count",
+   "source": {
+    "docId": "fct-risultati-9m-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Navi in portafoglio",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 98,
+   "unit": "count",
+   "source": {
+    "docId": "fct-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Navi in portafoglio",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 97,
+   "unit": "count",
+   "source": {
+    "docId": "fct-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Navi in portafoglio",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 90,
+   "unit": "count",
+   "source": {
+    "docId": "fct-risultati-9m-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Dipendenti",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 21215,
+   "unit": "count",
+   "source": {
+    "docId": "fct-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Dipendenti",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 22588,
+   "unit": "count",
+   "source": {
+    "docId": "fct-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Dipendenti",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 24370,
+   "unit": "count",
+   "source": {
+    "docId": "fct-semestrale-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Dipendenti",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 24451,
+   "unit": "count",
+   "source": {
+    "docId": "fct-semestrale-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Nuove azioni emesse con l'aumento di capitale in opzione 2024",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "H1",
+   "value": 152419410,
+   "unit": "count",
+   "source": {
+    "docId": "fct-aumento-capitale-2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Proventi dell'aumento di capitale in opzione 2024",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "H1",
+   "value": 399338854.2,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-aumento-capitale-2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Azioni ordinarie in circolazione (al 3 marzo 2025)",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 323159676,
+   "unit": "count",
+   "source": {
+    "docId": "fct-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Nuove azioni emesse con l'aumento di capitale riservato di febbraio 2026",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 32588445,
+   "unit": "count",
+   "source": {
+    "docId": "fct-abb-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Prezzo di collocamento aumento di capitale febbraio 2026",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 15.32,
+   "unit": "per_share",
+   "source": {
+    "docId": "fct-abb-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Proventi lordi aumento di capitale febbraio 2026",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 499254977.4,
+   "unit": "currency",
+   "source": {
+    "docId": "fct-abb-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Azioni ordinarie in circolazione dopo l'aumento di febbraio 2026",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 358472900,
+   "unit": "count",
+   "source": {
+    "docId": "fct-abb-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Quota CDP Equity dopo l'aumento di febbraio 2026",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 0.6425,
+   "unit": "percent",
+   "source": {
+    "docId": "fct-abb-2026"
+   }
+  }
+ ],
+ "insights": {
+  "id": "fct-risultati-9m-2026",
+  "summary": "Nel 2025 Fincantieri ha chiuso con ricavi di 9.194 milioni (+13,1%), EBITDA di 681 milioni (margine 7,4%, dal 6,3%) e utile netto di 117 milioni (27 nel 2024), con ordini per 20,3 miliardi e carico di lavoro complessivo di 63,2 miliardi. Nei primi nove mesi del 2026 i ricavi sono scesi a 6.605 milioni (-1,8%) per il calo della Difesa (1.039 milioni contro 1.643), mentre l'EBITDA è salito a 511 milioni (+10,9%, margine 7,7%). Il carico di lavoro è a 72,6 miliardi, ma il soft backlog pesa per 27,9 miliardi. A febbraio 2026 la società ha raccolto circa 500 milioni con un aumento di capitale riservato, destinati alle quattro acquisizioni Underwater annunciate a luglio. La guidance 2026 è stata alzata due volte (maggio e novembre): EBITDA 715-725 milioni, utile netto 140-180 milioni, ricavi 9,3-9,4 miliardi.",
+  "businessModel": "Costruttore navale su commessa pluriennale. Quattro segmenti: Shipbuilding (navi da crociera, navi militari, allestimenti interni; 6.592 milioni di ricavi nel 2025, di cui Cruise 4.404 e Defense 2.117), Offshore and Specialized Vessels (controllata Vard; 1.356 milioni), Underwater (sottomarini e sistemi subacquei, con WASS acquisita da Leonardo a gennaio 2025; 667 milioni, margine EBITDA 17,6%) ed Equipment, Systems and Infrastructure (elettronica, meccanica, infrastrutture; 1.320 milioni). I clienti sono pochi grandi armatori crocieristici e marine militari (Italia, Stati Uniti, altri paesi). I ricavi si riconoscono per avanzamento lavori; la cassa dipende da anticipi e rate alla consegna, con ricorso a construction loans e reverse factoring. L'azionista di controllo è CDP Equity (circa 64,25% dopo l'aumento di febbraio 2026).",
+  "highlights": [
+   "EBITDA 2025 a 681 milioni (+33,9%) con margine dal 6,3% al 7,4%; nei 9M 2026 margine al 7,7% (6,9% nei 9M 2025).",
+   "Utile netto 2025 di 117 milioni contro 27 nel 2024; nel primo semestre 2026 102 milioni contro 35.",
+   "Carico di lavoro complessivo a 72,6 miliardi al 30 settembre 2026, pari a 7,9 volte i ricavi 2025; backlog a 44,7 miliardi (+8,8% da fine 2025).",
+   "Underwater: ricavi 9M 2026 a 531 milioni (+37,6%) ed EBITDA a 93 milioni (margine 17,6%), il segmento a redditività più alta.",
+   "Leva scesa: Net debt adjusted/EBITDA a 1,0x al 30 settembre 2026 (1,7x escluso l'aumento di capitale), da 1,9x a fine 2025; nel 2023 il rapporto PFN/EBITDA era 5,7x.",
+   "Guidance rispettata o superata in entrambi gli esercizi chiusi: 2024 ricavi 8,13 miliardi contro \"oltre 8\", margine 6,3% contro circa 6%; 2025 ricavi 9,2 miliardi contro circa 9, margine 7,4%, utile 117 milioni contro 110 indicati a fine anno."
+  ],
+  "lowlights": [
+   "Ricavi 9M 2026 in calo dell'1,8% (6.605 milioni); Shipbuilding -6,7%, con la Difesa a 1.039 milioni contro 1.643 (nel 2025 c'era la vendita di due PPA all'Indonesia e i programmi US Navy sono in rimodulazione).",
+   "Ordini 9M 2026 a 9,7 miliardi contro 16,0 miliardi nei 9M 2025; book-to-bill da 2,4x a 1,5x.",
+   "Il soft backlog (opzioni, lettere d'intenti, trattative avanzate, programmi della difesa italiana) è salito a 27,9 miliardi, il 38% del carico di lavoro; 12,3 miliardi di contratti firmati nei 9M 2026 non sono ancora efficaci.",
+   "Due aumenti di capitale in venti mesi: circa 399 milioni a luglio 2024 (152,4 milioni di nuove azioni) e circa 499 milioni a febbraio 2026 (32,6 milioni di azioni a 15,32 euro).",
+   "Nessun dividendo: il piano ne prevede la valutazione solo dal 2028, sui risultati 2027.",
+   "Equipment, Systems and Infrastructure: margine EBITDA 9M 2026 al 6,7% dal 7,4%; ricavi del cluster Infrastructure 2025 a 568 milioni (-17%)."
+  ],
+  "risks": [
+   {
+    "title": "Programmi US Navy della controllata americana",
+    "detail": "Il programma Constellation è stato ridefinito a novembre 2025, con ritardo dei ricavi attesi negli Stati Uniti. Fincantieri Marine Group ha un primo contratto LSM da 30 milioni di dollari, con avvio della costruzione previsto nel quarto trimestre 2026; gli altri ordini sono attesi \"nei prossimi mesi\".",
+    "severity": "alta"
+   },
+   {
+    "title": "Conversione del soft backlog in ordini efficaci",
+    "detail": "27,9 miliardi su 72,6 di carico di lavoro non sono ordini fermi; alcuni contratti in backlog sono soggetti a finanziamento e altre condizioni. L'ordine Princess Cruises di aprile 2026 (tre navi) non è ancora efficace.",
+    "severity": "alta"
+   },
+   {
+    "title": "Integrazione di quattro acquisizioni Underwater",
+    "detail": "Next Geosolutions, WSense, Graal Tech e Defcomm, investimento iniziale di circa 600 milioni secondo la stampa, closing atteso entro fine 2026. La guidance 2026 non ne include gli effetti; il management dichiara un contributo di circa 130 milioni all'utile netto 2030 pro forma.",
+    "severity": "media"
+   },
+   {
+    "title": "Esecuzione dell'aumento di capacità produttiva",
+    "detail": "Il piano prevede il raddoppio della capacità Difesa nei cantieri italiani, lo spostamento di lavorazioni crociera in Romania e circa 1,9 miliardi di investimenti 2026-2030. Consegne programmate fino al 2036-2039: errori di stima dei costi su commesse lunghe pesano direttamente sui margini.",
+    "severity": "media"
+   },
+   {
+    "title": "Contenziosi amianto",
+    "detail": "Costo ricorrente classificato fuori dall'EBITDA: 61 milioni nel 2023, 38 nel 2024, 35 nel 2025, 15 nel primo semestre 2026.",
+    "severity": "media"
+   },
+   {
+    "title": "Capitale circolante e debito non compreso nella leva",
+    "detail": "Debiti per reverse factoring esclusi dall'indebitamento netto: 650 milioni a fine 2024 e 891 milioni al 30 giugno 2026; capitale di esercizio netto negativo per 723 milioni. Un'inversione degli anticipi dei clienti aumenterebbe il fabbisogno.",
+    "severity": "media"
+   }
+  ],
+  "accountingFlags": [
+   {
+    "title": "Cambio di definizione dell'indebitamento netto",
+    "detail": "Dal bilancio 2025 la società pubblica un Net debt adjusted che include i crediti finanziari non correnti (561 milioni a fine 2025): 1.311 milioni e 1,9x, contro 1.872 milioni e 2,7x con la definizione ESMA. La guidance 2026 sulla leva usa la misura adjusted, quella 2025 usava la misura ESMA: i due valori non sono confrontabili direttamente.",
+    "severity": "alta"
+   },
+   {
+    "title": "Reverse factoring fuori dall'indebitamento netto",
+    "detail": "I debiti verso fornitori ceduti in reverse factoring non sono inclusi nella posizione finanziaria netta: 493 milioni nel 2023, 650 nel 2024, 891 al 30 giugno 2026. Sommati al Net debt adjusted del semestre (756 milioni) lo raddoppierebbero.",
+    "severity": "alta"
+   },
+   {
+    "title": "Costi amianto esclusi dall'EBITDA ogni anno",
+    "detail": "Gli accantonamenti per contenziosi amianto sono trattati come estranei alla gestione ordinaria pur ripetendosi in ogni esercizio (35-61 milioni l'anno nel 2023-2025). Differenza tra utile adjusted e contabile 2025: 143 contro 117 milioni.",
+    "severity": "media"
+   },
+   {
+    "title": "Riesposizione dei segmenti",
+    "detail": "Dal primo trimestre 2025 Underwater è un segmento separato e il 2024 è stato riesposto: Shipbuilding 2024 passa da 5.990 a 5.729 milioni di ricavi e da 396 a 349 milioni di EBITDA; Equipment, Systems and Infrastructure da 1.498 a 1.345 milioni. Il 2023 è disponibile solo sul vecchio perimetro.",
+    "severity": "media"
+   },
+   {
+    "title": "Effetto temporaneo degli aumenti di capitale sulla leva",
+    "detail": "La PFN di fine 2024 (1.281 milioni) beneficiava della cassa raccolta per pagare WASS a gennaio 2025: senza, 1.668 milioni e 3,3x. Analogamente nel 2026 la leva di 1,0x diventa 1,7x escludendo i 500 milioni destinati alle acquisizioni Underwater.",
+    "severity": "media"
+   }
+  ],
+  "capitalAllocation": "Nessun dividendo; il Piano 2026-2030 prevede di valutarne l'avvio dal 2028 sui risultati 2027. Il capitale è stato raccolto dagli azionisti due volte: circa 399 milioni a luglio 2024 (in opzione, con warrant 2024-2026 abbinati) per acquisire la linea Underwater Armaments & Systems di Leonardo (WASS, chiusa il 14 gennaio 2025), e circa 499 milioni a febbraio 2026 (collocamento riservato a 15,32 euro) per flessibilità finanziaria e crescita per linee esterne, poi destinati alle quattro acquisizioni Underwater di luglio 2026. Investimenti saliti da 263 milioni (2024) a 389 milioni (2025); il piano ne prevede circa 1,9 miliardi nel 2026-2030. A luglio 2025 collocato uno Schuldschein senior unsecured da 395 milioni; nessuna scadenza rilevante a lungo termine fino al 2028 e nessun covenant, secondo la presentazione dei risultati 2025.",
+  "competitivePosition": "I documenti descrivono un gruppo con 97 navi in portafoglio a fine 2025 (90 al 30 settembre 2026) e consegne programmate fino al 2036, estese al 2039 con l'ordine Princess Cruises non ancora efficace. La pagina Outlook cita l'ingresso in una nuova classe di navi da crociera oltre le 200.000 tonnellate di stazza lorda. In ambito militare lavora per la Marina italiana, la US Navy e clienti esteri (Indonesia, Emirati con la joint venture MAESTRAL, Portogallo con un accordo per tre FREMM EVO) e partecipa ai consorzi europei con Navantia e Naval Group. I documenti aperti non riportano quote di mercato né confronti numerici con i concorrenti.",
+  "managementTone": {
+   "label": "molto positivo",
+   "rationale": "Guidance 2026 alzata a maggio e di nuovo a novembre; il comunicato dei nove mesi parla di accelerazione della redditività e il CEO definisce i risultati 2025 un record sotto ogni profilo. Il calo dei ricavi e degli ordini nei nove mesi è attribuito a effetti una tantum e alla rimodulazione dei programmi US Navy."
+  },
+  "nonGaapAdjustments": [
+   "EBITDA al netto di accantonamenti per contenziosi amianto, costi di riorganizzazione e altri oneri non ricorrenti (37 milioni nel 2025, di cui 35 amianto; 44 nel 2024, di cui 38 amianto e 6 per M&A e aumento di capitale).",
+   "Risultato netto adjusted: esclude le stesse voci al netto dell'effetto fiscale (143 contro 117 milioni nel 2025; 57 contro 27 nel 2024).",
+   "Net debt adjusted: include i crediti finanziari non correnti (561 milioni a fine 2025) ed esclude i debiti per reverse factoring.",
+   "Leva 2024 e 2026 presentata anche \"escluso l'effetto temporaneo dell'aumento di capitale\"."
+  ],
+  "keyQuotes": [
+   {
+    "text": "Our performance in the first nine months of 2026 confirms the acceleration in Fincantieri's profitability",
+    "why": "Sintesi del management sui nove mesi 2026: la crescita viene dal margine, non dai ricavi (in calo dell'1,8%)."
+   },
+   {
+    "text": "Total backlog reached 72.6 billion euro, nearly eight times 2025 revenues",
+    "why": "Il dato su cui il management fonda la visibilità; include 27,9 miliardi di soft backlog."
+   },
+   {
+    "text": "we expect over 50 billion euro in new orders over the period, revenues growing at an average annual rate of 8%",
+    "why": "Impegno del CEO al Capital Markets Day: è il parametro su cui misurare il Piano 2026-2030."
+   },
+   {
+    "text": "The creation of the new Underwater segment represents a fundamental step in the Group's industrial evolution.",
+    "why": "Motiva la separazione del segmento Underwater dal primo trimestre 2025 e le acquisizioni successive."
+   }
+  ],
+  "openQuestions": [
+   "Qual è il prezzo delle quattro acquisizioni Underwater per singola società, con quali meccanismi di earn-out, e quanto debito portano?",
+   "Quanta parte del soft backlog di 27,9 miliardi diventerà ordine efficace e in che tempi, in particolare i 12,3 miliardi di contratti firmati ma non efficaci?",
+   "Quali ricavi e margini avrà la controllata americana dopo la ridefinizione del programma Constellation e con il nuovo programma LSM?",
+   "Qual è il livello dei construction loans e del reverse factoring a fine 2025 e al 30 settembre 2026, e come cambierebbe la leva includendoli?",
+   "Come si concilia un utile netto 2026 di 140-180 milioni con l'obiettivo di circa 220 milioni nel 2028 e circa 500 milioni nel 2030, e quanto dipende dalle acquisizioni?"
+  ]
+ },
+ "price": {
+  "value": 11.34,
+  "date": "2026-11-17",
+  "currency": "EUR",
+  "url": "https://www.soldionline.it/quotazioni/dettaglio/IT0005599938.html"
+ },
+ "missing": [
+  "Relazione Finanziaria Annuale 2025: il PDF sul sito non è apribile (robots_disallowed); i dati 2025 vengono da comunicato, presentazione e relazione semestrale 2026.",
+  "Relazione Finanziaria Annuale 2024: PDF aperto ma leggibile solo in parte (testo troncato); sezione rischi, note e dettaglio dei construction loans non estratti, quindi il documento non è stato usato.",
+  "Construction loans a fine 2025 e nel 2026: non riportati nei documenti letti (unici dati: zero al 31.12.2024 e 300 milioni al 30.06.2025).",
+  "Comunicato del 16 dicembre 2025 sull'approvazione del Piano 2026-2030 con l'aggiornamento della guidance 2025: non trovato sul sito della società; i valori sono presi dal comunicato del Capital Markets Day del 12 febbraio 2026.",
+  "Comunicato originale dei risultati del primo semestre 2024 sul sito della società: non trovato, usata la riproduzione di PressMare; risultato netto e soft backlog del semestre 2024 non disponibili.",
+  "Guidance 2024 sul risultato netto: la pagina Outlook riporta \"One year ahead of plan\" ma nessun comunicato letto ne indica data e testo.",
+  "Obiettivi numerici del Piano 2023-2027 (resta solo l'intervallo di leva 2025 di 4,5-5,5x citato nel comunicato sui risultati 2024) e obiettivi di piano per singolo segmento: non pubblicati nei documenti letti.",
+  "Ricavi per area geografica e concentrazione dei clienti: non trovati.",
+  "Termini dei warrant 2024-2026 (prezzo e rapporto di esercizio), raggruppamento azionario del 2024 e numero di azioni a fine 2025 e a oggi: non trovati; il capitale sociale indicato varia tra i documenti (881,7-883,7 milioni).",
+  "Prezzo, quote acquisite ed enterprise value delle acquisizioni Underwater di luglio 2026: comunicato primario non aperto (Naval News bloccato); disponibile solo l'importo complessivo di circa 600 milioni via Forbes Italia.",
+  "Dettaglio per segmento della guidance e del piano; trascrizioni delle conference call: non cercati o non disponibili.",
+  "Prezzo dell'azione: chiusura del 17.11.2026 da Soldionline (11,34 euro); la capitalizzazione mostrata dalla stessa pagina (3,69 miliardi) non è coerente con 358,5 milioni di azioni, e il prezzo è inferiore a quello del collocamento di febbraio 2026 (15,32 euro): da verificare."
+ ]
+}

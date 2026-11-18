@@ -1,0 +1,2487 @@
+{
+  "documents": [
+    {
+      "id": "rdw-risultati-fy2023",
+      "title": "Risultati quarto trimestre ed esercizio 2023 (comunicato stampa, allegato 99.1 al Form 8-K)",
+      "type": "earnings_release",
+      "date": "2024-03-14",
+      "fiscalYear": 2023,
+      "fiscalPeriod": "FY",
+      "url": "https://www.sec.gov/Archives/edgar/data/1819810/000181981024000017/exhibit991redwire12312023e.htm"
+    },
+    {
+      "id": "rdw-risultati-q1-2024",
+      "title": "Risultati primo trimestre 2024 (comunicato stampa, allegato 99.1 al Form 8-K)",
+      "type": "earnings_release",
+      "date": "2024-05-08",
+      "fiscalYear": 2024,
+      "fiscalPeriod": "Q1",
+      "url": "https://www.sec.gov/Archives/edgar/data/1819810/000181981024000038/exhibit991redwire3312024ea.htm"
+    },
+    {
+      "id": "rdw-risultati-q2-2024",
+      "title": "Risultati secondo trimestre 2024 (comunicato stampa, allegato 99.1 al Form 8-K)",
+      "type": "earnings_release",
+      "date": "2024-08-07",
+      "fiscalYear": 2024,
+      "fiscalPeriod": "Q2",
+      "url": "https://www.sec.gov/Archives/edgar/data/1819810/000181981024000089/exhibit991redwire6302024ea.htm"
+    },
+    {
+      "id": "rdw-risultati-q3-2024",
+      "title": "Risultati terzo trimestre 2024 (comunicato stampa, allegato 99.1 al Form 8-K)",
+      "type": "earnings_release",
+      "date": "2024-11-06",
+      "fiscalYear": 2024,
+      "fiscalPeriod": "Q3",
+      "url": "https://www.sec.gov/Archives/edgar/data/1819810/000181981024000111/exhibit991redwire9302024ea.htm"
+    },
+    {
+      "id": "rdw-annuncio-edge-autonomy",
+      "title": "Annuncio dell'acquisizione di Edge Autonomy (comunicato stampa, allegato al Form 8-K)",
+      "type": "8-K",
+      "date": "2025-01-20",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "Q1",
+      "url": "https://www.sec.gov/Archives/edgar/data/1819810/000181981025000016/exhibit999echelonpressrele.htm"
+    },
+    {
+      "id": "rdw-risultati-fy2024",
+      "title": "Risultati quarto trimestre ed esercizio 2024 (comunicato stampa, allegato 99.1 al Form 8-K)",
+      "type": "earnings_release",
+      "date": "2025-03-10",
+      "fiscalYear": 2024,
+      "fiscalPeriod": "FY",
+      "url": "https://www.sec.gov/Archives/edgar/data/1819810/000181981025000050/exhibit991redwire12312024e.htm"
+    },
+    {
+      "id": "rdw-risultati-q1-2025",
+      "title": "Risultati primo trimestre 2025 (comunicato stampa, allegato 99.1 al Form 8-K)",
+      "type": "earnings_release",
+      "date": "2025-05-12",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "Q1",
+      "url": "https://www.sec.gov/Archives/edgar/data/1819810/000181981025000133/exhibit991redwire3312025ea.htm"
+    },
+    {
+      "id": "rdw-chiusura-edge-autonomy",
+      "title": "Completamento dell'acquisizione di Edge Autonomy (comunicato stampa)",
+      "type": "other",
+      "date": "2025-06-13",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "Q2",
+      "url": "https://d1io3yog0oux5.cloudfront.net/_2849fddfae6724fbee02fedd8f40003e/redwirespace/news/2025-06-13_Redwire_Completes_Acquisition_of_Edge_Autonomy_179.pdf"
+    },
+    {
+      "id": "rdw-proforma-edge-autonomy",
+      "title": "Informazioni finanziarie pro-forma non sottoposte a revisione per l'acquisizione di Edge Autonomy (allegato 99.2 al Form 8-K)",
+      "type": "8-K",
+      "date": "2025-06-13",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "Q2",
+      "url": "https://www.sec.gov/Archives/edgar/data/1819810/000181981025000163/exhibit992proformastatemen.htm"
+    },
+    {
+      "id": "rdw-risultati-q2-2025",
+      "title": "Risultati secondo trimestre 2025 (comunicato stampa, allegato 99.1 al Form 8-K)",
+      "type": "earnings_release",
+      "date": "2025-08-06",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "Q2",
+      "url": "https://www.sec.gov/Archives/edgar/data/1819810/000181981025000212/exhibit991redwire6302025ea.htm"
+    },
+    {
+      "id": "rdw-risultati-q3-2025",
+      "title": "Risultati terzo trimestre 2025 (comunicato stampa, allegato 99.1 al Form 8-K)",
+      "type": "earnings_release",
+      "date": "2025-11-05",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "Q3",
+      "url": "https://www.sec.gov/Archives/edgar/data/1819810/000181981025000244/exhibit991redwire9302025ea.htm"
+    },
+    {
+      "id": "rdw-10q-q3-2025",
+      "title": "Form 10-Q terzo trimestre 2025 (letto solo in parte: prospetti e note A-C; data di deposito non verificata)",
+      "type": "10-Q",
+      "date": "2025-11-05",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "Q3",
+      "url": "https://www.sec.gov/Archives/edgar/data/1819810/000181981025000248/rdw-20250930.htm"
+    },
+    {
+      "id": "rdw-risultati-fy2025",
+      "title": "Risultati quarto trimestre ed esercizio 2025 (comunicato stampa, allegato 99.1 al Form 8-K/A)",
+      "type": "earnings_release",
+      "date": "2026-02-25",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "FY",
+      "url": "https://www.sec.gov/Archives/edgar/data/1819810/000181981026000019/exhibit991redwire12312025e.htm"
+    },
+    {
+      "id": "rdw-call-q4-2025",
+      "title": "Conference call sui risultati del quarto trimestre 2025 (sintesi via MarketBeat)",
+      "type": "transcript",
+      "date": "2026-02-28",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "Q4",
+      "url": "https://www.marketbeat.com/instant-alerts/redwire-q4-earnings-call-highlights-2026-02-28/?.tsrc=rss"
+    },
+    {
+      "id": "rdw-10k-fy2025",
+      "title": "Form 10-K esercizio 2025 (letto solo in parte: copertina, Item 1 e parte dei fattori di rischio; data di deposito non verificata)",
+      "type": "10-K",
+      "date": "2026-02-25",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "FY",
+      "url": "https://www.sec.gov/Archives/edgar/data/1819810/000181981026000029/rdw-20251231.htm"
+    },
+    {
+      "id": "rdw-risultati-q1-2026",
+      "title": "Risultati primo trimestre 2026 (comunicato stampa, allegato 99.1 al Form 8-K)",
+      "type": "earnings_release",
+      "date": "2026-05-06",
+      "fiscalYear": 2026,
+      "fiscalPeriod": "Q1",
+      "url": "https://ir.rdw.com/sec-filings/all-sec-filings/content/0001819810-26-000060/exhibit991redwire03312026e.htm"
+    },
+    {
+      "id": "rdw-8k-atm-giu-2026",
+      "title": "Form 8-K del 9 giugno 2026: nuovo programma At-The-Market fino a 500 milioni di dollari",
+      "type": "8-K",
+      "date": "2026-06-09",
+      "fiscalYear": 2026,
+      "fiscalPeriod": "Q2",
+      "url": "https://ir.rdw.com/sec-filings/all-sec-filings/content/0001819810-26-000078/rdw-20260609.htm"
+    },
+    {
+      "id": "rdw-risultati-q2-2026",
+      "title": "Risultati secondo trimestre 2026 (comunicato stampa, allegato 99.1 al Form 8-K)",
+      "type": "earnings_release",
+      "date": "2026-08-05",
+      "fiscalYear": 2026,
+      "fiscalPeriod": "Q2",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001819810/000181981026000121/exhibit991redwire06302026e.htm"
+    },
+    {
+      "id": "rdw-risultati-q3-2026",
+      "title": "Risultati terzo trimestre 2026 (comunicato stampa, allegato 99.1 al Form 8-K)",
+      "type": "earnings_release",
+      "date": "2026-11-04",
+      "fiscalYear": 2026,
+      "fiscalPeriod": "Q3",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001819810/000181981026000139/exhibit991redwire09302026e.htm"
+    },
+    {
+      "id": "rdw-10q-q3-2026",
+      "title": "Form 10-Q terzo trimestre 2026 (letto solo in parte: prospetti e prime note; data di deposito non verificata)",
+      "type": "10-Q",
+      "date": "2026-11-04",
+      "fiscalYear": 2026,
+      "fiscalPeriod": "Q3",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001819810/000181981026000142/rdw-20260930.htm"
+    },
+    {
+      "id": "rdw-call-q3-2026",
+      "title": "Conference call sui risultati del terzo trimestre 2026 (sintesi via Zacks)",
+      "type": "transcript",
+      "date": "2026-11-07",
+      "fiscalYear": 2026,
+      "fiscalPeriod": "Q3",
+      "url": "https://zacks.com/stock/news/3025730/rdw-q3-earnings-call-highlights-backlog-growth-and-revenue-delays"
+    },
+    {
+      "id": "rdw-call-q3-2026-quartr",
+      "title": "Conference call sui risultati del terzo trimestre 2026 (sintesi via Quartr)",
+      "type": "transcript",
+      "date": "2026-11-04",
+      "fiscalYear": 2026,
+      "fiscalPeriod": "Q3",
+      "url": "https://quartr.com/events/redwire-corporation-rdw-q3-2026_oqjnC1yY"
+    },
+    {
+      "id": "rdw-reazione-q3-2026",
+      "title": "Reazione del titolo ai risultati del terzo trimestre 2026 (via The Motley Fool)",
+      "type": "other",
+      "date": "2026-11-05",
+      "fiscalYear": 2026,
+      "fiscalPeriod": "Q3",
+      "url": "https://www.fool.com/investing/2026/11/05/why-redwire-stock-is-plummeting-today/"
+    }
+  ],
+  "guidance": [
+    {
+      "docId": "rdw-risultati-fy2023",
+      "issuedDate": "2024-03-14",
+      "metric": "revenue",
+      "label": "Ricavi",
+      "targetFiscalYear": 2024,
+      "targetPeriod": "FY",
+      "low": 300000000,
+      "high": 300000000,
+      "unit": "currency",
+      "nonGaap": false,
+      "qualitative": false,
+      "text": "Guidance iniziale 2024: ricavi di 300 milioni di dollari. Nessuna indicazione numerica su Adjusted EBITDA o Free Cash Flow.",
+      "quote": "For the full year ended December 31, 2024, Redwire is forecasting revenues of $300 million."
+    },
+    {
+      "docId": "rdw-risultati-q1-2024",
+      "issuedDate": "2024-05-08",
+      "metric": "revenue",
+      "label": "Ricavi",
+      "targetFiscalYear": 2024,
+      "targetPeriod": "FY",
+      "low": 300000000,
+      "high": 300000000,
+      "unit": "currency",
+      "nonGaap": false,
+      "qualitative": false,
+      "text": "Guidance 2024 confermata con i risultati del primo trimestre.",
+      "quote": "For the full year ended December 31, 2024, Redwire affirms that it is forecasting revenues of $300 million."
+    },
+    {
+      "docId": "rdw-risultati-q2-2024",
+      "issuedDate": "2024-08-07",
+      "metric": "revenue",
+      "label": "Ricavi",
+      "targetFiscalYear": 2024,
+      "targetPeriod": "FY",
+      "low": 300000000,
+      "high": 300000000,
+      "unit": "currency",
+      "nonGaap": false,
+      "qualitative": false,
+      "text": "Guidance 2024 confermata con i risultati del secondo trimestre.",
+      "quote": "affirms that it is forecasting revenues of $300 million"
+    },
+    {
+      "docId": "rdw-risultati-q3-2024",
+      "issuedDate": "2024-11-06",
+      "metric": "revenue",
+      "label": "Ricavi",
+      "targetFiscalYear": 2024,
+      "targetPeriod": "FY",
+      "low": 310000000,
+      "high": 310000000,
+      "unit": "currency",
+      "nonGaap": false,
+      "qualitative": false,
+      "text": "Con i risultati del terzo trimestre la previsione di ricavi 2024 è indicata a 310 milioni di dollari, contro i 300 milioni dei trimestri precedenti (rialzo). Il consuntivo 2024 è stato di 304,1 milioni, sotto questo valore.",
+      "quote": "Redwire affirms that it is forecasting revenues of $310 million"
+    },
+    {
+      "docId": "rdw-annuncio-edge-autonomy",
+      "issuedDate": "2025-01-20",
+      "metric": "revenue",
+      "label": "Ricavi (società combinata con Edge Autonomy)",
+      "targetFiscalYear": 2025,
+      "targetPeriod": "FY",
+      "low": 535000000,
+      "high": 605000000,
+      "unit": "currency",
+      "nonGaap": false,
+      "qualitative": false,
+      "text": "Guidance iniziale 2025 (società combinata), data con l'annuncio dell'acquisizione di Edge Autonomy. Somma delle previsioni autonome di Redwire e di Edge Autonomy preparate dal management, nell'ipotesi che l'acquisizione fosse chiusa il 1° gennaio 2025; non redatta secondo l'Article 11 della Regulation S-X e non sottoposta a revisione.",
+      "quote": ""
+    },
+    {
+      "docId": "rdw-annuncio-edge-autonomy",
+      "issuedDate": "2025-01-20",
+      "metric": "ebitda",
+      "label": "Adjusted EBITDA (società combinata con Edge Autonomy)",
+      "targetFiscalYear": 2025,
+      "targetPeriod": "FY",
+      "low": 70000000,
+      "high": 105000000,
+      "unit": "currency",
+      "nonGaap": true,
+      "qualitative": false,
+      "text": "Guidance iniziale 2025 (società combinata), data con l'annuncio dell'acquisizione di Edge Autonomy. Somma delle previsioni autonome di Redwire e di Edge Autonomy preparate dal management, nell'ipotesi che l'acquisizione fosse chiusa il 1° gennaio 2025; non redatta secondo l'Article 11 della Regulation S-X e non sottoposta a revisione.",
+      "quote": ""
+    },
+    {
+      "docId": "rdw-annuncio-edge-autonomy",
+      "issuedDate": "2025-01-20",
+      "metric": "fcf",
+      "label": "Free Cash Flow (società combinata con Edge Autonomy)",
+      "targetFiscalYear": 2025,
+      "targetPeriod": "FY",
+      "unit": "currency",
+      "nonGaap": true,
+      "qualitative": true,
+      "text": "Guidance iniziale 2025 (società combinata), data con l'annuncio dell'acquisizione di Edge Autonomy. Free Cash Flow atteso positivo, senza importo.",
+      "quote": ""
+    },
+    {
+      "docId": "rdw-risultati-fy2024",
+      "issuedDate": "2025-03-10",
+      "metric": "revenue",
+      "label": "Ricavi (società combinata con Edge Autonomy)",
+      "targetFiscalYear": 2025,
+      "targetPeriod": "FY",
+      "low": 535000000,
+      "high": 605000000,
+      "unit": "currency",
+      "nonGaap": false,
+      "qualitative": false,
+      "text": "Guidance 2025 della società combinata ripetuta con i risultati 2024; chiusura dell'acquisizione attesa nel secondo trimestre 2025. Somma delle previsioni autonome di Redwire e di Edge Autonomy preparate dal management, nell'ipotesi che l'acquisizione fosse chiusa il 1° gennaio 2025; non redatta secondo l'Article 11 della Regulation S-X e non sottoposta a revisione.",
+      "quote": ""
+    },
+    {
+      "docId": "rdw-risultati-fy2024",
+      "issuedDate": "2025-03-10",
+      "metric": "ebitda",
+      "label": "Adjusted EBITDA (società combinata con Edge Autonomy)",
+      "targetFiscalYear": 2025,
+      "targetPeriod": "FY",
+      "low": 70000000,
+      "high": 105000000,
+      "unit": "currency",
+      "nonGaap": true,
+      "qualitative": false,
+      "text": "Guidance 2025 della società combinata ripetuta con i risultati 2024; chiusura dell'acquisizione attesa nel secondo trimestre 2025. Somma delle previsioni autonome di Redwire e di Edge Autonomy preparate dal management, nell'ipotesi che l'acquisizione fosse chiusa il 1° gennaio 2025; non redatta secondo l'Article 11 della Regulation S-X e non sottoposta a revisione.",
+      "quote": ""
+    },
+    {
+      "docId": "rdw-risultati-fy2024",
+      "issuedDate": "2025-03-10",
+      "metric": "fcf",
+      "label": "Free Cash Flow (società combinata con Edge Autonomy)",
+      "targetFiscalYear": 2025,
+      "targetPeriod": "FY",
+      "unit": "currency",
+      "nonGaap": true,
+      "qualitative": true,
+      "text": "Guidance 2025 della società combinata ripetuta con i risultati 2024; chiusura dell'acquisizione attesa nel secondo trimestre 2025. Free Cash Flow atteso positivo, senza importo.",
+      "quote": ""
+    },
+    {
+      "docId": "rdw-risultati-q1-2025",
+      "issuedDate": "2025-05-12",
+      "metric": "revenue",
+      "label": "Ricavi (società combinata con Edge Autonomy)",
+      "targetFiscalYear": 2025,
+      "targetPeriod": "FY",
+      "low": 535000000,
+      "high": 605000000,
+      "unit": "currency",
+      "nonGaap": false,
+      "qualitative": false,
+      "text": "Guidance 2025 della società combinata ripetuta senza variazioni con i risultati del primo trimestre. Somma delle previsioni autonome di Redwire e di Edge Autonomy preparate dal management, nell'ipotesi che l'acquisizione fosse chiusa il 1° gennaio 2025; non redatta secondo l'Article 11 della Regulation S-X e non sottoposta a revisione.",
+      "quote": ""
+    },
+    {
+      "docId": "rdw-risultati-q1-2025",
+      "issuedDate": "2025-05-12",
+      "metric": "ebitda",
+      "label": "Adjusted EBITDA (società combinata con Edge Autonomy)",
+      "targetFiscalYear": 2025,
+      "targetPeriod": "FY",
+      "low": 70000000,
+      "high": 105000000,
+      "unit": "currency",
+      "nonGaap": true,
+      "qualitative": false,
+      "text": "Guidance 2025 della società combinata ripetuta senza variazioni con i risultati del primo trimestre. Somma delle previsioni autonome di Redwire e di Edge Autonomy preparate dal management, nell'ipotesi che l'acquisizione fosse chiusa il 1° gennaio 2025; non redatta secondo l'Article 11 della Regulation S-X e non sottoposta a revisione.",
+      "quote": ""
+    },
+    {
+      "docId": "rdw-risultati-q1-2025",
+      "issuedDate": "2025-05-12",
+      "metric": "fcf",
+      "label": "Free Cash Flow (società combinata con Edge Autonomy)",
+      "targetFiscalYear": 2025,
+      "targetPeriod": "FY",
+      "unit": "currency",
+      "nonGaap": true,
+      "qualitative": true,
+      "text": "Guidance 2025 della società combinata ripetuta senza variazioni con i risultati del primo trimestre. Free Cash Flow atteso positivo, senza importo.",
+      "quote": ""
+    },
+    {
+      "docId": "rdw-chiusura-edge-autonomy",
+      "issuedDate": "2025-06-13",
+      "metric": "revenue",
+      "label": "Ricavi (società combinata con Edge Autonomy)",
+      "targetFiscalYear": 2025,
+      "targetPeriod": "FY",
+      "low": 535000000,
+      "high": 605000000,
+      "unit": "currency",
+      "nonGaap": false,
+      "qualitative": false,
+      "text": "Guidance 2025 della società combinata ripetuta alla chiusura dell'acquisizione. Somma delle previsioni autonome di Redwire e di Edge Autonomy preparate dal management, nell'ipotesi che l'acquisizione fosse chiusa il 1° gennaio 2025; non redatta secondo l'Article 11 della Regulation S-X e non sottoposta a revisione.",
+      "quote": ""
+    },
+    {
+      "docId": "rdw-chiusura-edge-autonomy",
+      "issuedDate": "2025-06-13",
+      "metric": "ebitda",
+      "label": "Adjusted EBITDA (società combinata con Edge Autonomy)",
+      "targetFiscalYear": 2025,
+      "targetPeriod": "FY",
+      "low": 70000000,
+      "high": 105000000,
+      "unit": "currency",
+      "nonGaap": true,
+      "qualitative": false,
+      "text": "Guidance 2025 della società combinata ripetuta alla chiusura dell'acquisizione. Somma delle previsioni autonome di Redwire e di Edge Autonomy preparate dal management, nell'ipotesi che l'acquisizione fosse chiusa il 1° gennaio 2025; non redatta secondo l'Article 11 della Regulation S-X e non sottoposta a revisione.",
+      "quote": ""
+    },
+    {
+      "docId": "rdw-chiusura-edge-autonomy",
+      "issuedDate": "2025-06-13",
+      "metric": "fcf",
+      "label": "Free Cash Flow (società combinata con Edge Autonomy)",
+      "targetFiscalYear": 2025,
+      "targetPeriod": "FY",
+      "unit": "currency",
+      "nonGaap": true,
+      "qualitative": true,
+      "text": "Guidance 2025 della società combinata ripetuta alla chiusura dell'acquisizione. Free Cash Flow atteso positivo, senza importo.",
+      "quote": ""
+    },
+    {
+      "docId": "rdw-risultati-q2-2025",
+      "issuedDate": "2025-08-06",
+      "metric": "revenue",
+      "label": "Ricavi (Redwire con Edge Autonomy dal 13 giugno 2025)",
+      "targetFiscalYear": 2025,
+      "targetPeriod": "FY",
+      "low": 385000000,
+      "high": 445000000,
+      "unit": "currency",
+      "nonGaap": false,
+      "qualitative": false,
+      "text": "Taglio della guidance con i risultati del secondo trimestre: ricavi 2025 a 385-445 milioni di dollari, con Edge Autonomy consolidata dal 13 giugno 2025. La base non è omogenea con i precedenti 535-605 milioni, che ipotizzavano Edge Autonomy per l'intero anno (vedi voce pro-forma).",
+      "quote": ""
+    },
+    {
+      "docId": "rdw-risultati-q2-2025",
+      "issuedDate": "2025-08-06",
+      "metric": "other",
+      "label": "Ricavi pro-forma (Edge Autonomy dal 1° gennaio 2025)",
+      "targetFiscalYear": 2025,
+      "targetPeriod": "FY",
+      "low": 470000000,
+      "high": 530000000,
+      "unit": "currency",
+      "nonGaap": false,
+      "qualitative": false,
+      "text": "Ricavi 2025 pro-forma, come se Edge Autonomy fosse stata acquisita il 1° gennaio 2025: 470-530 milioni di dollari, contro i 535-605 milioni indicati in precedenza sulla stessa base (riduzione di circa 70 milioni al punto medio, calcolo nostro).",
+      "quote": ""
+    },
+    {
+      "docId": "rdw-risultati-q2-2025",
+      "issuedDate": "2025-08-06",
+      "metric": "ebitda",
+      "label": "Adjusted EBITDA",
+      "targetFiscalYear": 2025,
+      "targetPeriod": "FY",
+      "unit": "currency",
+      "nonGaap": true,
+      "qualitative": true,
+      "text": "La società ritira la previsione di Adjusted EBITDA 2025 (in precedenza 70-105 milioni di dollari per la società combinata), motivando con l'incertezza sui tempi dei contratti governativi. Il comunicato non riporta più alcuna previsione di Free Cash Flow.",
+      "quote": "uncertain timing of government contracting"
+    },
+    {
+      "docId": "rdw-risultati-q3-2025",
+      "issuedDate": "2025-11-05",
+      "metric": "revenue",
+      "label": "Ricavi (Redwire con Edge Autonomy dal 13 giugno 2025)",
+      "targetFiscalYear": 2025,
+      "targetPeriod": "FY",
+      "low": 320000000,
+      "high": 340000000,
+      "unit": "currency",
+      "nonGaap": false,
+      "qualitative": false,
+      "text": "Secondo taglio: ricavi 2025 a 320-340 milioni di dollari (da 385-445 milioni), per ordini slittati al 2026 durante lo shutdown del governo statunitense. Nessuna previsione di Adjusted EBITDA; atteso solo un miglioramento continuo del Free Cash Flow. Consuntivo 2025: 335,4 milioni.",
+      "quote": "a number of our anticipated orders have been pushed out of the quarter and into 2026"
+    },
+    {
+      "docId": "rdw-risultati-fy2025",
+      "issuedDate": "2026-02-25",
+      "metric": "revenue",
+      "label": "Ricavi",
+      "targetFiscalYear": 2026,
+      "targetPeriod": "FY",
+      "low": 450000000,
+      "high": 500000000,
+      "unit": "currency",
+      "nonGaap": false,
+      "qualitative": false,
+      "text": "Guidance iniziale 2026: ricavi di 450-500 milioni di dollari. Nessuna previsione di Adjusted EBITDA o Free Cash Flow. In conference call (sintesi MarketBeat) il management ha indicato che circa il 50% della guidance era coperto dal backlog e che i ricavi sarebbero cresciuti nel corso dell'anno.",
+      "quote": "For the full year ended December 31, 2026, Redwire is forecasting revenues of $450 million to $500 million."
+    },
+    {
+      "docId": "rdw-risultati-q1-2026",
+      "issuedDate": "2026-05-06",
+      "metric": "revenue",
+      "label": "Ricavi",
+      "targetFiscalYear": 2026,
+      "targetPeriod": "FY",
+      "low": 450000000,
+      "high": 500000000,
+      "unit": "currency",
+      "nonGaap": false,
+      "qualitative": false,
+      "text": "Guidance 2026 confermata con i risultati del primo trimestre.",
+      "quote": "For the full year ended December 31, 2026, Redwire affirms that it is forecasting revenues of $450 million to $500 million."
+    },
+    {
+      "docId": "rdw-risultati-q2-2026",
+      "issuedDate": "2026-08-05",
+      "metric": "revenue",
+      "label": "Ricavi",
+      "targetFiscalYear": 2026,
+      "targetPeriod": "FY",
+      "low": 450000000,
+      "high": 500000000,
+      "unit": "currency",
+      "nonGaap": false,
+      "qualitative": false,
+      "text": "Guidance 2026 confermata con i risultati del secondo trimestre.",
+      "quote": "For the full year ended December 31, 2026, Redwire reaffirms that it is forecasting revenues of $450 million to $500 million."
+    },
+    {
+      "docId": "rdw-risultati-q3-2026",
+      "issuedDate": "2026-11-04",
+      "metric": "revenue",
+      "label": "Ricavi",
+      "targetFiscalYear": 2026,
+      "targetPeriod": "FY",
+      "low": 450000000,
+      "high": 500000000,
+      "unit": "currency",
+      "nonGaap": false,
+      "qualitative": false,
+      "text": "Guidance 2026 confermata con i risultati del terzo trimestre. Con 323,1 milioni di ricavi nei nove mesi, l'intervallo implica un quarto trimestre tra circa 127 e 177 milioni (calcolo nostro), contro un massimo trimestrale storico di 117,1 milioni.",
+      "quote": "we again reaffirm our 2026 revenue forecast"
+    }
+  ],
+  "custom": [
+    {
+      "category": "segment_revenue",
+      "name": "Space",
+      "fiscalYear": 2024,
+      "fiscalPeriod": "FY",
+      "value": 255336000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-fy2025"
+      }
+    },
+    {
+      "category": "segment_revenue",
+      "name": "Defense Tech",
+      "fiscalYear": 2024,
+      "fiscalPeriod": "FY",
+      "value": 48765000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-fy2025"
+      }
+    },
+    {
+      "category": "segment_revenue",
+      "name": "Space",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "FY",
+      "value": 209817000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-fy2025"
+      }
+    },
+    {
+      "category": "segment_revenue",
+      "name": "Defense Tech",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "FY",
+      "value": 125564000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-fy2025"
+      }
+    },
+    {
+      "category": "segment_revenue",
+      "name": "Space",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "Q4",
+      "value": 54454000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-fy2025"
+      }
+    },
+    {
+      "category": "segment_revenue",
+      "name": "Defense Tech",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "Q4",
+      "value": 54340000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-fy2025"
+      }
+    },
+    {
+      "category": "segment_revenue",
+      "name": "Space",
+      "fiscalYear": 2026,
+      "fiscalPeriod": "Q1",
+      "value": 52700000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q1-2026"
+      }
+    },
+    {
+      "category": "segment_revenue",
+      "name": "Defense Tech",
+      "fiscalYear": 2026,
+      "fiscalPeriod": "Q1",
+      "value": 44300000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q1-2026"
+      }
+    },
+    {
+      "category": "segment_revenue",
+      "name": "Space",
+      "fiscalYear": 2026,
+      "fiscalPeriod": "Q2",
+      "value": 55200000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q2-2026"
+      }
+    },
+    {
+      "category": "segment_revenue",
+      "name": "Defense Tech",
+      "fiscalYear": 2026,
+      "fiscalPeriod": "Q2",
+      "value": 61900000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q2-2026"
+      }
+    },
+    {
+      "category": "segment_revenue",
+      "name": "Space",
+      "fiscalYear": 2026,
+      "fiscalPeriod": "H1",
+      "value": 107900000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q2-2026"
+      }
+    },
+    {
+      "category": "segment_revenue",
+      "name": "Defense Tech",
+      "fiscalYear": 2026,
+      "fiscalPeriod": "H1",
+      "value": 106200000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q2-2026"
+      }
+    },
+    {
+      "category": "segment_revenue",
+      "name": "Space",
+      "fiscalYear": 2026,
+      "fiscalPeriod": "Q3",
+      "value": 61300000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q3-2026"
+      }
+    },
+    {
+      "category": "segment_revenue",
+      "name": "Defense Tech",
+      "fiscalYear": 2026,
+      "fiscalPeriod": "Q3",
+      "value": 47800000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q3-2026"
+      }
+    },
+    {
+      "category": "segment_revenue",
+      "name": "Space",
+      "fiscalYear": 2026,
+      "fiscalPeriod": "9M",
+      "value": 169100000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q3-2026"
+      }
+    },
+    {
+      "category": "segment_revenue",
+      "name": "Defense Tech",
+      "fiscalYear": 2026,
+      "fiscalPeriod": "9M",
+      "value": 154000000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q3-2026"
+      }
+    },
+    {
+      "category": "segment_revenue",
+      "name": "Space",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "9M",
+      "value": 155400000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q3-2026"
+      }
+    },
+    {
+      "category": "segment_revenue",
+      "name": "Defense Tech",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "9M",
+      "value": 71200000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q3-2026"
+      }
+    },
+    {
+      "category": "segment_revenue",
+      "name": "Space",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "Q3",
+      "value": 46500000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q3-2026"
+      }
+    },
+    {
+      "category": "segment_revenue",
+      "name": "Defense Tech",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "Q3",
+      "value": 56900000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q3-2026"
+      }
+    },
+    {
+      "category": "segment_profit",
+      "name": "Space - Segment Adjusted EBITDA",
+      "fiscalYear": 2026,
+      "fiscalPeriod": "Q1",
+      "value": -1600000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q1-2026"
+      }
+    },
+    {
+      "category": "segment_profit",
+      "name": "Defense Tech - Segment Adjusted EBITDA",
+      "fiscalYear": 2026,
+      "fiscalPeriod": "Q1",
+      "value": 5400000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q1-2026"
+      }
+    },
+    {
+      "category": "segment_profit",
+      "name": "Space - Segment Adjusted EBITDA",
+      "fiscalYear": 2026,
+      "fiscalPeriod": "Q3",
+      "value": 2800000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q3-2026"
+      }
+    },
+    {
+      "category": "segment_profit",
+      "name": "Defense Tech - Segment Adjusted EBITDA",
+      "fiscalYear": 2026,
+      "fiscalPeriod": "Q3",
+      "value": 7200000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q3-2026"
+      }
+    },
+    {
+      "category": "geo_revenue",
+      "name": "Ricavi da clienti fuori dagli Stati Uniti (quota sul totale)",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "FY",
+      "value": 0.416,
+      "unit": "percent",
+      "source": {
+        "docId": "rdw-10k-fy2025"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Ricavi",
+      "fiscalYear": 2023,
+      "fiscalPeriod": "FY",
+      "value": 243800000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-fy2023"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Ricavi",
+      "fiscalYear": 2024,
+      "fiscalPeriod": "FY",
+      "value": 304100000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-fy2024"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Ricavi",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "FY",
+      "value": 335381000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-fy2025"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Ricavi",
+      "fiscalYear": 2024,
+      "fiscalPeriod": "Q1",
+      "value": 87800000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q1-2024"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Ricavi",
+      "fiscalYear": 2024,
+      "fiscalPeriod": "Q2",
+      "value": 78100000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q2-2024"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Ricavi",
+      "fiscalYear": 2024,
+      "fiscalPeriod": "Q3",
+      "value": 68600000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q3-2024"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Ricavi",
+      "fiscalYear": 2024,
+      "fiscalPeriod": "Q4",
+      "value": 69600000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-fy2024"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Ricavi",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "Q1",
+      "value": 61400000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q1-2025"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Ricavi",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "Q2",
+      "value": 61800000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q2-2025"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Ricavi",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "Q3",
+      "value": 103400000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q3-2025"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Ricavi",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "Q4",
+      "value": 108794000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-fy2025"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Ricavi",
+      "fiscalYear": 2026,
+      "fiscalPeriod": "Q1",
+      "value": 97000000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q1-2026"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Ricavi",
+      "fiscalYear": 2026,
+      "fiscalPeriod": "Q2",
+      "value": 117100000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q2-2026"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Ricavi",
+      "fiscalYear": 2026,
+      "fiscalPeriod": "Q3",
+      "value": 109000000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q3-2026"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Ricavi",
+      "fiscalYear": 2026,
+      "fiscalPeriod": "9M",
+      "value": 323100000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q3-2026"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Adjusted EBITDA",
+      "fiscalYear": 2023,
+      "fiscalPeriod": "FY",
+      "value": 15300000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-fy2023"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Adjusted EBITDA",
+      "fiscalYear": 2024,
+      "fiscalPeriod": "FY",
+      "value": -800000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-fy2024"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Adjusted EBITDA",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "FY",
+      "value": -50285000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-fy2025"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Adjusted EBITDA",
+      "fiscalYear": 2024,
+      "fiscalPeriod": "Q1",
+      "value": 4300000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q1-2024"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Adjusted EBITDA",
+      "fiscalYear": 2024,
+      "fiscalPeriod": "Q2",
+      "value": 1600000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q2-2024"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Adjusted EBITDA",
+      "fiscalYear": 2024,
+      "fiscalPeriod": "Q3",
+      "value": 2400000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q3-2024"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Adjusted EBITDA",
+      "fiscalYear": 2024,
+      "fiscalPeriod": "Q4",
+      "value": -9200000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-fy2024"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Adjusted EBITDA",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "Q1",
+      "value": -2300000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q1-2025"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Adjusted EBITDA",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "Q2",
+      "value": -27400000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q2-2025"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Adjusted EBITDA",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "Q3",
+      "value": -2600000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q3-2025"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Adjusted EBITDA",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "Q4",
+      "value": -18054000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-fy2025"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Adjusted EBITDA",
+      "fiscalYear": 2026,
+      "fiscalPeriod": "Q1",
+      "value": -9200000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q1-2026"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Adjusted EBITDA",
+      "fiscalYear": 2026,
+      "fiscalPeriod": "Q2",
+      "value": -3200000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q2-2026"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Adjusted EBITDA",
+      "fiscalYear": 2026,
+      "fiscalPeriod": "Q3",
+      "value": -5300000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q3-2026"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Adjusted EBITDA",
+      "fiscalYear": 2026,
+      "fiscalPeriod": "9M",
+      "value": -17700000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q3-2026"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Free Cash Flow",
+      "fiscalYear": 2023,
+      "fiscalPeriod": "FY",
+      "value": -7100000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-fy2023"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Free Cash Flow",
+      "fiscalYear": 2024,
+      "fiscalPeriod": "FY",
+      "value": -28300000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-fy2024"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Free Cash Flow",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "FY",
+      "value": -200611000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-fy2025"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Free Cash Flow",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "Q1",
+      "value": -49100000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q1-2025"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Free Cash Flow",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "Q2",
+      "value": -93500000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q2-2025"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Free Cash Flow",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "Q3",
+      "value": -27800000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q3-2025"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Free Cash Flow",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "Q4",
+      "value": -30115000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-fy2025"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Free Cash Flow",
+      "fiscalYear": 2026,
+      "fiscalPeriod": "Q1",
+      "value": -12700000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q1-2026"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Free Cash Flow",
+      "fiscalYear": 2026,
+      "fiscalPeriod": "Q2",
+      "value": -35300000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q2-2026"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Free Cash Flow",
+      "fiscalYear": 2026,
+      "fiscalPeriod": "Q3",
+      "value": -66354000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q3-2026"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Free Cash Flow",
+      "fiscalYear": 2026,
+      "fiscalPeriod": "9M",
+      "value": -114397000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q3-2026"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Risultato netto",
+      "fiscalYear": 2023,
+      "fiscalPeriod": "FY",
+      "value": -27300000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-fy2023"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Risultato netto",
+      "fiscalYear": 2024,
+      "fiscalPeriod": "FY",
+      "value": -114300000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-fy2024"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Risultato netto",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "FY",
+      "value": -226600000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-fy2025"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Risultato netto",
+      "fiscalYear": 2026,
+      "fiscalPeriod": "Q1",
+      "value": -76500000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q1-2026"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Risultato netto",
+      "fiscalYear": 2026,
+      "fiscalPeriod": "Q2",
+      "value": -41000000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q2-2026"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Risultato netto",
+      "fiscalYear": 2026,
+      "fiscalPeriod": "Q3",
+      "value": -23200000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q3-2026"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Risultato netto",
+      "fiscalYear": 2026,
+      "fiscalPeriod": "9M",
+      "value": -140700000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q3-2026"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Contracted backlog (fine periodo)",
+      "fiscalYear": 2023,
+      "fiscalPeriod": "FY",
+      "value": 372800000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-fy2023"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Contracted backlog (fine periodo)",
+      "fiscalYear": 2024,
+      "fiscalPeriod": "Q1",
+      "value": 318000000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q1-2024"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Contracted backlog (fine periodo)",
+      "fiscalYear": 2024,
+      "fiscalPeriod": "Q2",
+      "value": 354000000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q2-2024"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Contracted backlog (fine periodo)",
+      "fiscalYear": 2024,
+      "fiscalPeriod": "Q3",
+      "value": 330100000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q3-2024"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Contracted backlog (fine periodo)",
+      "fiscalYear": 2024,
+      "fiscalPeriod": "FY",
+      "value": 296700000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-fy2024"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Contracted backlog (fine periodo)",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "Q1",
+      "value": 291200000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q1-2025"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Contracted backlog (fine periodo)",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "Q2",
+      "value": 329500000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q2-2025"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Contracted backlog (fine periodo)",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "Q3",
+      "value": 355600000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q3-2025"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Contracted backlog (fine periodo)",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "FY",
+      "value": 411246000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-fy2025"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Contracted backlog (fine periodo)",
+      "fiscalYear": 2026,
+      "fiscalPeriod": "Q1",
+      "value": 498100000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q1-2026"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Contracted backlog (fine periodo)",
+      "fiscalYear": 2026,
+      "fiscalPeriod": "Q2",
+      "value": 542100000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q2-2026"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Contracted backlog (fine periodo)",
+      "fiscalYear": 2026,
+      "fiscalPeriod": "Q3",
+      "value": 619666000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q3-2026"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Contracted backlog - Space",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "FY",
+      "value": 299804000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-fy2025"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Contracted backlog - Defense Tech",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "FY",
+      "value": 111442000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-fy2025"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Contracted backlog - Space",
+      "fiscalYear": 2026,
+      "fiscalPeriod": "Q3",
+      "value": 379557000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q3-2026"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Contracted backlog - Defense Tech",
+      "fiscalYear": 2026,
+      "fiscalPeriod": "Q3",
+      "value": 240109000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q3-2026"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Book-to-bill",
+      "fiscalYear": 2023,
+      "fiscalPeriod": "FY",
+      "value": 1.23,
+      "unit": "ratio",
+      "source": {
+        "docId": "rdw-risultati-fy2023"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Book-to-bill",
+      "fiscalYear": 2024,
+      "fiscalPeriod": "Q1",
+      "value": 0.4,
+      "unit": "ratio",
+      "source": {
+        "docId": "rdw-risultati-q1-2024"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Book-to-bill",
+      "fiscalYear": 2024,
+      "fiscalPeriod": "Q2",
+      "value": 1.47,
+      "unit": "ratio",
+      "source": {
+        "docId": "rdw-risultati-q2-2024"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Book-to-bill",
+      "fiscalYear": 2024,
+      "fiscalPeriod": "Q3",
+      "value": 0.65,
+      "unit": "ratio",
+      "source": {
+        "docId": "rdw-risultati-q3-2024"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Book-to-bill",
+      "fiscalYear": 2024,
+      "fiscalPeriod": "Q4",
+      "value": 0.51,
+      "unit": "ratio",
+      "source": {
+        "docId": "rdw-risultati-fy2024"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Book-to-bill",
+      "fiscalYear": 2024,
+      "fiscalPeriod": "FY",
+      "value": 0.76,
+      "unit": "ratio",
+      "source": {
+        "docId": "rdw-risultati-fy2024"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Book-to-bill",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "Q1",
+      "value": 0.92,
+      "unit": "ratio",
+      "source": {
+        "docId": "rdw-risultati-q1-2025"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Book-to-bill",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "Q2",
+      "value": 1.47,
+      "unit": "ratio",
+      "source": {
+        "docId": "rdw-risultati-q2-2025"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Book-to-bill",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "Q3",
+      "value": 1.25,
+      "unit": "ratio",
+      "source": {
+        "docId": "rdw-risultati-q3-2025"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Book-to-bill",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "Q4",
+      "value": 1.52,
+      "unit": "ratio",
+      "source": {
+        "docId": "rdw-risultati-fy2025"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Book-to-bill",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "FY",
+      "value": 1.32,
+      "unit": "ratio",
+      "source": {
+        "docId": "rdw-risultati-fy2025"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Book-to-bill",
+      "fiscalYear": 2026,
+      "fiscalPeriod": "Q1",
+      "value": 1.92,
+      "unit": "ratio",
+      "source": {
+        "docId": "rdw-risultati-q1-2026"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Book-to-bill",
+      "fiscalYear": 2026,
+      "fiscalPeriod": "Q2",
+      "value": 1.42,
+      "unit": "ratio",
+      "source": {
+        "docId": "rdw-risultati-q2-2026"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Book-to-bill",
+      "fiscalYear": 2026,
+      "fiscalPeriod": "Q3",
+      "value": 1.73,
+      "unit": "ratio",
+      "source": {
+        "docId": "rdw-risultati-q3-2026"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Book-to-bill ultimi dodici mesi",
+      "fiscalYear": 2026,
+      "fiscalPeriod": "Q3",
+      "value": 1.63,
+      "unit": "ratio",
+      "source": {
+        "docId": "rdw-risultati-q3-2026"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Contratti acquisiti nel trimestre",
+      "fiscalYear": 2026,
+      "fiscalPeriod": "Q1",
+      "value": 186500000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q1-2026"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Contratti acquisiti nel trimestre",
+      "fiscalYear": 2026,
+      "fiscalPeriod": "Q3",
+      "value": 188700000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q3-2026"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Rettifiche nette EAC sfavorevoli",
+      "fiscalYear": 2024,
+      "fiscalPeriod": "FY",
+      "value": 17700000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-fy2024"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Rettifiche nette EAC sfavorevoli",
+      "fiscalYear": 2024,
+      "fiscalPeriod": "Q4",
+      "value": 9100000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-fy2024"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Rettifiche nette EAC sfavorevoli",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "Q1",
+      "value": 3100000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q1-2025"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Rettifiche nette EAC sfavorevoli",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "Q2",
+      "value": 25200000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q2-2025"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Rettifiche nette EAC sfavorevoli",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "Q3",
+      "value": 8300000.000000001,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q3-2025"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Rettifiche nette EAC sfavorevoli (dato dalla conference call)",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "Q4",
+      "value": 17800000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-call-q4-2025"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Margine lordo",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "Q3",
+      "value": 0.163,
+      "unit": "percent",
+      "source": {
+        "docId": "rdw-risultati-q3-2025"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Margine lordo rettificato",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "FY",
+      "value": 0.092,
+      "unit": "percent",
+      "source": {
+        "docId": "rdw-risultati-fy2025"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Margine lordo rettificato",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "Q4",
+      "value": 0.096,
+      "unit": "percent",
+      "source": {
+        "docId": "rdw-risultati-fy2025"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Margine lordo",
+      "fiscalYear": 2026,
+      "fiscalPeriod": "Q1",
+      "value": 0.266,
+      "unit": "percent",
+      "source": {
+        "docId": "rdw-risultati-q1-2026"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Margine lordo",
+      "fiscalYear": 2026,
+      "fiscalPeriod": "Q2",
+      "value": 0.278,
+      "unit": "percent",
+      "source": {
+        "docId": "rdw-risultati-q2-2026"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Margine lordo",
+      "fiscalYear": 2026,
+      "fiscalPeriod": "Q3",
+      "value": 0.323,
+      "unit": "percent",
+      "source": {
+        "docId": "rdw-risultati-q3-2026"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Spese di ricerca e sviluppo",
+      "fiscalYear": 2026,
+      "fiscalPeriod": "Q3",
+      "value": 14400000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q3-2026"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Liquidità totale (cassa, cassa vincolata e linee disponibili)",
+      "fiscalYear": 2023,
+      "fiscalPeriod": "FY",
+      "value": 48300000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-fy2023"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Liquidità totale (cassa, cassa vincolata e linee disponibili)",
+      "fiscalYear": 2024,
+      "fiscalPeriod": "FY",
+      "value": 64100000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-fy2024"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Liquidità totale (cassa, cassa vincolata e linee disponibili)",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "Q1",
+      "value": 89200000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q1-2025"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Liquidità totale (cassa, cassa vincolata e linee disponibili)",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "Q2",
+      "value": 113600000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q2-2025"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Liquidità totale (cassa, cassa vincolata e linee disponibili)",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "Q3",
+      "value": 89300000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q3-2025"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Liquidità totale (cassa, cassa vincolata e linee disponibili)",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "FY",
+      "value": 130200000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-fy2025"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Liquidità totale (cassa, cassa vincolata e linee disponibili)",
+      "fiscalYear": 2026,
+      "fiscalPeriod": "Q1",
+      "value": 175200000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q1-2026"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Liquidità totale (cassa, cassa vincolata e linee disponibili)",
+      "fiscalYear": 2026,
+      "fiscalPeriod": "Q2",
+      "value": 607800000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q2-2026"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Liquidità totale (cassa, cassa vincolata e linee disponibili)",
+      "fiscalYear": 2026,
+      "fiscalPeriod": "Q3",
+      "value": 538900000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q3-2026"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Cassa, equivalenti e cassa vincolata",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "FY",
+      "value": 95183000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-fy2025"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Cassa, equivalenti e cassa vincolata",
+      "fiscalYear": 2026,
+      "fiscalPeriod": "Q3",
+      "value": 488866000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-10q-q3-2026"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Debito a lungo termine netto",
+      "fiscalYear": 2024,
+      "fiscalPeriod": "FY",
+      "value": 124500000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-fy2024"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Debito a lungo termine netto",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "Q2",
+      "value": 185500000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q2-2025"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Debito a lungo termine netto",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "Q3",
+      "value": 184699000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q3-2025"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Debito a lungo termine netto",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "FY",
+      "value": 80036000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-fy2025"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Debito a lungo termine netto",
+      "fiscalYear": 2026,
+      "fiscalPeriod": "Q3",
+      "value": 42502000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-10q-q3-2026"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Convertible preferred stock - valore contabile",
+      "fiscalYear": 2024,
+      "fiscalPeriod": "FY",
+      "value": 136800000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-fy2024"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Convertible preferred stock - valore contabile",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "Q2",
+      "value": 151900000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q2-2025"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Convertible preferred stock - valore contabile",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "Q3",
+      "value": 104869000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q3-2025"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Convertible preferred stock - valore contabile",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "FY",
+      "value": 77034000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-fy2025"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Convertible preferred stock - valore contabile",
+      "fiscalYear": 2026,
+      "fiscalPeriod": "Q3",
+      "value": 0,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-q3-2026"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Convertible preferred stock - liquidation preference",
+      "fiscalYear": 2024,
+      "fiscalPeriod": "FY",
+      "value": 599400000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-fy2024"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Convertible preferred stock - liquidation preference",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "FY",
+      "value": 118434000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-risultati-fy2025"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Azioni ordinarie in circolazione",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "FY",
+      "value": 191915804,
+      "unit": "count",
+      "source": {
+        "docId": "rdw-risultati-fy2025"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Azioni ordinarie in circolazione",
+      "fiscalYear": 2026,
+      "fiscalPeriod": "Q1",
+      "value": 198918728,
+      "unit": "count",
+      "source": {
+        "docId": "rdw-risultati-q1-2026"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Azioni ordinarie in circolazione",
+      "fiscalYear": 2026,
+      "fiscalPeriod": "Q2",
+      "value": 249221102,
+      "unit": "count",
+      "source": {
+        "docId": "rdw-risultati-q2-2026"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Azioni ordinarie in circolazione",
+      "fiscalYear": 2026,
+      "fiscalPeriod": "Q3",
+      "value": 250181098,
+      "unit": "count",
+      "source": {
+        "docId": "rdw-risultati-q3-2026"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Azioni emesse tramite programma ATM nei nove mesi",
+      "fiscalYear": 2026,
+      "fiscalPeriod": "9M",
+      "value": 40253405,
+      "unit": "count",
+      "source": {
+        "docId": "rdw-10q-q3-2026"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Incassi da emissione di azioni ordinarie nei nove mesi",
+      "fiscalYear": 2026,
+      "fiscalPeriod": "9M",
+      "value": 566670000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-10q-q3-2026"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Azioni ordinarie emesse per la conversione delle preferred",
+      "fiscalYear": 2026,
+      "fiscalPeriod": "9M",
+      "value": 15247586,
+      "unit": "count",
+      "source": {
+        "docId": "rdw-10q-q3-2026"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Edge Autonomy - prezzo annunciato (base senza debito e senza cassa)",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "Q1",
+      "value": 925000000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-annuncio-edge-autonomy"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Edge Autonomy - corrispettivo totale contabilizzato",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "Q3",
+      "value": 1024732000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-10q-q3-2025"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Edge Autonomy - componente in contanti",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "Q3",
+      "value": 160000000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-10q-q3-2025"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Edge Autonomy - azioni ordinarie emesse al venditore",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "Q3",
+      "value": 49764847,
+      "unit": "count",
+      "source": {
+        "docId": "rdw-10q-q3-2025"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Edge Autonomy - avviamento iscritto",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "Q3",
+      "value": 721324000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-10q-q3-2025"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Edge Autonomy - attività immateriali iscritte",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "Q3",
+      "value": 298100000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-10q-q3-2025"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Edge Autonomy - ricavi 2024 autonomi",
+      "fiscalYear": 2024,
+      "fiscalPeriod": "FY",
+      "value": 194983000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-proforma-edge-autonomy"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Ricavi pro-forma combinati 2024",
+      "fiscalYear": 2024,
+      "fiscalPeriod": "FY",
+      "value": 499084000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-proforma-edge-autonomy"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Avviamento totale",
+      "fiscalYear": 2026,
+      "fiscalPeriod": "Q3",
+      "value": 769638000,
+      "unit": "currency",
+      "source": {
+        "docId": "rdw-10q-q3-2026"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Dipendenti (circa)",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "FY",
+      "value": 1410,
+      "unit": "count",
+      "source": {
+        "docId": "rdw-10k-fy2025"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Quota ricavi da clienti national security",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "FY",
+      "value": 0.469,
+      "unit": "percent",
+      "source": {
+        "docId": "rdw-10k-fy2025"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Quota ricavi da clienti civil",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "FY",
+      "value": 0.216,
+      "unit": "percent",
+      "source": {
+        "docId": "rdw-10k-fy2025"
+      }
+    },
+    {
+      "category": "kpi",
+      "name": "Quota ricavi da clienti commercial",
+      "fiscalYear": 2025,
+      "fiscalPeriod": "FY",
+      "value": 0.315,
+      "unit": "percent",
+      "source": {
+        "docId": "rdw-10k-fy2025"
+      }
+    }
+  ],
+  "insights": {
+    "id": "rdw-risultati-q3-2026",
+    "summary": "Nel 2025 Redwire ha chiuso l'acquisizione di Edge Autonomy (13 giugno) e ha registrato ricavi per 335,4 milioni di dollari (+10,3%), con Adjusted EBITDA di -50,3 milioni, perdita netta di 226,6 milioni e Free Cash Flow di -200,6 milioni; la guidance sui ricavi è stata tagliata due volte in corso d'anno e quella sull'Adjusted EBITDA ritirata. Nel 2026 il margine lordo è salito (32,3% nel terzo trimestre) e il contracted backlog ha raggiunto 619,7 milioni, ma l'Adjusted EBITDA resta negativo (-17,7 milioni nei nove mesi) e il Free Cash Flow dei nove mesi è -114,4 milioni. Nel terzo trimestre 2026 i ricavi sono stati di 109,0 milioni (+5,4%), sotto le attese degli analisti, con Defense Tech in calo a 47,8 milioni per lo slittamento di consegne di velivoli senza pilota. La guidance 2026 sui ricavi (450-500 milioni) è stata confermata e richiede un quarto trimestre tra circa 127 e 177 milioni. La società ha raccolto oltre 550 milioni con programmi ATM nel 2026 e ha convertito tutte le preferred, portando la liquidità a 538,9 milioni.",
+    "businessModel": "Due segmenti dal 2025: Space (infrastrutture spaziali: pannelli solari ROSA, piattaforme satellitari, sistemi RF, payload per microgravità; ricavi in larga parte riconosciuti nel tempo su contratti anche a prezzo fisso, soggetti a rettifiche EAC) e Defense Tech (ex Edge Autonomy: velivoli senza pilota Stalker e Penguin, ricavi riconosciuti in genere alla spedizione). Nel 2025 i ricavi venivano per il 46,9% da clienti national security, 21,6% civil e 31,5% commercial; il 41,6% da clienti fuori dagli Stati Uniti; i due maggiori clienti pesavano circa il 19% e il 20% dei ricavi.",
+    "highlights": [
+      "Contracted backlog a 619,7 milioni di dollari al 30 settembre 2026, quasi +75% su un anno (Space 379,6 milioni, Defense Tech 240,1 milioni); era 411,2 milioni a fine 2025 e 296,7 milioni a fine 2024.",
+      "Book-to-bill di 1,73 nel terzo trimestre 2026 e 1,63 sugli ultimi dodici mesi; contratti acquisiti nel trimestre per 188,7 milioni.",
+      "Margine lordo al 32,3% nel terzo trimestre 2026 (16,3% un anno prima); 26,6% nel primo e 27,8% nel secondo trimestre, contro un margine lordo rettificato del 9,2% nell'intero 2025.",
+      "Liquidità totale di 538,9 milioni al 30 settembre 2026 (488,9 milioni di cassa più 50 milioni di linee disponibili), contro 130,2 milioni a fine 2025.",
+      "Struttura del capitale semplificata: nessuna convertible preferred stock in essere al 30 giugno 2026 (liquidation preference di 599,4 milioni a fine 2024), debito a lungo termine netto sceso a 42,5 milioni da 184,7 milioni di settembre 2025.",
+      "Ricavi 2025 di 335,4 milioni, nella parte alta dell'ultimo intervallo di guidance (320-340 milioni)."
+    ],
+    "lowlights": [
+      "Ricavi del terzo trimestre 2026 a 109,0 milioni (+5,4%), contro attese degli analisti di 125,7 milioni (Zacks) o 135,8 milioni (Motley Fool); il titolo ha perso circa il 21% nella seduta successiva.",
+      "Defense Tech in calo a 47,8 milioni nel terzo trimestre 2026 da 56,9 milioni un anno prima, per i tempi di spedizione dei velivoli di nuova generazione (passaggio da Stalker Block 30 a Block 40 e Penguin Mk3), autorizzazioni all'esportazione e ritardi dei fornitori.",
+      "Adjusted EBITDA ancora negativo: -5,3 milioni nel terzo trimestre 2026 e -17,7 milioni nei nove mesi; ricerca e sviluppo a 14,4 milioni nel trimestre (+87,1%).",
+      "Free Cash Flow di -66,4 milioni nel terzo trimestre 2026 e -114,4 milioni nei nove mesi, dopo -200,6 milioni nel 2025.",
+      "Guidance 2025 mancata rispetto all'impostazione iniziale: da 535-605 milioni di ricavi e 70-105 milioni di Adjusted EBITDA (società combinata) a un consuntivo di 335,4 milioni di ricavi e -50,3 milioni di Adjusted EBITDA; Free Cash Flow previsto positivo e risultato a -200,6 milioni.",
+      "Diluizione: azioni in circolazione da 191,9 milioni a fine 2025 a 250,2 milioni al 30 settembre 2026; le medie ponderate pro-forma erano 66,1 milioni per Redwire nel 2024 prima dell'operazione Edge Autonomy."
+    ],
+    "risks": [
+      {
+        "title": "Raggiungimento della guidance 2026",
+        "detail": "Per arrivare a 450-500 milioni servono 127-177 milioni di ricavi nel quarto trimestre, contro un massimo trimestrale di 117,1 milioni. Il management indica 46,8 milioni di scorte in lavorazione e prodotti finiti come supporto, ma i ricavi Defense Tech dipendono dal completamento delle consegne. Nel 2025 la guidance è stata tagliata due volte.",
+        "severity": "alta"
+      },
+      {
+        "title": "Tempi dei contratti governativi e bilancio federale",
+        "detail": "Nel 2025 ordini attesi sono slittati al 2026 per lo shutdown; a novembre 2026 gli stanziamenti per l'anno fiscale 2027 erano ancora sotto continuing resolution fino all'11 dicembre 2026. Il 46,9% dei ricavi 2025 viene da clienti national security.",
+        "severity": "alta"
+      },
+      {
+        "title": "Rettifiche EAC sui programmi Space",
+        "detail": "Rettifiche nette sfavorevoli di 17,7 milioni nel 2024 e, nel 2025, 3,1 milioni nel primo trimestre, 25,2 nel secondo, 8,3 nel terzo e 17,8 nel quarto (quest'ultimo dato dalla call). I comunicati 2026 non riportano più la cifra.",
+        "severity": "alta"
+      },
+      {
+        "title": "Consumo di cassa e ulteriore diluizione",
+        "detail": "Free Cash Flow negativo per 114,4 milioni nei nove mesi 2026. A giugno 2026 è stato aperto un nuovo programma ATM fino a 500 milioni di dollari; nei nove mesi sono state emesse 40,3 milioni di azioni tramite ATM.",
+        "severity": "media"
+      },
+      {
+        "title": "Avviamento elevato rispetto ai risultati",
+        "detail": "Avviamento di 769,6 milioni al 30 settembre 2026, di cui 723,0 milioni da Edge Autonomy, a fronte di un segmento Defense Tech con ricavi in calo nel terzo trimestre. Il 10-K cita il rischio di svalutazioni future.",
+        "severity": "media"
+      },
+      {
+        "title": "Concentrazione dei clienti e parte correlata",
+        "detail": "I due maggiori clienti valgono circa il 19% e il 20% dei ricavi 2025. Edge Autonomy è stata acquistata da entità legate ad AE Industrial Partners, già azionista rilevante, che ha aumentato il proprio potere di voto con le azioni ricevute.",
+        "severity": "media"
+      }
+    ],
+    "accountingFlags": [
+      {
+        "title": "Material weakness nel controllo interno",
+        "detail": "Il 10-K 2025 dichiara che sono state individuate material weakness nel controllo interno sull'informativa finanziaria; il dettaglio non è stato letto.",
+        "severity": "alta"
+      },
+      {
+        "title": "Guidance 2025 su base pro-forma non omogenea",
+        "detail": "La guidance iniziale 2025 era la somma di previsioni autonome di Redwire e Edge Autonomy come se l'acquisizione fosse avvenuta il 1° gennaio, non redatta secondo l'Article 11 della Regulation S-X. Il confronto con i ricavi contabili (Edge Autonomy dal 13 giugno) non è diretto.",
+        "severity": "media"
+      },
+      {
+        "title": "Voci non ricorrenti rilevanti nella perdita netta",
+        "detail": "La perdita 2025 di 226,6 milioni include oltre 130 milioni di voci definite non ricorrenti; quella del primo trimestre 2026 (76,5 milioni) include 42,5 milioni di compensi in azioni per le incentive unit di Edge Autonomy; 2024 include 52,0 milioni di perdita non monetaria sulle warrant.",
+        "severity": "media"
+      },
+      {
+        "title": "Rettifiche EAC non più quantificate nei comunicati",
+        "detail": "Fino al terzo trimestre 2025 i comunicati riportavano l'importo delle rettifiche nette EAC; quelli del quarto trimestre 2025 e del 2026 non lo riportano (il dato del quarto trimestre 2025 è stato dato solo in conference call).",
+        "severity": "media"
+      },
+      {
+        "title": "Corrispettivo Edge Autonomy superiore al prezzo annunciato",
+        "detail": "Prezzo annunciato 925 milioni (150 in contanti e 775 in azioni a 15,07 dollari); corrispettivo contabilizzato 1.024,7 milioni perché le 49,8 milioni di azioni sono state valutate al prezzo di chiusura di 19,08 dollari; 87,0 milioni attribuiti alle incentive unit sono trattati come compensi.",
+        "severity": "bassa"
+      }
+    ],
+    "capitalAllocation": "Nessun dividendo sulle azioni ordinarie né buyback. Acquisizione di Edge Autonomy chiusa il 13 giugno 2025: 160,0 milioni in contanti e 49,8 milioni di azioni; un seller note legato all'operazione è stato rimborsato nel secondo trimestre 2025 (20,0 milioni di interessi relativi). Nel 2025: offerta di 16,1 milioni di azioni per 254,2 milioni, riacquisto di preferred per 63,9 milioni in contanti, rimborso di 105,5 milioni di debito nel quarto trimestre con proventi ATM. Nel 2026: emissioni ATM per circa 550 milioni, conversione di tutte le preferred in 15,2 milioni di azioni ordinarie, term loan ridotti da 90 a 50 milioni, contratto di credito esteso a maggio 2029 con spread ridotto da SOFR+700 a SOFR+375. Il management descrive le acquisizioni future come selettive.",
+    "competitivePosition": "Fornitore di componenti e sottosistemi spaziali (pannelli solari ROSA, con contratto successivo da Axiom Space; piattaforma SabreSat per orbita molto bassa, con contratto DARPA da 20 milioni) e di velivoli senza pilota (Stalker, con ordini anche dalla U.S. National Guard; Penguin). I documenti letti non riportano quote di mercato né confronti con i concorrenti.",
+    "managementTone": {
+      "label": "positivo",
+      "rationale": "Il management sottolinea domanda solida, backlog e margini lordi record e conferma la guidance 2026 per tre trimestri di fila, anche dopo un terzo trimestre sotto le attese; riconosce però che i ricavi Defense Tech dipendono dai tempi di consegna."
+    },
+    "nonGaapAdjustments": [
+      "Adjusted EBITDA esclude compensi in azioni (56,9 milioni nei nove mesi 2026), costi di transazione, variazioni di fair value delle warrant e altre voci definite non ricorrenti.",
+      "Adjusted gross margin: 27,1% nel terzo trimestre 2025 contro 16,3% contabile; nel terzo trimestre 2026 i due valori coincidono (32,3%).",
+      "Adjusted EPS: -0,06 dollari nel terzo trimestre 2026 contro -0,09 contabile; -0,28 nei nove mesi contro -0,64.",
+      "Free Cash Flow definito come flusso di cassa operativo meno investimenti: -114,4 milioni nei nove mesi 2026 contro flusso operativo di -95,2 milioni.",
+      "Segment Adjusted EBITDA (10,0 milioni nel terzo trimestre 2026) è positivo mentre l'Adjusted EBITDA consolidato è -5,3 milioni: la differenza sono costi non allocati ai segmenti."
+    ],
+    "keyQuotes": [
+      {
+        "text": "we again reaffirm our 2026 revenue forecast",
+        "why": "Il CFO Chris Edmunds conferma 450-500 milioni dopo un terzo trimestre sotto le attese: la guidance dipende ora da un quarto trimestre molto più alto dei precedenti."
+      },
+      {
+        "text": "a number of our anticipated orders have been pushed out of the quarter and into 2026",
+        "why": "Motivazione del secondo taglio della guidance 2025 (novembre 2025): mostra la sensibilità dei ricavi ai tempi degli ordini governativi."
+      },
+      {
+        "text": "Our financial results in the fourth quarter of 2025 reflect substantial negative impact from EAC adjustments",
+        "why": "Il CFO attribuisce il risultato del quarto trimestre 2025 alle rettifiche EAC, tema ricorrente dal 2024."
+      },
+      {
+        "text": "the transaction is immediately accretive to Redwire’s revenue, Adjusted EBITDA, and Free Cash Flow",
+        "why": "Promessa fatta alla chiusura di Edge Autonomy (giugno 2025), da confrontare con Adjusted EBITDA e Free Cash Flow negativi nel 2025 e nei nove mesi 2026."
+      }
+    ],
+    "openQuestions": [
+      "Quanto dei 46,8 milioni di scorte Defense Tech sarà effettivamente consegnato e fatturato entro il 31 dicembre 2026?",
+      "Quando il management prevede Adjusted EBITDA e Free Cash Flow positivi? Dal ritiro della previsione nell'agosto 2025 non c'è più alcun obiettivo numerico.",
+      "A quanto ammontano le rettifiche nette EAC nel 2026 e su quali programmi?",
+      "Come saranno impiegati i circa 489 milioni di cassa (acquisizioni, ricerca e sviluppo, capitale circolante) e sarà usato ancora il programma ATM da 500 milioni?",
+      "Perché nel terzo trimestre 2026 il flusso di cassa operativo è stato di -63,6 milioni a fronte di un Adjusted EBITDA di -5,3 milioni?"
+    ]
+  },
+  "price": {
+    "value": 6.78,
+    "date": "2026-11-17",
+    "currency": "USD",
+    "url": "https://stockanalysis.com/stocks/rdw/history/"
+  },
+  "missing": [
+    "Form 10-K 2025 e Form 10-Q del terzo trimestre 2026 e 2025: aperti ma leggibili solo in parte (lo strumento restituisce circa i primi 100.000 caratteri); non letti MD&A, note su debito, ricavi per area geografica in dollari, remaining performance obligations, descrizione delle material weakness, procedimenti legali",
+    "Rettifiche nette EAC per l'intero 2025 (dato annuale) e per ciascun trimestre 2026: non riportate nei comunicati letti",
+    "Guidance numerica su Adjusted EBITDA e Free Cash Flow per 2024 e 2026: la società non ne ha pubblicate nei comunicati letti",
+    "Ricavi per area geografica in valore (trovata solo la quota 2025 fuori dagli Stati Uniti, 41,6%)",
+    "Ricavi per segmento 2023 e Segment Adjusted EBITDA per l'intero 2025 e per il secondo trimestre 2026",
+    "Dettaglio dell'offerta di azioni di giugno 2025 (prezzo per azione, data) e del programma ATM del quarto trimestre 2025 (azioni vendute, prezzo medio)",
+    "Data e condizioni della conversione delle convertible preferred nel 2026 (nota del 10-Q non leggibile) e dettaglio dei riacquisti 2025",
+    "Condizioni complete delle linee di credito (finanziatori, importi, covenant): trovati solo scadenza maggio 2029 e spread SOFR+375 dalla sintesi della call, e i termini pro-forma di giugno 2025",
+    "Motivo della rettifica 8-K/A del comunicato sui risultati 2025 (letto solo l'allegato della versione modificata)",
+    "Trascrizioni integrali delle conference call (lette solo sintesi di MarketBeat, Zacks e Quartr; la sintesi MarketBeat della call del terzo trimestre 2026 non era raggiungibile)",
+    "Date di deposito esatte dei Form 10-K 2025 e 10-Q (indicate quelle dei relativi comunicati sui risultati)",
+    "Presentazioni agli investitori e obiettivi di piano pluriennale: non trovati",
+    "Quota di AE Industrial Partners nel capitale dopo l'acquisizione: non indicata nei documenti letti",
+    "Le citazioni sono brevi (sotto 125 caratteri) per un limite dello strumento di lettura; dove il testo esatto non era disponibile il campo quote è vuoto"
+  ]
+}

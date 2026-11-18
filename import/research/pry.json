@@ -1,0 +1,3389 @@
+{
+ "documents": [
+  {
+   "id": "pry-9m2026-pr",
+   "title": "Risultati terzo trimestre e nove mesi 2026 (comunicato stampa, PDF)",
+   "type": "earnings_release",
+   "date": "2026-10-29",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "url": "https://www.prysmian.com/sites/www.prysmian.com/files/media/documents/PR_Q326_ENGLISH.pdf"
+  },
+  {
+   "id": "pry-9m2026-web",
+   "title": "Prysmian to exceed 2028 financial targets two years early, raises 2026 guidance again (pagina comunicato Q3 2026)",
+   "type": "earnings_release",
+   "date": "2026-10-29",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q3",
+   "url": "https://www.prysmian.com/en/media/press-releases/prysmian-to-exceed-2028-financial-targets-two-years-early-raises-2026-guidance-again-after-its-best-quarter-to-date"
+  },
+  {
+   "id": "pry-h1-2026-pr",
+   "title": "Risultati al 30 giugno 2026 (comunicato stampa, PDF eMarket Storage)",
+   "type": "earnings_release",
+   "date": "2026-07-30",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "url": "https://www.emarketstorage.it/sites/default/files/comunicati/2026-07/20260730_187445.pdf"
+  },
+  {
+   "id": "pry-h1-2026-web",
+   "title": "Prysmian raises guidance after its best quarter yet (pagina comunicato Q2/1H 2026)",
+   "type": "earnings_release",
+   "date": "2026-07-30",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q2",
+   "url": "https://www.prysmian.com/en/media/press-releases/prysmian-raises-guidance-after-its-best-quarter-yet"
+  },
+  {
+   "id": "pry-h1-2026-pres",
+   "title": "Presentazione risultati 2Q/1H 2026",
+   "type": "presentation",
+   "date": "2026-07-30",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "url": "https://www.prysmian.com/sites/www.prysmian.com/files/2026-07/Prysmian_2Q26_Presentation_def.pdf"
+  },
+  {
+   "id": "pry-q1-2026-web",
+   "title": "Risultati primo trimestre 2026 (pagina comunicato)",
+   "type": "earnings_release",
+   "date": "2026-04-30",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "url": "https://www.prysmian.com/en/media/press-releases/prysmian-starts-the-year-with-organic-growth-margin-expansion-and-strong-free-cash-flow"
+  },
+  {
+   "id": "pry-fy2025-pr",
+   "title": "Risultati esercizio 2025 (comunicato stampa, PDF eMarket Storage)",
+   "type": "earnings_release",
+   "date": "2026-02-26",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "url": "https://www.emarketstorage.it/sites/default/files/comunicati/2026-02/20260226_177863.pdf"
+  },
+  {
+   "id": "pry-fy2025-web",
+   "title": "Risultati Q4 e esercizio 2025 (pagina comunicato)",
+   "type": "earnings_release",
+   "date": "2026-02-26",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q4",
+   "url": "https://www.prysmian.com/en/media/press-releases/prysmian-continues-growth-and-margin-expansion-in-q4-25-2025-is-prysmian-s-best-year-yet"
+  },
+  {
+   "id": "pry-ar2025",
+   "title": "Integrated Annual Report 2025 (copia depositata presso il Lobbyregister del Bundestag; testo letto solo in parte)",
+   "type": "annual_report",
+   "date": "2026-02-26",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "url": "https://www.lobbyregister.bundestag.de/media/76/ab/819091/PRY-2025_Optimized.pdf"
+  },
+  {
+   "id": "pry-9m2025-pr",
+   "title": "Risultati terzo trimestre e nove mesi 2025 (comunicato stampa, PDF eMarket Storage)",
+   "type": "earnings_release",
+   "date": "2025-10-30",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "url": "https://www.emarketstorage.it/sites/default/files/comunicati/2025-10/20251030_173647.pdf"
+  },
+  {
+   "id": "pry-9m2025-web",
+   "title": "Risultati Q3 e nove mesi 2025 (pagina comunicato)",
+   "type": "earnings_release",
+   "date": "2025-10-30",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "url": "https://www.prysmian.com/en/media/press-releases/q3-9m25-integrated-results"
+  },
+  {
+   "id": "pry-h1-2025-web",
+   "title": "Risultati Q2 e primo semestre 2025 (pagina comunicato)",
+   "type": "earnings_release",
+   "date": "2025-07-31",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "url": "https://www.prysmian.com/en/media/press-releases/prysmian-continues-margin-expansion-and-upgrades-fy25-guidance"
+  },
+  {
+   "id": "pry-h1-2025-pres",
+   "title": "Presentazione risultati 1H 2025",
+   "type": "presentation",
+   "date": "2025-07-31",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "url": "https://www.prysmian.com/sites/www.prysmian.com/files/2025-07/Prysmian_1H25_Presentation_def.pdf"
+  },
+  {
+   "id": "pry-q1-2025-pr",
+   "title": "Risultati primo trimestre 2025 (comunicato stampa, PDF eMarket Storage)",
+   "type": "earnings_release",
+   "date": "2025-05-08",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q1",
+   "url": "https://www.emarketstorage.it/sites/default/files/comunicati/2025-05/20250508_166540.pdf"
+  },
+  {
+   "id": "pry-cmd-2025",
+   "title": "Capital Markets Day 2025: obiettivi 2028 (comunicato stampa)",
+   "type": "other",
+   "date": "2025-03-25",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "url": "https://www.prysmian.com/en/media/press-releases/2028-targets-prysmian-to-accelerate-growth"
+  },
+  {
+   "id": "pry-fy2024-pr",
+   "title": "Risultati esercizio 2024 (comunicato stampa, PDF eMarket Storage)",
+   "type": "earnings_release",
+   "date": "2025-02-27",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "url": "https://emarketstorage.it/sites/default/files/comunicati/2025-02/20250227_161137.pdf"
+  },
+  {
+   "id": "pry-9m2024-web",
+   "title": "Risultati nove mesi 2024 (pagina comunicato)",
+   "type": "earnings_release",
+   "date": "2024-10-31",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "9M",
+   "url": "https://www.prysmian.com/en/media/press-releases/prysmian-excellent-margins-and-cash-generation"
+  },
+  {
+   "id": "pry-h1-2024-pr",
+   "title": "Risultati primo semestre 2024 (comunicato stampa, PDF eMarket Storage)",
+   "type": "earnings_release",
+   "date": "2024-08-01",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "H1",
+   "url": "https://emarketstorage.it/sites/default/files/comunicati/2024-08/20240801_152644.pdf"
+  },
+  {
+   "id": "pry-fy2023-web",
+   "title": "Risultati esercizio 2023 e guidance 2024 (pagina comunicato)",
+   "type": "earnings_release",
+   "date": "2024-02-29",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "url": "https://www.prysmian.com/en/media/press-release/outstanding-results-sound-margins-expansion-and-strong-cash-generation"
+  },
+  {
+   "id": "pry-encore-closing",
+   "title": "Completamento dell'acquisizione di Encore Wire (comunicato stampa)",
+   "type": "other",
+   "date": "2024-07-02",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "Q3",
+   "url": "https://www.prysmian.com/en/media/press-releases/prysmian-completes-the-acquisition-of-encore-wire"
+  },
+  {
+   "id": "pry-channell-closing",
+   "title": "Chiusura dell'acquisizione di Channell (comunicato stampa)",
+   "type": "other",
+   "date": "2025-06-10",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q2",
+   "url": "https://www.prysmian.com/en/media/press-releases/prysmian-closes-the-acquisition-of-channell"
+  },
+  {
+   "id": "pry-atkore-8k",
+   "title": "Atkore: accordo di acquisizione da parte di Prysmian (comunicato allegato al Form 8-K di Atkore, SEC)",
+   "type": "8-K",
+   "date": "2026-08-03",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q3",
+   "url": "https://www.sec.gov/Archives/edgar/data/0001666138/000166613826000016/atkr_991xpressrelease.htm"
+  },
+  {
+   "id": "pry-aucap-2026",
+   "title": "Aumento di capitale: comunicato sul prezzo del collocamento",
+   "type": "other",
+   "date": "2026-09-11",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q3",
+   "url": "https://www.prysmian.com/sites/www.prysmian.com/files/media/documents/Capital%20Increase%20Pricing%20Press%20Release%20ENG.pdf"
+  },
+  {
+   "id": "pry-uslisting-reuters",
+   "title": "Dual listing negli USA: dichiarazioni del CEO (via Reuters, ripreso da Euronext Live)",
+   "type": "other",
+   "date": "2026-11-16",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q4",
+   "url": "https://live.euronext.com/en/financial-news/italys-prysmian-revisit-us-dual-listing-plans-ceo-says"
+  },
+  {
+   "id": "pry-q3-2026-sole24",
+   "title": "Commento ai risultati Q3 2026 e dual listing (via Il Sole 24 Ore/Radiocor)",
+   "type": "other",
+   "date": "2026-10-29",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q3",
+   "url": "https://en.ilsole24ore.com/art/prysmian-posts-strong-quarterly-results-guidance-raised-brokers-optimistic-AJ0HaoxB"
+  },
+  {
+   "id": "pry-prezzo-moneyit",
+   "title": "Quotazione Prysmian (via Money.it, sezione dati di mercato)",
+   "type": "other",
+   "date": "2026-11-16",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q4",
+   "url": "https://www.money.it/+Prysmian+?debut_rubrica=2"
+  }
+ ],
+ "guidance": [
+  {
+   "docId": "pry-fy2023-web",
+   "issuedDate": "2024-02-29",
+   "metric": "ebitda",
+   "label": "Adjusted EBITDA",
+   "targetFiscalYear": 2024,
+   "targetPeriod": "FY",
+   "low": 1575000000,
+   "high": 1675000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Guidance iniziale 2024, data con i risultati 2023. Perimetro senza Encore Wire.",
+   "quote": ""
+  },
+  {
+   "docId": "pry-fy2023-web",
+   "issuedDate": "2024-02-29",
+   "metric": "fcf",
+   "label": "Free Cash Flow",
+   "targetFiscalYear": 2024,
+   "targetPeriod": "FY",
+   "low": 675000000,
+   "high": 775000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Guidance iniziale 2024. Nel 2023 il FCF era stato 724 milioni, sopra la guidance di 550-650 milioni.",
+   "quote": ""
+  },
+  {
+   "docId": "pry-h1-2024-pr",
+   "issuedDate": "2024-08-01",
+   "metric": "ebitda",
+   "label": "Adjusted EBITDA",
+   "targetFiscalYear": 2024,
+   "targetPeriod": "FY",
+   "low": 1900000000,
+   "high": 1950000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Revisione al rialzo con i risultati del primo semestre: include Encore Wire dal 1° luglio 2024. Ipotesi: nessun cambiamento geopolitico rilevante, EUR/USD 1,08. Consuntivo 2024: 1.927 milioni.",
+   "quote": "Encore Wire will be included within the Group perimeter as of 1st July 2024."
+  },
+  {
+   "docId": "pry-h1-2024-pr",
+   "issuedDate": "2024-08-01",
+   "metric": "fcf",
+   "label": "Free Cash Flow",
+   "targetFiscalYear": 2024,
+   "targetPeriod": "FY",
+   "low": 840000000,
+   "high": 920000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Revisione al rialzo con il primo semestre, incluso Encore Wire dal 1° luglio; esclusi gli effetti di cassa di vicende Antitrust. Consuntivo 2024: 1.011 milioni, sopra l'intervallo.",
+   "quote": ""
+  },
+  {
+   "docId": "pry-9m2024-web",
+   "issuedDate": "2024-10-31",
+   "metric": "ebitda",
+   "label": "Adjusted EBITDA",
+   "targetFiscalYear": 2024,
+   "targetPeriod": "FY",
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": true,
+   "text": "Con i nove mesi 2024 la società conferma l'outlook 2024 già alzato a luglio; il comunicato consultato non ripete gli intervalli.",
+   "quote": ""
+  },
+  {
+   "docId": "pry-fy2024-pr",
+   "issuedDate": "2025-02-27",
+   "metric": "ebitda",
+   "label": "Adjusted EBITDA",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "low": 2250000000,
+   "high": 2350000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Guidance iniziale 2025. Ipotesi: nessun cambiamento geopolitico rilevante, nessuna interruzione significativa delle forniture (inclusi effetti dei dazi), perimetro corrente (senza Channell), EUR/USD 1,06.",
+   "quote": "Adjusted EBITDA compreso nell'intervallo di €2.250-€2.350 milioni"
+  },
+  {
+   "docId": "pry-fy2024-pr",
+   "issuedDate": "2025-02-27",
+   "metric": "fcf",
+   "label": "Free Cash Flow",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "low": 950000000,
+   "high": 1050000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Guidance iniziale 2025; esclude effetti di cassa Antitrust.",
+   "quote": ""
+  },
+  {
+   "docId": "pry-q1-2025-pr",
+   "issuedDate": "2025-05-08",
+   "metric": "ebitda",
+   "label": "Adjusted EBITDA",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "low": 2250000000,
+   "high": 2350000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Confermata con il primo trimestre. Esclude il contributo futuro di Channell e gli effetti dei dazi; EUR/USD 1,06.",
+   "quote": ""
+  },
+  {
+   "docId": "pry-q1-2025-pr",
+   "issuedDate": "2025-05-08",
+   "metric": "fcf",
+   "label": "Free Cash Flow",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "low": 950000000,
+   "high": 1050000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Confermata con il primo trimestre; Channell esclusa.",
+   "quote": ""
+  },
+  {
+   "docId": "pry-h1-2025-pres",
+   "issuedDate": "2025-07-31",
+   "metric": "ebitda",
+   "label": "Adjusted EBITDA",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "low": 2300000000,
+   "high": 2375000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Prima revisione al rialzo (primo semestre): effetto dell'andamento da inizio anno e dell'ingresso di Channell (consolidata dal 1° giugno 2025), al netto dei cambi sfavorevoli. Intervallo confermato come 'precedente' nel comunicato dei nove mesi 2025.",
+   "quote": ""
+  },
+  {
+   "docId": "pry-h1-2025-pres",
+   "issuedDate": "2025-07-31",
+   "metric": "fcf",
+   "label": "Free Cash Flow",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "low": 1000000000,
+   "high": 1075000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Prima revisione al rialzo con il primo semestre 2025.",
+   "quote": ""
+  },
+  {
+   "docId": "pry-9m2025-pr",
+   "issuedDate": "2025-10-30",
+   "metric": "ebitda",
+   "label": "Adjusted EBITDA",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "low": 2375000000,
+   "high": 2425000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Seconda revisione al rialzo (nove mesi), motivata da Transmission e Nord America. Ipotesi: EUR/USD medio 1,14, nessuna variazione rilevante dei dazi, perimetro corrente. Consuntivo 2025: 2.398 milioni, nell'intervallo.",
+   "quote": ""
+  },
+  {
+   "docId": "pry-9m2025-pr",
+   "issuedDate": "2025-10-30",
+   "metric": "fcf",
+   "label": "Free Cash Flow",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "low": 1025000000,
+   "high": 1125000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Seconda revisione al rialzo. Consuntivo 2025: 1.171 milioni, sopra l'intervallo.",
+   "quote": ""
+  },
+  {
+   "docId": "pry-fy2025-pr",
+   "issuedDate": "2026-02-26",
+   "metric": "ebitda",
+   "label": "Adjusted EBITDA",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 2625000000,
+   "high": 2775000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Guidance iniziale 2026. Ipotesi: nessun cambiamento geopolitico rilevante, esclusi eventuali effetti del regime dei dazi USA, incluse le acquisizioni ACSM e Xtera, EUR/USD medio 1,17.",
+   "quote": "all business segments expected to have a positive impact"
+  },
+  {
+   "docId": "pry-fy2025-pr",
+   "issuedDate": "2026-02-26",
+   "metric": "fcf",
+   "label": "Free Cash Flow",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 1300000000,
+   "high": 1400000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Guidance iniziale 2026; esclude effetti di cassa Antitrust.",
+   "quote": ""
+  },
+  {
+   "docId": "pry-fy2025-pr",
+   "issuedDate": "2026-02-26",
+   "metric": "other",
+   "label": "Sustainability-linked revenues (% dei ricavi)",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 0.47,
+   "high": 0.49,
+   "unit": "percent",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Quota dei ricavi legati alla sostenibilità attesa per il 2026 (44,2% nel 2025). Confermata nei comunicati di luglio e ottobre 2026.",
+   "quote": ""
+  },
+  {
+   "docId": "pry-q1-2026-web",
+   "issuedDate": "2026-04-30",
+   "metric": "ebitda",
+   "label": "Adjusted EBITDA",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": true,
+   "text": "Con il primo trimestre 2026 la società conferma la guidance 2026; la pagina consultata non ripete gli intervalli.",
+   "quote": ""
+  },
+  {
+   "docId": "pry-h1-2026-pr",
+   "issuedDate": "2026-07-30",
+   "metric": "ebitda",
+   "label": "Adjusted EBITDA",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 2800000000,
+   "high": 2900000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Prima revisione al rialzo (da 2.625-2.775 milioni). Perimetro corrente inclusa Xtera, cambio EUR/USD corrente per il secondo semestre; Atkore non inclusa.",
+   "quote": "This guidance assumes no escalation in the current geopolitical situation"
+  },
+  {
+   "docId": "pry-h1-2026-pr",
+   "issuedDate": "2026-07-30",
+   "metric": "fcf",
+   "label": "Free Cash Flow",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 1650000000,
+   "high": 1750000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Prima revisione al rialzo (da 1.300-1.400 milioni).",
+   "quote": ""
+  },
+  {
+   "docId": "pry-9m2026-pr",
+   "issuedDate": "2026-10-29",
+   "metric": "ebitda",
+   "label": "Adjusted EBITDA",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 3075000000,
+   "high": 3125000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Seconda revisione al rialzo (da 2.800-2.900 milioni): andamento dei business e contributo di Atkore, consolidata per novembre e dicembre 2026. Perimetro corrente incluse Atkore e Xtera; cambio EUR/USD corrente per il quarto trimestre.",
+   "quote": "Prysmian is raising its 2026 guidance as follows:"
+  },
+  {
+   "docId": "pry-9m2026-pr",
+   "issuedDate": "2026-10-29",
+   "metric": "fcf",
+   "label": "Free Cash Flow",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 1750000000,
+   "high": 1850000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Seconda revisione al rialzo (da 1.650-1.750 milioni); esclude effetti di cassa Antitrust.",
+   "quote": ""
+  },
+  {
+   "docId": "pry-9m2026-pr",
+   "issuedDate": "2026-10-29",
+   "metric": "other",
+   "label": "Obiettivi 2028 di Adjusted EBITDA e Free Cash Flow raggiunti in anticipo",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": true,
+   "text": "La società dichiara che supererà nel 2026, con due anni di anticipo, gli obiettivi 2028 di Adjusted EBITDA (2,95-3,15 miliardi) e FCF (1,5-1,7 miliardi); nuovo Capital Markets Day entro il primo semestre 2027.",
+   "quote": "Prysmian to beat 2028 Adjusted EBITDA and Free Cash Flow targets two years ahead of schedule"
+  },
+  {
+   "docId": "pry-cmd-2025",
+   "issuedDate": "2025-03-25",
+   "metric": "ebitda",
+   "label": "Adjusted EBITDA 2028",
+   "targetFiscalYear": 2028,
+   "targetPeriod": "FY",
+   "low": 2950000000,
+   "high": 3150000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Obiettivo di piano (Capital Markets Day, New York): da 1.927 milioni nel 2024, CAGR 12,2%; include 150 milioni da Channell nel 2028. Ipotesi EUR/USD 1,07, senza effetti dei dazi.",
+   "quote": "€2.95 billion to €3.15 billion adjusted EBITDA range."
+  },
+  {
+   "docId": "pry-cmd-2025",
+   "issuedDate": "2025-03-25",
+   "metric": "fcf",
+   "label": "Free Cash Flow 2028",
+   "targetFiscalYear": 2028,
+   "targetPeriod": "FY",
+   "low": 1500000000,
+   "high": 1700000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Obiettivo di piano: da 1.011 milioni nel 2024, conversione superiore al 50% dell'EBITDA.",
+   "quote": "€1.5 billion to €1.7 billion free cash flow range."
+  },
+  {
+   "docId": "pry-cmd-2025",
+   "issuedDate": "2025-03-25",
+   "metric": "eps_diluted",
+   "label": "Adjusted EPS 2028",
+   "targetFiscalYear": 2028,
+   "targetPeriod": "FY",
+   "low": 4.6,
+   "high": 5.2,
+   "unit": "per_share",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Obiettivo di piano: da 2,81 euro nel 2024, CAGR 2024-2028 del 15-19%.",
+   "quote": ""
+  },
+  {
+   "docId": "pry-cmd-2025",
+   "issuedDate": "2025-03-25",
+   "metric": "other",
+   "label": "ROCE 2028",
+   "targetFiscalYear": 2028,
+   "targetPeriod": "FY",
+   "low": 0.2,
+   "high": 0.22,
+   "unit": "percent",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Obiettivo di piano: dal 16% del 2024.",
+   "quote": ""
+  },
+  {
+   "docId": "pry-cmd-2025",
+   "issuedDate": "2025-03-25",
+   "metric": "capex",
+   "label": "Capex cumulato 2025-2028",
+   "targetFiscalYear": 2028,
+   "targetPeriod": "FY",
+   "low": 2600000000,
+   "high": 2600000000,
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Circa 2,6 miliardi cumulati nel 2025-2028 (circa 650 milioni l'anno), in prevalenza in Transmission.",
+   "quote": ""
+  },
+  {
+   "docId": "pry-cmd-2025",
+   "issuedDate": "2025-03-25",
+   "metric": "other",
+   "label": "Net debt / Adjusted EBITDA (a regime)",
+   "targetFiscalYear": 2028,
+   "targetPeriod": "FY",
+   "low": 1.0,
+   "high": 1.5,
+   "unit": "other",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Riduzione del debito di circa 1,3 miliardi nel 2025-2028 con obiettivo di leva a regime tra 1,0x e 1,5x.",
+   "quote": ""
+  },
+  {
+   "docId": "pry-cmd-2025",
+   "issuedDate": "2025-03-25",
+   "metric": "other",
+   "label": "Crescita annua del dividendo per azione",
+   "targetFiscalYear": 2028,
+   "targetPeriod": "FY",
+   "low": 0.12,
+   "high": 0.12,
+   "unit": "percent",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Circa 1,1 miliardi di dividendi cumulati 2025-2028, con dividendo per azione in crescita di circa il 12% l'anno dal livello 2024 (0,80 euro).",
+   "quote": ""
+  },
+  {
+   "docId": "pry-cmd-2025",
+   "issuedDate": "2025-03-25",
+   "metric": "other",
+   "label": "Transmission: CAGR Adjusted EBITDA 2024-2028",
+   "targetFiscalYear": 2028,
+   "targetPeriod": "FY",
+   "low": 0.25,
+   "high": 0.28,
+   "unit": "percent",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Obiettivo di segmento: crescita media annua dell'Adjusted EBITDA Transmission del 25-28% tra 2024 e 2028.",
+   "quote": ""
+  },
+  {
+   "docId": "pry-cmd-2025",
+   "issuedDate": "2025-03-25",
+   "metric": "other",
+   "label": "M&A e/o remunerazione aggiuntiva degli azionisti 2025-2028",
+   "targetFiscalYear": 2028,
+   "targetPeriod": "FY",
+   "low": 2600000000,
+   "high": 2600000000,
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Circa 2,6 miliardi (su circa 5 miliardi di FCF cumulato 2025-2028) destinati a M&A e/o maggiori ritorni agli azionisti, per lo più dal 2027; la ripartizione dipende dalle opportunità di acquisizione.",
+   "quote": ""
+  },
+  {
+   "docId": "pry-cmd-2025",
+   "issuedDate": "2025-03-25",
+   "metric": "other",
+   "label": "Sinergie Encore Wire",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "unit": "currency",
+   "nonGaap": true,
+   "qualitative": true,
+   "text": "Il 70% delle sinergie a regime di 140 milioni di EBITDA da Encore Wire atteso entro il 2026.",
+   "quote": ""
+  }
+ ],
+ "custom": [
+  {
+   "category": "segment_revenue",
+   "name": "Transmission",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 2122000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-fy2024-pr"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Power Grid",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 3394000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-fy2024-pr"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Electrification",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 8349000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-fy2024-pr"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Electrification - Industrial & Construction",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 4793000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-fy2024-pr"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Electrification - Specialties",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 3177000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-fy2024-pr"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Digital Solutions",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 1489000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-fy2024-pr"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Transmission (Adjusted EBITDA)",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 273000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-fy2024-pr"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Power Grid (Adjusted EBITDA)",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 390000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-fy2024-pr"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Electrification (Adjusted EBITDA)",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 825000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-fy2024-pr"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Electrification - Industrial & Construction (Adjusted EBITDA)",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 514000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-fy2024-pr"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Electrification - Specialties (Adjusted EBITDA)",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 327000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-fy2024-pr"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Digital Solutions (Adjusted EBITDA)",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 140000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-fy2024-pr"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Transmission",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 2481000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-fy2025-pr"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Power Grid",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 3544000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-fy2025-pr"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Electrification",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 9695000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-fy2025-pr"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Electrification - Industrial & Construction",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 6151000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-fy2025-pr"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Electrification - Specialties",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 3052000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-fy2025-pr"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Digital Solutions",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 1306000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-fy2025-pr"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Transmission (Adjusted EBITDA)",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 361000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-fy2025-pr"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Power Grid (Adjusted EBITDA)",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 474000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-fy2025-pr"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Electrification (Adjusted EBITDA)",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 931000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-fy2025-pr"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Electrification - Industrial & Construction (Adjusted EBITDA)",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 620000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-fy2025-pr"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Electrification - Specialties (Adjusted EBITDA)",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 310000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-fy2025-pr"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Digital Solutions (Adjusted EBITDA)",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 161000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-fy2025-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Transmission - margine Adjusted EBITDA (prezzi metalli standard)",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 0.145,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-fy2025-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Power Grid - margine Adjusted EBITDA (prezzi metalli standard)",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 0.15,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-fy2025-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Electrification - margine Adjusted EBITDA (prezzi metalli standard)",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 0.116,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-fy2025-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Electrification - Industrial & Construction - margine Adjusted EBITDA (prezzi metalli standard)",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 0.125,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-fy2025-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Electrification - Specialties - margine Adjusted EBITDA (prezzi metalli standard)",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 0.119,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-fy2025-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Digital Solutions - margine Adjusted EBITDA (prezzi metalli standard)",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 0.129,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-fy2025-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Transmission - crescita organica",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 0.183,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-fy2024-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Power Grid - crescita organica",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 0.031,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-fy2024-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Electrification - crescita organica",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": -0.028,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-fy2024-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Electrification - Industrial & Construction - crescita organica",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": -0.009,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-fy2024-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Electrification - Specialties - crescita organica",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": -0.059,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-fy2024-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Digital Solutions - crescita organica",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": -0.126,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-fy2024-pr"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Transmission",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 3262000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-fy2025-pr"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Power Grid",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 3811000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-fy2025-pr"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Electrification",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 10959000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-fy2025-pr"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Electrification - Industrial & Construction",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 7519000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-fy2025-pr"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Electrification - Specialties",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 2983000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-fy2025-pr"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Digital Solutions",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 1618000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-fy2025-pr"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Transmission (Adjusted EBITDA)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 582000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-fy2025-pr"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Power Grid (Adjusted EBITDA)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 480000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-fy2025-pr"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Electrification (Adjusted EBITDA)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 1068000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-fy2025-pr"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Electrification - Industrial & Construction (Adjusted EBITDA)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 795000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-fy2025-pr"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Electrification - Specialties (Adjusted EBITDA)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 279000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-fy2025-pr"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Digital Solutions (Adjusted EBITDA)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 268000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-fy2025-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Transmission - margine Adjusted EBITDA (prezzi metalli standard)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 0.183,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-fy2025-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Power Grid - margine Adjusted EBITDA (prezzi metalli standard)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 0.144,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-fy2025-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Electrification - margine Adjusted EBITDA (prezzi metalli standard)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 0.122,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-fy2025-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Electrification - Industrial & Construction - margine Adjusted EBITDA (prezzi metalli standard)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 0.134,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-fy2025-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Electrification - Specialties - margine Adjusted EBITDA (prezzi metalli standard)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 0.111,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-fy2025-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Digital Solutions - margine Adjusted EBITDA (prezzi metalli standard)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 0.173,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-fy2025-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Transmission - crescita organica",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 0.287,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-fy2025-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Power Grid - crescita organica",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 0.076,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-fy2025-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Electrification - crescita organica",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": -0.008,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-fy2025-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Electrification - Industrial & Construction - crescita organica",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": -0.005,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-fy2025-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Electrification - Specialties - crescita organica",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": -0.017,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-fy2025-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Digital Solutions - crescita organica",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 0.07,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-fy2025-pr"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Transmission",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 2363000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-9m2025-pr"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Power Grid",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 2850000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-9m2025-pr"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Electrification",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 8279000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-9m2025-pr"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Electrification - Industrial & Construction",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 5652000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-9m2025-pr"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Electrification - Specialties",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 2281000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-9m2025-pr"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Digital Solutions",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 1192000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-9m2025-pr"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Transmission (Adjusted EBITDA)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 401000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-9m2025-pr"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Power Grid (Adjusted EBITDA)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 375000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-9m2025-pr"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Electrification (Adjusted EBITDA)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 807000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-9m2025-pr"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Electrification - Industrial & Construction (Adjusted EBITDA)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 593000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-9m2025-pr"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Electrification - Specialties (Adjusted EBITDA)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 218000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-9m2025-pr"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Digital Solutions (Adjusted EBITDA)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 193000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-9m2025-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Transmission - margine Adjusted EBITDA (prezzi metalli standard)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 0.173,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-9m2025-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Power Grid - margine Adjusted EBITDA (prezzi metalli standard)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 0.152,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-9m2025-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Electrification - margine Adjusted EBITDA (prezzi metalli standard)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 0.122,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-9m2025-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Electrification - Industrial & Construction - margine Adjusted EBITDA (prezzi metalli standard)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 0.134,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-9m2025-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Electrification - Specialties - margine Adjusted EBITDA (prezzi metalli standard)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 0.114,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-9m2025-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Digital Solutions - margine Adjusted EBITDA (prezzi metalli standard)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 0.169,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-9m2025-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Transmission - crescita organica",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 0.383,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-9m2025-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Power Grid - crescita organica",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 0.06,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-9m2025-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Electrification - crescita organica",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": -0.011,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-9m2025-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Electrification - Industrial & Construction - crescita organica",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": -0.009,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-9m2025-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Electrification - Specialties - crescita organica",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": -0.016,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-9m2025-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Digital Solutions - crescita organica",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 0.066,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-9m2025-pr"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Transmission",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 1636000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-h1-2026-pr"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Power Grid",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 2218000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-h1-2026-pr"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Electrification",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 6394000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-h1-2026-pr"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Electrification - Industrial & Construction",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 4556000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-h1-2026-pr"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Electrification - Specialties",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 1509000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-h1-2026-pr"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Digital Solutions",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 991000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-h1-2026-pr"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Transmission (Adjusted EBITDA)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 325000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-h1-2026-pr"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Power Grid (Adjusted EBITDA)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 242000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-h1-2026-pr"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Electrification (Adjusted EBITDA)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 554000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-h1-2026-pr"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Electrification - Industrial & Construction (Adjusted EBITDA)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 424000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-h1-2026-pr"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Electrification - Specialties (Adjusted EBITDA)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 131000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-h1-2026-pr"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Digital Solutions (Adjusted EBITDA)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 210000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-h1-2026-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Transmission - margine Adjusted EBITDA (prezzi metalli standard)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 0.207,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-h1-2026-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Power Grid - margine Adjusted EBITDA (prezzi metalli standard)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 0.131,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-h1-2026-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Electrification - margine Adjusted EBITDA (prezzi metalli standard)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 0.12,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-h1-2026-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Electrification - Industrial & Construction - margine Adjusted EBITDA (prezzi metalli standard)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 0.132,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-h1-2026-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Electrification - Specialties - margine Adjusted EBITDA (prezzi metalli standard)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 0.111,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-h1-2026-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Digital Solutions - margine Adjusted EBITDA (prezzi metalli standard)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 0.223,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-h1-2026-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Transmission - crescita organica",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 0.073,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-h1-2026-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Power Grid - crescita organica",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 0.145,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-h1-2026-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Electrification - crescita organica",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 0.039,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-h1-2026-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Electrification - Industrial & Construction - crescita organica",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 0.074,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-h1-2026-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Electrification - Specialties - crescita organica",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": -0.043,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-h1-2026-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Digital Solutions - crescita organica",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 0.138,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-h1-2026-pr"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Transmission",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 2724000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-9m2026-pr"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Power Grid",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 3397000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-9m2026-pr"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Electrification",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 9978000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-9m2026-pr"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Electrification - Industrial & Construction",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 7120000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-9m2026-pr"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Electrification - Specialties",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 2346000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-9m2026-pr"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Digital Solutions",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 1557000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-9m2026-pr"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Transmission (Adjusted EBITDA)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 538000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-9m2026-pr"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Power Grid (Adjusted EBITDA)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 377000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-9m2026-pr"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Electrification (Adjusted EBITDA)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 923000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-9m2026-pr"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Electrification - Industrial & Construction (Adjusted EBITDA)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 728000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-9m2026-pr"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Electrification - Specialties (Adjusted EBITDA)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 198000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-9m2026-pr"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Digital Solutions (Adjusted EBITDA)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 344000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-9m2026-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Transmission - margine Adjusted EBITDA (prezzi metalli standard)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 0.204,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-9m2026-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Power Grid - margine Adjusted EBITDA (prezzi metalli standard)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 0.133,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-9m2026-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Electrification - margine Adjusted EBITDA (prezzi metalli standard)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 0.13,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-9m2026-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Electrification - Industrial & Construction - margine Adjusted EBITDA (prezzi metalli standard)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 0.147,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-9m2026-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Electrification - Specialties - margine Adjusted EBITDA (prezzi metalli standard)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 0.109,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-9m2026-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Digital Solutions - margine Adjusted EBITDA (prezzi metalli standard)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 0.233,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-9m2026-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Transmission - crescita organica",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 0.132,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-9m2026-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Power Grid - crescita organica",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 0.12,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-9m2026-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Electrification - crescita organica",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 0.063,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-9m2026-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Electrification - Industrial & Construction - crescita organica",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 0.096,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-9m2026-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Electrification - Specialties - crescita organica",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": -0.012,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-9m2026-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Digital Solutions - crescita organica",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 0.151,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-9m2026-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ricavi di Gruppo",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 15354000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-fy2023-web"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Adjusted EBITDA di Gruppo",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 1628000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-fy2023-web"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Crescita organica di Gruppo",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": -0.011,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-fy2023-web"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Utile netto di Gruppo",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 529000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-fy2023-web"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Free Cash Flow (ultimi 12 mesi)",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 724000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-fy2023-web"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Indebitamento finanziario netto",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 1188000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-fy2023-web"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ricavi di Gruppo",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 17026000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-fy2024-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Adjusted EBITDA di Gruppo",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 1927000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-fy2024-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Crescita organica di Gruppo",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 0.005,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-fy2024-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Utile netto di Gruppo",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 729000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-fy2024-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Free Cash Flow (ultimi 12 mesi)",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 1011000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-fy2024-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Indebitamento finanziario netto",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 4296000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-fy2024-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Margine Adjusted EBITDA di Gruppo (prezzi metalli standard)",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 0.129,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-fy2025-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBITDA di Gruppo (contabile)",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 1754000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-fy2025-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ricavi di Gruppo",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 19650000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-fy2025-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Adjusted EBITDA di Gruppo",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 2398000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-fy2025-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBITDA di Gruppo (contabile)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 2688000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-fy2025-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Margine Adjusted EBITDA di Gruppo (prezzi metalli standard)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 0.142,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-fy2025-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Crescita organica di Gruppo",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 0.054,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-fy2025-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Utile netto di Gruppo",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 1270000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-fy2025-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Free Cash Flow (ultimi 12 mesi)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 1171000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-fy2025-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Indebitamento finanziario netto",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 3097000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-fy2025-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ricavi di Gruppo",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q1",
+   "value": 4771000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-q1-2025-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Adjusted EBITDA di Gruppo",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q1",
+   "value": 527000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-q1-2025-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Margine Adjusted EBITDA di Gruppo (prezzi metalli standard)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q1",
+   "value": 0.131,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-q1-2025-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Crescita organica di Gruppo",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q1",
+   "value": 0.05,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-q1-2025-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ricavi di Gruppo",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 9654000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-h1-2025-web"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Adjusted EBITDA di Gruppo",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 1132000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-h1-2025-web"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Margine Adjusted EBITDA di Gruppo (prezzi metalli standard)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 0.138,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-h1-2025-web"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Crescita organica di Gruppo",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 0.04,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-h1-2025-web"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Free Cash Flow (ultimi 12 mesi)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 979000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-h1-2025-web"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Indebitamento finanziario netto",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 4694000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-h1-2025-web"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ricavi di Gruppo",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 14684000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-9m2025-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Adjusted EBITDA di Gruppo",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 1776000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-9m2025-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Margine Adjusted EBITDA di Gruppo (prezzi metalli standard)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 0.141,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-9m2025-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Crescita organica di Gruppo",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 0.057,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-9m2025-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Indebitamento finanziario netto",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 4318000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-9m2025-web"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Free Cash Flow (ultimi 12 mesi)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 859000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-9m2025-web"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ricavi di Gruppo",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 5218000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-q1-2026-web"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Adjusted EBITDA di Gruppo",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 601000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-q1-2026-web"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBITDA di Gruppo (contabile)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 579000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-q1-2026-web"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Margine Adjusted EBITDA di Gruppo (prezzi metalli standard)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 0.142,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-q1-2026-web"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Crescita organica di Gruppo",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 0.05,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-q1-2026-web"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Utile netto di Gruppo",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 253000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-q1-2026-web"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Free Cash Flow (ultimi 12 mesi)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 1191000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-q1-2026-web"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Indebitamento finanziario netto",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 3818000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-q1-2026-web"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ricavi di Gruppo",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 11239000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-h1-2026-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Adjusted EBITDA di Gruppo",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 1331000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-h1-2026-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBITDA di Gruppo (contabile)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 1276000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-h1-2026-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Margine Adjusted EBITDA di Gruppo (prezzi metalli standard)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 0.148,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-h1-2026-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Crescita organica di Gruppo",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 0.072,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-h1-2026-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Utile netto di Gruppo",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 584000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-h1-2026-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Free Cash Flow (ultimi 12 mesi)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 978000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-h1-2026-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Indebitamento finanziario netto",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 4079000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-h1-2026-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ricavi di Gruppo",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q3",
+   "value": 6417000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-9m2026-web"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Adjusted EBITDA di Gruppo",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q3",
+   "value": 851000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-9m2026-web"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Margine Adjusted EBITDA di Gruppo (prezzi metalli standard)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q3",
+   "value": 0.168,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-9m2026-web"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Crescita organica di Gruppo",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q3",
+   "value": 0.131,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-9m2026-web"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ricavi di Gruppo",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 17656000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-9m2026-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Adjusted EBITDA di Gruppo",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 2182000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-9m2026-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EBITDA di Gruppo (contabile)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 2092000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-9m2026-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Margine Adjusted EBITDA di Gruppo (prezzi metalli standard)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 0.155,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-9m2026-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Crescita organica di Gruppo",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 0.092,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-9m2026-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Utile netto di Gruppo",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 998000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-9m2026-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Free Cash Flow (ultimi 12 mesi)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 1434000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-9m2026-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Indebitamento finanziario netto",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 2857000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-9m2026-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Utile netto di Gruppo",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 1036000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-9m2026-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Backlog Transmission (circa)",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 18000000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-fy2023-web"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Backlog Transmission (circa)",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "H1",
+   "value": 18000000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-h1-2024-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Backlog Transmission (circa)",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 17000000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-fy2024-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Backlog Transmission (circa)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q1",
+   "value": 17000000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-q1-2025-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Backlog Transmission (circa)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 16000000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-h1-2025-pres"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Backlog Transmission (circa)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 16000000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-9m2025-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Backlog Transmission (circa)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 17000000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-fy2025-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Backlog Transmission (circa)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 17000000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-h1-2026-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Backlog Transmission (circa)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 16500000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-9m2026-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Dividendo per azione proposto",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 0.7,
+   "unit": "EUR per azione",
+   "source": {
+    "docId": "pry-fy2023-web"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Dividendo per azione proposto",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 0.8,
+   "unit": "EUR per azione",
+   "source": {
+    "docId": "pry-fy2024-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Dividendo per azione proposto",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 0.9,
+   "unit": "EUR per azione",
+   "source": {
+    "docId": "pry-fy2025-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Acquisto azioni proprie e altri movimenti di patrimonio netto",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 327000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-fy2025-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Acquisto azioni proprie e altri movimenti di patrimonio netto",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 47000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-fy2025-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Investimenti netti (net capex, flusso di cassa)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 765000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-fy2025-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Investimenti netti (net capex, ultimi 12 mesi)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 887000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-9m2026-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Effetto prezzo dei metalli sui ricavi",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 671000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-ar2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Effetto prezzo dei metalli sui ricavi",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 1089000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-h1-2026-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Effetto prezzo dei metalli sui ricavi",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 1752000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-9m2026-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Sustainability-linked revenues (% dei ricavi)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 0.442,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-fy2025-web"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Sustainability-linked revenues (% dei ricavi)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 0.46,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-9m2026-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "New Product and Solution Vitality",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 0.322,
+   "unit": "percent",
+   "source": {
+    "docId": "pry-9m2026-web"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Aumento di capitale: proventi lordi",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q3",
+   "value": 850000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-aucap-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Aumento di capitale: nuove azioni emesse",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q3",
+   "value": 7024793,
+   "unit": "count",
+   "source": {
+    "docId": "pry-aucap-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Channell: prezzo base (USD)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q2",
+   "value": 950000000,
+   "unit": "USD",
+   "source": {
+    "docId": "pry-channell-closing"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Channell: earn-out pagato il 19 dicembre 2025 (USD)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 200000000,
+   "unit": "USD",
+   "source": {
+    "docId": "pry-ar2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Encore Wire: prezzo per azione (USD)",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "Q3",
+   "value": 290.0,
+   "unit": "USD per azione",
+   "source": {
+    "docId": "pry-encore-closing"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Atkore: enterprise value (USD, circa)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q3",
+   "value": 3800000000,
+   "unit": "USD",
+   "source": {
+    "docId": "pry-atkore-8k"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Atkore: prezzo per azione (USD)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q3",
+   "value": 95.0,
+   "unit": "USD per azione",
+   "source": {
+    "docId": "pry-atkore-8k"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Bond ibrido perpetuo emesso a maggio 2025 (nominale)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 1000000000,
+   "unit": "currency",
+   "source": {
+    "docId": "pry-ar2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Dipendenti (circa)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 40000,
+   "unit": "count",
+   "source": {
+    "docId": "pry-9m2026-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Stabilimenti",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 109,
+   "unit": "count",
+   "source": {
+    "docId": "pry-ar2025"
+   }
+  }
+ ],
+ "insights": {
+  "id": "pry-9m2026-pr",
+  "summary": "Nel 2025 Prysmian ha registrato ricavi per 19.650 milioni (+5,4% organico), Adjusted EBITDA di 2.398 milioni (margine 14,2% a prezzi metalli standard) e FCF di 1.171 milioni, sopra la guidance; l'utile netto di 1.270 milioni include una plusvalenza netta di 346 milioni dalla cessione della quota YOFC. Nei nove mesi 2026 i ricavi sono saliti a 17.656 milioni (+9,2% organico) e l'Adjusted EBITDA a 2.182 milioni (margine 15,5%), con un terzo trimestre a 851 milioni (+32,1%). La guidance 2026 è stata alzata due volte, fino a 3.075-3.125 milioni di Adjusted EBITDA e 1.750-1.850 milioni di FCF, livelli che superano con due anni di anticipo gli obiettivi 2028. A ottobre 2026 sono state chiuse le acquisizioni di Xtera e di Atkore (circa 3,8 miliardi di dollari di enterprise value), quest'ultima finanziata in parte con un aumento di capitale da circa 850 milioni a 121 euro per azione.",
+  "businessModel": "Produttore di cavi e sistemi per energia e telecomunicazioni. Quattro segmenti: Transmission (cavi sottomarini e terrestri ad alta tensione, a progetto, con backlog di circa 16,5 miliardi), Power Grid (cavi per reti di distribuzione e linee aeree, clienti utility), Electrification (Industrial & Construction, che comprende Encore Wire e da novembre 2026 Atkore, e Specialties) e Digital Solutions (fibra e cavi ottici, connettività, con Channell). Electrification genera oltre metà dei ricavi (10.959 milioni su 19.650 nel 2025); Transmission e Digital Solutions hanno i margini più alti (20,4% e 23,3% nei nove mesi 2026). I ricavi risentono del prezzo dei metalli, che viene trasferito ai clienti; per questo i margini sono pubblicati a prezzi metalli standard.",
+  "highlights": [
+   "Adjusted EBITDA del terzo trimestre 2026 a 851 milioni (+32,1%), margine 16,8% contro 14,8%; crescita organica +13,1%.",
+   "Transmission: Adjusted EBITDA nove mesi 2026 a 538 milioni (401 un anno prima), margine 20,4% contro 17,3%; backlog di circa 16,5 miliardi più circa 2 miliardi di progetti assegnati non ancora inclusi.",
+   "Digital Solutions: Adjusted EBITDA nove mesi 2026 a 344 milioni contro 193, margine 23,3% contro 16,9%, crescita organica +15,1%, con il contributo di Channell e della produzione integrata di fibra negli USA.",
+   "Industrial & Construction: crescita organica +14,2% nel terzo trimestre 2026 (+23,7% in Nord America), margine 17,6% contro 14,5%.",
+   "Free Cash Flow degli ultimi 12 mesi a 1.434 milioni a settembre 2026 (859 un anno prima); indebitamento netto sceso a 2.857 milioni da 4.318, prima del pagamento di Atkore.",
+   "Guidance rispettata o superata in ogni esercizio osservato: 2024 Adjusted EBITDA 1.927 milioni (guidance rivista 1.900-1.950) e FCF 1.011 (840-920); 2025 Adjusted EBITDA 2.398 (2.375-2.425) e FCF 1.171 (1.025-1.125)."
+  ],
+  "lowlights": [
+   "Power Grid: margine in calo al 13,3% nei nove mesi 2026 dal 15,2%, con Adjusted EBITDA fermo a 377 milioni (375) nonostante +12,0% di crescita organica; nel quarto trimestre 2025 la società aveva indicato i maggiori premi sui metalli nelle linee aeree.",
+   "Specialties: Adjusted EBITDA nove mesi 2026 a 198 milioni contro 218, crescita organica -1,2%, margine 10,9% contro 11,4%.",
+   "Utile netto dei nove mesi 2026 a 998 milioni contro 1.036: il confronto sconta la plusvalenza YOFC del 2025.",
+   "Electrification in calo organico nel 2025 (-0,8%; Industrial & Construction -0,5%, Specialties -1,7%): la crescita dei ricavi 2025 del segmento è venuta da perimetro e metalli.",
+   "Capitale circolante: assorbimento di 1.024 milioni nei nove mesi 2026 e scorte salite a 3.751 milioni da 3.066 di fine 2025.",
+   "Azionisti diluiti del 2,4% circa con l'aumento di capitale di settembre 2026; nessun riacquisto di azioni proprie nel primo semestre 2026."
+  ],
+  "risks": [
+   {
+    "title": "Integrazione e leva dopo Atkore",
+    "detail": "Atkore (enterprise value circa 3,8 miliardi di dollari, 95 dollari per azione, premio di circa il 30%) è stata chiusa il 19 ottobre 2026, dopo Encore Wire (2024) e Channell (2025). L'indebitamento netto di 2.857 milioni a settembre 2026 non include ancora il pagamento; sinergie e contributo non sono quantificati nei documenti consultati.",
+    "severity": "alta"
+   },
+   {
+    "title": "Concentrazione in Nord America e domanda da data center",
+    "detail": "Il Nord America vale circa il 40% dei ricavi (dato riportato da Reuters) e la crescita recente di Industrial & Construction e Digital Solutions è legata ai data center. A inizio novembre 2026 il titolo è sceso per i timori di restrizioni ai data center in alcuni Stati USA dopo le elezioni di metà mandato.",
+    "severity": "alta"
+   },
+   {
+    "title": "Dazi USA e prezzi dei metalli",
+    "detail": "La guidance iniziale 2026 escludeva ogni effetto del regime dei dazi USA e quelle 2025 gli effetti di variazioni rilevanti dei dazi; l'esposizione non è quantificata. I prezzi dei metalli hanno aggiunto 1.752 milioni ai ricavi dei nove mesi 2026 e i premi sui metalli hanno compresso i margini di Power Grid.",
+    "severity": "media"
+   },
+   {
+    "title": "Esecuzione dei progetti Transmission",
+    "detail": "Il backlog di circa 16,5 miliardi equivale a diversi anni di ricavi del segmento (3.262 milioni nel 2025); il piano prevede circa 2,6 miliardi di capex 2025-2028 soprattutto in Transmission. Ritardi o extracosti sui progetti peserebbero sul segmento a margine più alto tra quelli energia.",
+    "severity": "media"
+   },
+   {
+    "title": "Procedimenti Antitrust",
+    "detail": "Guidance e definizione di FCF escludono sistematicamente gli effetti di cassa delle vicende Antitrust; l'ammontare degli accantonamenti non è stato trovato nei documenti letti.",
+    "severity": "bassa"
+   }
+  ],
+  "accountingFlags": [
+   {
+    "title": "Plusvalenza YOFC nell'utile 2025",
+    "detail": "L'utile netto 2025 (1.270 milioni) include 346 milioni netti dalla cessione della quota YOFC; tra EBITDA contabile (2.688 milioni) e Adjusted EBITDA (2.398) ci sono rettifiche nette per -290 milioni, di cui -341 di proventi non operativi.",
+    "severity": "media"
+   },
+   {
+    "title": "Margini a prezzi metalli standard",
+    "detail": "I margini sono calcolati a prezzi standard (rame 5.500 €/t, alluminio 1.500 €/t, piombo 2.000 €/t). Il margine 2024 era 11,3% nel comunicato di febbraio 2025 e 12,9% nel comunicato di febbraio 2026; nel primo semestre 2026 il margine è 14,8% a prezzi standard e 11,8% a prezzi correnti.",
+    "severity": "media"
+   },
+   {
+    "title": "Bond ibrido trattato come capitale",
+    "detail": "Il bond ibrido perpetuo da 1.000 milioni (cedola 5,25%) emesso a maggio 2025 ha ridotto l'indebitamento netto di 989 milioni; le cedole (52 milioni nel 2026) sono fuori dagli oneri finanziari del FCF. Il rating attribuisce un contenuto di capitale del 50%.",
+    "severity": "media"
+   },
+   {
+    "title": "Definizione di Free Cash Flow",
+    "detail": "Il FCF esclude acquisizioni, cessioni di partecipazioni, effetti Antitrust e cessioni non ordinarie; è pubblicato sugli ultimi 12 mesi. L'earn-out Channell da 200 milioni di dollari pagato a dicembre 2025 ne resta fuori.",
+    "severity": "bassa"
+   },
+   {
+    "title": "Dati 2025 rideterminati",
+    "detail": "I nove mesi 2025 sono stati rideterminati nel comunicato 2026: utile netto 1.036 milioni (1.022 nel comunicato originale) ed EBITDA 2.103 (2.099).",
+    "severity": "bassa"
+   }
+  ],
+  "capitalAllocation": "Dividendo in crescita: 0,70 euro (2023), 0,80 (2024), 0,90 proposto per il 2025 (circa 258 milioni); il piano prevede circa +12% l'anno. Riacquisti di azioni per 327 milioni nel 2024 e 47 milioni nel 2025, nessuno nel primo semestre 2026; 9.592.153 azioni proprie a febbraio 2026 e nuova autorizzazione fino al 10% del capitale. Acquisizioni: Encore Wire (290 dollari per azione, luglio 2024), Channell (950 milioni di dollari più earn-out di 200 milioni, giugno 2025), ACSM e Xtera (2026), Atkore (circa 3,8 miliardi di dollari, ottobre 2026), quest'ultima finanziata con debito e con un aumento di capitale di circa 850 milioni (7.024.793 azioni a 121 euro). Cessione della quota YOFC e altri attivi per 580 milioni. Indebitamento netto 2.857 milioni a settembre 2026; obiettivo di leva a regime 1,0x-1,5x. Programma di oltre 700 milioni per ampliare il sito Encore Wire di McKinney, con un secondo impianto per vergella di rame.",
+  "competitivePosition": "Gruppo con 109 stabilimenti e circa 40.000 dipendenti, attivo sull'intera gamma dei cavi: alta tensione sottomarina e terrestre, reti di distribuzione, edilizia e industria, fibra ottica. Nei documenti la società indica come vantaggi l'integrazione verticale (fibra prodotta negli USA, vergella di rame presso Encore Wire), il backlog Transmission e la presenza in Nord America costruita con Encore Wire, Channell e Atkore. I documenti consultati non riportano quote di mercato.",
+  "managementTone": {
+   "label": "molto positivo",
+   "rationale": "Due rialzi di guidance nel 2026 dopo due nel 2025; il management parla del miglior trimestre di sempre e di obiettivi 2028 superati con due anni di anticipo, e annuncia un nuovo Capital Markets Day entro il primo semestre 2027. Più prudente il tono sul dual listing USA, da rivalutare per la maggiore volatilità dei mercati."
+  },
+  "nonGaapAdjustments": [
+   "Adjusted EBITDA esclude riorganizzazioni aziendali (47 milioni nei nove mesi 2026; 35 nel 2025; 84 nel 2024), oneri non ricorrenti (13; 16; 11) e altri oneri/proventi non operativi (30; -341; 78).",
+   "L'EBITDA è calcolato prima della variazione di fair value dei derivati su materie prime (-32 milioni nel primo semestre 2026) e del fair value dei pagamenti basati su azioni (34 milioni).",
+   "Margini calcolati su ricavi a prezzi metalli standard, non sui ricavi contabili.",
+   "Free Cash Flow al netto di acquisizioni, cessioni ed effetti Antitrust; crescita organica al netto di perimetro, metalli e cambi."
+  ],
+  "keyQuotes": [
+   {
+    "text": "Prysmian to beat 2028 Adjusted EBITDA and Free Cash Flow targets two years ahead of schedule",
+    "why": "Gli obiettivi del piano 2025-2028 risultano superati già nel 2026; il piano va riscritto al Capital Markets Day del 2027."
+   },
+   {
+    "text": "The net proceeds of the Share Capital Increase will be used to partially fund the acquisition of Atkore Inc.",
+    "why": "Prima emissione di azioni per finanziare un'acquisizione, dopo anni di riacquisti."
+   },
+   {
+    "text": "Clearly, markets have changed as well and there is a bit more volatility, so we will reassess the path forward",
+    "why": "Il dual listing negli USA, studiato nel 2024 e poi sospeso, torna allo studio senza una scadenza."
+   },
+   {
+    "text": "The investment is part of a more than €700 million investment program to expand capacity at the site.",
+    "why": "Impegno di investimento rilevante su Encore Wire, legato alla domanda nordamericana."
+   }
+  ],
+  "openQuestions": [
+   "Quanto contribuisce Atkore all'Adjusted EBITDA 2026 e a regime, quali sinergie sono attese e a quanto sale la leva dopo il pagamento?",
+   "Qual è l'esposizione effettiva ai dazi USA (quota di vendite USA prodotta localmente, costo delle importazioni di metalli)?",
+   "Perché il margine di Power Grid scende di circa due punti nel 2026 nonostante la crescita a doppia cifra, e quando è atteso il recupero?",
+   "Quanta parte dei ricavi e dell'EBITDA dipende dai data center, e quanto è coperta da contratti pluriennali?",
+   "Il dual listing negli USA verrà realizzato, con quali tempi e con quale struttura?"
+  ]
+ },
+ "price": {
+  "value": 107.65,
+  "date": "2026-11-16",
+  "currency": "EUR",
+  "url": "https://www.money.it/+Prysmian+?debut_rubrica=2"
+ },
+ "missing": [
+  "Testo integrale dei comunicati: lo strumento di lettura restituisce sintesi e citazioni brevi; numeri e citazioni sono quelli estratti dalle pagine aperte, non ricontrollati sul PDF riga per riga.",
+  "Integrated Annual Report 2025: letto solo in parte (copia sul Lobbyregister del Bundestag); non lette la sezione sui fattori di rischio, i ricavi per area geografica, l'avviamento totale e gli accantonamenti Antitrust. Data di pubblicazione esatta non verificata (indicata la data dei risultati).",
+  "Ricavi per area geografica (EMEA, Nord America, LATAM, APAC): non trovati; il 40% circa del Nord America viene da Reuters.",
+  "Leva (net debt/EBITDA) pubblicata dalla società: non trovata nei comunicati; non calcolata.",
+  "Esposizione ai dazi USA: nessuna quantificazione nei documenti, solo l'esclusione dalle ipotesi di guidance.",
+  "Encore Wire: enterprise value, multiplo e struttura del finanziamento non presenti nel comunicato di closing aperto (solo 290 dollari per azione); contributo separato a ricavi ed EBITDA non pubblicato.",
+  "Channell: contributo 2025 all'EBITDA non leggibile (ponte della guidance in formato immagine); solo l'obiettivo di 150 milioni nel 2028.",
+  "Atkore: contributo all'EBITDA 2026, sinergie quantificate, EBITDA della società e dettaglio del debito usato per il finanziamento non trovati.",
+  "Guidance 2024 al primo trimestre 2024 (maggio 2024): comunicato non aperto. Per i nove mesi 2024 e il primo trimestre 2026 la conferma è riportata senza intervalli numerici.",
+  "Guidance 2025 di luglio 2025: intervalli letti dalla presentazione 1H25 (indicati come approssimati dallo strumento) e confermati come 'precedenti' nel comunicato dei nove mesi 2025; il PDF del comunicato di luglio 2025 non è stato aperto.",
+  "Obiettivi 2027 del Capital Markets Day di ottobre 2023 (Napoli): non riportati nelle pagine aperte.",
+  "Ricavi e Adjusted EBITDA di segmento per il solo terzo trimestre 2026 in forma completa (ricavi per segmento non riportati nella pagina).",
+  "Trascrizioni delle conference call: non consultate.",
+  "Prezzo: chiusura del 16 novembre 2026 da Money.it (fonte secondaria); la chiusura del 17 novembre non è stata trovata."
+ ]
+}

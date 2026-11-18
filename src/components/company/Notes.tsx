@@ -87,12 +87,14 @@ export function NotesTab({ bundle, refresh, analysis }: TabProps) {
     </div>
     <div className="grid lg:grid-cols-[280px_1fr] gap-4 items-start">
       <div className="space-y-4 no-print">
+        {status?.llm && (
         <Card title="Memo d'investimento" hint="Scritto dal modello a partire da bilanci, metriche, segnali, guidance, analisi qualitativa e dalle tue note">
           <Button variant="primary" className="w-full" onClick={generate} disabled={generating || !status?.llm} title={status?.llm ? undefined : "Richiede la chiave API"}>
             {generating && <Spinner />} Genera memo
           </Button>
           {!status?.llm && <p className="text-xs text-ink-2 mt-2">Richiede la chiave API di Anthropic.</p>}
         </Card>
+        )}
         <Card title="Le tue note" pad={false} action={
           <Select value="" onChange={(e) => e.target.value && startNew(e.target.value as Note["kind"])} className="h-7 text-xs" aria-label="Nuova nota">
             <option value="">+ Nuova…</option>

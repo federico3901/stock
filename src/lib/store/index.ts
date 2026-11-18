@@ -2,13 +2,24 @@ import path from "path";
 import postgres from "postgres";
 import { FileStore } from "./file";
 import { PgStore } from "./pg";
+import { SeededStore } from "./seeded";
 import type { Store } from "./types";
+import { SEED_RECORDS } from "@/seed";
 
 export type { Store, StoredRecord } from "./types";
 
 const g = globalThis as unknown as { __stockStore?: Store };
 
 function create(): Store {
+  return new SeededStore(createInner(), SEED_RECORDS);
+}
+
+/** Su Vercel senza database il disco del progetto è in sola lettura: le modifiche vanno in /tmp e non sono permanenti. */
+export function isEphemeral(): boolean {
+  return storageKind() === "file" && !process.env.DATA_DIR && !!process.env.VERCEL;
+}
+
+function createInner(): Store {
   const url = process.env.DATABASE_URL || process.env.POSTGRES_URL;
   if (url) {
     // prepare:false è richiesto dal pooler di Supabase in modalità "transaction"
@@ -18,7 +29,7 @@ function create(): Store {
       return rows as unknown as Record<string, unknown>[];
     });
   }
-  return new FileStore(process.env.DATA_DIR || path.join(process.cwd(), "data"));
+  return new FileStore(process.env.DATA_DIR || (isEphemeral() ? "/tmp/stock-data" : path.join(process.cwd(), "data")));
 }
 
 export function getStore(): Store {

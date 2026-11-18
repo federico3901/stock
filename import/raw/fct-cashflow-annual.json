@@ -1,0 +1,541 @@
+{
+ "ticker": "FCT",
+ "statement": "cashflow",
+ "frequency": "annual",
+ "url": "https://stockanalysis.com/quote/bit/FCT/financials/cash-flow-statement/",
+ "unitsNote": "Financials in millions EUR. Fiscal year is January - December.",
+ "columns": [
+  {
+   "label": "TTM",
+   "periodEnd": "2026-06-30"
+  },
+  {
+   "label": "FY 2025",
+   "periodEnd": "2025-12-31"
+  },
+  {
+   "label": "FY 2024",
+   "periodEnd": "2024-12-31"
+  },
+  {
+   "label": "FY 2023",
+   "periodEnd": "2023-12-31"
+  },
+  {
+   "label": "FY 2022",
+   "periodEnd": "2022-12-31"
+  },
+  {
+   "label": "FY 2021",
+   "periodEnd": "2021-12-31"
+  }
+ ],
+ "rows": [
+  {
+   "label": "Net Income",
+   "values": [
+    190.83,
+    123,
+    32.83,
+    -52.83,
+    -308.87,
+    21.78
+   ]
+  },
+  {
+   "label": "Depreciation & Amortization",
+   "values": [
+    249.41,
+    275.79,
+    240.68,
+    215.49,
+    204.99,
+    178.73
+   ]
+  },
+  {
+   "label": "Other Amortization",
+   "values": [
+    44.85,
+    31.37,
+    26.12,
+    18.31,
+    25.94,
+    26.57
+   ]
+  },
+  {
+   "label": "Loss (Gain) From Sale of Assets",
+   "values": [
+    1.69,
+    2.81,
+    1.83,
+    3.41,
+    -0.17,
+    9.01
+   ]
+  },
+  {
+   "label": "Asset Writedown & Restructuring Costs",
+   "values": [
+    7.82,
+    6.64,
+    -8.99,
+    0.04,
+    163.83,
+    0.03
+   ]
+  },
+  {
+   "label": "Loss (Gain) From Sale of Investments",
+   "values": [
+    -9.96,
+    -9.96,
+    -8.15,
+    -2.22,
+    3.14,
+    14.35
+   ]
+  },
+  {
+   "label": "Stock-Based Compensation",
+   "values": [
+    13.63,
+    11.48,
+    7.71,
+    0.5,
+    6.73,
+    6.58
+   ]
+  },
+  {
+   "label": "Other Operating Activities",
+   "values": [
+    -15.36,
+    21.95,
+    -0.02,
+    16.06,
+    -72.56,
+    123.68
+   ]
+  },
+  {
+   "label": "Change in Accounts Receivable",
+   "values": [
+    182.82,
+    42.12,
+    -416.89,
+    497.11,
+    -243.07,
+    442.45
+   ]
+  },
+  {
+   "label": "Change in Inventory",
+   "values": [
+    -65.54,
+    -105.76,
+    -98.57,
+    56.46,
+    11.71,
+    20.69
+   ]
+  },
+  {
+   "label": "Change in Accounts Payable",
+   "values": [
+    426.69,
+    407.02,
+    579.33,
+    -213.44,
+    204.8,
+    33.69
+   ]
+  },
+  {
+   "label": "Change in Other Net Operating Assets",
+   "values": [
+    -342.13,
+    -209.86,
+    89.05,
+    97.96,
+    -54.2,
+    -15.19
+   ]
+  },
+  {
+   "label": "Operating Cash Flow",
+   "values": [
+    684.74,
+    596.58,
+    444.93,
+    636.85,
+    -57.72,
+    862.37
+   ]
+  },
+  {
+   "label": "Operating Cash Flow Growth",
+   "values": [
+    -4.06,
+    34.08,
+    -30.14,
+    null,
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Capital Expenditures",
+   "values": [
+    -270.57,
+    -200.32,
+    -159.96,
+    -203.03,
+    -224.1,
+    -309.82
+   ]
+  },
+  {
+   "label": "Sale of Property, Plant & Equipment",
+   "values": [
+    27.61,
+    1.8,
+    51.53,
+    2.34,
+    2.71,
+    1.86
+   ]
+  },
+  {
+   "label": "Cash Acquisitions",
+   "values": [
+    2.55,
+    -448.08,
+    -48.47,
+    0.77,
+    1.75,
+    null
+   ]
+  },
+  {
+   "label": "Divestitures",
+   "values": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    0.22
+   ]
+  },
+  {
+   "label": "Sale (Purchase) of Intangibles",
+   "values": [
+    -106.19,
+    -192.34,
+    -101.65,
+    -52.42,
+    -70.6,
+    -47.45
+   ]
+  },
+  {
+   "label": "Investment in Securities",
+   "values": [
+    -6.74,
+    -4.22,
+    -0.72,
+    3.7,
+    8.52,
+    -2.84
+   ]
+  },
+  {
+   "label": "Investing Cash Flow",
+   "values": [
+    -317.14,
+    -666.71,
+    -240.47,
+    -106.46,
+    -225.01,
+    -535.22
+   ]
+  },
+  {
+   "label": "Short-Term Debt Issued",
+   "values": [
+    null,
+    2328,
+    2478,
+    2685,
+    3200,
+    3127
+   ]
+  },
+  {
+   "label": "Long-Term Debt Issued",
+   "values": [
+    null,
+    977.43,
+    355.19,
+    1096,
+    654.22,
+    0.24
+   ]
+  },
+  {
+   "label": "Total Debt Issued",
+   "values": [
+    2823,
+    3306,
+    2833,
+    3781,
+    3854,
+    3128
+   ]
+  },
+  {
+   "label": "Short-Term Debt Repaid",
+   "values": [
+    null,
+    -2503,
+    -3268,
+    -3954,
+    -4179,
+    -3479
+   ]
+  },
+  {
+   "label": "Long-Term Debt Repaid",
+   "values": [
+    null,
+    -893.04,
+    -226.06,
+    -152.85,
+    -63.32,
+    -24.59
+   ]
+  },
+  {
+   "label": "Lease Payments",
+   "values": [
+    -34.28,
+    -32.04,
+    -29.17,
+    -24.99,
+    -22.39,
+    -20.52
+   ]
+  },
+  {
+   "label": "Total Debt Repaid",
+   "values": [
+    -3579,
+    -3396,
+    -3494,
+    -4106,
+    -4242,
+    -3503
+   ]
+  },
+  {
+   "label": "Net Debt Issued (Repaid)",
+   "values": [
+    -755.49,
+    -90.28,
+    -661.2,
+    -325.44,
+    -388.32,
+    -375.76
+   ]
+  },
+  {
+   "label": "Issuance of Common Stock",
+   "values": [
+    485.01,
+    2.32,
+    388.87,
+    null,
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Repurchase of Common Stock",
+   "values": [
+    -18.43,
+    -7.04,
+    null,
+    -5.7,
+    -1.14,
+    null
+   ]
+  },
+  {
+   "label": "Common Dividends Paid",
+   "values": [
+    -0.4,
+    -0.3,
+    -0.2,
+    -0.12,
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Other Financing Activities",
+   "values": [
+    null,
+    0.15,
+    -0.06,
+    1.5,
+    -0.05,
+    -1.75
+   ]
+  },
+  {
+   "label": "Financing Cash Flow",
+   "values": [
+    -289.31,
+    -95.14,
+    -272.58,
+    -329.76,
+    -389.52,
+    -377.51
+   ]
+  },
+  {
+   "label": "Foreign Exchange Rate Adjustments",
+   "values": [
+    8.81,
+    -6.03,
+    -4.7,
+    -7.94,
+    0.65,
+    11.9
+   ]
+  },
+  {
+   "label": "Net Cash Flow",
+   "values": [
+    87.1,
+    -171.3,
+    -72.82,
+    192.7,
+    -671.6,
+    -38.46
+   ]
+  },
+  {
+   "label": "Free Cash Flow",
+   "values": [
+    414.17,
+    396.26,
+    284.97,
+    433.82,
+    -281.82,
+    552.55
+   ]
+  },
+  {
+   "label": "Free Cash Flow Growth",
+   "values": [
+    -22.85,
+    39.05,
+    -34.31,
+    null,
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Free Cash Flow Margin",
+   "values": [
+    4.71,
+    4.44,
+    3.58,
+    5.83,
+    -3.84,
+    8.1
+   ]
+  },
+  {
+   "label": "Free Cash Flow Per Share",
+   "values": [
+    1.16,
+    1.16,
+    1.18,
+    2.56,
+    -1.66,
+    3.22
+   ]
+  },
+  {
+   "label": "Levered Free Cash Flow",
+   "values": [
+    655.89,
+    561.24,
+    -175.54,
+    1153,
+    -542.7,
+    480.54
+   ]
+  },
+  {
+   "label": "Unlevered Free Cash Flow",
+   "values": [
+    758.62,
+    670.52,
+    -16.89,
+    1296,
+    -478.71,
+    532.62
+   ]
+  },
+  {
+   "label": "Free Cash Flow After Leases",
+   "values": [
+    379.89,
+    364.22,
+    255.8,
+    408.84,
+    -304.21,
+    532.03
+   ]
+  },
+  {
+   "label": "Cash Interest Paid",
+   "values": [
+    147.7,
+    150.71,
+    236.64,
+    203.56,
+    88.09,
+    74.66
+   ]
+  },
+  {
+   "label": "Cash Income Tax Paid",
+   "values": [
+    63.58,
+    15.73,
+    33.93,
+    59.61,
+    141.5,
+    -16.09
+   ]
+  },
+  {
+   "label": "Change in Working Capital",
+   "values": [
+    201.83,
+    133.51,
+    152.92,
+    438.1,
+    -80.76,
+    481.63
+   ]
+  }
+ ]
+}

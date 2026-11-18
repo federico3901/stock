@@ -1,0 +1,15 @@
+{
+  "company": {
+    "id": "rdw",
+    "ticker": "RDW",
+    "name": "Redwire",
+    "currency": "USD",
+    "sector": "Infrastrutture spaziali e difesa",
+    "dataSource": "Bilanci: stockanalysis.com (dati S&P Global). Guidance e analisi: comunicati e bilanci delle società",
+    "dataAsOf": "2026-11-18",
+    "fiscalYearEndMonth": 12,
+    "price": 8.14,
+    "priceDate": "2026-10-22"
+  },
+  "financialsUrl": "https://stockanalysis.com/stocks/rdw/financials/"
+}

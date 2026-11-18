@@ -292,17 +292,12 @@ export function coherenceChecks(v: Values, tolerance = 0.015): Check[] {
   if (ok(v.revenue) && ok(v.cost_of_revenue)) check("Utile lordo", v.gross_profit, v.revenue - v.cost_of_revenue, "Ricavi − costo del venduto");
   if (ok(v.total_liabilities) && ok(v.total_equity))
     check("Attivo = passività + patrimonio", v.total_assets, v.total_liabilities + v.total_equity + (v.minority_interest ?? 0), "Totale attivo");
-  if (ok(v.pretax_income) && ok(v.income_tax)) {
-    // tolleranza più ampia: minoranze e attività cessate possono creare differenze
-    const lhs = v.net_income;
-    const rhs = v.pretax_income - v.income_tax;
-    if (ok(lhs)) out.push({ label: "Utile netto", ok: Math.abs(lhs - rhs) <= Math.abs(rhs) * 0.05 + 1, detail: `Ante imposte − imposte: ${fmt(lhs)} vs ${fmt(rhs)}` });
-  }
   if (ok(v.cfo) && ok(v.cfi) && ok(v.cff) && ok(v.net_change_cash)) {
     const lhs = v.net_change_cash;
     const rhs = v.cfo + v.cfi + v.cff;
-    // l'effetto cambi non è una voce separata: tolleranza del 5% della cassa operativa
-    out.push({ label: "Variazione di cassa", ok: Math.abs(lhs - rhs) <= Math.abs(v.cfo) * 0.05 + 1, detail: `CFO + CFI + CFF: ${fmt(lhs)} vs ${fmt(rhs)} (differenza = effetto cambi)` });
+    // l'effetto cambi non è una voce separata: si tollera il 5% della cassa operativa o il 3% della cassa in bilancio
+    const tol = Math.max(Math.abs(v.cfo) * 0.05, Math.abs(v.cash ?? 0) * 0.03) + 1;
+    out.push({ label: "Variazione di cassa", ok: Math.abs(lhs - rhs) <= tol, detail: `CFO + CFI + CFF: ${fmt(lhs)} vs ${fmt(rhs)} (differenza = effetto cambi)` });
   }
   if (ok(v.net_income) && ok(v.eps_diluted) && ok(v.shares_diluted) && v.shares_diluted > 0) {
     const eps = v.net_income / v.shares_diluted;

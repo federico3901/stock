@@ -1,0 +1,15 @@
+{
+  "company": {
+    "id": "fct",
+    "ticker": "FCT",
+    "name": "Fincantieri",
+    "currency": "EUR",
+    "sector": "Cantieristica navale",
+    "dataSource": "Bilanci: stockanalysis.com (dati S&P Global). Guidance e analisi: comunicati e bilanci delle società",
+    "dataAsOf": "2026-11-18",
+    "fiscalYearEndMonth": 12,
+    "price": 12.03,
+    "priceDate": "2026-10-20"
+  },
+  "financialsUrl": "https://stockanalysis.com/quote/bit/FCT/financials/"
+}

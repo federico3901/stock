@@ -17,7 +17,7 @@ import { DiffTab } from "@/components/company/Diff";
 import { ChatTab } from "@/components/company/Chat";
 import { NotesTab } from "@/components/company/Notes";
 import { analyze } from "@/lib/analysis/summary";
-import { api, errMsg, useCompany } from "@/lib/client";
+import { api, errMsg, useCompany, useStatus } from "@/lib/client";
 import { fmtDate, currencySymbol } from "@/lib/format";
 
 const TABS = [
@@ -52,6 +52,10 @@ function CompanyPage() {
   const { data, error, isLoading, mutate } = useCompany(id);
   const analysis = useMemo(() => (data ? analyze(data) : null), [data]);
   const setTab = (t: string) => router.replace(`/c/${id}?tab=${t}`, { scroll: false });
+  const { data: status } = useStatus();
+  // senza modello la chat non esiste; il confronto tra filing serve solo se c'è del testo caricato
+  const hasText = data?.documents.some((d) => d.pageCount > 0) ?? false;
+  const tabs = TABS.filter((t) => (t.key === "chat" ? !!status?.llm : t.key === "confronto" ? hasText : true));
 
   if (isLoading) return <div className="text-ink-2 text-sm"><Spinner /> Caricamento…</div>;
   if (error || !data || !analysis)
@@ -80,12 +84,17 @@ function CompanyPage() {
             <div className="text-xs text-ink-2 mt-0.5">
               {[company.sector, company.currency && `Bilancio in ${company.currency}`, analysis.snapshot && `Dati fino a ${fmtDate(analysis.snapshot.periodEnd)}`].filter(Boolean).join(" · ")}
             </div>
+            {company.dataSource && (
+              <div className="text-xs text-muted mt-0.5">
+                Dati già caricati{company.dataAsOf ? `, aggiornati al ${fmtDate(company.dataAsOf)}` : ""}. {company.dataSource}.
+              </div>
+            )}
           </div>
           <PriceEditor id={id} price={company.price} priceDate={company.priceDate} currency={company.currency} onSaved={() => mutate()} />
         </div>
 
         <nav className="flex gap-0.5 overflow-x-auto border-b border-line -mx-4 px-4 sm:mx-0 sm:px-0 no-print" aria-label="Sezioni">
-          {TABS.map((t) => (
+          {tabs.map((t) => (
             <button
               key={t.key}
               type="button"

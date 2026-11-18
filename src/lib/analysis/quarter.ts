@@ -22,6 +22,22 @@ export interface QuarterBrief {
   growthChange?: number;
 }
 
+/** Per chi pubblica solo semestrali: l'ultimo primo semestre contro quello dell'anno prima. */
+export function halfBrief(periods: FinancialPeriod[]): QuarterBrief | null {
+  const h1s = periods.filter((p) => p.fiscalPeriod === "H1").sort((a, b) => a.fiscalYear - b.fiscalYear);
+  const cur = h1s[h1s.length - 1];
+  const prev = cur && h1s.find((p) => p.fiscalYear === cur.fiscalYear - 1);
+  if (!cur || !prev) return null;
+  const b = quarterBrief([prev, cur].map((p) => ({ ...p, fiscalPeriod: "Q2" as const })));
+  if (!b) return null;
+  return {
+    label: `H1 ${cur.fiscalYear}`,
+    compareLabel: `H1 ${prev.fiscalYear}`,
+    // tra i due c'è un anno, non un trimestre: il confronto "sul precedente" non esiste
+    rows: b.rows.map((r) => ({ ...r, yoy: r.qoq, qoq: undefined })),
+  };
+}
+
 /** L'ultimo trimestre a colpo d'occhio: contro lo stesso trimestre dell'anno prima e contro il precedente. */
 export function quarterBrief(quarters: FinancialPeriod[]): QuarterBrief | null {
   const q = quarters[quarters.length - 1];

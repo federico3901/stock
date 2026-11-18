@@ -1,0 +1,497 @@
+{
+ "ticker": "UNH",
+ "statement": "balance",
+ "frequency": "annual",
+ "url": "https://stockanalysis.com/stocks/unh/financials/balance-sheet/",
+ "unitsNote": "Financials in millions USD. Fiscal year is January - December.",
+ "columns": [
+  {
+   "label": "TTM",
+   "periodEnd": "2026-09-30"
+  },
+  {
+   "label": "FY 2025",
+   "periodEnd": "2025-12-31"
+  },
+  {
+   "label": "FY 2024",
+   "periodEnd": "2024-12-31"
+  },
+  {
+   "label": "FY 2023",
+   "periodEnd": "2023-12-31"
+  },
+  {
+   "label": "FY 2022",
+   "periodEnd": "2022-12-31"
+  },
+  {
+   "label": "FY 2021",
+   "periodEnd": "2021-12-31"
+  }
+ ],
+ "rows": [
+  {
+   "label": "Total Investments",
+   "values": [
+    60768,
+    55807,
+    54055,
+    49910,
+    46674,
+    43846
+   ]
+  },
+  {
+   "label": "Cash & Equivalents",
+   "values": [
+    25845,
+    24365,
+    25312,
+    25427,
+    23365,
+    21375
+   ]
+  },
+  {
+   "label": "Other Receivables",
+   "values": [
+    20543,
+    52715,
+    48454,
+    38970,
+    30450,
+    28082
+   ]
+  },
+  {
+   "label": "Separate Account Assets",
+   "values": [
+    null,
+    null,
+    null,
+    3755,
+    4087,
+    4449
+   ]
+  },
+  {
+   "label": "Property, Plant & Equipment",
+   "values": [
+    null,
+    4742,
+    4895,
+    6457,
+    5923,
+    5392
+   ]
+  },
+  {
+   "label": "Goodwill",
+   "values": [
+    null,
+    110499,
+    106734,
+    103732,
+    93352,
+    75795
+   ]
+  },
+  {
+   "label": "Other Intangible Assets",
+   "values": [
+    null,
+    26494,
+    28926,
+    20187,
+    18606,
+    13621
+   ]
+  },
+  {
+   "label": "Other Current Assets",
+   "values": [
+    36503,
+    9746,
+    8212,
+    6084,
+    6621,
+    5320
+   ]
+  },
+  {
+   "label": "Other Long-Term Assets",
+   "values": [
+    169123,
+    25213,
+    21690,
+    19198,
+    16627,
+    14326
+   ]
+  },
+  {
+   "label": "Total Assets",
+   "values": [
+    312782,
+    309581,
+    298278,
+    273720,
+    245705,
+    212206
+   ]
+  },
+  {
+   "label": "Accounts Payable",
+   "values": [
+    null,
+    38032,
+    34337,
+    31958,
+    27715,
+    24643
+   ]
+  },
+  {
+   "label": "Unpaid Claims",
+   "values": [
+    39352,
+    39337,
+    34224,
+    32395,
+    29056,
+    24483
+   ]
+  },
+  {
+   "label": "Unearned Premiums",
+   "values": [
+    null,
+    3413,
+    3317,
+    3355,
+    3075,
+    2571
+   ]
+  },
+  {
+   "label": "Current Portion of Long-Term Debt",
+   "values": [
+    null,
+    3820,
+    3245,
+    3186,
+    2310,
+    3620
+   ]
+  },
+  {
+   "label": "Current Portion of Leases",
+   "values": [
+    null,
+    1052,
+    null,
+    null,
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Short-Term Debt",
+   "values": [
+    5617,
+    2249,
+    1300,
+    1088,
+    800,
+    null
+   ]
+  },
+  {
+   "label": "Long-Term Debt",
+   "values": [
+    68714,
+    72320,
+    72359,
+    58263,
+    54513,
+    42383
+   ]
+  },
+  {
+   "label": "Long-Term Leases",
+   "values": [
+    null,
+    3563,
+    null,
+    null,
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Long-Term Deferred Tax Liabilities",
+   "values": [
+    null,
+    2421,
+    3620,
+    3021,
+    2769,
+    3265
+   ]
+  },
+  {
+   "label": "Other Current Liabilities",
+   "values": [
+    70866,
+    26994,
+    27346,
+    27072,
+    26281,
+    22975
+   ]
+  },
+  {
+   "label": "Other Long-Term Liabilities",
+   "values": [
+    22688,
+    14682,
+    15939,
+    14463,
+    12839,
+    11787
+   ]
+  },
+  {
+   "label": "Total Liabilities",
+   "values": [
+    207237,
+    207883,
+    195687,
+    174801,
+    159358,
+    135727
+   ]
+  },
+  {
+   "label": "Common Stock",
+   "values": [
+    104129,
+    9,
+    9,
+    9,
+    9,
+    10
+   ]
+  },
+  {
+   "label": "Additional Paid-In Capital",
+   "values": [
+    null,
+    559,
+    null,
+    null,
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Retained Earnings",
+   "values": [
+    null,
+    95603,
+    96036,
+    95774,
+    86156,
+    77134
+   ]
+  },
+  {
+   "label": "Comprehensive Income & Other",
+   "values": [
+    null,
+    -2061,
+    -3387,
+    -7027,
+    -8393,
+    -5384
+   ]
+  },
+  {
+   "label": "Total Common Equity",
+   "values": [
+    104129,
+    94110,
+    92658,
+    88756,
+    77772,
+    71760
+   ]
+  },
+  {
+   "label": "Minority Interest",
+   "values": [
+    1416,
+    7588,
+    9933,
+    10163,
+    8575,
+    4719
+   ]
+  },
+  {
+   "label": "Shareholders' Equity",
+   "values": [
+    105545,
+    101698,
+    102591,
+    98919,
+    86347,
+    76479
+   ]
+  },
+  {
+   "label": "Total Liabilities & Equity",
+   "values": [
+    312782,
+    309581,
+    298278,
+    273720,
+    245705,
+    212206
+   ]
+  },
+  {
+   "label": "Filing Date Shares Outstanding",
+   "values": [
+    902,
+    907.68,
+    914.71,
+    921.93,
+    932.85,
+    940.9
+   ]
+  },
+  {
+   "label": "Total Common Shares Outstanding",
+   "values": [
+    902,
+    906,
+    915,
+    924,
+    934,
+    941
+   ]
+  },
+  {
+   "label": "Total Debt",
+   "values": [
+    74331,
+    83004,
+    76904,
+    62537,
+    57623,
+    46003
+   ]
+  },
+  {
+   "label": "Net Cash (Debt)",
+   "values": [
+    -48486,
+    -58639,
+    -51592,
+    -37110,
+    -34258,
+    -24628
+   ]
+  },
+  {
+   "label": "Net Cash Growth",
+   "values": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Net Cash Per Share",
+   "values": [
+    -53.49,
+    -64.37,
+    -55.53,
+    -39.56,
+    -36.06,
+    -25.76
+   ]
+  },
+  {
+   "label": "Book Value Per Share",
+   "values": [
+    115.44,
+    103.87,
+    101.27,
+    96.06,
+    83.27,
+    76.26
+   ]
+  },
+  {
+   "label": "Tangible Book Value",
+   "values": [
+    104129,
+    -42883,
+    -43002,
+    -35163,
+    -34186,
+    -17656
+   ]
+  },
+  {
+   "label": "Tangible Book Value Per Share",
+   "values": [
+    115.44,
+    -47.33,
+    -47,
+    -38.06,
+    -36.6,
+    -18.76
+   ]
+  },
+  {
+   "label": "Land",
+   "values": [
+    null,
+    387,
+    364,
+    712,
+    697,
+    502
+   ]
+  },
+  {
+   "label": "Buildings",
+   "values": [
+    null,
+    4087,
+    4215,
+    5573,
+    5519,
+    4882
+   ]
+  },
+  {
+   "label": "Machinery",
+   "values": [
+    null,
+    3987,
+    3961,
+    4382,
+    4206,
+    3865
+   ]
+  }
+ ]
+}

@@ -126,13 +126,9 @@ export function Documents({ bundle, refresh }: TabProps) {
 
   return (
     <div className="space-y-4">
-      {status && !status.llm && (
-        <InfoBox tone="warn">
-          Senza chiave API puoi caricare e consultare i documenti, ma non analizzarli automaticamente. Imposta <code className="font-mono text-xs">ANTHROPIC_API_KEY</code> e riavvia.
-        </InfoBox>
-      )}
       {status?.mock && <InfoBox tone="warn">Modalità di prova attiva (LLM_MOCK): le analisi restituiscono dati finti.</InfoBox>}
 
+      {status?.llm && (
       <div
         onDragOver={(e) => { e.preventDefault(); setDragging(true); }}
         onDragLeave={() => setDragging(false)}
@@ -145,6 +141,7 @@ export function Documents({ bundle, refresh }: TabProps) {
         <input ref={input} type="file" multiple hidden accept=".pdf,.htm,.html,.xhtml,.txt,.md,application/pdf,text/html,text/plain" onChange={(e) => { if (e.target.files) addFiles(e.target.files); e.target.value = ""; }} />
         <p className="text-xs text-muted mt-3">Il file viene letto nel tuo browser: al server arriva solo il testo.</p>
       </div>
+      )}
 
       <ErrorBox>{err}</ErrorBox>
 
@@ -213,7 +210,7 @@ export function Documents({ bundle, refresh }: TabProps) {
           Suggerimento: inizia dall&apos;ultimo 10-K (contiene tre anni di conto economico e due di stato patrimoniale), poi aggiungi i 10-Q successivi e l&apos;ultima presentazione dei risultati per la guidance.
         </Empty>
       ) : documents.length > 0 ? (
-        <Card title={`Documenti caricati (${documents.length})`} pad={false}>
+        <Card title={`Documenti e fonti (${documents.length})`} pad={false}>
           <div className="overflow-x-auto">
             <table className="w-full text-sm">
               <thead>
@@ -230,15 +227,20 @@ export function Documents({ bundle, refresh }: TabProps) {
                 {documents.map((doc) => (
                   <tr key={doc.id} className="border-b border-line last:border-0 [&>td]:px-4 [&>td]:py-2.5 align-top">
                     <td>
-                      <button type="button" className="font-medium hover:underline text-left" onClick={() => viewer.open(doc.id)}>{doc.title}</button>
+                      {doc.url && !doc.pageCount ? (
+                        <a href={doc.url} target="_blank" rel="noreferrer" className="font-medium hover:underline">{doc.title} ↗</a>
+                      ) : (
+                        <button type="button" className="font-medium hover:underline text-left" onClick={() => viewer.open(doc.id)}>{doc.title}</button>
+                      )}
                       <div className="text-xs text-muted">{DOC_TYPE_LABELS[doc.type]}</div>
                     </td>
                     <td className="num whitespace-nowrap">{doc.fiscalYear ? `${doc.fiscalPeriod && doc.fiscalPeriod !== "FY" ? doc.fiscalPeriod + " " : "FY"}${doc.fiscalYear}` : "–"}</td>
                     <td className="whitespace-nowrap">{fmtDate(doc.date)}</td>
-                    <td className="text-right num">{doc.pageCount}</td>
+                    <td className="text-right num">{doc.pageCount || "–"}</td>
                     <td>
                       <div className="flex flex-wrap gap-1.5">
-                        {PASSES.map((p) => (
+                        {!doc.pageCount && <span className="text-xs text-muted">fonte dei dati già caricati</span>}
+                        {doc.pageCount > 0 && PASSES.map((p) => (
                           <PassBadge
                             key={p.key}
                             label={p.label}
@@ -250,7 +252,7 @@ export function Documents({ bundle, refresh }: TabProps) {
                       </div>
                     </td>
                     <td className="text-right whitespace-nowrap">
-                      <Button size="sm" variant="ghost" onClick={() => viewer.open(doc.id)}>Apri</Button>
+                      {doc.pageCount > 0 && <Button size="sm" variant="ghost" onClick={() => viewer.open(doc.id)}>Apri</Button>}
                       <Button size="sm" variant="ghost" onClick={() => remove(doc)} className="text-critical-text">Elimina</Button>
                     </td>
                   </tr>

@@ -1,0 +1,4112 @@
+{
+ "documents": [
+  {
+   "id": "ai-risultati-fy2023",
+   "title": "Risultati esercizio 2023 e raddoppio dell'ambizione di margine ADVANCE (comunicato stampa, via Business Wire)",
+   "type": "earnings_release",
+   "date": "2024-02-19",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "url": "https://www.businesswire.com/news/home/20240219631475/en/Building-on-a-Solid-Performance-and-a-Record-Investment-Dynamic-in-2023-Air-Liquide-Accelerates-and-Doubles-the-Margin-Ambition-of-Its-ADVANCE-Strategic-Plan"
+  },
+  {
+   "id": "ai-q1-2024",
+   "title": "Ricavi primo trimestre 2024 (comunicato stampa)",
+   "type": "earnings_release",
+   "date": "2024-04-24",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "Q1",
+   "url": "https://airliquide.com/group/press-releases-news/2024-04-24/air-liquide-continues-its-trajectory-another-solid-quarter-combining-sales-growth-performance"
+  },
+  {
+   "id": "ai-h1-2024",
+   "title": "Risultati primo semestre 2024 (comunicato stampa)",
+   "type": "earnings_release",
+   "date": "2024-07-26",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "H1",
+   "url": "https://www.airliquide.com/group/press-releases-news/2024-07-26/h1-2024-results-strong-margin-improvement-and-major-projects-prepare-future"
+  },
+  {
+   "id": "ai-q3-2024",
+   "title": "Ricavi terzo trimestre 2024 (comunicato stampa)",
+   "type": "earnings_release",
+   "date": "2024-10-23",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "Q3",
+   "url": "https://www.airliquide.com/group/press-releases-news/2024-10-23/q3-2024-air-liquide-continues-its-trajectory-combining-solid-performance-sales-growth-and-record"
+  },
+  {
+   "id": "ai-risultati-fy2024",
+   "title": "Risultati esercizio 2024 e rapporto di attività (comunicato stampa, PDF)",
+   "type": "earnings_release",
+   "date": "2025-02-21",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "url": "https://airliquide.com/sites/airliquide.com/files/2025-02/2024-building-record-margin-improvement-and-major-commercial-successes-fueling-future-growth-air_67b81b1e2af22.pdf"
+  },
+  {
+   "id": "ai-q1-2025",
+   "title": "Ricavi primo trimestre 2025 (comunicato stampa, PDF)",
+   "type": "earnings_release",
+   "date": "2025-04-24",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q1",
+   "url": "https://airliquide.com/sites/airliquide.com/files/2025-04/building-its-resilience-air-liquide-staying-course-first-quarter-2025_6809c974ec55f.pdf"
+  },
+  {
+   "id": "ai-h1-2025",
+   "title": "Risultati primo semestre 2025 (comunicato stampa, pagina web)",
+   "type": "earnings_release",
+   "date": "2025-07-29",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "url": "https://www.airliquide.com/group/press-releases-news/2025-07-29/leveraging-performance-and-growth-engines-air-liquide-remains-track-1st-half-2025"
+  },
+  {
+   "id": "ai-h1-2025-pdf",
+   "title": "Risultati primo semestre 2025 e rapporto di attività (PDF)",
+   "type": "earnings_release",
+   "date": "2025-07-29",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "url": "https://www.airliquide.com/sites/airliquide.com/files/2025-07/leveraging-performance-and-growth-engines-air-liquide-remains-track-1st-half-2025_68885a8f3893b.pdf"
+  },
+  {
+   "id": "ai-dig-airgas-accordo",
+   "title": "Accordo per l'acquisizione di DIG Airgas, Corea del Sud (comunicato stampa)",
+   "type": "other",
+   "date": "2025-08-22",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q3",
+   "url": "https://www.airliquide.com/group/press-releases-news/2025-08-22/air-liquide-announces-signature-agreement-acquire-dig-airgas-leading-integrated-gas-player-south"
+  },
+  {
+   "id": "ai-q3-2025",
+   "title": "Ricavi terzo trimestre 2025 (comunicato stampa, PDF)",
+   "type": "earnings_release",
+   "date": "2025-10-28",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q3",
+   "url": "https://www.airliquide.com/sites/airliquide.com/files/2025-11/air-liquide-pr-25-q3-air-liquide-continues-to-combine-sales-growth-with-commercial-successes-to-shape-the-future.pdf"
+  },
+  {
+   "id": "ai-risultati-fy2025",
+   "title": "Risultati esercizio 2025 e rapporto di attività (comunicato stampa, PDF)",
+   "type": "earnings_release",
+   "date": "2026-02-20",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "url": "https://www.airliquide.com/sites/airliquide.com/files/2026-02/air-liquide-pr-fy-2025-with-record-performance-and-confident-in-its-transformation-dynamic-air-liquide-confirms-its-growth-outlook.pdf"
+  },
+  {
+   "id": "ai-risultati-fy2025-web",
+   "title": "Risultati esercizio 2025 (comunicato stampa, pagina web)",
+   "type": "earnings_release",
+   "date": "2026-02-20",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "url": "https://www.airliquide.com/group/press-releases-news/2026-02-20/2025-record-performance-and-confident-its-transformation-dynamic-air-liquide-confirms-its-growth"
+  },
+  {
+   "id": "ai-q1-2026",
+   "title": "Ricavi primo trimestre 2026 (comunicato stampa, PDF)",
+   "type": "earnings_release",
+   "date": "2026-04-28",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "url": "https://www.airliquide.com/sites/airliquide.com/files/2026-04/growth-performance-and-record-investments-air-liquide-continues-its-successful-trajectory-q1-2026_69f0437ea8b49.pdf"
+  },
+  {
+   "id": "ai-h1-2026",
+   "title": "Risultati primo semestre 2026 (comunicato stampa, pagina web)",
+   "type": "earnings_release",
+   "date": "2026-07-28",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "url": "https://airliquide.com/group/press-releases-news/2026-07-28/h1-2026-results-acceleration-second-quarter-air-liquide-combines-growth-continuous-performance"
+  },
+  {
+   "id": "ai-h1-2026-pdf",
+   "title": "Risultati primo semestre 2026 e rapporto di attività (PDF)",
+   "type": "earnings_release",
+   "date": "2026-07-28",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "url": "https://www.airliquide.com/sites/airliquide.com/files/2026-07/h1-2026-results-acceleration-second-quarter-air-liquide-combines-growth-continuous-performance_6a683bddd0a4b.pdf"
+  },
+  {
+   "id": "ai-beyond-2030",
+   "title": "Piano strategico BEYOND al 2030 (comunicato stampa)",
+   "type": "other",
+   "date": "2026-10-05",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q3",
+   "url": "https://www.airliquide.com/group/press-releases-news/2026-10-05/beyond-air-liquide-accelerates-lasting-value-creation-new-strategic-plan-2030"
+  },
+  {
+   "id": "ai-q3-2026",
+   "title": "Ricavi terzo trimestre 2026 (comunicato stampa regolamentato, via Webdisclosure)",
+   "type": "earnings_release",
+   "date": "2026-10-29",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q3",
+   "url": "https://www.webdisclosure.com/press-release/q3-2026-air-liquide-accelerates-driven-by-sales-growth-and-the-launch-of-its-strategic-plan-l6M49P5A7DA"
+  },
+  {
+   "id": "ai-afp-elliott",
+   "title": "Partecipazione del fondo Elliott e contesto prima del Capital Markets Day (via AFP / Connaissance des Énergies)",
+   "type": "other",
+   "date": "2026-10-03",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q3",
+   "url": "https://www.connaissancedesenergies.org/afp/le-geant-air-liquide-devoile-ses-perspectives-lundi-dans-lombre-du-fonds-elliott-261003"
+  }
+ ],
+ "guidance": [
+  {
+   "docId": "ai-risultati-fy2023",
+   "issuedDate": "2024-02-19",
+   "metric": "operating_margin",
+   "label": "Margine operativo (OIR/ricavi), escluso effetto energia",
+   "targetFiscalYear": 2024,
+   "targetPeriod": "FY",
+   "unit": "other",
+   "nonGaap": true,
+   "qualitative": true,
+   "text": "Guidance iniziale 2024: ulteriore aumento del margine operativo, senza importo.",
+   "quote": "confident in its ability to further increase its operating margin"
+  },
+  {
+   "docId": "ai-risultati-fy2023",
+   "issuedDate": "2024-02-19",
+   "metric": "net_income",
+   "label": "Utile netto ricorrente a cambi costanti",
+   "targetFiscalYear": 2024,
+   "targetPeriod": "FY",
+   "unit": "other",
+   "nonGaap": true,
+   "qualitative": true,
+   "text": "Guidance iniziale 2024: crescita dell'utile netto ricorrente a cambi costanti, senza importo (formulazione completa ripresa nei comunicati trimestrali 2024).",
+   "quote": ""
+  },
+  {
+   "docId": "ai-risultati-fy2023",
+   "issuedDate": "2024-02-19",
+   "metric": "operating_margin",
+   "label": "Ambizione di margine ADVANCE (cumulata 2022-2025)",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "unit": "percent",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Ambizione di margine del piano ADVANCE raddoppiata da +160 a +320 punti base cumulati in quattro anni (2022-2025), escluso effetto energia; +150 pb già realizzati nel 2022-2023.",
+   "quote": "we now aim for a +320 basis points increase, twice our initial ambition, over the duration of the plan.",
+   "low": 0.032,
+   "high": 0.032
+  },
+  {
+   "docId": "ai-q1-2024",
+   "issuedDate": "2024-04-24",
+   "metric": "operating_margin",
+   "label": "Margine operativo (OIR/ricavi), escluso effetto energia",
+   "targetFiscalYear": 2024,
+   "targetPeriod": "FY",
+   "unit": "other",
+   "nonGaap": true,
+   "qualitative": true,
+   "text": "Guidance 2024 ribadita senza modifiche con i dati del primo trimestre 2024.",
+   "quote": "In 2024, Air Liquide is confident in its ability to further increase its operating margin"
+  },
+  {
+   "docId": "ai-q1-2024",
+   "issuedDate": "2024-04-24",
+   "metric": "net_income",
+   "label": "Utile netto ricorrente a cambi costanti",
+   "targetFiscalYear": 2024,
+   "targetPeriod": "FY",
+   "unit": "other",
+   "nonGaap": true,
+   "qualitative": true,
+   "text": "Guidance 2024 ribadita senza modifiche con i dati del primo trimestre 2024.",
+   "quote": "and to deliver recurring net profit growth, at constant exchange rates"
+  },
+  {
+   "docId": "ai-h1-2024",
+   "issuedDate": "2024-07-26",
+   "metric": "operating_margin",
+   "label": "Margine operativo (OIR/ricavi), escluso effetto energia",
+   "targetFiscalYear": 2024,
+   "targetPeriod": "FY",
+   "unit": "other",
+   "nonGaap": true,
+   "qualitative": true,
+   "text": "Guidance 2024 ribadita senza modifiche con i dati del primo semestre 2024.",
+   "quote": "In 2024, Air Liquide is confident in its ability to further increase its operating margin"
+  },
+  {
+   "docId": "ai-h1-2024",
+   "issuedDate": "2024-07-26",
+   "metric": "net_income",
+   "label": "Utile netto ricorrente a cambi costanti",
+   "targetFiscalYear": 2024,
+   "targetPeriod": "FY",
+   "unit": "other",
+   "nonGaap": true,
+   "qualitative": true,
+   "text": "Guidance 2024 ribadita senza modifiche con i dati del primo semestre 2024.",
+   "quote": "and to deliver recurring net profit growth, at constant exchange rates"
+  },
+  {
+   "docId": "ai-q3-2024",
+   "issuedDate": "2024-10-23",
+   "metric": "operating_margin",
+   "label": "Margine operativo (OIR/ricavi), escluso effetto energia",
+   "targetFiscalYear": 2024,
+   "targetPeriod": "FY",
+   "unit": "other",
+   "nonGaap": true,
+   "qualitative": true,
+   "text": "Guidance 2024 ribadita senza modifiche con i dati del terzo trimestre 2024.",
+   "quote": "In 2024, Air Liquide is confident in its ability to further increase its operating margin"
+  },
+  {
+   "docId": "ai-q3-2024",
+   "issuedDate": "2024-10-23",
+   "metric": "net_income",
+   "label": "Utile netto ricorrente a cambi costanti",
+   "targetFiscalYear": 2024,
+   "targetPeriod": "FY",
+   "unit": "other",
+   "nonGaap": true,
+   "qualitative": true,
+   "text": "Guidance 2024 ribadita senza modifiche con i dati del terzo trimestre 2024.",
+   "quote": "and to deliver recurring net profit growth, at constant exchange rates"
+  },
+  {
+   "docId": "ai-risultati-fy2024",
+   "issuedDate": "2025-02-21",
+   "metric": "operating_margin",
+   "label": "Margine operativo (OIR/ricavi), escluso effetto energia",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "unit": "other",
+   "nonGaap": true,
+   "qualitative": true,
+   "text": "Guidance iniziale 2025: ulteriore aumento del margine operativo, senza importo per il singolo anno.",
+   "quote": "in 2025, Air Liquide is confident in its ability to further increase its operating margin"
+  },
+  {
+   "docId": "ai-risultati-fy2024",
+   "issuedDate": "2025-02-21",
+   "metric": "net_income",
+   "label": "Utile netto ricorrente a cambi costanti",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "unit": "other",
+   "nonGaap": true,
+   "qualitative": true,
+   "text": "Guidance iniziale 2025: crescita dell'utile netto ricorrente a cambi costanti, senza importo.",
+   "quote": ""
+  },
+  {
+   "docId": "ai-risultati-fy2024",
+   "issuedDate": "2025-02-21",
+   "metric": "operating_margin",
+   "label": "Ambizione di margine 2025-2026",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "unit": "percent",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Nuovo obiettivo: +200 punti base di margine operativo nel biennio 2025-2026, escluso effetto energia.",
+   "quote": "now targeting an increase of +200 basis points for the period 2025-2026",
+   "low": 0.02,
+   "high": 0.02
+  },
+  {
+   "docId": "ai-risultati-fy2024",
+   "issuedDate": "2025-02-21",
+   "metric": "operating_margin",
+   "label": "Ambizione di margine cumulata 2022-2026",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "unit": "percent",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Ambizione cumulata alzata da +320 pb (2022-2025) a +460 pb in cinque anni (2022-2026), escluso effetto energia.",
+   "quote": "It now stands at +460 basis points over a 5-year period, from 2022 to 2026.",
+   "low": 0.046,
+   "high": 0.046
+  },
+  {
+   "docId": "ai-q1-2025",
+   "issuedDate": "2025-04-24",
+   "metric": "operating_margin",
+   "label": "Margine operativo (OIR/ricavi), escluso effetto energia",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "unit": "other",
+   "nonGaap": true,
+   "qualitative": true,
+   "text": "Guidance 2025 confermata con i ricavi del primo trimestre.",
+   "quote": "In 2025, Air Liquide stays the course and is confident in its ability to further increase its operating margin"
+  },
+  {
+   "docId": "ai-q1-2025",
+   "issuedDate": "2025-04-24",
+   "metric": "net_income",
+   "label": "Utile netto ricorrente a cambi costanti",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "unit": "other",
+   "nonGaap": true,
+   "qualitative": true,
+   "text": "Guidance 2025 confermata con i ricavi del primo trimestre.",
+   "quote": "and to deliver recurring net profit growth, at constant exchange rates."
+  },
+  {
+   "docId": "ai-q1-2025",
+   "issuedDate": "2025-04-24",
+   "metric": "operating_margin",
+   "label": "Ambizione di margine cumulata 2022-2026",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "unit": "percent",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Ambizione di +460 pb cumulati a fine 2026 confermata.",
+   "quote": "+460 basis points over 5 years until the end of 2026",
+   "low": 0.046,
+   "high": 0.046
+  },
+  {
+   "docId": "ai-h1-2025",
+   "issuedDate": "2025-07-29",
+   "metric": "operating_margin",
+   "label": "Margine operativo (OIR/ricavi), escluso effetto energia",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "unit": "other",
+   "nonGaap": true,
+   "qualitative": true,
+   "text": "Guidance 2025 confermata con la semestrale.",
+   "quote": "The Group confirms its ability to further increase its operating margin"
+  },
+  {
+   "docId": "ai-h1-2025",
+   "issuedDate": "2025-07-29",
+   "metric": "net_income",
+   "label": "Utile netto ricorrente a cambi costanti",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "unit": "other",
+   "nonGaap": true,
+   "qualitative": true,
+   "text": "Guidance 2025 confermata con la semestrale.",
+   "quote": "and to deliver recurring net profit growth at constant exchange rates in 2025"
+  },
+  {
+   "docId": "ai-h1-2025",
+   "issuedDate": "2025-07-29",
+   "metric": "operating_margin",
+   "label": "Ambizione di margine 2025-2026",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "unit": "percent",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Confermato l'obiettivo di +200 pb di margine OIR nei due anni fino a fine 2026.",
+   "quote": "and to achieve its ambition to improve by +200 basis points its OIR margin",
+   "low": 0.02,
+   "high": 0.02
+  },
+  {
+   "docId": "ai-q3-2025",
+   "issuedDate": "2025-10-28",
+   "metric": "operating_margin",
+   "label": "Margine operativo (OIR/ricavi), escluso effetto energia",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "unit": "other",
+   "nonGaap": true,
+   "qualitative": true,
+   "text": "Guidance 2025 confermata con i ricavi del terzo trimestre.",
+   "quote": "The Group confirms its ability to further increase its operating margin and to deliver recurring net profit"
+  },
+  {
+   "docId": "ai-q3-2025",
+   "issuedDate": "2025-10-28",
+   "metric": "net_income",
+   "label": "Utile netto ricorrente a cambi costanti",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "unit": "other",
+   "nonGaap": true,
+   "qualitative": true,
+   "text": "Guidance 2025 confermata con i ricavi del terzo trimestre.",
+   "quote": "growth at constant exchange rates in 2025."
+  },
+  {
+   "docId": "ai-q3-2025",
+   "issuedDate": "2025-10-28",
+   "metric": "operating_margin",
+   "label": "Ambizione di margine cumulata 2022-2026",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "unit": "percent",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Ambizione di +460 pb cumulati in cinque anni a fine 2026 confermata.",
+   "quote": "by +460 basis points cumulated over five years to end-2026",
+   "low": 0.046,
+   "high": 0.046
+  },
+  {
+   "docId": "ai-risultati-fy2025-web",
+   "issuedDate": "2026-02-20",
+   "metric": "operating_margin",
+   "label": "Margine operativo, escluso effetto energia e PPA DIG Airgas",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "unit": "percent",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Guidance iniziale 2026: +100 punti base di margine operativo, escluso l'effetto energia e l'ammortamento della purchase price allocation di DIG Airgas. Prima volta che l'obiettivo annuale è quantificato.",
+   "quote": "Air Liquide is therefore confident in its ability to increase its operating margin by +100 basis points",
+   "low": 0.01,
+   "high": 0.01
+  },
+  {
+   "docId": "ai-risultati-fy2025-web",
+   "issuedDate": "2026-02-20",
+   "metric": "net_income",
+   "label": "Utile netto ricorrente a cambi costanti",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "unit": "other",
+   "nonGaap": true,
+   "qualitative": true,
+   "text": "Guidance iniziale 2026: crescita dell'utile netto ricorrente a cambi costanti, escluse le voci eccezionali; senza importo.",
+   "quote": "to deliver recurring net profit growth, at constant exchange rates, in 2026."
+  },
+  {
+   "docId": "ai-risultati-fy2025-web",
+   "issuedDate": "2026-02-20",
+   "metric": "operating_margin",
+   "label": "Obiettivo di margine 2027",
+   "targetFiscalYear": 2027,
+   "targetPeriod": "FY",
+   "unit": "percent",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Nuovo obiettivo per il 2027: ulteriori +100 pb escluso effetto energia.",
+   "quote": "new margin objective for 2027 of +100 basis points",
+   "low": 0.01,
+   "high": 0.01
+  },
+  {
+   "docId": "ai-risultati-fy2025",
+   "issuedDate": "2026-02-20",
+   "metric": "operating_margin",
+   "label": "Ambizione di margine cumulata 2022-2027",
+   "targetFiscalYear": 2027,
+   "targetPeriod": "FY",
+   "unit": "percent",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Ambizione cumulata portata a +560 pb sul periodo 2022-2027 (da +460 pb a fine 2026); +360 pb già realizzati a fine 2025.",
+   "quote": "",
+   "low": 0.056,
+   "high": 0.056
+  },
+  {
+   "docId": "ai-q1-2026",
+   "issuedDate": "2026-04-28",
+   "metric": "operating_margin",
+   "label": "Margine operativo, escluso effetto energia e PPA DIG Airgas",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "unit": "percent",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Guidance 2026 confermata senza modifiche con i dati del primo trimestre 2026.",
+   "quote": "Air Liquide is therefore confident in its ability to increase its operating margin by +100 basis points",
+   "low": 0.01,
+   "high": 0.01
+  },
+  {
+   "docId": "ai-q1-2026",
+   "issuedDate": "2026-04-28",
+   "metric": "net_income",
+   "label": "Utile netto ricorrente a cambi costanti",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "unit": "other",
+   "nonGaap": true,
+   "qualitative": true,
+   "text": "Guidance 2026 confermata senza modifiche con i dati del primo trimestre 2026.",
+   "quote": "and to deliver recurring net profit growth, at constant exchange rates in 2026"
+  },
+  {
+   "docId": "ai-h1-2026",
+   "issuedDate": "2026-07-28",
+   "metric": "operating_margin",
+   "label": "Margine operativo, escluso effetto energia e PPA DIG Airgas",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "unit": "percent",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Guidance 2026 confermata senza modifiche con i dati del primo semestre 2026.",
+   "quote": "confident in its ability to increase its operating margin by +100 basis points",
+   "low": 0.01,
+   "high": 0.01
+  },
+  {
+   "docId": "ai-h1-2026",
+   "issuedDate": "2026-07-28",
+   "metric": "net_income",
+   "label": "Utile netto ricorrente a cambi costanti",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "unit": "other",
+   "nonGaap": true,
+   "qualitative": true,
+   "text": "Guidance 2026 confermata senza modifiche con i dati del primo semestre 2026.",
+   "quote": ""
+  },
+  {
+   "docId": "ai-q3-2026",
+   "issuedDate": "2026-10-29",
+   "metric": "operating_margin",
+   "label": "Margine operativo, escluso effetto energia e PPA DIG Airgas",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "unit": "percent",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Guidance 2026 confermata senza modifiche con i dati del terzo trimestre 2026.",
+   "quote": "Air Liquide is therefore confident in its ability to increase its operating margin by +100 basis points",
+   "low": 0.01,
+   "high": 0.01
+  },
+  {
+   "docId": "ai-q3-2026",
+   "issuedDate": "2026-10-29",
+   "metric": "net_income",
+   "label": "Utile netto ricorrente a cambi costanti",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "unit": "other",
+   "nonGaap": true,
+   "qualitative": true,
+   "text": "Guidance 2026 confermata senza modifiche con i dati del terzo trimestre 2026.",
+   "quote": "to deliver recurring net profit growth, at constant exchange rates in 2026"
+  },
+  {
+   "docId": "ai-h1-2026",
+   "issuedDate": "2026-07-28",
+   "metric": "operating_margin",
+   "label": "Obiettivo di margine 2027",
+   "targetFiscalYear": 2027,
+   "targetPeriod": "FY",
+   "unit": "percent",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Confermati ulteriori +100 pb nel 2027 (escluso energia), per un totale di +560 pb sul 2022-2027.",
+   "quote": "confident in its ability to improve its margin by +100 basis points",
+   "low": 0.01,
+   "high": 0.01
+  },
+  {
+   "docId": "ai-h1-2026-pdf",
+   "issuedDate": "2026-07-28",
+   "metric": "revenue_growth",
+   "label": "Crescita comparabile dei ricavi nel secondo semestre",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "unit": "other",
+   "nonGaap": true,
+   "qualitative": true,
+   "text": "Indicazione qualitativa: crescita del secondo semestre 2026 simile o leggermente superiore a quella del primo (+2,6% comparabile).",
+   "quote": "second-half growth to be similar to, or slightly higher than, that of the first half"
+  },
+  {
+   "docId": "ai-q3-2026",
+   "issuedDate": "2026-10-29",
+   "metric": "revenue_growth",
+   "label": "Crescita dei ricavi nel quarto trimestre",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "Q4",
+   "unit": "other",
+   "nonGaap": true,
+   "qualitative": true,
+   "text": "Indicazione qualitativa: crescita del quarto trimestre 2026 attesa simile a quella del terzo (+3,0% comparabile di Gruppo).",
+   "quote": ""
+  },
+  {
+   "docId": "ai-q3-2026",
+   "issuedDate": "2026-10-29",
+   "metric": "operating_margin",
+   "label": "Obiettivo di margine 2027",
+   "targetFiscalYear": 2027,
+   "targetPeriod": "FY",
+   "unit": "percent",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Confermati ulteriori +100 pb nel 2027, totale +560 pb sul 2022-2027.",
+   "quote": "",
+   "low": 0.01,
+   "high": 0.01
+  },
+  {
+   "docId": "ai-beyond-2030",
+   "issuedDate": "2026-10-05",
+   "metric": "other",
+   "label": "Utile netto ricorrente per azione, CAGR 2025-2030 (piano BEYOND)",
+   "targetFiscalYear": 2030,
+   "targetPeriod": "FY",
+   "unit": "percent",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Crescita media annua composta dell'EPS ricorrente del +10% (±2%) da fine 2025 a fine 2030, a cambi 2025.",
+   "quote": "A compound annual growth rate (CAGR) of +10% (+/-2%) over the period in recurring net Earnings per Share",
+   "low": 0.08,
+   "high": 0.12
+  },
+  {
+   "docId": "ai-beyond-2030",
+   "issuedDate": "2026-10-05",
+   "metric": "revenue_growth",
+   "label": "Ricavi, CAGR 2025-2030 (piano BEYOND)",
+   "targetFiscalYear": 2030,
+   "targetPeriod": "FY",
+   "unit": "percent",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Crescita media annua dei ricavi del +5% (±1%) da fine 2025 a fine 2030, a cambi e prezzi dell'energia 2025, inclusi gli effetti di perimetro delle acquisizioni; 2-3 volte la produzione industriale. Presentata come leva, non come obiettivo vincolante.",
+   "quote": "outpacing industrial production by a factor of 2 to 3,",
+   "low": 0.04,
+   "high": 0.06
+  },
+  {
+   "docId": "ai-beyond-2030",
+   "issuedDate": "2026-10-05",
+   "metric": "operating_margin",
+   "label": "Miglioramento del margine operativo 2026-2030 (piano BEYOND)",
+   "targetFiscalYear": 2030,
+   "targetPeriod": "FY",
+   "unit": "percent",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Miglioramento cumulato del margine operativo di +400/+600 pb sul 2026-2030, somma dei miglioramenti annui al prezzo dell'energia dell'anno precedente.",
+   "quote": "A margin improvement of +400 to +600 basis points over the period",
+   "low": 0.04,
+   "high": 0.06
+  },
+  {
+   "docId": "ai-beyond-2030",
+   "issuedDate": "2026-10-05",
+   "metric": "other",
+   "label": "ROCE ricorrente 2030 (piano BEYOND)",
+   "targetFiscalYear": 2030,
+   "targetPeriod": "FY",
+   "unit": "percent",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "ROCE ricorrente superiore all'11% nel 2030, escluse le acquisizioni strategiche.",
+   "quote": "A recurring ROCE above 11% in 2030, while maintaining a significant increase in industrial investments",
+   "low": 0.11
+  },
+  {
+   "docId": "ai-beyond-2030",
+   "issuedDate": "2026-10-05",
+   "metric": "other",
+   "label": "Allocazione del capitale 2026-2030 (piano BEYOND)",
+   "targetFiscalYear": 2030,
+   "targetPeriod": "FY",
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Oltre 40 miliardi di euro allocati nel 2026-2030 tra investimenti, acquisizioni, dividendi e buyback; più della metà a investimenti industriali e acquisizioni. Include DIG Airgas e le acquisizioni bolt-on, non altre acquisizioni strategiche.",
+   "quote": "A capital allocation of over €40 billion over the period",
+   "low": 40000000000
+  },
+  {
+   "docId": "ai-beyond-2030",
+   "issuedDate": "2026-10-05",
+   "metric": "capex",
+   "label": "Decisioni di investimento industriale 2026-2030 (piano BEYOND)",
+   "targetFiscalYear": 2030,
+   "targetPeriod": "FY",
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Decisioni di investimento industriale per circa 24 miliardi di euro nel periodo del piano.",
+   "quote": "Air Liquide plans industrial investment decisions for approximately €24 billion over the BEYOND period",
+   "low": 24000000000,
+   "high": 24000000000
+  },
+  {
+   "docId": "ai-beyond-2030",
+   "issuedDate": "2026-10-05",
+   "metric": "other",
+   "label": "Riacquisto di azioni proprie (piano BEYOND)",
+   "targetFiscalYear": 2028,
+   "targetPeriod": "FY",
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Primo programma di buyback della storia del gruppo: 4 miliardi di euro. Il comunicato del 5 ottobre indica il periodo 2027-2028; il comunicato del terzo trimestre precisa una prima tranche da 1 miliardo avviata il 30 ottobre 2026 e conclusione entro fine 2028.",
+   "quote": "the launch for the first time of a 4 billion euros share buyback program over the 2027-2028 period",
+   "low": 4000000000,
+   "high": 4000000000
+  }
+ ],
+ "custom": [
+  {
+   "category": "segment_revenue",
+   "name": "Large Industries",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 7825000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2024"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Large Industries",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 7120000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Large Industries",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 7110000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Large Industries",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 3701000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-h1-2026-pdf"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Large Industries",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 3703000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-h1-2026-pdf"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Large Industries",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q3",
+   "value": 1721000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-q3-2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Large Industries",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 1834000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-q1-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Large Industries",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q3",
+   "value": 2058000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-q3-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Large Industries",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 5761000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-q3-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Industrial Merchant",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 11975000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2024"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Industrial Merchant",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 11906000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Industrial Merchant",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 12132000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Industrial Merchant",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 6194000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-h1-2026-pdf"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Industrial Merchant",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 6144000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-h1-2026-pdf"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Industrial Merchant",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q3",
+   "value": 2994000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-q3-2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Industrial Merchant",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 3022000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-q1-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Industrial Merchant",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q3",
+   "value": 3188000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-q3-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Industrial Merchant",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 9332000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-q3-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Healthcare",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 4077000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2024"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Healthcare",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 4274000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Healthcare",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 4378000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Healthcare",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 2191000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-h1-2026-pdf"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Healthcare",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 2244000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-h1-2026-pdf"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Healthcare",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q3",
+   "value": 1073000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-q3-2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Healthcare",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 1112000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-q1-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Healthcare",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q3",
+   "value": 1118000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-q3-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Healthcare",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 3361000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-q3-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Electronics",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 2483000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2024"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Electronics",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 2510000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Electronics",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 2465000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Electronics",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 1224000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-h1-2026-pdf"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Electronics",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 1317000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-h1-2026-pdf"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Electronics",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q3",
+   "value": 599000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-q3-2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Electronics",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 628000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-q1-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Electronics",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q3",
+   "value": 712000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-q3-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Electronics",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 2029000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-q3-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Gas & Services (totale)",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 26360000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2024"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Gas & Services (totale)",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 25810000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Gas & Services (totale)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 26085000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Gas & Services (totale)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 13310000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-h1-2026-pdf"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Gas & Services (totale)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 13408000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-h1-2026-pdf"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Gas & Services (totale)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q1",
+   "value": 6831000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-q1-2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Gas & Services (totale)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 6595000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-q1-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Gas & Services (totale)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q3",
+   "value": 7075000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-q3-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Gas & Services (totale)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 20482000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-q3-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Engineering & Technologies",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 1248000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Engineering & Technologies",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 855000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Engineering & Technologies",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 190000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-q1-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Engineering & Technologies",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q3",
+   "value": 184000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-q3-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Engineering & Technologies",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 604000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-q3-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Engineering & Construction",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 390000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2024"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Engineering & Construction",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 412000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2024"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Global Markets & Technologies",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 858000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2024"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Global Markets & Technologies",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 836000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2024"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Ricavi di Gruppo",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 27608000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2024"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Ricavi di Gruppo",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 27058000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Ricavi di Gruppo",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 26940000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Ricavi di Gruppo",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "Q1",
+   "value": 6650000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-q1-2024"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Ricavi di Gruppo",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "H1",
+   "value": 13379000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-h1-2024"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Ricavi di Gruppo",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "Q3",
+   "value": 6762000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-q3-2024"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Ricavi di Gruppo",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q1",
+   "value": 7028000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-q1-2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Ricavi di Gruppo",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 13722000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-h1-2026-pdf"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Ricavi di Gruppo",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q3",
+   "value": 6599000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-q3-2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Ricavi di Gruppo",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 20321000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-q3-2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Ricavi di Gruppo",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q4",
+   "value": 6619000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Ricavi di Gruppo",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 6786000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-q1-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Ricavi di Gruppo",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 13828000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-h1-2026-pdf"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Ricavi di Gruppo",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q3",
+   "value": 7259000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-q3-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Ricavi di Gruppo",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 21086000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-q3-2026"
+   }
+  },
+  {
+   "category": "geo_revenue",
+   "name": "Americhe",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 10169000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2024"
+   }
+  },
+  {
+   "category": "geo_revenue",
+   "name": "Americhe",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 10321000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "geo_revenue",
+   "name": "Americhe",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 10351000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "geo_revenue",
+   "name": "Americhe",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 5290000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-h1-2026-pdf"
+   }
+  },
+  {
+   "category": "geo_revenue",
+   "name": "Americhe",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 5225000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-h1-2026-pdf"
+   }
+  },
+  {
+   "category": "geo_revenue",
+   "name": "Americhe",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q3",
+   "value": 2548000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-q3-2025"
+   }
+  },
+  {
+   "category": "geo_revenue",
+   "name": "Americhe",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 2591000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-q1-2026"
+   }
+  },
+  {
+   "category": "geo_revenue",
+   "name": "Americhe",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q3",
+   "value": 2739000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-q3-2026"
+   }
+  },
+  {
+   "category": "geo_revenue",
+   "name": "Americhe",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 7965000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-q3-2026"
+   }
+  },
+  {
+   "category": "geo_revenue",
+   "name": "Europa, Medio Oriente e Africa (EMEA)",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 10781000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2024"
+   }
+  },
+  {
+   "category": "geo_revenue",
+   "name": "Europa, Medio Oriente e Africa (EMEA)",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 10186000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "geo_revenue",
+   "name": "Europa, Medio Oriente e Africa (EMEA)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 10616000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "geo_revenue",
+   "name": "Europa, Medio Oriente e Africa (EMEA)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 5427000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-h1-2026-pdf"
+   }
+  },
+  {
+   "category": "geo_revenue",
+   "name": "Europa, Medio Oriente e Africa (EMEA)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 5414000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-h1-2026-pdf"
+   }
+  },
+  {
+   "category": "geo_revenue",
+   "name": "Europa, Medio Oriente e Africa (EMEA)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q3",
+   "value": 2584000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-q3-2025"
+   }
+  },
+  {
+   "category": "geo_revenue",
+   "name": "Europa, Medio Oriente e Africa (EMEA)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 2687000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-q1-2026"
+   }
+  },
+  {
+   "category": "geo_revenue",
+   "name": "Europa, Medio Oriente e Africa (EMEA)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q3",
+   "value": 2819000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-q3-2026"
+   }
+  },
+  {
+   "category": "geo_revenue",
+   "name": "Europa, Medio Oriente e Africa (EMEA)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 8233000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-q3-2026"
+   }
+  },
+  {
+   "category": "geo_revenue",
+   "name": "Asia-Pacifico",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 5410000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2024"
+   }
+  },
+  {
+   "category": "geo_revenue",
+   "name": "Asia-Pacifico",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 5303000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "geo_revenue",
+   "name": "Asia-Pacifico",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 5118000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "geo_revenue",
+   "name": "Asia-Pacifico",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 2593000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-h1-2026-pdf"
+   }
+  },
+  {
+   "category": "geo_revenue",
+   "name": "Asia-Pacifico",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 2768000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-h1-2026-pdf"
+   }
+  },
+  {
+   "category": "geo_revenue",
+   "name": "Asia-Pacifico",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q3",
+   "value": 1255000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-q3-2025"
+   }
+  },
+  {
+   "category": "geo_revenue",
+   "name": "Asia-Pacifico",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 1318000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-q1-2026"
+   }
+  },
+  {
+   "category": "geo_revenue",
+   "name": "Asia-Pacifico",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q3",
+   "value": 1516000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-q3-2026"
+   }
+  },
+  {
+   "category": "geo_revenue",
+   "name": "Asia-Pacifico",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 4284000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-q3-2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "OIR Americhe",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 2334000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2024"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "OIR EMEA",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 2038000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2024"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "OIR Asia-Pacifico",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 1184000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2024"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "OIR Gas & Services",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 5555000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2024"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "OIR Americhe",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 2427000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "OIR EMEA",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 2290000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "OIR Asia-Pacifico",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 1180000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "OIR Gas & Services",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 5897000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "OIR Engineering & Technologies",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 124000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "OIR Americhe",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 1196000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-h1-2026-pdf"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "OIR EMEA",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 1150000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-h1-2026-pdf"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "OIR Asia-Pacifico",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 580000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-h1-2026-pdf"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "OIR Engineering & Technologies",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 54000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-h1-2026-pdf"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "OIR Americhe",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 1290000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-h1-2026-pdf"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "OIR EMEA",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 1164000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-h1-2026-pdf"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "OIR Asia-Pacifico",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 598000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-h1-2026-pdf"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "OIR Engineering & Technologies",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 57000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-h1-2026-pdf"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Margine OIR Americhe",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 0.209,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-risultati-fy2024"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Margine OIR EMEA",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 0.179,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-risultati-fy2024"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Margine OIR Asia-Pacifico",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 0.224,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-risultati-fy2024"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Margine OIR Americhe",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 0.226,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Margine OIR EMEA",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 0.2,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Margine OIR Asia-Pacifico",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 0.223,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Margine OIR Gas & Services",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 0.215,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Margine OIR Americhe",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 0.234,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Margine OIR EMEA",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 0.216,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Margine OIR Asia-Pacifico",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 0.231,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Margine OIR Gas & Services",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 0.226,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Margine OIR Engineering & Technologies",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 0.145,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Margine OIR Americhe",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 0.226,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-h1-2026-pdf"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Margine OIR EMEA",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 0.212,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-h1-2026-pdf"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Margine OIR Asia-Pacifico",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 0.224,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-h1-2026-pdf"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Margine OIR Americhe",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 0.247,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-h1-2026-pdf"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Margine OIR EMEA",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 0.215,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-h1-2026-pdf"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Margine OIR Asia-Pacifico",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 0.216,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-h1-2026-pdf"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Risultato operativo ricorrente (OIR) di Gruppo",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 5068000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Risultato operativo ricorrente (OIR) di Gruppo",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 5391000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Risultato operativo ricorrente (OIR) di Gruppo",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 5582000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Risultato operativo ricorrente (OIR) di Gruppo",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "H1",
+   "value": 2601000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-h1-2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Risultato operativo ricorrente (OIR) di Gruppo",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 2737000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-h1-2026-pdf"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Risultato operativo ricorrente (OIR) di Gruppo",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 2893000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-h1-2026-pdf"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Utile netto ricorrente (quota del Gruppo)",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 3320000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Utile netto ricorrente (quota del Gruppo)",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 3466000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Utile netto ricorrente (quota del Gruppo)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 3679000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Utile netto ricorrente (quota del Gruppo)",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "H1",
+   "value": 1681000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-h1-2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Utile netto ricorrente (quota del Gruppo)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 1842000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-h1-2026-pdf"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Utile netto ricorrente (quota del Gruppo)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 1923000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-h1-2026-pdf"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Utile netto (quota del Gruppo)",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 3078000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Utile netto (quota del Gruppo)",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 3306000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Utile netto (quota del Gruppo)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 3518000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Utile netto (quota del Gruppo)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 1801000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-h1-2026-pdf"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Utile netto (quota del Gruppo)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 1823000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-h1-2026-pdf"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Flusso di cassa operativo prima delle variazioni del capitale circolante",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 6357000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Flusso di cassa operativo prima delle variazioni del capitale circolante",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 6539000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Flusso di cassa operativo prima delle variazioni del capitale circolante",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 6855000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Flusso di cassa operativo prima delle variazioni del capitale circolante",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 3253000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-h1-2026-pdf"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Flusso di cassa operativo prima delle variazioni del capitale circolante",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 3372000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-h1-2026-pdf"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Flusso di cassa operativo prima delle variazioni del capitale circolante",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 5129000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-q3-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Flusso di cassa netto da attività operative",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 6322000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Flusso di cassa netto da attività operative",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 6518000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Investimenti industriali lordi (capex)",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 3525000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Investimenti industriali lordi (capex)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 3843000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Investimenti industriali lordi (capex)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 1828000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-h1-2026-pdf"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Indebitamento netto",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 9221000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Indebitamento netto",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 9159000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Indebitamento netto",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 8416000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Indebitamento netto",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 9794000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-h1-2026-pdf"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Indebitamento netto",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 13921000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-h1-2026-pdf"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Indebitamento netto",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 13532000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-q3-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Decisioni di investimento (industriali e finanziarie)",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 4300000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Decisioni di investimento (industriali e finanziarie)",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 4400000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Decisioni di investimento (industriali e finanziarie)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 4200000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Decisioni di investimento (industriali e finanziarie)",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "H1",
+   "value": 1630000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-h1-2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Decisioni di investimento (industriali e finanziarie)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 2300000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-h1-2025-pdf"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Decisioni di investimento (industriali e finanziarie)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 2900000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-h1-2026-pdf"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Decisioni di investimento (industriali e finanziarie)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 4133000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-q3-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Decisioni di investimento industriale",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 4189000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Decisioni di investimento industriale",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 4101000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Decisioni di investimento industriale",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 4000000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Decisioni di investimento industriale",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 1481000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-q1-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Decisioni di investimento industriale",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 2812000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-h1-2026-pdf"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Decisioni di investimento industriale",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 4016000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-q3-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Investment backlog",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 4400000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2023"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Investment backlog",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "Q1",
+   "value": 4100000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-q1-2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Investment backlog",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "H1",
+   "value": 4100000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-h1-2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Investment backlog",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "9M",
+   "value": 4200000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-q3-2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Investment backlog",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 4200000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Investment backlog",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q1",
+   "value": 4500000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-q1-2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Investment backlog",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 4600000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-h1-2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Investment backlog",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 4900000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-q3-2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Investment backlog",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 4900000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Investment backlog",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 5500000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-q1-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Investment backlog",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 6000000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-h1-2026-pdf"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Investment backlog",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 6200000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-q3-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Portafoglio di opportunità di investimento a 12 mesi",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 3400000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Portafoglio di opportunità di investimento a 12 mesi",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 4100000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Portafoglio di opportunità di investimento a 12 mesi",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 4100000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-h1-2025-pdf"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Portafoglio di opportunità di investimento a 12 mesi",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 4100000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-q3-2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Portafoglio di opportunità di investimento a 12 mesi",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 4600000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Portafoglio di opportunità di investimento a 12 mesi",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 4500000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-q1-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Portafoglio di opportunità di investimento a 12 mesi",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 4800000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-h1-2026-pdf"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Portafoglio di opportunità di investimento a 12 mesi",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 4800000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-q3-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Efficienze",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 466000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Efficienze",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 497000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Efficienze",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 631000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Efficienze",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 287000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-h1-2026-pdf"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Efficienze",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 299000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-h1-2026-pdf"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Efficienze",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 441000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-q3-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Altri proventi e oneri operativi non ricorrenti",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": -497000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Altri proventi e oneri operativi non ricorrenti",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": -446000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Altri proventi e oneri operativi non ricorrenti",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": -303000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Altri proventi e oneri operativi non ricorrenti",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": -47000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-h1-2026-pdf"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Altri proventi e oneri operativi non ricorrenti",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": -123000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-h1-2026-pdf"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Acquisizione DIG Airgas: enterprise value",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 2850000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-dig-airgas-accordo"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "DIG Airgas: ricavi 2024",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 510000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-dig-airgas-accordo"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ordini Engineering & Technologies",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 2128000000,
+   "unit": "currency",
+   "source": {
+    "docId": "ai-q3-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Margine operativo di Gruppo (OIR/ricavi)",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 0.184,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Margine operativo di Gruppo (OIR/ricavi)",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 0.199,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Margine operativo di Gruppo (OIR/ricavi)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 0.207,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Margine operativo di Gruppo (OIR/ricavi)",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "H1",
+   "value": 0.194,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-h1-2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Margine operativo di Gruppo (OIR/ricavi)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 0.199,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-h1-2026-pdf"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Margine operativo di Gruppo (OIR/ricavi)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 0.209,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-h1-2026-pdf"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Miglioramento del margine operativo escluso energia (anno su anno)",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 0.008,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-risultati-fy2023"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Miglioramento del margine operativo escluso energia (anno su anno)",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 0.011,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Miglioramento del margine operativo escluso energia (anno su anno)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 0.01,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Miglioramento del margine operativo escluso energia (anno su anno)",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "H1",
+   "value": 0.01,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-h1-2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Miglioramento del margine operativo escluso energia (anno su anno)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 0.01,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-h1-2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Miglioramento del margine operativo escluso energia (anno su anno)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 0.011,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-h1-2026-pdf"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Miglioramento cumulato del margine dal 2022, escluso energia",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 0.036,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Crescita comparabile dei ricavi di Gruppo",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 0.037,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-risultati-fy2023"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Crescita comparabile dei ricavi di Gruppo",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 0.026,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Crescita comparabile dei ricavi di Gruppo",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 0.02,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-risultati-fy2025-web"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Crescita comparabile dei ricavi di Gruppo",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "Q1",
+   "value": 0.021,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-q1-2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Crescita comparabile dei ricavi di Gruppo",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "H1",
+   "value": 0.026,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-h1-2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Crescita comparabile dei ricavi di Gruppo",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "Q3",
+   "value": 0.033,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-q3-2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Crescita comparabile dei ricavi di Gruppo",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q1",
+   "value": 0.017,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-q1-2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Crescita comparabile dei ricavi di Gruppo",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 0.018,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-h1-2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Crescita comparabile dei ricavi di Gruppo",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q3",
+   "value": 0.019,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-q3-2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Crescita comparabile dei ricavi di Gruppo",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 0.018,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-q3-2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Crescita comparabile dei ricavi di Gruppo",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q4",
+   "value": 0.025,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Crescita comparabile dei ricavi di Gruppo",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 0.019,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-q1-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Crescita comparabile dei ricavi di Gruppo",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 0.026,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-h1-2026-pdf"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Crescita comparabile dei ricavi di Gruppo",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q3",
+   "value": 0.03,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-q3-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Crescita comparabile dei ricavi di Gruppo",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 0.028,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-q3-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Crescita comparabile Large Industries",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 0.012,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Crescita comparabile Large Industries",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": -0.003,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Crescita comparabile Large Industries",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": -0.006,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-h1-2026-pdf"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Crescita comparabile Large Industries",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q3",
+   "value": -0.019,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-q3-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Crescita comparabile Large Industries",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": -0.01,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-q3-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Crescita comparabile Industrial Merchant",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 0.016,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Crescita comparabile Industrial Merchant",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 0.024,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Crescita comparabile Industrial Merchant",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 0.032,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-h1-2026-pdf"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Crescita comparabile Industrial Merchant",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q3",
+   "value": 0.053,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-q3-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Crescita comparabile Industrial Merchant",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 0.039,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-q3-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Crescita comparabile Healthcare",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 0.086,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Crescita comparabile Healthcare",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 0.05,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Crescita comparabile Healthcare",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 0.042,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-h1-2026-pdf"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Crescita comparabile Healthcare",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q3",
+   "value": 0.031,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-q3-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Crescita comparabile Healthcare",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 0.038,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-q3-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Crescita comparabile Electronics",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 0.033,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Crescita comparabile Electronics",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 0.012,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Crescita comparabile Electronics",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 0.062,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-h1-2026-pdf"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Crescita comparabile Electronics",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q3",
+   "value": 0.12,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-q3-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Crescita comparabile Electronics",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 0.081,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-q3-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Effetto prezzo Industrial Merchant",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 0.029,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Effetto prezzo Industrial Merchant",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 0.042,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-h1-2026-pdf"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "ROCE ricorrente",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 0.106,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "ROCE ricorrente",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 0.107,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "ROCE ricorrente",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 0.112,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "ROCE ricorrente",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 0.11,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-h1-2026-pdf"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "ROCE ricorrente",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 0.11,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-h1-2026-pdf"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "ROCE dopo imposte",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 0.098,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "ROCE dopo imposte",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 0.103,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "ROCE dopo imposte",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 0.107,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "ROCE dopo imposte",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 0.104,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-h1-2026-pdf"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Indebitamento netto / patrimonio netto (gearing)",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 0.368,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Indebitamento netto / patrimonio netto (gearing)",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 0.332,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Indebitamento netto / patrimonio netto (gearing)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 0.312,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Indebitamento netto / patrimonio netto (gearing)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 0.335,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-h1-2026-pdf"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Indebitamento netto / patrimonio netto (gearing)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 0.451,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-h1-2026-pdf"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Aliquota fiscale effettiva",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 0.24,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Aliquota fiscale effettiva",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 0.252,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Aliquota fiscale effettiva",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 0.264,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-h1-2026-pdf"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Payout sull'utile netto pubblicato",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 0.63,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Costo medio dell'indebitamento netto",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 0.033,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Costo medio dell'indebitamento netto",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 0.03,
+   "unit": "percent",
+   "source": {
+    "docId": "ai-h1-2026-pdf"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Utile netto per azione (come pubblicato all'epoca)",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 5.74,
+   "unit": "EUR per azione",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Utile netto per azione (come pubblicato all'epoca)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 6.1,
+   "unit": "EUR per azione",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Utile netto per azione (rettificato per l'attribuzione gratuita di giugno 2026)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "H1",
+   "value": 2.83,
+   "unit": "EUR per azione",
+   "source": {
+    "docId": "ai-h1-2026-pdf"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Utile netto per azione (rettificato per l'attribuzione gratuita di giugno 2026)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 2.86,
+   "unit": "EUR per azione",
+   "source": {
+    "docId": "ai-h1-2026-pdf"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Dividendo per azione",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 3.3,
+   "unit": "EUR per azione",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Dividendo per azione",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 3.7,
+   "unit": "EUR per azione",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Numero medio di azioni in circolazione",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 576457564,
+   "unit": "count",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Numero medio di azioni in circolazione",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 576790647,
+   "unit": "count",
+   "source": {
+    "docId": "ai-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Numero medio di azioni in circolazione (dopo attribuzione gratuita 1 per 10 di giugno 2026)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 636603516,
+   "unit": "count",
+   "source": {
+    "docId": "ai-h1-2026-pdf"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "DIG Airgas: multiplo EV/EBITDA 2024",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 20.2,
+   "unit": "x",
+   "source": {
+    "docId": "ai-dig-airgas-accordo"
+   }
+  }
+ ],
+ "insights": {
+  "id": "ai-risultati-fy2025",
+  "summary": "Nel 2025 i ricavi di Gruppo sono stati 26.940 milioni di euro (-0,4% pubblicato, +2% comparabile), con risultato operativo ricorrente di 5.582 milioni, margine al 20,7% (+100 pb escluso energia) e utile netto ricorrente di 3.679 milioni (+9,7% a cambi costanti). A gennaio 2026 è stata chiusa l'acquisizione di DIG Airgas in Corea del Sud per circa 3 miliardi, che ha portato l'indebitamento netto da 8,4 a 13,9 miliardi a giugno 2026. Nel primo semestre 2026 i ricavi sono cresciuti del 2,6% comparabile e il margine di 110 pb escluso energia e PPA; nel terzo trimestre la crescita comparabile è stata del 3,0%, con Electronics a +12%. Il 5 ottobre 2026 è stato presentato il piano BEYOND al 2030 con un buyback da 4 miliardi, il primo nella storia del gruppo. La guidance 2026 (+100 pb di margine, utile netto ricorrente in crescita a cambi costanti) è stata confermata a ogni pubblicazione.",
+  "businessModel": "Produzione e distribuzione di gas industriali e medicali. Gas & Services pesa il 97% dei ricavi ed è articolato in quattro attività: Industrial Merchant (12,1 miliardi nel 2025; gas in bombole e liquidi a clienti industriali diffusi, con leva sul prezzo), Large Industries (7,1 miliardi; grandi impianti dedicati a siderurgia, chimica e raffinazione, i cui ricavi riflettono il ribaltamento del costo dell'energia), Healthcare (4,4 miliardi; gas medicali e assistenza domiciliare) ed Electronics (2,5 miliardi; gas vettori e materiali per semiconduttori). Il resto è Engineering & Technologies (855 milioni), nata il 1° gennaio 2025 dalla fusione di Engineering & Construction e Global Markets & Technologies. Per area: Americhe 10,4 miliardi, EMEA 10,6 miliardi, Asia-Pacifico 5,1 miliardi.",
+  "highlights": [
+   "Margine operativo 2025 al 20,7% dal 19,9%, +100 pb escluso energia; +360 pb cumulati dal 2022 e ambizione alzata a +560 pb sul 2022-2027.",
+   "Efficienze record: 631 milioni nel 2025 (+27% sui 497 milioni del 2024) e 441 milioni nei nove mesi 2026.",
+   "Investment backlog a 6,2 miliardi a fine settembre 2026 (4,9 miliardi a fine 2025); decisioni di investimento a 4.133 milioni nei nove mesi 2026, già vicine al totale 2025 (4,2 miliardi).",
+   "Electronics in accelerazione nel 2026: +2,9% comparabile nel primo trimestre, +6,2% nel semestre, +12,0% nel terzo trimestre.",
+   "Margine OIR delle Americhe al 24,7% nel primo semestre 2026 (22,6% un anno prima); Industrial Merchant con effetto prezzo +4,2% nel semestre.",
+   "Dividendo 2025 a 3,70 euro per azione (+12,1%), attribuzione gratuita di 1 azione ogni 10 a giugno 2026 e buyback da 4 miliardi entro fine 2028."
+  ],
+  "lowlights": [
+   "Ricavi pubblicati in calo nel 2025 (-0,4%) per l'effetto cambi di -3,2%; la crescita comparabile è stata del 2%, inferiore al +2,6% del 2024.",
+   "Large Industries in contrazione: -0,3% comparabile nel 2025, -0,6% nel primo semestre 2026 e -1,9% nel terzo trimestre 2026, con EMEA a -2,6% nel semestre per la bassa attività di cogenerazione in Benelux.",
+   "EMEA ferma: +0,6% comparabile nel 2025, +0,2% nel primo semestre 2026 e -0,5% nel terzo trimestre.",
+   "Indebitamento netto salito da 8.416 milioni (fine 2025) a 13.921 milioni a giugno 2026 e 13.532 milioni a settembre; gearing dal 31,2% al 45,1%. Costo dell'indebitamento netto +27,4% nel semestre.",
+   "Oneri non ricorrenti ancora rilevanti: -303 milioni nel 2025 e -123 milioni nel primo semestre 2026, soprattutto ristrutturazioni in Europa; aliquota fiscale effettiva salita al 26,4% nel semestre.",
+   "Margine dell'Asia-Pacifico sceso al 21,6% nel primo semestre 2026 dal 22,4%, dopo l'ingresso di DIG Airgas; forte calo dei prezzi dell'elio in Cina nel 2025."
+  ],
+  "risks": [
+   {
+    "title": "Integrazione e prezzo di DIG Airgas",
+    "detail": "Enterprise value di 2,85 miliardi di euro, pari a 20,2 volte l'EBITDA 2024 (14,8 volte includendo progetti firmati e sinergie di costo, non quantificate). Il contributo all'utile è atteso solo un anno dopo l'integrazione e prima della purchase price allocation.",
+    "severity": "media"
+   },
+   {
+    "title": "Debolezza della domanda industriale in Europa",
+    "detail": "EMEA vale circa il 40% dei ricavi Gas & Services e non cresce in termini comparabili; acciaio e chimica restano deboli e le ristrutturazioni europee generano oneri ricorrenti anno dopo anno.",
+    "severity": "media"
+   },
+   {
+    "title": "Elio e geopolitica",
+    "detail": "Nel primo semestre 2026 i volumi sono stati penalizzati dall'interruzione di una fonte di elio legata al conflitto in Medio Oriente; nel 2025 i prezzi dell'elio in Cina sono scesi in modo marcato. Senza elio l'Industrial Merchant in EMEA cresce dell'1,9% contro lo 0,2% riportato.",
+    "severity": "media"
+   },
+   {
+    "title": "Aumento della leva e impegni di capitale",
+    "detail": "Il piano BEYOND prevede oltre 40 miliardi di allocazione di capitale 2026-2030, 24 miliardi di decisioni di investimento industriale e 4 miliardi di buyback, partendo da un debito netto di 13,5 miliardi. Nel semestre è terminato il principale programma di factoring, con circa 1,04 miliardi di crediti in più a bilancio.",
+    "severity": "media"
+   },
+   {
+    "title": "Cambi",
+    "detail": "Effetto cambi di -3,2% sui ricavi 2025 e -3,6% nel primo semestre 2026 (circa -100 milioni sull'utile netto ricorrente), soprattutto per il dollaro. La guidance è espressa a cambi costanti, quindi il dato pubblicato può divergere.",
+    "severity": "bassa"
+   },
+   {
+    "title": "Pressione di un azionista attivista",
+    "detail": "Secondo AFP, il Financial Times ha rivelato a settembre 2026 una partecipazione del fondo Elliott, inferiore al 5% e non confermata dal fondo. Può spingere verso maggiore leva, riduzioni di personale o cessioni.",
+    "severity": "bassa"
+   }
+  ],
+  "accountingFlags": [
+   {
+    "title": "Obiettivi di margine sempre al netto di energia e, dal 2026, della PPA",
+    "detail": "La guidance esclude l'effetto energia e, per il 2026, l'ammortamento della purchase price allocation di DIG Airgas, il cui importo non è pubblicato. Nel primo semestre 2026 il margine pubblicato è 20,9% contro 21,0% rettificato.",
+    "severity": "media"
+   },
+   {
+    "title": "Oneri 'non ricorrenti' presenti ogni anno",
+    "detail": "Altri oneri e proventi operativi non ricorrenti: -497 milioni nel 2023, -446 milioni nel 2024, -303 milioni nel 2025, -123 milioni nel primo semestre 2026. Lo scarto tra utile netto e utile netto ricorrente è stato di circa 160 milioni sia nel 2024 sia nel 2025.",
+    "severity": "media"
+   },
+   {
+    "title": "Cambio di perimetro dei segmenti dal 2025",
+    "detail": "Dal 1° gennaio 2025 Engineering & Construction e Global Markets & Technologies sono fuse in Engineering & Technologies; Maritime e Biogas sono passati all'Industrial Merchant. Le crescite pubblicate di Gas & Services usano la base 2024 non riesposta.",
+    "severity": "bassa"
+   },
+   {
+    "title": "Fine dei programmi di factoring",
+    "detail": "Nel primo semestre 2026 la chiusura dei principali programmi di factoring ha aggiunto circa 1,04 miliardi di crediti commerciali e contribuito all'aumento del debito netto: i flussi di cassa degli esercizi precedenti ne beneficiavano.",
+    "severity": "media"
+   },
+   {
+    "title": "Dati per azione riesposti dopo le attribuzioni gratuite",
+    "detail": "Le attribuzioni gratuite di 1 azione ogni 10 (giugno 2024 e giugno 2026) cambiano il numero di azioni: l'EPS del primo semestre 2025 è 3,12 euro nel comunicato originale e 2,83 euro riesposto nel 2026. I confronti storici vanno fatti su basi omogenee.",
+    "severity": "bassa"
+   }
+  ],
+  "capitalAllocation": "Dividendo 2025 di 3,70 euro per azione (+12,1%, payout 63% dell'utile pubblicato, circa 2,2 miliardi pagati a maggio 2026) e attribuzione gratuita di 1 azione ogni 10 a giugno 2026. Capex industriali lordi di 3.843 milioni nel 2025. Acquisizione di DIG Airgas chiusa il 13 gennaio 2026 per circa 3 miliardi, finanziata con prestito ponte rifinanziato con obbligazioni (2 miliardi a ottobre 2026, CHF 390 milioni a novembre). Cessione delle attività di produzione di biogas in quattro paesi nel 2026. Piano BEYOND: oltre 40 miliardi di allocazione 2026-2030 e buyback da 4 miliardi con annullamento delle azioni, prima tranche da 1 miliardo avviata il 30 ottobre 2026. Indebitamento netto 13.532 milioni al 30 settembre 2026.",
+  "competitivePosition": "Uno dei maggiori gruppi mondiali di gas industriali, con presenza in 59 paesi e circa 65.000 dipendenti. I contratti di lungo periodo in Large Industries ed Electronics e il backlog di investimenti a 6,2 miliardi danno visibilità sui ricavi futuri. Con DIG Airgas raddoppia l'organico in Corea del Sud. Secondo analisti citati da AFP, i ricavi per dipendente restano inferiori a quelli di Linde, con un divario ampliato dal 2019: il margine operativo in aumento va letto come recupero di questo ritardo.",
+  "managementTone": {
+   "label": "positivo",
+   "rationale": "Linguaggio fiducioso e obiettivi alzati tre volte in tre anni (da +160 a +320, +460 e +560 pb), con guidance annuale sempre confermata. Il management riconosce la debolezza di Large Industries ed Europa ma la presenta come compensata da prezzi, efficienze ed Electronics."
+  },
+  "nonGaapAdjustments": [
+   "Crescita comparabile: esclude cambi, energia (gas naturale ed elettricità) e perimetro significativo.",
+   "Margine operativo 'escluso energia' e, dal 2026, escluso l'ammortamento PPA di DIG Airgas.",
+   "Utile netto ricorrente: esclude le operazioni eccezionali e significative senza impatto sul risultato operativo ricorrente (2025: 161 milioni tra ristrutturazioni in Europa, sovrattassa fiscale eccezionale in Francia e voci residue).",
+   "ROCE ricorrente (11,2% nel 2025) calcolato sull'utile netto ricorrente, contro ROCE dopo imposte del 10,7%.",
+   "Gearing 'rettificato per la stagionalità del dividendo' nelle chiusure semestrali."
+  ],
+  "keyQuotes": [
+   {
+    "text": "Air Liquide is therefore confident in its ability to increase its operating margin by +100 basis points",
+    "why": "Prima guidance annuale di margine espressa con un numero; ripetuta identica nel primo trimestre, nel semestre e nel terzo trimestre 2026."
+   },
+   {
+    "text": "A compound annual growth rate (CAGR) of +10% (+/-2%) over the period in recurring net Earnings per Share",
+    "why": "Obiettivo centrale del piano BEYOND al 2030, su cui misurare il management nei prossimi cinque anni."
+   },
+   {
+    "text": "second-half growth to be similar to, or slightly higher than, that of the first half",
+    "why": "Indicazione di crescita per il secondo semestre 2026, verificabile con i risultati annuali."
+   },
+   {
+    "text": "will contribute to the net profit growth of the Group as soon as one year after Group integration",
+    "why": "Promessa sull'acquisizione DIG Airgas, pagata 20,2 volte l'EBITDA 2024."
+   }
+  ],
+  "openQuestions": [
+   "Quanto vale l'ammortamento della PPA di DIG Airgas escluso dalla guidance di margine 2026, e quale contributo all'utile dà oggi la società acquisita?",
+   "Quanta parte dei +400/+600 pb di margine del piano BEYOND viene da efficienze e riduzioni di organico e quanta da mix e prezzi? Il piano non quantifica i risparmi.",
+   "Come si concilia il buyback da 4 miliardi con un debito netto di 13,5 miliardi e 24 miliardi di decisioni di investimento: quale livello massimo di leva viene accettato?",
+   "Quando torna a crescere Large Industries, in calo comparabile da inizio 2025 nonostante il backlog record?",
+   "Qual è l'entità della partecipazione di Elliott e quali richieste ha avanzato al consiglio?"
+  ]
+ },
+ "missing": [
+  "Universal Registration Document 2025: il PDF sul sito della società non si è aperto (errore del server); fattori di rischio, numero di azioni a fine esercizio e quota di ricavi con contratti take-or-pay non sono stati verificati.",
+  "Prezzo di chiusura più recente: le fonti aperte davano valori discordanti e non datati (166,44 e 170,16 euro su Stockopedia con data 3 ottobre 2026; 190,40 euro il 5 novembre 2026 su Trading Economics), quindi non è stato inserito.",
+  "Trascrizioni delle conference call (FY2025, H1 2026, Q3 2026, Capital Markets Day) non aperte.",
+  "Importo separato dell'ammortamento PPA di DIG Airgas e contributo di DIG Airgas a ricavi e utile dopo il primo trimestre 2026 (+109 milioni nel Q1): non pubblicati nei comunicati aperti.",
+  "Dettaglio per voce della riconciliazione tra utile netto e utile netto ricorrente 2025: le singole voci lette nell'appendice non sommano al totale di 161 milioni, è riportato solo il totale.",
+  "Risultato operativo ricorrente per attività (Large Industries, Industrial Merchant, Healthcare, Electronics): la società lo pubblica solo per area geografica.",
+  "Obiettivi originari del piano ADVANCE (CAGR ricavi 5-6% e ROCE oltre 10% dal 2023): non ritrovati con numeri nelle pagine aperte, quindi non inseriti come guidance.",
+  "Tempistica del buyback: il comunicato BEYOND indica 2027-2028, quello del terzo trimestre una prima tranche da 1 miliardo già entro fine 2026; discrepanza non chiarita.",
+  "Dichiarazione pubblica di Elliott su Air Liquide (pagina non accessibile); usata solo la ricostruzione AFP del 3 ottobre 2026.",
+  "Indebitamento netto/EBITDA, free cash flow e numero di azioni puntuale a fine periodo non riportati nei comunicati aperti.",
+  "Data esatta dell'attribuzione gratuita di giugno 2026 e data di stacco del dividendo."
+ ]
+}

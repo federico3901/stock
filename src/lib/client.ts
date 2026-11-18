@@ -49,6 +49,8 @@ export interface AppStatus {
   mock: boolean;
   model: string;
   storage: "postgres" | "file";
+  /** le modifiche fatte dall'app non sono permanenti (Vercel senza database) */
+  ephemeral?: boolean;
   passwordProtected: boolean;
 }
 

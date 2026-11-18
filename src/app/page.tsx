@@ -3,8 +3,8 @@
 import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { useState } from "react";
-import { Badge, Button, Card, Empty, ErrorBox, InfoBox, Input, Label, Modal, Spinner } from "@/components/ui";
-import { api, errMsg, useApi, useStatus } from "@/lib/client";
+import { Badge, Button, Card, Empty, ErrorBox, Input, Label, Modal, Spinner } from "@/components/ui";
+import { api, errMsg, useApi } from "@/lib/client";
 import { fmtDate, fmtMoney, fmtPct, fmtX } from "@/lib/format";
 import type { MetricValues } from "@/lib/analysis/metrics";
 import type { Multiples } from "@/lib/analysis/valuation";
@@ -23,7 +23,6 @@ interface Row {
 
 export default function Home() {
   const { data, error, isLoading, mutate } = useApi<{ companies: Row[] }>("/api/companies");
-  const { data: status } = useStatus();
   const router = useRouter();
   const [adding, setAdding] = useState(false);
   const [busy, setBusy] = useState(false);
@@ -47,20 +46,13 @@ export default function Home() {
       <div className="flex flex-wrap items-end justify-between gap-3">
         <div>
           <h1 className="text-xl font-semibold tracking-tight">Le tue aziende</h1>
-          <p className="text-sm text-ink-2 mt-0.5">Carica i documenti di una società e ottieni bilanci, metriche, guidance e valutazione in un unico posto.</p>
+          <p className="text-sm text-ink-2 mt-0.5">Bilanci, metriche, guidance, valutazione e segnali di qualità per ogni azienda, già caricati.</p>
         </div>
         <div className="flex gap-2">
-          <Button onClick={loadDemo} disabled={busy}>{busy ? <Spinner /> : null} Carica azienda demo</Button>
           <Button variant="primary" onClick={() => setAdding(true)}>+ Nuova azienda</Button>
         </div>
       </div>
 
-      {status && !status.llm && (
-        <InfoBox tone="warn">
-          Chiave API di Anthropic non configurata: puoi esplorare l&apos;azienda demo e inserire dati a mano, ma l&apos;estrazione automatica dai documenti, la chat e il memo
-          richiedono <code className="font-mono text-xs">ANTHROPIC_API_KEY</code>. Vedi <Link href="/impostazioni" className="underline">Impostazioni</Link>.
-        </InfoBox>
-      )}
       <ErrorBox>{err || (error ? errMsg(error) : "")}</ErrorBox>
 
       {isLoading ? (

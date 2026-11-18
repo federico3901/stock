@@ -1,0 +1,651 @@
+{
+ "ticker": "LDO",
+ "statement": "balance",
+ "frequency": "annual",
+ "url": "https://stockanalysis.com/quote/bit/LDO/financials/balance-sheet/",
+ "unitsNote": "Financials in millions EUR. Fiscal year is January - December.",
+ "columns": [
+  {
+   "label": "TTM",
+   "periodEnd": "2026-09-30"
+  },
+  {
+   "label": "FY 2025",
+   "periodEnd": "2025-12-31"
+  },
+  {
+   "label": "FY 2024",
+   "periodEnd": "2024-12-31"
+  },
+  {
+   "label": "FY 2023",
+   "periodEnd": "2023-12-31"
+  },
+  {
+   "label": "FY 2022",
+   "periodEnd": "2022-12-31"
+  },
+  {
+   "label": "FY 2021",
+   "periodEnd": "2021-12-31"
+  }
+ ],
+ "rows": [
+  {
+   "label": "Cash & Equivalents",
+   "values": [
+    1081,
+    3238,
+    2556,
+    2407,
+    1511,
+    2479
+   ]
+  },
+  {
+   "label": "Cash & Short-Term Investments",
+   "values": [
+    1081,
+    3238,
+    2556,
+    2407,
+    1511,
+    2479
+   ]
+  },
+  {
+   "label": "Cash Growth",
+   "values": [
+    -32.14,
+    26.68,
+    6.19,
+    59.3,
+    -39.05,
+    12.02
+   ]
+  },
+  {
+   "label": "Accounts Receivable",
+   "values": [
+    4488,
+    7592,
+    7724,
+    7321,
+    6990,
+    6951
+   ]
+  },
+  {
+   "label": "Other Receivables",
+   "values": [
+    null,
+    334,
+    326,
+    287,
+    223,
+    303
+   ]
+  },
+  {
+   "label": "Receivables",
+   "values": [
+    4515,
+    8170,
+    8402,
+    7813,
+    7318,
+    7254
+   ]
+  },
+  {
+   "label": "Inventory",
+   "values": [
+    1624,
+    7028,
+    6520,
+    5693,
+    5338,
+    5486
+   ]
+  },
+  {
+   "label": "Prepaid Expenses",
+   "values": [
+    null,
+    175,
+    149,
+    140,
+    110,
+    104
+   ]
+  },
+  {
+   "label": "Other Current Assets",
+   "values": [
+    32,
+    480,
+    577,
+    345,
+    362,
+    246
+   ]
+  },
+  {
+   "label": "Total Current Assets",
+   "values": [
+    7252,
+    19091,
+    18204,
+    16398,
+    14639,
+    15569
+   ]
+  },
+  {
+   "label": "Property, Plant & Equipment",
+   "values": [
+    null,
+    3617,
+    3412,
+    3108,
+    2904,
+    2652
+   ]
+  },
+  {
+   "label": "Long-Term Investments",
+   "values": [
+    null,
+    1864,
+    1899,
+    2101,
+    2122,
+    1345
+   ]
+  },
+  {
+   "label": "Goodwill",
+   "values": [
+    null,
+    4312,
+    4537,
+    3899,
+    3925,
+    3836
+   ]
+  },
+  {
+   "label": "Other Intangible Assets",
+   "values": [
+    null,
+    1086,
+    1117,
+    742,
+    768,
+    634
+   ]
+  },
+  {
+   "label": "Long-Term Deferred Tax Assets",
+   "values": [
+    null,
+    1001,
+    1104,
+    1213,
+    1133,
+    1035
+   ]
+  },
+  {
+   "label": "Long-Term Deferred Charges",
+   "values": [
+    null,
+    3176,
+    3100,
+    2953,
+    2746,
+    2624
+   ]
+  },
+  {
+   "label": "Other Long-Term Assets",
+   "values": [
+    17560,
+    362,
+    300,
+    262,
+    332,
+    670
+   ]
+  },
+  {
+   "label": "Total Assets",
+   "values": [
+    24812,
+    34509,
+    33673,
+    30693,
+    28582,
+    28379
+   ]
+  },
+  {
+   "label": "Accounts Payable",
+   "values": [
+    4121,
+    3504,
+    3763,
+    3268,
+    3054,
+    3372
+   ]
+  },
+  {
+   "label": "Accrued Expenses",
+   "values": [
+    null,
+    1110,
+    1000,
+    884,
+    931,
+    870
+   ]
+  },
+  {
+   "label": "Short-Term Debt",
+   "values": [
+    null,
+    null,
+    null,
+    1,
+    1,
+    1
+   ]
+  },
+  {
+   "label": "Current Portion of Long-Term Debt",
+   "values": [
+    2618,
+    2496,
+    2242,
+    1965,
+    1004,
+    1489
+   ]
+  },
+  {
+   "label": "Current Portion of Leases",
+   "values": [
+    98,
+    97,
+    85,
+    79,
+    78,
+    82
+   ]
+  },
+  {
+   "label": "Current Income Taxes Payable",
+   "values": [
+    null,
+    200,
+    128,
+    104,
+    127,
+    44
+   ]
+  },
+  {
+   "label": "Current Unearned Revenue",
+   "values": [
+    null,
+    10335,
+    9702,
+    8939,
+    8199,
+    8076
+   ]
+  },
+  {
+   "label": "Other Current Liabilities",
+   "values": [
+    2523,
+    1838,
+    1884,
+    1759,
+    1784,
+    1662
+   ]
+  },
+  {
+   "label": "Total Current Liabilities",
+   "values": [
+    9360,
+    19580,
+    18804,
+    16999,
+    15178,
+    15596
+   ]
+  },
+  {
+   "label": "Long-Term Debt",
+   "values": [
+    1190,
+    1385,
+    1817,
+    2354,
+    3039,
+    3626
+   ]
+  },
+  {
+   "label": "Long-Term Leases",
+   "values": [
+    546,
+    511,
+    556,
+    531,
+    492,
+    486
+   ]
+  },
+  {
+   "label": "Long-Term Unearned Revenue",
+   "values": [
+    null,
+    80,
+    82,
+    84,
+    79,
+    80
+   ]
+  },
+  {
+   "label": "Pension & Post-Retirement Benefits",
+   "values": [
+    null,
+    306,
+    315,
+    301,
+    315,
+    362
+   ]
+  },
+  {
+   "label": "Long-Term Deferred Tax Liabilities",
+   "values": [
+    null,
+    402,
+    375,
+    268,
+    246,
+    340
+   ]
+  },
+  {
+   "label": "Other Long-Term Liabilities",
+   "values": [
+    2544,
+    1505,
+    1524,
+    1595,
+    1534,
+    1434
+   ]
+  },
+  {
+   "label": "Total Liabilities",
+   "values": [
+    13640,
+    23769,
+    23473,
+    22132,
+    20883,
+    21924
+   ]
+  },
+  {
+   "label": "Common Stock",
+   "values": [
+    9940,
+    2544,
+    2544,
+    2544,
+    2544,
+    2544
+   ]
+  },
+  {
+   "label": "Retained Earnings",
+   "values": [
+    null,
+    7430,
+    6555,
+    5660,
+    4975,
+    4185
+   ]
+  },
+  {
+   "label": "Treasury Stock",
+   "values": [
+    null,
+    -35,
+    -16,
+    -26,
+    -26,
+    -26
+   ]
+  },
+  {
+   "label": "Comprehensive Income & Other",
+   "values": [
+    null,
+    -379,
+    -93,
+    -378,
+    -310,
+    -275
+   ]
+  },
+  {
+   "label": "Total Common Equity",
+   "values": [
+    9940,
+    9560,
+    8990,
+    7800,
+    7183,
+    6428
+   ]
+  },
+  {
+   "label": "Minority Interest",
+   "values": [
+    1232,
+    1180,
+    1210,
+    761,
+    516,
+    27
+   ]
+  },
+  {
+   "label": "Shareholders' Equity",
+   "values": [
+    11172,
+    10740,
+    10200,
+    8561,
+    7699,
+    6455
+   ]
+  },
+  {
+   "label": "Total Liabilities & Equity",
+   "values": [
+    24812,
+    34509,
+    33673,
+    30693,
+    28582,
+    28379
+   ]
+  },
+  {
+   "label": "Total Debt",
+   "values": [
+    4452,
+    4489,
+    4700,
+    4930,
+    4614,
+    5684
+   ]
+  },
+  {
+   "label": "Net Cash (Debt)",
+   "values": [
+    -3371,
+    -1251,
+    -2144,
+    -2523,
+    -3103,
+    -3205
+   ]
+  },
+  {
+   "label": "Net Cash Growth",
+   "values": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Net Cash Per Share",
+   "values": [
+    -5.84,
+    -2.17,
+    -3.72,
+    -4.39,
+    -5.39,
+    -5.57
+   ]
+  },
+  {
+   "label": "Filing Date Shares Outstanding",
+   "values": [
+    576.47,
+    576.94,
+    576.44,
+    575.31,
+    575.31,
+    575.31
+   ]
+  },
+  {
+   "label": "Total Common Shares Outstanding",
+   "values": [
+    576.47,
+    576.94,
+    576.44,
+    575.31,
+    575.31,
+    575.31
+   ]
+  },
+  {
+   "label": "Working Capital",
+   "values": [
+    -2108,
+    -489,
+    -600,
+    -601,
+    -539,
+    -27
+   ]
+  },
+  {
+   "label": "Book Value Per Share",
+   "values": [
+    17.24,
+    16.57,
+    15.6,
+    13.56,
+    12.49,
+    11.17
+   ]
+  },
+  {
+   "label": "Tangible Book Value",
+   "values": [
+    9940,
+    4162,
+    3336,
+    3159,
+    2490,
+    1958
+   ]
+  },
+  {
+   "label": "Tangible Book Value Per Share",
+   "values": [
+    17.24,
+    7.21,
+    5.79,
+    5.49,
+    4.33,
+    3.4
+   ]
+  },
+  {
+   "label": "Land",
+   "values": [
+    null,
+    2021,
+    1947,
+    1807,
+    1689,
+    1647
+   ]
+  },
+  {
+   "label": "Machinery",
+   "values": [
+    null,
+    5230,
+    5084,
+    4517,
+    4314,
+    4212
+   ]
+  },
+  {
+   "label": "Construction In Progress",
+   "values": [
+    null,
+    553,
+    475,
+    399,
+    391,
+    250
+   ]
+  },
+  {
+   "label": "Order Backlog",
+   "values": [
+    null,
+    46624,
+    44178,
+    39529,
+    37506,
+    35534
+   ]
+  }
+ ]
+}

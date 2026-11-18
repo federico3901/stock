@@ -1,0 +1,15 @@
+{
+  "company": {
+    "id": "ai",
+    "ticker": "AI",
+    "name": "Air Liquide",
+    "currency": "EUR",
+    "sector": "Gas industriali",
+    "dataSource": "Bilanci: stockanalysis.com (dati S&P Global). Guidance e analisi: comunicati e bilanci delle società",
+    "dataAsOf": "2026-11-18",
+    "fiscalYearEndMonth": 12,
+    "price": 170.16,
+    "priceDate": "2026-10-13"
+  },
+  "financialsUrl": "https://stockanalysis.com/quote/epa/AI/financials/"
+}

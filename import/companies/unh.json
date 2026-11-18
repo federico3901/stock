@@ -1,0 +1,15 @@
+{
+  "company": {
+    "id": "unh",
+    "ticker": "UNH",
+    "name": "UnitedHealth Group",
+    "currency": "USD",
+    "sector": "Assicurazione e servizi sanitari",
+    "dataSource": "Bilanci: stockanalysis.com (dati S&P Global). Guidance e analisi: comunicati e bilanci delle società",
+    "dataAsOf": "2026-11-18",
+    "fiscalYearEndMonth": 12,
+    "price": 410.7,
+    "priceDate": "2026-10-26"
+  },
+  "financialsUrl": "https://stockanalysis.com/stocks/unh/financials/"
+}

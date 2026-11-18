@@ -1,0 +1,673 @@
+{
+ "ticker": "FCT",
+ "statement": "balance",
+ "frequency": "annual",
+ "url": "https://stockanalysis.com/quote/bit/FCT/financials/balance-sheet/",
+ "unitsNote": "Financials in millions EUR. Fiscal year is January - December.",
+ "columns": [
+  {
+   "label": "TTM",
+   "periodEnd": "2026-06-30"
+  },
+  {
+   "label": "FY 2025",
+   "periodEnd": "2025-12-31"
+  },
+  {
+   "label": "FY 2024",
+   "periodEnd": "2024-12-31"
+  },
+  {
+   "label": "FY 2023",
+   "periodEnd": "2023-12-31"
+  },
+  {
+   "label": "FY 2022",
+   "periodEnd": "2022-12-31"
+  },
+  {
+   "label": "FY 2021",
+   "periodEnd": "2021-12-31"
+  }
+ ],
+ "rows": [
+  {
+   "label": "Cash & Equivalents",
+   "values": [
+    590.69,
+    513.16,
+    684.46,
+    757.27,
+    564.58,
+    1236
+   ]
+  },
+  {
+   "label": "Cash & Short-Term Investments",
+   "values": [
+    590.69,
+    513.16,
+    684.46,
+    757.27,
+    564.58,
+    1236
+   ]
+  },
+  {
+   "label": "Cash Growth",
+   "values": [
+    17.3,
+    -25.03,
+    -9.62,
+    34.13,
+    -54.33,
+    -3.02
+   ]
+  },
+  {
+   "label": "Accounts Receivable",
+   "values": [
+    4236,
+    4246,
+    4049,
+    3265,
+    3855,
+    3575
+   ]
+  },
+  {
+   "label": "Other Receivables",
+   "values": [
+    594.15,
+    538.09,
+    884.05,
+    422.36,
+    569.82,
+    506.05
+   ]
+  },
+  {
+   "label": "Receivables",
+   "values": [
+    4830,
+    4785,
+    4933,
+    3687,
+    4425,
+    4081
+   ]
+  },
+  {
+   "label": "Inventory",
+   "values": [
+    573.63,
+    582.86,
+    511.56,
+    494.71,
+    497.61,
+    438.86
+   ]
+  },
+  {
+   "label": "Prepaid Expenses",
+   "values": [
+    60.06,
+    59.68,
+    54.66,
+    2.75,
+    0.7,
+    0.76
+   ]
+  },
+  {
+   "label": "Other Current Assets",
+   "values": [
+    708.14,
+    527.36,
+    444.76,
+    442.84,
+    429.12,
+    467.42
+   ]
+  },
+  {
+   "label": "Total Current Assets",
+   "values": [
+    6763,
+    6468,
+    6628,
+    5385,
+    5917,
+    6224
+   ]
+  },
+  {
+   "label": "Property, Plant & Equipment",
+   "values": [
+    1944,
+    1839,
+    1839,
+    1809,
+    1763,
+    1634
+   ]
+  },
+  {
+   "label": "Long-Term Investments",
+   "values": [
+    65.29,
+    60.82,
+    69.08,
+    59.62,
+    117.94,
+    122.76
+   ]
+  },
+  {
+   "label": "Goodwill",
+   "values": [
+    357.21,
+    350.29,
+    156.31,
+    116.13,
+    123.3,
+    272.38
+   ]
+  },
+  {
+   "label": "Other Intangible Assets",
+   "values": [
+    602.98,
+    614.24,
+    343.23,
+    306.29,
+    341.64,
+    358.88
+   ]
+  },
+  {
+   "label": "Long-Term Deferred Tax Assets",
+   "values": [
+    260.61,
+    272.13,
+    248.18,
+    231.39,
+    182.92,
+    109.18
+   ]
+  },
+  {
+   "label": "Long-Term Deferred Charges",
+   "values": [
+    79.16,
+    86.35,
+    71.94,
+    52.01,
+    43.78,
+    56.73
+   ]
+  },
+  {
+   "label": "Other Long-Term Assets",
+   "values": [
+    108.55,
+    93.14,
+    112.97,
+    86.38,
+    87.77,
+    53.36
+   ]
+  },
+  {
+   "label": "Total Assets",
+   "values": [
+    10729,
+    10345,
+    9562,
+    8710,
+    8710,
+    9082
+   ]
+  },
+  {
+   "label": "Accounts Payable",
+   "values": [
+    2666,
+    2651,
+    2421,
+    1978,
+    2072,
+    1897
+   ]
+  },
+  {
+   "label": "Accrued Expenses",
+   "values": [
+    358.64,
+    307.03,
+    288.92,
+    233.9,
+    204.98,
+    191.28
+   ]
+  },
+  {
+   "label": "Short-Term Debt",
+   "values": [
+    1132,
+    1172,
+    948,
+    1097,
+    1370,
+    1950
+   ]
+  },
+  {
+   "label": "Current Portion of Long-Term Debt",
+   "values": [
+    46.88,
+    241.06,
+    237.42,
+    591.13,
+    1127,
+    288.3
+   ]
+  },
+  {
+   "label": "Current Portion of Leases",
+   "values": [
+    27.81,
+    25.95,
+    24.57,
+    20.71,
+    18.21,
+    17.86
+   ]
+  },
+  {
+   "label": "Current Income Taxes Payable",
+   "values": [
+    37.83,
+    48.66,
+    30.45,
+    18.23,
+    25.44,
+    30.07
+   ]
+  },
+  {
+   "label": "Current Unearned Revenue",
+   "values": [
+    2520,
+    2290,
+    2028,
+    1604,
+    1156,
+    1375
+   ]
+  },
+  {
+   "label": "Other Current Liabilities",
+   "values": [
+    545.5,
+    601.33,
+    576.5,
+    351.7,
+    205.44,
+    310.59
+   ]
+  },
+  {
+   "label": "Total Current Liabilities",
+   "values": [
+    7335,
+    7337,
+    6555,
+    5895,
+    6178,
+    6060
+   ]
+  },
+  {
+   "label": "Long-Term Debt",
+   "values": [
+    1179,
+    1421,
+    1590,
+    1670,
+    1203,
+    1793
+   ]
+  },
+  {
+   "label": "Long-Term Leases",
+   "values": [
+    124.59,
+    103.57,
+    103.86,
+    109.81,
+    114.25,
+    101.25
+   ]
+  },
+  {
+   "label": "Long-Term Unearned Revenue",
+   "values": [
+    53.01,
+    52.25,
+    60.87,
+    50.49,
+    48.67,
+    46.14
+   ]
+  },
+  {
+   "label": "Pension & Post-Retirement Benefits",
+   "values": [
+    54.16,
+    54.48,
+    53.57,
+    54.35,
+    53.85,
+    63.66
+   ]
+  },
+  {
+   "label": "Long-Term Deferred Tax Liabilities",
+   "values": [
+    85.29,
+    88.58,
+    40.39,
+    72.32,
+    82.7,
+    70.1
+   ]
+  },
+  {
+   "label": "Other Long-Term Liabilities",
+   "values": [
+    301.67,
+    301.52,
+    313.33,
+    424.51,
+    443.32,
+    113.39
+   ]
+  },
+  {
+   "label": "Total Liabilities",
+   "values": [
+    9133,
+    9358,
+    8717,
+    8276,
+    8124,
+    8247
+   ]
+  },
+  {
+   "label": "Common Stock",
+   "values": [
+    881.75,
+    878.35,
+    878.29,
+    862.98,
+    862.98,
+    862.98
+   ]
+  },
+  {
+   "label": "Additional Paid-In Capital",
+   "values": [
+    977.37,
+    490.85,
+    488.59,
+    110.5,
+    110.5,
+    110.5
+   ]
+  },
+  {
+   "label": "Retained Earnings",
+   "values": [
+    178.29,
+    190.3,
+    98.28,
+    12.24,
+    -243.8,
+    80.58
+   ]
+  },
+  {
+   "label": "Treasury Stock",
+   "values": [
+    -18.28,
+    -6.89,
+    -2.43,
+    -4.8,
+    -0.93,
+    -2.97
+   ]
+  },
+  {
+   "label": "Comprehensive Income & Other",
+   "values": [
+    -408.36,
+    -555.34,
+    -613.26,
+    -547.8,
+    -143.25,
+    -232.51
+   ]
+  },
+  {
+   "label": "Total Common Equity",
+   "values": [
+    1611,
+    997.27,
+    849.46,
+    433.12,
+    585.5,
+    818.58
+   ]
+  },
+  {
+   "label": "Minority Interest",
+   "values": [
+    -14.74,
+    -10.22,
+    -4.35,
+    1.04,
+    1.41,
+    15.66
+   ]
+  },
+  {
+   "label": "Shareholders' Equity",
+   "values": [
+    1596,
+    987.05,
+    845.11,
+    434.16,
+    586.9,
+    834.24
+   ]
+  },
+  {
+   "label": "Total Liabilities & Equity",
+   "values": [
+    10729,
+    10345,
+    9562,
+    8710,
+    8710,
+    9082
+   ]
+  },
+  {
+   "label": "Total Debt",
+   "values": [
+    2510,
+    2963,
+    2904,
+    3488,
+    3832,
+    4150
+   ]
+  },
+  {
+   "label": "Net Cash (Debt)",
+   "values": [
+    -1919,
+    -2450,
+    -2220,
+    -2731,
+    -3267,
+    -2914
+   ]
+  },
+  {
+   "label": "Net Cash Growth",
+   "values": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Net Cash Per Share",
+   "values": [
+    -5.39,
+    -7.17,
+    -9.17,
+    -16.1,
+    -19.25,
+    -16.97
+   ]
+  },
+  {
+   "label": "Filing Date Shares Outstanding",
+   "values": [
+    357.29,
+    324.28,
+    322.75,
+    169.16,
+    169.85,
+    169.66
+   ]
+  },
+  {
+   "label": "Total Common Shares Outstanding",
+   "values": [
+    357.29,
+    324.28,
+    322.63,
+    169.16,
+    169.85,
+    169.66
+   ]
+  },
+  {
+   "label": "Working Capital",
+   "values": [
+    -572.1,
+    -869.13,
+    73.24,
+    -510.08,
+    -261.23,
+    163.95
+   ]
+  },
+  {
+   "label": "Book Value Per Share",
+   "values": [
+    4.51,
+    3.08,
+    2.63,
+    2.56,
+    3.45,
+    4.82
+   ]
+  },
+  {
+   "label": "Tangible Book Value",
+   "values": [
+    650.59,
+    32.74,
+    349.93,
+    10.69,
+    120.55,
+    187.32
+   ]
+  },
+  {
+   "label": "Tangible Book Value Per Share",
+   "values": [
+    1.82,
+    0.1,
+    1.08,
+    0.06,
+    0.71,
+    1.1
+   ]
+  },
+  {
+   "label": "Land",
+   "values": [
+    1002,
+    967.64,
+    1064,
+    1022,
+    975.1,
+    849.66
+   ]
+  },
+  {
+   "label": "Machinery",
+   "values": [
+    1982,
+    1936,
+    1918,
+    1707,
+    1661,
+    1587
+   ]
+  },
+  {
+   "label": "Construction In Progress",
+   "values": [
+    321.49,
+    226.33,
+    119.11,
+    227.46,
+    197.65,
+    251.97
+   ]
+  },
+  {
+   "label": "Leasehold Improvements",
+   "values": [
+    null,
+    null,
+    null,
+    36.02,
+    35.36,
+    30.48
+   ]
+  },
+  {
+   "label": "Order Backlog",
+   "values": [
+    null,
+    null,
+    null,
+    34772,
+    34326,
+    35519
+   ]
+  }
+ ]
+}

@@ -37,12 +37,12 @@ export default function Settings() {
             <dl className="grid grid-cols-[auto_1fr] gap-x-6 gap-y-3 text-sm items-center">
               <dt className="text-ink-2">Analisi con Claude</dt>
               <dd>
-                {status.mock ? <Badge tone="warn">modalità di prova (dati finti)</Badge> : status.llm ? <Badge tone="good">✓ chiave API configurata</Badge> : <Badge tone="bad">✕ chiave API mancante</Badge>}
+                {status.mock ? <Badge tone="warn">modalità di prova (dati finti)</Badge> : status.llm ? <Badge tone="good">✓ chiave API configurata</Badge> : <Badge>non configurata (facoltativa)</Badge>}
                 <span className="ml-2 text-ink-2">modello <code className="font-mono text-xs">{status.model}</code></span>
               </dd>
               <dt className="text-ink-2">Archivio dati</dt>
               <dd>
-                {status.storage === "postgres" ? <Badge tone="good">✓ Postgres</Badge> : <Badge>file locali (cartella data/)</Badge>}
+                {status.storage === "postgres" ? <Badge tone="good">✓ Postgres</Badge> : status.ephemeral ? <Badge tone="warn">solo dati distribuiti con l&apos;app</Badge> : <Badge>file locali (cartella data/)</Badge>}
               </dd>
               <dt className="text-ink-2">Accesso</dt>
               <dd>{status.passwordProtected ? <Badge tone="good">✓ protetto da password</Badge> : <Badge tone="warn">senza password</Badge>}</dd>
@@ -70,7 +70,10 @@ export default function Settings() {
             </ul>
           </Card>
 
-          {status.storage === "file" && (
+          {status.ephemeral && (
+            <InfoBox tone="warn">Le aziende già caricate si vedono sempre. Le modifiche fatte da qui (prezzo, note, ipotesi di valutazione, condizioni della tesi) invece non sono permanenti finché non colleghi un database con <code className="font-mono text-xs">DATABASE_URL</code>: possono sparire dopo qualche ora.</InfoBox>
+          )}
+          {status.storage === "file" && !status.ephemeral && (
             <InfoBox>I dati sono salvati nella cartella <code className="font-mono text-xs">data/</code> del progetto: va bene per l&apos;uso sul tuo computer. Fai un backup ogni tanto.</InfoBox>
           )}
 

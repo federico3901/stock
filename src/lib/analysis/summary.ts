@@ -5,9 +5,9 @@ import type { CompanyBundle } from "../repo";
 import { fmtMoney, fmtPct, fmtX } from "../format";
 import { credibility, evaluateGuidance, openGuidance } from "./guidance";
 import { cagr, computeMetrics, computeSeriesMetrics, derive } from "./metrics";
-import { annualSeries, latestSnapshot, periodLabel, quarterlySeries, ttm } from "./periods";
+import { annualSeries, latestSnapshot, periodLabel, quarterlySeries, ttm, ttmFromHalves, ttmQuarters } from "./periods";
 import { altmanZ, beneishM, piotroski, redFlags } from "./quality";
-import { quarterBrief } from "./quarter";
+import { halfBrief, quarterBrief } from "./quarter";
 import { evaluateChecks, thesisSummary } from "./thesis";
 import { dcf, dcfBaseFrom, defaultValuationInputs, impliedGrowth, multiples } from "./valuation";
 
@@ -17,13 +17,13 @@ export function analyze(b: CompanyBundle) {
   const annualMetrics = computeSeriesMetrics(annual, { months: 12 });
   const quarterMetrics = computeSeriesMetrics(quarters, { months: 3 });
   const snapshot = latestSnapshot(b.periods);
-  const trailing = ttm(quarters);
+  const trailing = ttm(ttmQuarters(quarters)) ?? ttmFromHalves(b.periods);
   const lastFy = annual[annual.length - 1];
   const prevFy = annual[annual.length - 2];
   // metriche "a oggi": sul TTM se c'è, confrontato con l'ultimo esercizio
   const snapMetrics = snapshot
     ? snapshot.isTtm
-      ? computeMetrics({ cur: snapshot.values, prev: lastFy?.values, yearAgo: ttmYearAgo(quarters) })
+      ? computeMetrics({ cur: snapshot.values, prev: lastFy?.values, yearAgo: ttmYearAgo(ttmQuarters(quarters)) ?? ttmFromHalves(b.periods, 1)?.values })
       : annualMetrics[annualMetrics.length - 1]
     : undefined;
   const mult = snapshot ? multiples(snapshot.values, b.company.price) : {};
@@ -38,7 +38,7 @@ export function analyze(b: CompanyBundle) {
   const dcfBase = snapshot ? dcfBaseFrom(snapshot.values) : null;
   // la tesi si verifica sui dati "a oggi", confrontati con l'ultimo esercizio chiuso (o col precedente)
   const checks = evaluateChecks(b.checks ?? [], snapMetrics, snapshot?.isTtm ? annualMetrics[annualMetrics.length - 1] : annualMetrics[annualMetrics.length - 2]);
-  const quarter = quarterBrief(quarters);
+  const quarter = quarterBrief(quarters) ?? halfBrief(b.periods);
   return { checks, quarter, annual, quarters, annualMetrics, quarterMetrics, snapshot, trailing, snapMetrics, lastFy, prevFy, mult, flags, pio, altman, beneish, guidanceEvals, cred, open, valuationInputs, dcfBase };
 }
 
@@ -139,12 +139,12 @@ export interface Todo {
 export function dataGaps(b: CompanyBundle, a: Analysis): Todo[] {
   const out: Todo[] = [];
   if (!b.documents.length) out.push({ text: "Carica il primo documento (l'ultimo 10-K è il punto di partenza migliore).", tab: "documenti" });
-  const pending = b.documents.filter((d) => !d.passes.financials || d.passes.financials.status !== "done").length;
+  const pending = b.documents.filter((d) => d.pageCount > 0 && (!d.passes.financials || d.passes.financials.status !== "done")).length;
   if (pending) out.push({ text: `${pending} ${pending === 1 ? "documento non ancora analizzato" : "documenti non ancora analizzati"}.`, tab: "documenti" });
-  if (b.documents.length && a.annual.length < 3) out.push({ text: `Solo ${a.annual.length} ${a.annual.length === 1 ? "esercizio annuale" : "esercizi annuali"}: carica un 10-K più vecchio per avere almeno 4-5 anni di storia.`, tab: "documenti" });
+  if (b.documents.length && a.annual.length < 3) out.push({ text: `Solo ${a.annual.length} ${a.annual.length === 1 ? "esercizio annuale" : "esercizi annuali"}: servono almeno 4-5 anni di storia per vedere le tendenze.`, tab: "bilanci" });
   if (a.annual.length && !b.company.price) out.push({ text: "Inserisci il prezzo dell'azione per calcolare multipli e valutazione." });
-  if (a.annual.length && !a.trailing) out.push({ text: "Carica gli ultimi 10-Q per avere i dati degli ultimi dodici mesi (TTM).", tab: "documenti" });
-  if (b.documents.length && !b.guidance.length) out.push({ text: "Nessuna guidance: carica un comunicato sui risultati o una presentazione con l'outlook.", tab: "documenti" });
+  if (a.annual.length && !a.trailing) out.push({ text: "Mancano i dati infrannuali: l'analisi si ferma all'ultimo esercizio chiuso.", tab: "bilanci" });
+  if (b.documents.length && !b.guidance.length) out.push({ text: "Nessuna guidance registrata: puoi aggiungerla a mano nella scheda Guidance.", tab: "guidance" });
   if (a.annual.length && !b.valuation) out.push({ text: "Rivedi le ipotesi di valutazione: quelle attuali sono automatiche.", tab: "valutazione" });
   if (b.documents.length && !b.notes.some((n) => n.kind === "tesi")) out.push({ text: "Scrivi la tua tesi d'investimento, per poterla verificare a ogni trimestrale.", tab: "note" });
   return out;

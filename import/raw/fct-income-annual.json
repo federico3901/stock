@@ -1,0 +1,563 @@
+{
+ "ticker": "FCT",
+ "statement": "income",
+ "frequency": "annual",
+ "url": "https://stockanalysis.com/quote/bit/FCT/financials/income-statement/",
+ "unitsNote": "Financials in millions EUR. Fiscal year is January - December.",
+ "columns": [
+  {
+   "label": "TTM",
+   "periodEnd": "2026-06-30"
+  },
+  {
+   "label": "FY 2025",
+   "periodEnd": "2025-12-31"
+  },
+  {
+   "label": "FY 2024",
+   "periodEnd": "2024-12-31"
+  },
+  {
+   "label": "FY 2023",
+   "periodEnd": "2023-12-31"
+  },
+  {
+   "label": "FY 2022",
+   "periodEnd": "2022-12-31"
+  },
+  {
+   "label": "FY 2021",
+   "periodEnd": "2021-12-31"
+  }
+ ],
+ "rows": [
+  {
+   "label": "Operating Revenue",
+   "values": [
+    8782,
+    8920,
+    7951,
+    7448,
+    7349,
+    6800
+   ]
+  },
+  {
+   "label": "Other Revenue",
+   "values": [
+    16.8,
+    null,
+    null,
+    null,
+    null,
+    25.8
+   ]
+  },
+  {
+   "label": "Revenue",
+   "values": [
+    8799,
+    8920,
+    7951,
+    7448,
+    7349,
+    6825
+   ]
+  },
+  {
+   "label": "Revenue Growth",
+   "values": [
+    -0.45,
+    12.19,
+    6.76,
+    1.34,
+    7.67,
+    17.43
+   ]
+  },
+  {
+   "label": "Cost of Revenue",
+   "values": [
+    6803,
+    6884,
+    6175,
+    5903,
+    5946,
+    5234
+   ]
+  },
+  {
+   "label": "Gross Profit",
+   "values": [
+    1996,
+    2036,
+    1776,
+    1544,
+    1403,
+    1592
+   ]
+  },
+  {
+   "label": "Selling, General & Admin",
+   "values": [
+    1607,
+    1567,
+    1427,
+    1266,
+    1209,
+    1112
+   ]
+  },
+  {
+   "label": "Other Operating Expenses",
+   "values": [
+    -291.71,
+    -161.59,
+    -121.86,
+    -66.71,
+    -7.38,
+    5.67
+   ]
+  },
+  {
+   "label": "Operating Expenses",
+   "values": [
+    1609,
+    1713,
+    1572,
+    1433,
+    1269,
+    1323
+   ]
+  },
+  {
+   "label": "Operating Income",
+   "values": [
+    386.8,
+    323.21,
+    203.76,
+    110.6,
+    134.18,
+    268.29
+   ]
+  },
+  {
+   "label": "Interest Expense",
+   "values": [
+    -164.38,
+    -174.85,
+    -253.85,
+    -227.62,
+    -102.38,
+    -83.34
+   ]
+  },
+  {
+   "label": "Interest & Investment Income",
+   "values": [
+    123.59,
+    102.36,
+    62.41,
+    38.55,
+    62.7,
+    28.14
+   ]
+  },
+  {
+   "label": "Earnings From Equity Investments",
+   "values": [
+    9.48,
+    9.96,
+    7.64,
+    2.22,
+    -0.79,
+    -14.73
+   ]
+  },
+  {
+   "label": "Currency Exchange Gain (Loss)",
+   "values": [
+    -25.96,
+    -26.51,
+    -19.96,
+    -21.86,
+    -6.01,
+    0.93
+   ]
+  },
+  {
+   "label": "Other Non Operating Income (Expenses)",
+   "values": [
+    -67.23,
+    -65.08,
+    34.96,
+    45.95,
+    -33.96,
+    -36.15
+   ]
+  },
+  {
+   "label": "EBT Excluding Unusual Items",
+   "values": [
+    262.3,
+    169.1,
+    34.96,
+    -52.16,
+    53.74,
+    163.14
+   ]
+  },
+  {
+   "label": "Impairment of Goodwill",
+   "values": [
+    null,
+    null,
+    null,
+    null,
+    -140.29,
+    -0.1
+   ]
+  },
+  {
+   "label": "Gain (Loss) on Sale of Investments",
+   "values": [
+    -5.76,
+    -5.79,
+    -0.72,
+    null,
+    -1.41,
+    null
+   ]
+  },
+  {
+   "label": "Gain (Loss) on Sale of Assets",
+   "values": [
+    1.17,
+    0.27,
+    0.19,
+    0.81,
+    1.2,
+    1.08
+   ]
+  },
+  {
+   "label": "Asset Writedown",
+   "values": [
+    -7.33,
+    -6.64,
+    8.99,
+    -2.17,
+    -23.52,
+    -0.59
+   ]
+  },
+  {
+   "label": "Legal Settlements",
+   "values": [
+    -44.68,
+    -34.06,
+    -38,
+    -57.86,
+    -59.63,
+    -58.14
+   ]
+  },
+  {
+   "label": "Other Unusual Items",
+   "values": [
+    -1.27,
+    -1.94,
+    -6.04,
+    null,
+    -186,
+    -43
+   ]
+  },
+  {
+   "label": "Pretax Income",
+   "values": [
+    246,
+    162.5,
+    35.8,
+    -63.95,
+    -330.66,
+    79.7
+   ]
+  },
+  {
+   "label": "Income Tax Expense",
+   "values": [
+    61.79,
+    45.17,
+    8.42,
+    -10.84,
+    -6.71,
+    57.89
+   ]
+  },
+  {
+   "label": "Earnings From Continuing Operations",
+   "values": [
+    184.21,
+    117.34,
+    27.38,
+    -53.11,
+    -323.95,
+    21.82
+   ]
+  },
+  {
+   "label": "Net Income to Company",
+   "values": [
+    184.21,
+    117.34,
+    27.38,
+    -53.11,
+    -323.95,
+    21.82
+   ]
+  },
+  {
+   "label": "Minority Interest in Earnings",
+   "values": [
+    6.62,
+    5.66,
+    5.46,
+    0.28,
+    15.08,
+    -0.04
+   ]
+  },
+  {
+   "label": "Net Income",
+   "values": [
+    190.83,
+    123,
+    32.83,
+    -52.83,
+    -308.87,
+    21.78
+   ]
+  },
+  {
+   "label": "Net Income to Common",
+   "values": [
+    190.83,
+    123,
+    32.83,
+    -52.83,
+    -308.87,
+    21.78
+   ]
+  },
+  {
+   "label": "Net Income Growth",
+   "values": [
+    99.6,
+    274.62,
+    null,
+    null,
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Shares Outstanding (Basic)",
+   "values": [
+    336,
+    323,
+    239,
+    170,
+    170,
+    170
+   ]
+  },
+  {
+   "label": "Shares Outstanding (Diluted)",
+   "values": [
+    356,
+    342,
+    242,
+    170,
+    170,
+    172
+   ]
+  },
+  {
+   "label": "Shares Change",
+   "values": [
+    9.39,
+    41.06,
+    42.78,
+    -0.06,
+    -1.14,
+    1.37
+   ]
+  },
+  {
+   "label": "EPS (Basic)",
+   "values": [
+    0.57,
+    0.38,
+    0.14,
+    -0.31,
+    -1.82,
+    0.13
+   ]
+  },
+  {
+   "label": "EPS (Diluted)",
+   "values": [
+    0.54,
+    0.36,
+    0.14,
+    -0.31,
+    -1.82,
+    0.13
+   ]
+  },
+  {
+   "label": "EPS Growth",
+   "values": [
+    82.46,
+    165.57,
+    null,
+    null,
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Free Cash Flow",
+   "values": [
+    414.17,
+    396.26,
+    284.97,
+    433.82,
+    -281.82,
+    552.55
+   ]
+  },
+  {
+   "label": "Free Cash Flow Per Share",
+   "values": [
+    1.16,
+    1.16,
+    1.18,
+    2.56,
+    -1.66,
+    3.22
+   ]
+  },
+  {
+   "label": "Gross Margin",
+   "values": [
+    22.68,
+    22.83,
+    22.33,
+    20.73,
+    19.09,
+    23.32
+   ]
+  },
+  {
+   "label": "Operating Margin",
+   "values": [
+    4.4,
+    3.62,
+    2.56,
+    1.49,
+    1.83,
+    3.93
+   ]
+  },
+  {
+   "label": "Profit Margin",
+   "values": [
+    2.17,
+    1.38,
+    0.41,
+    -0.71,
+    -4.2,
+    0.32
+   ]
+  },
+  {
+   "label": "Free Cash Flow Margin",
+   "values": [
+    4.71,
+    4.44,
+    3.58,
+    5.83,
+    -3.84,
+    8.1
+   ]
+  },
+  {
+   "label": "EBITDA",
+   "values": [
+    606.74,
+    570.33,
+    418.34,
+    304.05,
+    316.48,
+    427.62
+   ]
+  },
+  {
+   "label": "EBITDA Margin",
+   "values": [
+    6.9,
+    6.39,
+    5.26,
+    4.08,
+    4.31,
+    6.26
+   ]
+  },
+  {
+   "label": "D&A For EBITDA",
+   "values": [
+    219.94,
+    247.12,
+    214.58,
+    193.45,
+    182.3,
+    159.32
+   ]
+  },
+  {
+   "label": "EBIT",
+   "values": [
+    386.8,
+    323.21,
+    203.76,
+    110.6,
+    134.18,
+    268.29
+   ]
+  },
+  {
+   "label": "EBIT Margin",
+   "values": [
+    4.4,
+    3.62,
+    2.56,
+    1.49,
+    1.83,
+    3.93
+   ]
+  },
+  {
+   "label": "Effective Tax Rate",
+   "values": [
+    25.12,
+    27.79,
+    23.52,
+    null,
+    null,
+    72.63
+   ]
+  }
+ ]
+}

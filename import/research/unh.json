@@ -1,0 +1,4403 @@
+{
+ "documents": [
+  {
+   "id": "unh-outlook-2024",
+   "title": "Outlook 2024 in vista dell'Investor Conference (comunicato, 8-K)",
+   "type": "8-K",
+   "date": "2023-11-28",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "url": "https://www.sec.gov/Archives/edgar/data/731766/000073176623000080/a2023investorconferencegui.htm"
+  },
+  {
+   "id": "unh-risultati-fy2023",
+   "title": "Risultati esercizio 2023 (comunicato stampa)",
+   "type": "earnings_release",
+   "date": "2024-01-12",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "url": "https://www.unitedhealthgroup.com/newsroom/2024/2024-01-12-uhg-reports-fourth-quarter-results.html"
+  },
+  {
+   "id": "unh-risultati-q1-2024",
+   "title": "Risultati primo trimestre 2024 (comunicato, 8-K)",
+   "type": "earnings_release",
+   "date": "2024-04-16",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "Q1",
+   "url": "https://www.sec.gov/Archives/edgar/data/731766/000073176624000146/a2024q1exhibit991.htm"
+  },
+  {
+   "id": "unh-risultati-q2-2024",
+   "title": "Risultati secondo trimestre 2024 (comunicato, 8-K)",
+   "type": "earnings_release",
+   "date": "2024-07-16",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "Q2",
+   "url": "https://www.sec.gov/Archives/edgar/data/731766/000073176624000242/a2024q2exhibit991.htm"
+  },
+  {
+   "id": "unh-risultati-q3-2024",
+   "title": "Risultati terzo trimestre 2024 (comunicato, 8-K)",
+   "type": "earnings_release",
+   "date": "2024-10-15",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "Q3",
+   "url": "https://www.sec.gov/Archives/edgar/data/731766/000073176624000320/a2024q3exhibit991.htm"
+  },
+  {
+   "id": "unh-outlook-2025",
+   "title": "Outlook 2025 in vista dell'Investor Conference (comunicato, 8-K)",
+   "type": "8-K",
+   "date": "2024-12-03",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "url": "https://www.sec.gov/Archives/edgar/data/731766/000073176624000338/investorconferenceguidance.htm"
+  },
+  {
+   "id": "unh-risultati-fy2024",
+   "title": "Risultati esercizio 2024 (comunicato, 8-K)",
+   "type": "earnings_release",
+   "date": "2025-01-16",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "url": "https://www.sec.gov/Archives/edgar/data/731766/000073176625000022/a2024q4exhibit991.htm"
+  },
+  {
+   "id": "unh-risultati-q1-2025",
+   "title": "Risultati primo trimestre 2025 e revisione della guidance (comunicato, 8-K)",
+   "type": "earnings_release",
+   "date": "2025-04-17",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q1",
+   "url": "https://www.sec.gov/Archives/edgar/data/731766/000073176625000123/a2025q1exhibit991.htm"
+  },
+  {
+   "id": "unh-cambio-ceo-2025",
+   "title": "Cambio di CEO e sospensione dell'outlook 2025 (comunicato, 8-K)",
+   "type": "8-K",
+   "date": "2025-05-13",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q2",
+   "url": "https://www.sec.gov/Archives/edgar/data/731766/000073176625000134/exhibit991.htm"
+  },
+  {
+   "id": "unh-doj-2025",
+   "title": "Dichiarazione della società sull'indagine del Department of Justice",
+   "type": "other",
+   "date": "2025-07-24",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q3",
+   "url": "https://www.unitedhealthgroup.com/newsroom/2025/2025-07-24-uhg-responds-to-doj-investigation.html"
+  },
+  {
+   "id": "unh-risultati-q2-2025",
+   "title": "Risultati secondo trimestre 2025 e nuovo outlook 2025 (comunicato, 8-K)",
+   "type": "earnings_release",
+   "date": "2025-07-29",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q2",
+   "url": "https://www.sec.gov/Archives/edgar/data/731766/000073176625000228/a2025q2exhibit991.htm"
+  },
+  {
+   "id": "unh-cambio-cfo-2025",
+   "title": "Cambio di CFO: Wayne DeVeydt al posto di John Rex (comunicato, 8-K)",
+   "type": "8-K",
+   "date": "2025-07-31",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q3",
+   "url": "https://www.sec.gov/Archives/edgar/data/731766/000073176625000232/exhibit991pressrelease.htm"
+  },
+  {
+   "id": "unh-risultati-q3-2025",
+   "title": "Risultati terzo trimestre 2025 e rialzo dell'outlook (comunicato, 8-K)",
+   "type": "earnings_release",
+   "date": "2025-10-28",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q3",
+   "url": "https://www.sec.gov/Archives/edgar/data/731766/000073176625000301/a2025q3exhibit991.htm"
+  },
+  {
+   "id": "unh-risultati-fy2025",
+   "title": "Risultati esercizio 2025 e outlook 2026 (comunicato con tabelle, PDF)",
+   "type": "earnings_release",
+   "date": "2026-01-27",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "url": "https://mms.businesswire.com/media/20260126830491/en/2702869/1/UHGEarnings_Q42025_1-27-2026vFINAL.pdf"
+  },
+  {
+   "id": "unh-risultati-fy2025-pr",
+   "title": "Risultati esercizio 2025 e outlook 2026 (pagina del comunicato)",
+   "type": "earnings_release",
+   "date": "2026-01-27",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "url": "https://www.unitedhealthgroup.com/newsroom/2026/2026-01-27-uhg-reports-2025-results-and-issues-2026-outlook.html"
+  },
+  {
+   "id": "unh-remarks-fy2025",
+   "title": "Osservazioni preparate del management sui risultati 2025 e sull'outlook 2026",
+   "type": "transcript",
+   "date": "2026-01-27",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "url": "https://www.unitedhealthgroup.com/content/dam/UHG/PDF/investors/2025/unh-q4-2025-remarks.pdf"
+  },
+  {
+   "id": "unh-10k-fy2025",
+   "title": "Form 10-K esercizio 2025",
+   "type": "10-K",
+   "date": "2026-03-02",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "url": "https://www.unitedhealthgroup.com/content/dam/UHG/PDF/investors/2025/UNH-Q4-2025-Form-10-K.pdf"
+  },
+  {
+   "id": "unh-risultati-q1-2026",
+   "title": "Risultati primo trimestre 2026 (comunicato con tabelle, PDF)",
+   "type": "earnings_release",
+   "date": "2026-04-21",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "url": "https://www.unitedhealthgroup.com/content/dam/UHG/PDF/investors/2026/unh-reports-first-quarter-2026-results.pdf"
+  },
+  {
+   "id": "unh-risultati-q1-2026-pr",
+   "title": "Risultati primo trimestre 2026 (pagina del comunicato)",
+   "type": "earnings_release",
+   "date": "2026-04-21",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "url": "https://www.unitedhealthgroup.com/newsroom/2026/2026-04-21-uhg-reports-first-quarter-2026-results.html"
+  },
+  {
+   "id": "unh-risultati-q2-2026",
+   "title": "Risultati secondo trimestre 2026 (comunicato con tabelle, PDF)",
+   "type": "earnings_release",
+   "date": "2026-07-16",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q2",
+   "url": "https://mms.businesswire.com/media/20260716830877/en/2853491/1/UHG_Q2_2026_Earnings_Release_7_16_26.pdf"
+  },
+  {
+   "id": "unh-risultati-q3-2026",
+   "title": "Risultati terzo trimestre 2026 (comunicato, 8-K)",
+   "type": "earnings_release",
+   "date": "2026-10-13",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q3",
+   "url": "https://www.sec.gov/Archives/edgar/data/0000731766/000073176626000255/earningsrelease3q26unh.htm"
+  }
+ ],
+ "guidance": [
+  {
+   "docId": "unh-outlook-2024",
+   "issuedDate": "2023-11-28",
+   "metric": "revenue",
+   "label": "Ricavi",
+   "targetFiscalYear": 2024,
+   "targetPeriod": "FY",
+   "low": 400000000000,
+   "high": 403000000000,
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Guidance iniziale 2024 comunicata prima dell'Investor Conference del 29 novembre 2023.",
+   "quote": ""
+  },
+  {
+   "docId": "unh-outlook-2024",
+   "issuedDate": "2023-11-28",
+   "metric": "eps_diluted",
+   "label": "EPS (GAAP, diluito)",
+   "targetFiscalYear": 2024,
+   "targetPeriod": "FY",
+   "low": 26.2,
+   "high": 26.7,
+   "unit": "per_share",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Guidance iniziale 2024 sull'utile netto per azione.",
+   "quote": ""
+  },
+  {
+   "docId": "unh-outlook-2024",
+   "issuedDate": "2023-11-28",
+   "metric": "eps_diluted",
+   "label": "Adjusted EPS",
+   "targetFiscalYear": 2024,
+   "targetPeriod": "FY",
+   "low": 27.5,
+   "high": 28.0,
+   "unit": "per_share",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Guidance iniziale 2024. La misura rettificata esclude l'ammortamento delle attività immateriali da acquisizioni (circa 1,75 USD per azione, effetto fiscale 0,45 USD).",
+   "quote": ""
+  },
+  {
+   "docId": "unh-outlook-2024",
+   "issuedDate": "2023-11-28",
+   "metric": "cfo",
+   "label": "Cash flows from operations",
+   "targetFiscalYear": 2024,
+   "targetPeriod": "FY",
+   "low": 30000000000,
+   "high": 31000000000,
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Guidance iniziale 2024 sul flusso di cassa operativo.",
+   "quote": "Cash flows from operations are expected to range from $30 billion to $31 billion."
+  },
+  {
+   "docId": "unh-risultati-fy2023",
+   "issuedDate": "2024-01-12",
+   "metric": "eps_diluted",
+   "label": "Adjusted EPS",
+   "targetFiscalYear": 2024,
+   "targetPeriod": "FY",
+   "unit": "per_share",
+   "nonGaap": true,
+   "qualitative": true,
+   "text": "Con i risultati 2023 la società conferma gli obiettivi 2024 fissati all'Investor Conference del 29 novembre 2023, esclusi gli effetti della cessione delle attività in Brasile attesa nel primo semestre 2024. Il comunicato non ripete le cifre.",
+   "quote": ""
+  },
+  {
+   "docId": "unh-risultati-q1-2024",
+   "issuedDate": "2024-04-16",
+   "metric": "eps_diluted",
+   "label": "Adjusted EPS",
+   "targetFiscalYear": 2024,
+   "targetPeriod": "FY",
+   "low": 27.5,
+   "high": 28.0,
+   "unit": "per_share",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Confermata. L'adjusted EPS esclude la perdita sulla cessione del Brasile e i costi diretti di risposta al cyberattacco a Change Healthcare, ma include l'impatto da interruzione di attività (0,30-0,40 USD per azione stimati sull'anno). Impatto complessivo stimato del cyberattacco 1,15-1,35 USD per azione.",
+   "quote": ""
+  },
+  {
+   "docId": "unh-risultati-q1-2024",
+   "issuedDate": "2024-04-16",
+   "metric": "eps_diluted",
+   "label": "EPS (GAAP, diluito)",
+   "targetFiscalYear": 2024,
+   "targetPeriod": "FY",
+   "low": 17.6,
+   "high": 18.2,
+   "unit": "per_share",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Ridotta dall'intervallo iniziale 26,20-26,70 per includere la perdita sulla cessione del Brasile (circa 7 miliardi di USD, in gran parte non monetaria) e i costi diretti stimati del cyberattacco.",
+   "quote": ""
+  },
+  {
+   "docId": "unh-risultati-q2-2024",
+   "issuedDate": "2024-07-16",
+   "metric": "eps_diluted",
+   "label": "Adjusted EPS",
+   "targetFiscalYear": 2024,
+   "targetPeriod": "FY",
+   "low": 27.5,
+   "high": 28.0,
+   "unit": "per_share",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Confermata, nonostante la stima dell'impatto da interruzione di attività del cyberattacco salga a 0,60-0,70 USD per azione (impatto totale stimato 1,90-2,05 USD).",
+   "quote": ""
+  },
+  {
+   "docId": "unh-risultati-q2-2024",
+   "issuedDate": "2024-07-16",
+   "metric": "eps_diluted",
+   "label": "EPS (GAAP, diluito)",
+   "targetFiscalYear": 2024,
+   "targetPeriod": "FY",
+   "low": 15.95,
+   "high": 16.4,
+   "unit": "per_share",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Ridotta da 17,60-18,20: riflette costi diretti del cyberattacco più alti (1,30-1,35 USD per azione) e gli effetti delle attività sudamericane.",
+   "quote": ""
+  },
+  {
+   "docId": "unh-risultati-q3-2024",
+   "issuedDate": "2024-10-15",
+   "metric": "eps_diluted",
+   "label": "Adjusted EPS",
+   "targetFiscalYear": 2024,
+   "targetPeriod": "FY",
+   "low": 27.5,
+   "high": 27.75,
+   "unit": "per_share",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Estremo superiore ridotto da 28,00 a 27,75. L'impatto da interruzione di attività del cyberattacco, incluso nella misura rettificata, è stimato in circa 0,75 USD per azione; impatto totale circa 2,40 USD.",
+   "quote": ""
+  },
+  {
+   "docId": "unh-risultati-q3-2024",
+   "issuedDate": "2024-10-15",
+   "metric": "eps_diluted",
+   "label": "EPS (GAAP, diluito)",
+   "targetFiscalYear": 2024,
+   "targetPeriod": "FY",
+   "low": 15.5,
+   "high": 15.75,
+   "unit": "per_share",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Ridotta da 15,95-16,40.",
+   "quote": ""
+  },
+  {
+   "docId": "unh-outlook-2025",
+   "issuedDate": "2024-12-03",
+   "metric": "eps_diluted",
+   "label": "Adjusted EPS",
+   "targetFiscalYear": 2024,
+   "targetPeriod": "FY",
+   "low": 27.5,
+   "high": 27.75,
+   "unit": "per_share",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Confermato a dicembre 2024 l'intervallo comunicato con i risultati del terzo trimestre. Consuntivo 2024: 27,66 USD.",
+   "quote": ""
+  },
+  {
+   "docId": "unh-outlook-2025",
+   "issuedDate": "2024-12-03",
+   "metric": "eps_diluted",
+   "label": "EPS (GAAP, diluito)",
+   "targetFiscalYear": 2024,
+   "targetPeriod": "FY",
+   "low": 15.5,
+   "high": 15.75,
+   "unit": "per_share",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Confermato a dicembre 2024. Le voci escluse dalla misura rettificata nel 2024 comprendono ammortamento immateriali (circa 1.665 milioni di USD), effetti Sud America (circa 8.515 milioni) e costi diretti del cyberattacco (circa 2.000 milioni). Consuntivo 2024: 15,51 USD.",
+   "quote": ""
+  },
+  {
+   "docId": "unh-outlook-2025",
+   "issuedDate": "2024-12-03",
+   "metric": "revenue",
+   "label": "Ricavi",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "low": 450000000000,
+   "high": 455000000000,
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Guidance iniziale 2025, comunicata il 3 dicembre 2024.",
+   "quote": ""
+  },
+  {
+   "docId": "unh-outlook-2025",
+   "issuedDate": "2024-12-03",
+   "metric": "eps_diluted",
+   "label": "EPS (GAAP, diluito)",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "low": 28.15,
+   "high": 28.65,
+   "unit": "per_share",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Guidance iniziale 2025.",
+   "quote": ""
+  },
+  {
+   "docId": "unh-outlook-2025",
+   "issuedDate": "2024-12-03",
+   "metric": "eps_diluted",
+   "label": "Adjusted EPS",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "low": 29.5,
+   "high": 30.0,
+   "unit": "per_share",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Guidance iniziale 2025. Esclude solo l'ammortamento delle attività immateriali (circa 1,75 USD per azione, effetto fiscale circa 0,40 USD).",
+   "quote": ""
+  },
+  {
+   "docId": "unh-outlook-2025",
+   "issuedDate": "2024-12-03",
+   "metric": "cfo",
+   "label": "Cash flows from operations",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "low": 32000000000,
+   "high": 33000000000,
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Guidance iniziale 2025 sul flusso di cassa operativo.",
+   "quote": ""
+  },
+  {
+   "docId": "unh-risultati-fy2024",
+   "issuedDate": "2025-01-16",
+   "metric": "revenue",
+   "label": "Ricavi",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "low": 450000000000,
+   "high": 455000000000,
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Confermata con i risultati 2024.",
+   "quote": "Company Affirms 2025 Performance Outlook"
+  },
+  {
+   "docId": "unh-risultati-fy2024",
+   "issuedDate": "2025-01-16",
+   "metric": "eps_diluted",
+   "label": "EPS (GAAP, diluito)",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "low": 28.15,
+   "high": 28.65,
+   "unit": "per_share",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Confermata con i risultati 2024.",
+   "quote": "Company Affirms 2025 Performance Outlook"
+  },
+  {
+   "docId": "unh-risultati-fy2024",
+   "issuedDate": "2025-01-16",
+   "metric": "eps_diluted",
+   "label": "Adjusted EPS",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "low": 29.5,
+   "high": 30.0,
+   "unit": "per_share",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Confermata con i risultati 2024.",
+   "quote": "Company Affirms 2025 Performance Outlook"
+  },
+  {
+   "docId": "unh-risultati-fy2024",
+   "issuedDate": "2025-01-16",
+   "metric": "cfo",
+   "label": "Cash flows from operations",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "low": 32000000000,
+   "high": 33000000000,
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Confermata con i risultati 2024.",
+   "quote": "Company Affirms 2025 Performance Outlook"
+  },
+  {
+   "docId": "unh-risultati-q1-2025",
+   "issuedDate": "2025-04-17",
+   "metric": "eps_diluted",
+   "label": "Adjusted EPS",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "low": 26.0,
+   "high": 26.5,
+   "unit": "per_share",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Taglio dall'intervallo 29,50-30,00. Motivi dichiarati: attività sanitaria più intensa del previsto nel Medicare Advantage di UnitedHealthcare e cambiamenti non previsti nel profilo dei pazienti di Optum Health.",
+   "quote": "Heightened care activity indications within UnitedHealthcare's Medicare Advantage businesses"
+  },
+  {
+   "docId": "unh-risultati-q1-2025",
+   "issuedDate": "2025-04-17",
+   "metric": "eps_diluted",
+   "label": "EPS (GAAP, diluito)",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "low": 24.65,
+   "high": 25.15,
+   "unit": "per_share",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Taglio dall'intervallo 28,15-28,65, per gli stessi motivi dell'adjusted EPS.",
+   "quote": "Unanticipated changes in the profile of Optum Health members"
+  },
+  {
+   "docId": "unh-cambio-ceo-2025",
+   "issuedDate": "2025-05-13",
+   "metric": "eps_diluted",
+   "label": "Adjusted EPS",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "unit": "per_share",
+   "nonGaap": true,
+   "qualitative": true,
+   "text": "Outlook 2025 sospeso meno di un mese dopo il taglio di aprile: l'attività sanitaria ha continuato ad accelerare e si è estesa ad altri tipi di prestazione; i costi medici dei nuovi assistiti Medicare Advantage restano sopra le attese. Contestuale uscita del CEO Andrew Witty e ritorno di Stephen Hemsley.",
+   "quote": "Company suspends 2025 outlook as medical expenditures expected to be higher than anticipated."
+  },
+  {
+   "docId": "unh-cambio-ceo-2025",
+   "issuedDate": "2025-05-13",
+   "metric": "other",
+   "label": "Ritorno alla crescita",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "unit": "other",
+   "nonGaap": false,
+   "qualitative": true,
+   "text": "Indicazione qualitativa data insieme alla sospensione dell'outlook 2025.",
+   "quote": "The company expects to return to growth in 2026."
+  },
+  {
+   "docId": "unh-risultati-q2-2025",
+   "issuedDate": "2025-07-29",
+   "metric": "revenue",
+   "label": "Ricavi",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "low": 445500000000.0,
+   "high": 448000000000.0,
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Outlook 2025 ristabilito dopo la sospensione del 13 maggio 2025. Sotto la guidance iniziale di 450-455 miliardi.",
+   "quote": "Full Year2025 Revenue Outlook of $445.5 Billion to $448.0 Billion"
+  },
+  {
+   "docId": "unh-risultati-q2-2025",
+   "issuedDate": "2025-07-29",
+   "metric": "eps_diluted",
+   "label": "Adjusted EPS",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "low": 16.0,
+   "unit": "per_share",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Outlook ristabilito: almeno 16,00 USD, contro 29,50-30,00 iniziali e 26,00-26,50 di aprile. Il secondo trimestre include 1,2 miliardi di USD di effetti sfavorevoli puntuali.",
+   "quote": "Full Year 2025 Earnings Outlook of at least $14.65 Per Share, Adjusted Earnings of at least $16.00 Per Share"
+  },
+  {
+   "docId": "unh-risultati-q2-2025",
+   "issuedDate": "2025-07-29",
+   "metric": "eps_diluted",
+   "label": "EPS (GAAP, diluito)",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "low": 14.65,
+   "unit": "per_share",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Outlook ristabilito: almeno 14,65 USD, contro 28,15-28,65 iniziali.",
+   "quote": "Full Year 2025 Earnings Outlook of at least $14.65 Per Share, Adjusted Earnings of at least $16.00 Per Share"
+  },
+  {
+   "docId": "unh-risultati-q2-2025",
+   "issuedDate": "2025-07-29",
+   "metric": "operating_income",
+   "label": "Earnings from operations",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "low": 21550000000.0,
+   "high": 22150000000.0,
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Risultato operativo consolidato atteso per il 2025.",
+   "quote": ""
+  },
+  {
+   "docId": "unh-risultati-q2-2025",
+   "issuedDate": "2025-07-29",
+   "metric": "other",
+   "label": "Medical care ratio",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "low": 0.89,
+   "high": 0.895,
+   "unit": "percent",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Medical care ratio atteso 89,25% +/- 25 punti base.",
+   "quote": ""
+  },
+  {
+   "docId": "unh-risultati-q2-2025",
+   "issuedDate": "2025-07-29",
+   "metric": "other",
+   "label": "Operating cost ratio",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "low": 0.125,
+   "high": 0.13,
+   "unit": "percent",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Operating cost ratio atteso 12,75% +/- 25 punti base.",
+   "quote": ""
+  },
+  {
+   "docId": "unh-risultati-q2-2025",
+   "issuedDate": "2025-07-29",
+   "metric": "tax_rate",
+   "label": "Tax rate",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "low": 0.185,
+   "high": 0.185,
+   "unit": "percent",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Aliquota fiscale attesa circa 18,5%.",
+   "quote": ""
+  },
+  {
+   "docId": "unh-risultati-q2-2025",
+   "issuedDate": "2025-07-29",
+   "metric": "cfo",
+   "label": "Cash flows from operations",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "low": 16000000000.0,
+   "high": 16000000000.0,
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Circa 16 miliardi di USD, la metà dei 32-33 miliardi della guidance iniziale.",
+   "quote": ""
+  },
+  {
+   "docId": "unh-risultati-q2-2025",
+   "issuedDate": "2025-07-29",
+   "metric": "other",
+   "label": "UnitedHealthcare - earnings from operations",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "low": 9000000000.0,
+   "high": 9300000000.0,
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Risultato operativo di segmento atteso; ricavi di segmento 344,0-345,5 miliardi di USD.",
+   "quote": ""
+  },
+  {
+   "docId": "unh-risultati-q2-2025",
+   "issuedDate": "2025-07-29",
+   "metric": "other",
+   "label": "Optum Health - earnings from operations",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "low": 3000000000.0,
+   "high": 3100000000.0,
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Risultato operativo di segmento atteso; ricavi 101,1-101,6 miliardi di USD.",
+   "quote": ""
+  },
+  {
+   "docId": "unh-risultati-q2-2025",
+   "issuedDate": "2025-07-29",
+   "metric": "other",
+   "label": "Optum Insight - earnings from operations",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "low": 3550000000.0,
+   "high": 3650000000.0,
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Risultato operativo di segmento atteso; ricavi 19,0-19,5 miliardi di USD.",
+   "quote": ""
+  },
+  {
+   "docId": "unh-risultati-q2-2025",
+   "issuedDate": "2025-07-29",
+   "metric": "other",
+   "label": "Optum Rx - earnings from operations",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "low": 6000000000.0,
+   "high": 6100000000.0,
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Risultato operativo di segmento atteso; ricavi 151,0-151,5 miliardi di USD.",
+   "quote": ""
+  },
+  {
+   "docId": "unh-risultati-q2-2025",
+   "issuedDate": "2025-07-29",
+   "metric": "other",
+   "label": "Ritorno alla crescita degli utili",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "unit": "other",
+   "nonGaap": false,
+   "qualitative": true,
+   "text": "La società prevede il ritorno alla crescita degli utili nel 2026; prezzi e benefit 2026 ipotizzano un trend dei costi medici nel Medicare Advantage vicino al 10%.",
+   "quote": ""
+  },
+  {
+   "docId": "unh-risultati-q3-2025",
+   "issuedDate": "2025-10-28",
+   "metric": "eps_diluted",
+   "label": "Adjusted EPS",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "low": 16.25,
+   "unit": "per_share",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Rialzo da almeno 16,00 ad almeno 16,25 USD. Consuntivo 2025: 16,35 USD.",
+   "quote": "Raises Full Year 2025 Earnings Outlook to at least $14.90 Per Share; Adjusted Earnings of at least $16.25 Per Share"
+  },
+  {
+   "docId": "unh-risultati-q3-2025",
+   "issuedDate": "2025-10-28",
+   "metric": "eps_diluted",
+   "label": "EPS (GAAP, diluito)",
+   "targetFiscalYear": 2025,
+   "targetPeriod": "FY",
+   "low": 14.9,
+   "unit": "per_share",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Rialzo da almeno 14,65 ad almeno 14,90 USD. Consuntivo 2025: 13,23 USD, sotto la guidance per gli oneri del quarto trimestre (1,78 USD per azione dopo le imposte).",
+   "quote": "Raises Full Year 2025 Earnings Outlook to at least $14.90 Per Share; Adjusted Earnings of at least $16.25 Per Share"
+  },
+  {
+   "docId": "unh-risultati-fy2025-pr",
+   "issuedDate": "2026-01-27",
+   "metric": "revenue",
+   "label": "Ricavi",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 439000000000.0,
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Guidance iniziale 2026: ricavi superiori a 439 miliardi di USD, in calo di circa il 2% sul 2025 per la riduzione programmata degli assistiti.",
+   "quote": "Full Year 2026 Revenue Outlook Greater Than $439.0 Billion; Earnings Outlook Greater Than $17.10 Per Share; Adjusted Earnings Greater Than $17.75 Per Share"
+  },
+  {
+   "docId": "unh-risultati-fy2025-pr",
+   "issuedDate": "2026-01-27",
+   "metric": "eps_diluted",
+   "label": "EPS (GAAP, diluito)",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 17.1,
+   "unit": "per_share",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Guidance iniziale 2026.",
+   "quote": "Full Year 2026 Revenue Outlook Greater Than $439.0 Billion; Earnings Outlook Greater Than $17.10 Per Share; Adjusted Earnings Greater Than $17.75 Per Share"
+  },
+  {
+   "docId": "unh-risultati-fy2025-pr",
+   "issuedDate": "2026-01-27",
+   "metric": "eps_diluted",
+   "label": "Adjusted EPS",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 17.75,
+   "unit": "per_share",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Guidance iniziale 2026 (2025: 16,35 USD).",
+   "quote": "Full Year 2026 Revenue Outlook Greater Than $439.0 Billion; Earnings Outlook Greater Than $17.10 Per Share; Adjusted Earnings Greater Than $17.75 Per Share"
+  },
+  {
+   "docId": "unh-risultati-fy2025-pr",
+   "issuedDate": "2026-01-27",
+   "metric": "operating_income",
+   "label": "Earnings from operations",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 24000000000.0,
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Risultato operativo superiore a 24 miliardi di USD (margine operativo circa 5,5%).",
+   "quote": "The 2026 outlook was set for more than $439.0 billion in revenues, with earnings from operations greater than $24.0 billion"
+  },
+  {
+   "docId": "unh-risultati-fy2025",
+   "issuedDate": "2026-01-27",
+   "metric": "other",
+   "label": "Medical care ratio",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 0.883,
+   "high": 0.893,
+   "unit": "percent",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "88,8% +/- 50 punti base. Ipotesi: trend dei costi medici Medicare al 10% (circa 7,5% nel 2025); primo semestre sotto il punto medio, secondo sopra.",
+   "quote": ""
+  },
+  {
+   "docId": "unh-risultati-fy2025",
+   "issuedDate": "2026-01-27",
+   "metric": "other",
+   "label": "Operating cost ratio",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 0.123,
+   "high": 0.133,
+   "unit": "percent",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "12,8% +/- 50 punti base.",
+   "quote": ""
+  },
+  {
+   "docId": "unh-risultati-fy2025",
+   "issuedDate": "2026-01-27",
+   "metric": "tax_rate",
+   "label": "Tax rate",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 0.1925,
+   "high": 0.1925,
+   "unit": "percent",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Aliquota fiscale attesa circa 19,25%.",
+   "quote": ""
+  },
+  {
+   "docId": "unh-risultati-fy2025",
+   "issuedDate": "2026-01-27",
+   "metric": "cfo",
+   "label": "Cash flows from operations",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 18000000000.0,
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Flusso di cassa operativo superiore a 18 miliardi di USD.",
+   "quote": ""
+  },
+  {
+   "docId": "unh-risultati-fy2025",
+   "issuedDate": "2026-01-27",
+   "metric": "capex",
+   "label": "Capital expenditures",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 3800000000.0,
+   "high": 3800000000.0,
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Investimenti circa 3,8 miliardi di USD.",
+   "quote": ""
+  },
+  {
+   "docId": "unh-risultati-fy2025",
+   "issuedDate": "2026-01-27",
+   "metric": "other",
+   "label": "Share repurchases",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 2500000000.0,
+   "high": 2500000000.0,
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Riacquisti di azioni propri circa 2,5 miliardi di USD; dividendi circa 8,0 miliardi.",
+   "quote": ""
+  },
+  {
+   "docId": "unh-risultati-fy2025",
+   "issuedDate": "2026-01-27",
+   "metric": "other",
+   "label": "UnitedHealthcare - earnings from operations",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 10800000000.0,
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Risultato operativo di segmento superiore a 10,8 miliardi di USD (ricavi > 335 miliardi, margine circa 3,2%).",
+   "quote": ""
+  },
+  {
+   "docId": "unh-risultati-fy2025",
+   "issuedDate": "2026-01-27",
+   "metric": "other",
+   "label": "Optum - earnings from operations",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 13200000000.0,
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Risultato operativo Optum superiore a 13,2 miliardi di USD (ricavi > 257,5 miliardi).",
+   "quote": ""
+  },
+  {
+   "docId": "unh-risultati-fy2025",
+   "issuedDate": "2026-01-27",
+   "metric": "other",
+   "label": "Optum Health - earnings from operations",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 2200000000.0,
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Superiore a 2,2 miliardi di USD.",
+   "quote": ""
+  },
+  {
+   "docId": "unh-risultati-fy2025",
+   "issuedDate": "2026-01-27",
+   "metric": "other",
+   "label": "Optum Insight - earnings from operations",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 4750000000.0,
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Superiore a 4,75 miliardi di USD (ricavi > 21,0 miliardi).",
+   "quote": ""
+  },
+  {
+   "docId": "unh-risultati-fy2025",
+   "issuedDate": "2026-01-27",
+   "metric": "other",
+   "label": "Optum Rx - earnings from operations",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 6250000000.0,
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Superiore a 6,25 miliardi di USD (ricavi > 150,5 miliardi).",
+   "quote": ""
+  },
+  {
+   "docId": "unh-risultati-fy2025",
+   "issuedDate": "2026-01-27",
+   "metric": "other",
+   "label": "Assistiti UnitedHealthcare",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 46900000,
+   "high": 47500000,
+   "unit": "other",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Assistiti UnitedHealthcare attesi a 46,9-47,5 milioni a fine 2026 (49,76 milioni a fine 2025): calo di 2,3-2,8 milioni, di cui 1,3-1,4 milioni nel Medicare Advantage.",
+   "quote": ""
+  },
+  {
+   "docId": "unh-remarks-fy2025",
+   "issuedDate": "2026-01-27",
+   "metric": "other",
+   "label": "Debt-to-capital",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 0.4,
+   "high": 0.4,
+   "unit": "percent",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Obiettivo di lungo periodo di indebitamento sul capitale circa 40%, da raggiungere entro fine 2026 (43,9% a fine 2025).",
+   "quote": "to reach our long-term debt-to-capital target of approximately 40% before year-end."
+  },
+  {
+   "docId": "unh-risultati-q1-2026",
+   "issuedDate": "2026-04-21",
+   "metric": "eps_diluted",
+   "label": "Adjusted EPS",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 18.25,
+   "unit": "per_share",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Primo rialzo: da oltre 17,75 a oltre 18,25 USD.",
+   "quote": "Full Year 2026 Earnings Outlook Raised to Greater Than $17.35 Per Share; Adjusted Earnings of Greater Than $18.25 Per Share"
+  },
+  {
+   "docId": "unh-risultati-q1-2026",
+   "issuedDate": "2026-04-21",
+   "metric": "eps_diluted",
+   "label": "EPS (GAAP, diluito)",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 17.35,
+   "unit": "per_share",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Primo rialzo: da oltre 17,10 a oltre 17,35 USD.",
+   "quote": "Full Year 2026 Earnings Outlook Raised to Greater Than $17.35 Per Share; Adjusted Earnings of Greater Than $18.25 Per Share"
+  },
+  {
+   "docId": "unh-risultati-q2-2026",
+   "issuedDate": "2026-07-16",
+   "metric": "eps_diluted",
+   "label": "Adjusted EPS",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 19.5,
+   "high": 20.0,
+   "unit": "per_share",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Secondo rialzo: da oltre 18,25 a 19,50-20,00 USD, per l'andamento da inizio anno e attese migliori per il resto dell'esercizio.",
+   "quote": "The company now expects full year 2026 adjusted net earnings between $19.50 to $20.00 per share"
+  },
+  {
+   "docId": "unh-risultati-q2-2026",
+   "issuedDate": "2026-07-16",
+   "metric": "eps_diluted",
+   "label": "EPS (GAAP, diluito)",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 18.45,
+   "high": 18.95,
+   "unit": "per_share",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Secondo rialzo: da oltre 17,35 a 18,45-18,95 USD.",
+   "quote": "Updated Full Year 2026 Earnings Outlook Range to $18.45 to $18.95 Per Share"
+  },
+  {
+   "docId": "unh-risultati-q2-2026",
+   "issuedDate": "2026-07-16",
+   "metric": "other",
+   "label": "Medical care ratio",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 0.8785,
+   "high": 0.8835,
+   "unit": "percent",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "88,1% +/- 25 punti base, migliorato da 88,8% +/- 50 punti base di gennaio.",
+   "quote": ""
+  },
+  {
+   "docId": "unh-risultati-q2-2026",
+   "issuedDate": "2026-07-16",
+   "metric": "operating_income",
+   "label": "Earnings from operations",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 25450000000.0,
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Risultato operativo superiore a 25,45 miliardi di USD (gennaio: oltre 24,0). UnitedHealthcare oltre 12,0 miliardi, Optum oltre 13,45 miliardi.",
+   "quote": ""
+  },
+  {
+   "docId": "unh-risultati-q2-2026",
+   "issuedDate": "2026-07-16",
+   "metric": "other",
+   "label": "UnitedHealthcare - earnings from operations",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 12000000000.0,
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Rialzo da oltre 10,8 a oltre 12,0 miliardi di USD.",
+   "quote": ""
+  },
+  {
+   "docId": "unh-risultati-q2-2026",
+   "issuedDate": "2026-07-16",
+   "metric": "cfo",
+   "label": "Cash flows from operations",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 24000000000.0,
+   "high": 24000000000.0,
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Circa 24 miliardi di USD (gennaio: oltre 18).",
+   "quote": ""
+  },
+  {
+   "docId": "unh-risultati-q2-2026",
+   "issuedDate": "2026-07-16",
+   "metric": "tax_rate",
+   "label": "Tax rate",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 0.185,
+   "high": 0.185,
+   "unit": "percent",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Aliquota fiscale attesa circa 18,5% (gennaio: circa 19,25%).",
+   "quote": ""
+  },
+  {
+   "docId": "unh-risultati-q2-2026",
+   "issuedDate": "2026-07-16",
+   "metric": "other",
+   "label": "Share repurchases",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 5000000000.0,
+   "unit": "currency",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Riacquisti di azioni proprie per almeno 5,0 miliardi di USD nel 2026 (gennaio: circa 2,5); 4,0 miliardi già eseguiti a metà luglio.",
+   "quote": ""
+  },
+  {
+   "docId": "unh-risultati-q3-2026",
+   "issuedDate": "2026-10-13",
+   "metric": "eps_diluted",
+   "label": "Adjusted EPS",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 20.5,
+   "unit": "per_share",
+   "nonGaap": true,
+   "qualitative": false,
+   "text": "Terzo rialzo: da 19,50-20,00 ad almeno 20,50 USD, sulla base dell'andamento fino al terzo trimestre. Adjusted EPS dei nove mesi 18,30 USD.",
+   "quote": "The company now expects full year 2026 adjusted net earnings of at least $20.50 per share"
+  },
+  {
+   "docId": "unh-risultati-q3-2026",
+   "issuedDate": "2026-10-13",
+   "metric": "eps_diluted",
+   "label": "EPS (GAAP, diluito)",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 19.5,
+   "unit": "per_share",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Terzo rialzo: da 18,45-18,95 ad almeno 19,50 USD. Utile netto atteso superiore a 17.650 milioni di USD.",
+   "quote": "Updated Full Year 2026 Earnings Outlook to At Least $19.50 Per Share; Adjusted Earnings of At Least $20.50 Per Share"
+  },
+  {
+   "docId": "unh-risultati-q3-2026",
+   "issuedDate": "2026-10-13",
+   "metric": "other",
+   "label": "Debt-to-capital",
+   "targetFiscalYear": 2026,
+   "targetPeriod": "FY",
+   "low": 0.4,
+   "high": 0.4,
+   "unit": "percent",
+   "nonGaap": false,
+   "qualitative": false,
+   "text": "Confermato l'obiettivo di circa 40% a fine anno (41,7% al 30 settembre 2026).",
+   "quote": "The company continues to target a long-term debt-to-capital ratio of approximately 40.0% by year-end."
+  }
+ ],
+ "custom": [
+  {
+   "category": "segment_revenue",
+   "name": "UnitedHealthcare",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 281400000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2024"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "UnitedHealthcare",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 16400000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2024"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Optum Health",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 95300000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2024"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Optum Health",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 6600000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2024"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Optum Insight",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 18900000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2024"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Optum Insight",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 4300000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2024"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Optum Rx",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 116100000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2024"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Optum Rx",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 5100000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2024"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Optum (totale)",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 226600000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2024"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Optum (totale)",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 15900000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2024"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "UnitedHealthcare",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 298208000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "UnitedHealthcare",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 15584000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Optum Health",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 105358000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Optum Health",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 7770000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Optum Insight",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 18757000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Optum Insight",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 3097000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Optum Rx",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 133231000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Optum Rx",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 5836000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Optum (totale)",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 252957000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Optum (totale)",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 16703000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "UnitedHealthcare",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 344903000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "UnitedHealthcare",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 9425000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Optum Health",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 101957000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Optum Health",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": -278000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Optum Insight",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 19417000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Optum Insight",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 2624000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Optum Rx",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 154726000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Optum Rx",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 7193000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Optum (totale)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 270620000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Optum (totale)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 9539000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "UnitedHealthcare",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q4",
+   "value": 87113000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "UnitedHealthcare",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q4",
+   "value": 319000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Optum Health",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q4",
+   "value": 25543000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Optum Health",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q4",
+   "value": -2783000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Optum Insight",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q4",
+   "value": 5044000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Optum Insight",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q4",
+   "value": -41000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Optum Rx",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q4",
+   "value": 41456000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Optum Rx",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q4",
+   "value": 2885000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Optum (totale)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q4",
+   "value": 70333000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Optum (totale)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q4",
+   "value": 61000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "UnitedHealthcare",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 86265000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q1-2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "UnitedHealthcare",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 5694000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q1-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Optum Health",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 24109000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q1-2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Optum Health",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 1141000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q1-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Optum Insight",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 5125000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q1-2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Optum Insight",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 963000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q1-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Optum Rx",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 35736000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q1-2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Optum Rx",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 1192000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q1-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Optum (totale)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 63749000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q1-2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Optum (totale)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 3296000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q1-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "UnitedHealthcare",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q2",
+   "value": 86017000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q2-2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "UnitedHealthcare",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q2",
+   "value": 3942000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q2-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Optum Health",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q2",
+   "value": 23472000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q2-2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Optum Health",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q2",
+   "value": 1190000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q2-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Optum Insight",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q2",
+   "value": 5402000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q2-2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Optum Insight",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q2",
+   "value": 1369000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q2-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Optum Rx",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q2",
+   "value": 38292000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q2-2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Optum Rx",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q2",
+   "value": 1490000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q2-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Optum (totale)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q2",
+   "value": 65663000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q2-2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Optum (totale)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q2",
+   "value": 4049000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q2-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "UnitedHealthcare",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 172282000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q2-2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "UnitedHealthcare",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 9636000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q2-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Optum Health",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 47581000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q2-2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Optum Health",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 2331000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q2-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Optum Insight",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 10527000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q2-2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Optum Insight",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 2332000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q2-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Optum Rx",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 74028000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q2-2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Optum Rx",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 2682000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q2-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Optum (totale)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 129412000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q2-2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Optum (totale)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 7345000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q2-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "UnitedHealthcare",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q3",
+   "value": 86330000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q3-2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "UnitedHealthcare",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q3",
+   "value": 2831000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q3-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Optum Health",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q3",
+   "value": 22910000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q3-2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Optum Health",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q3",
+   "value": 735000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q3-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Optum Insight",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q3",
+   "value": 5474000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q3-2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Optum Insight",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q3",
+   "value": 1279000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q3-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Optum Rx",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q3",
+   "value": 39927000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q3-2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Optum Rx",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q3",
+   "value": 1718000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q3-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Optum (totale)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q3",
+   "value": 66883000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q3-2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Optum (totale)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q3",
+   "value": 3732000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q3-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "UnitedHealthcare",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 258612000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q3-2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "UnitedHealthcare",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 12467000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q3-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Optum Health",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 70491000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q3-2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Optum Health",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 3066000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q3-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Optum Insight",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 16001000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q3-2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Optum Insight",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 3611000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q3-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Optum Rx",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 113955000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q3-2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Optum Rx",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 4400000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q3-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Optum (totale)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 196295000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q3-2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Optum (totale)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 11077000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q3-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "UnitedHealthcare (dato 2025 riesposto con Optum Financial in Optum Insight)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 257790000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q3-2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "UnitedHealthcare (dato 2025 riesposto con Optum Financial in Optum Insight)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 9106000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q3-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Optum Health (dato 2025 riesposto con Optum Financial in Optum Insight)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 74984000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q3-2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Optum Health (dato 2025 riesposto con Optum Financial in Optum Insight)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 1881000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q3-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Optum Insight (dato 2025 riesposto con Optum Financial in Optum Insight)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 15579000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q3-2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Optum Insight (dato 2025 riesposto con Optum Financial in Optum Insight)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 3289000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q3-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Optum Rx (dato 2025 riesposto con Optum Financial in Optum Insight)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 113270000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q3-2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Optum Rx (dato 2025 riesposto con Optum Financial in Optum Insight)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 4308000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q3-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "Optum (totale) (dato 2025 riesposto con Optum Financial in Optum Insight)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 200287000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q3-2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Optum (totale) (dato 2025 riesposto con Optum Financial in Optum Insight)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 9478000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q3-2026"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "UnitedHealthcare - adjusted earnings from operations",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 9578000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "UnitedHealthcare - adjusted earnings from operations",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 16248000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Optum Health - adjusted earnings from operations",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 2286000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Optum Health - adjusted earnings from operations",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 7930000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Optum Insight - adjusted earnings from operations",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 3727000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Optum Insight - adjusted earnings from operations",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 4393000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Optum Rx - adjusted earnings from operations",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 6125000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Optum Rx - adjusted earnings from operations",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 5836000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Optum (totale) - adjusted earnings from operations",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 12138000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_profit",
+   "name": "Optum (totale) - adjusted earnings from operations",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 18159000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "UnitedHealthcare Employer & Individual",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 79228000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "UnitedHealthcare Employer & Individual",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 78156000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "UnitedHealthcare Medicare & Retirement",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 171285000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "UnitedHealthcare Medicare & Retirement",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 139482000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "UnitedHealthcare Community & State",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 94390000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "UnitedHealthcare Community & State",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 80570000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "UnitedHealthcare Employer & Individual",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 60318000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q3-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "UnitedHealthcare Medicare & Retirement",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 126892000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q3-2026"
+   }
+  },
+  {
+   "category": "segment_revenue",
+   "name": "UnitedHealthcare Community & State",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 71402000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q3-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ricavi consolidati",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 371600000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2023"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ricavi consolidati",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 400278000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ricavi consolidati",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 447567000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ricavi consolidati",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q4",
+   "value": 113215000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ricavi consolidati",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 111721000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q1-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ricavi consolidati",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q2",
+   "value": 112032000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q2-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ricavi consolidati",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q3",
+   "value": 112694000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q3-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ricavi consolidati",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 336447000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q3-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Ricavi consolidati",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 334352000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q3-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Earnings from operations",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 32287000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Earnings from operations",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 18964000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Earnings from operations",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q4",
+   "value": 380000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Earnings from operations",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 8990000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q1-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Earnings from operations",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q2",
+   "value": 7991000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q2-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Earnings from operations",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q3",
+   "value": 6563000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q3-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Earnings from operations",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 23544000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q3-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Earnings from operations",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 18584000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q3-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Utile netto attribuibile agli azionisti",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 14405000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Utile netto attribuibile agli azionisti",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 12056000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Utile netto attribuibile agli azionisti",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q4",
+   "value": 10000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Utile netto attribuibile agli azionisti",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 15874000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q3-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EPS diluito (GAAP)",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 23.86,
+   "unit": "USD per azione",
+   "source": {
+    "docId": "unh-risultati-fy2023"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Adjusted EPS",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 25.12,
+   "unit": "USD per azione",
+   "source": {
+    "docId": "unh-risultati-fy2023"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EPS diluito (GAAP)",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "Q1",
+   "value": -1.53,
+   "unit": "USD per azione",
+   "source": {
+    "docId": "unh-risultati-q1-2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Adjusted EPS",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "Q1",
+   "value": 6.91,
+   "unit": "USD per azione",
+   "source": {
+    "docId": "unh-risultati-q1-2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EPS diluito (GAAP)",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "Q2",
+   "value": 4.54,
+   "unit": "USD per azione",
+   "source": {
+    "docId": "unh-risultati-q2-2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Adjusted EPS",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "Q2",
+   "value": 6.8,
+   "unit": "USD per azione",
+   "source": {
+    "docId": "unh-risultati-q2-2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EPS diluito (GAAP)",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "Q3",
+   "value": 6.51,
+   "unit": "USD per azione",
+   "source": {
+    "docId": "unh-risultati-q3-2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Adjusted EPS",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "Q3",
+   "value": 7.15,
+   "unit": "USD per azione",
+   "source": {
+    "docId": "unh-risultati-q3-2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EPS diluito (GAAP)",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "Q4",
+   "value": 5.98,
+   "unit": "USD per azione",
+   "source": {
+    "docId": "unh-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Adjusted EPS",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "Q4",
+   "value": 6.81,
+   "unit": "USD per azione",
+   "source": {
+    "docId": "unh-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EPS diluito (GAAP)",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 15.51,
+   "unit": "USD per azione",
+   "source": {
+    "docId": "unh-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Adjusted EPS",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 27.66,
+   "unit": "USD per azione",
+   "source": {
+    "docId": "unh-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EPS diluito (GAAP)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q1",
+   "value": 6.85,
+   "unit": "USD per azione",
+   "source": {
+    "docId": "unh-risultati-q1-2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Adjusted EPS",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q1",
+   "value": 7.2,
+   "unit": "USD per azione",
+   "source": {
+    "docId": "unh-risultati-q1-2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EPS diluito (GAAP)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q2",
+   "value": 3.74,
+   "unit": "USD per azione",
+   "source": {
+    "docId": "unh-risultati-q2-2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Adjusted EPS",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q2",
+   "value": 4.08,
+   "unit": "USD per azione",
+   "source": {
+    "docId": "unh-risultati-q2-2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EPS diluito (GAAP)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q3",
+   "value": 2.59,
+   "unit": "USD per azione",
+   "source": {
+    "docId": "unh-risultati-q3-2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Adjusted EPS",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q3",
+   "value": 2.92,
+   "unit": "USD per azione",
+   "source": {
+    "docId": "unh-risultati-q3-2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EPS diluito (GAAP)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q4",
+   "value": 0.01,
+   "unit": "USD per azione",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Adjusted EPS",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q4",
+   "value": 2.11,
+   "unit": "USD per azione",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EPS diluito (GAAP)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 13.23,
+   "unit": "USD per azione",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Adjusted EPS",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 16.35,
+   "unit": "USD per azione",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EPS diluito (GAAP)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 6.9,
+   "unit": "USD per azione",
+   "source": {
+    "docId": "unh-risultati-q1-2026-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Adjusted EPS",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 7.23,
+   "unit": "USD per azione",
+   "source": {
+    "docId": "unh-risultati-q1-2026-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EPS diluito (GAAP)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q2",
+   "value": 6.04,
+   "unit": "USD per azione",
+   "source": {
+    "docId": "unh-risultati-q2-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Adjusted EPS",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q2",
+   "value": 6.38,
+   "unit": "USD per azione",
+   "source": {
+    "docId": "unh-risultati-q2-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EPS diluito (GAAP)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 12.94,
+   "unit": "USD per azione",
+   "source": {
+    "docId": "unh-risultati-q2-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Adjusted EPS",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 13.61,
+   "unit": "USD per azione",
+   "source": {
+    "docId": "unh-risultati-q2-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EPS diluito (GAAP)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q3",
+   "value": 4.56,
+   "unit": "USD per azione",
+   "source": {
+    "docId": "unh-risultati-q3-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Adjusted EPS",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q3",
+   "value": 4.69,
+   "unit": "USD per azione",
+   "source": {
+    "docId": "unh-risultati-q3-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EPS diluito (GAAP)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 17.5,
+   "unit": "USD per azione",
+   "source": {
+    "docId": "unh-risultati-q3-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Adjusted EPS",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 18.3,
+   "unit": "USD per azione",
+   "source": {
+    "docId": "unh-risultati-q3-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "EPS diluito (GAAP)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 13.21,
+   "unit": "USD per azione",
+   "source": {
+    "docId": "unh-risultati-q3-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Adjusted EPS",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 14.22,
+   "unit": "USD per azione",
+   "source": {
+    "docId": "unh-risultati-q3-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Medical care ratio",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 0.832,
+   "unit": "percent",
+   "source": {
+    "docId": "unh-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Medical care ratio",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "Q1",
+   "value": 0.843,
+   "unit": "percent",
+   "source": {
+    "docId": "unh-risultati-q1-2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Medical care ratio",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "Q2",
+   "value": 0.851,
+   "unit": "percent",
+   "source": {
+    "docId": "unh-risultati-q2-2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Medical care ratio",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "Q3",
+   "value": 0.852,
+   "unit": "percent",
+   "source": {
+    "docId": "unh-risultati-q3-2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Medical care ratio",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 0.855,
+   "unit": "percent",
+   "source": {
+    "docId": "unh-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Medical care ratio",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q1",
+   "value": 0.848,
+   "unit": "percent",
+   "source": {
+    "docId": "unh-risultati-q1-2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Medical care ratio",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q2",
+   "value": 0.894,
+   "unit": "percent",
+   "source": {
+    "docId": "unh-risultati-q2-2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Medical care ratio",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q3",
+   "value": 0.899,
+   "unit": "percent",
+   "source": {
+    "docId": "unh-risultati-q3-2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Medical care ratio",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q4",
+   "value": 0.924,
+   "unit": "percent",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Medical care ratio",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 0.891,
+   "unit": "percent",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Medical care ratio",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 0.839,
+   "unit": "percent",
+   "source": {
+    "docId": "unh-risultati-q1-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Medical care ratio",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q2",
+   "value": 0.867,
+   "unit": "percent",
+   "source": {
+    "docId": "unh-risultati-q2-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Medical care ratio",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q3",
+   "value": 0.884,
+   "unit": "percent",
+   "source": {
+    "docId": "unh-risultati-q3-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Medical care ratio rettificato",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 0.889,
+   "unit": "percent",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Medical care ratio rettificato",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q4",
+   "value": 0.915,
+   "unit": "percent",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Operating cost ratio",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 0.147,
+   "unit": "percent",
+   "source": {
+    "docId": "unh-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Operating cost ratio",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 0.132,
+   "unit": "percent",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Operating cost ratio",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 0.133,
+   "unit": "percent",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Operating cost ratio",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q4",
+   "value": 0.15,
+   "unit": "percent",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Operating cost ratio",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 0.138,
+   "unit": "percent",
+   "source": {
+    "docId": "unh-risultati-q1-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Operating cost ratio",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q2",
+   "value": 0.127,
+   "unit": "percent",
+   "source": {
+    "docId": "unh-risultati-q2-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Operating cost ratio",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q3",
+   "value": 0.128,
+   "unit": "percent",
+   "source": {
+    "docId": "unh-risultati-q3-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Cash flows from operations",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 29100000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2023"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Cash flows from operations",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 24204000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Cash flows from operations",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 19697000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Cash flows from operations",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "H1",
+   "value": 19964000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q2-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Cash flows from operations",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 25087000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q3-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Cash flows from operations",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "9M",
+   "value": 18589000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q3-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Dividendi pagati",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 7533000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Dividendi pagati",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 7916000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Dividendi pagati",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 6170000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q3-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Riacquisto di azioni proprie",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 9000000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Riacquisto di azioni proprie",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 5545000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Riacquisto di azioni proprie",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "9M",
+   "value": 5031000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q3-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Days claims payable",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 47.0,
+   "unit": "giorni",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Days claims payable",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 44.1,
+   "unit": "giorni",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Days claims payable",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 48.6,
+   "unit": "giorni",
+   "source": {
+    "docId": "unh-risultati-q1-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Days claims payable",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q2",
+   "value": 47.0,
+   "unit": "giorni",
+   "source": {
+    "docId": "unh-risultati-q2-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Days claims payable",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q3",
+   "value": 47.0,
+   "unit": "giorni",
+   "source": {
+    "docId": "unh-risultati-q3-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Debt-to-capital",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 0.439,
+   "unit": "percent",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Debt-to-capital",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 0.439,
+   "unit": "percent",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Debt-to-capital",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 0.429,
+   "unit": "percent",
+   "source": {
+    "docId": "unh-risultati-q1-2026-pr"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Debt-to-capital",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q2",
+   "value": 0.412,
+   "unit": "percent",
+   "source": {
+    "docId": "unh-risultati-q2-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Debt-to-capital",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q3",
+   "value": 0.417,
+   "unit": "percent",
+   "source": {
+    "docId": "unh-risultati-q3-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Assistiti UnitedHealthcare - commercial risk-based",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 8115000,
+   "unit": "assistiti",
+   "source": {
+    "docId": "unh-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Assistiti UnitedHealthcare - commercial risk-based",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 8845000,
+   "unit": "assistiti",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Assistiti UnitedHealthcare - commercial risk-based",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 8165000,
+   "unit": "assistiti",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Assistiti UnitedHealthcare - commercial risk-based",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q3",
+   "value": 7575000,
+   "unit": "assistiti",
+   "source": {
+    "docId": "unh-risultati-q3-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Assistiti UnitedHealthcare - commercial fee-based",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 19200000,
+   "unit": "assistiti",
+   "source": {
+    "docId": "unh-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Assistiti UnitedHealthcare - commercial fee-based",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 20885000,
+   "unit": "assistiti",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Assistiti UnitedHealthcare - commercial fee-based",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 21485000,
+   "unit": "assistiti",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Assistiti UnitedHealthcare - commercial fee-based",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q3",
+   "value": 22180000,
+   "unit": "assistiti",
+   "source": {
+    "docId": "unh-risultati-q3-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Assistiti UnitedHealthcare - commercial totale (USA)",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 27315000,
+   "unit": "assistiti",
+   "source": {
+    "docId": "unh-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Assistiti UnitedHealthcare - commercial totale (USA)",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 29730000,
+   "unit": "assistiti",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Assistiti UnitedHealthcare - commercial totale (USA)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 29650000,
+   "unit": "assistiti",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Assistiti UnitedHealthcare - commercial totale (USA)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q3",
+   "value": 29755000,
+   "unit": "assistiti",
+   "source": {
+    "docId": "unh-risultati-q3-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Assistiti UnitedHealthcare - Medicare Advantage",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 7695000,
+   "unit": "assistiti",
+   "source": {
+    "docId": "unh-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Assistiti UnitedHealthcare - Medicare Advantage",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 7845000,
+   "unit": "assistiti",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Assistiti UnitedHealthcare - Medicare Advantage",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 8445000,
+   "unit": "assistiti",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Assistiti UnitedHealthcare - Medicare Advantage",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q3",
+   "value": 7605000,
+   "unit": "assistiti",
+   "source": {
+    "docId": "unh-risultati-q3-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Assistiti UnitedHealthcare - Medicaid",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 7845000,
+   "unit": "assistiti",
+   "source": {
+    "docId": "unh-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Assistiti UnitedHealthcare - Medicaid",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 7435000,
+   "unit": "assistiti",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Assistiti UnitedHealthcare - Medicaid",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 7380000,
+   "unit": "assistiti",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Assistiti UnitedHealthcare - Medicaid",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q3",
+   "value": 6695000,
+   "unit": "assistiti",
+   "source": {
+    "docId": "unh-risultati-q3-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Assistiti UnitedHealthcare - Medicare Supplement",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 4355000,
+   "unit": "assistiti",
+   "source": {
+    "docId": "unh-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Assistiti UnitedHealthcare - Medicare Supplement",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 4335000,
+   "unit": "assistiti",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Assistiti UnitedHealthcare - Medicare Supplement",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 4285000,
+   "unit": "assistiti",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Assistiti UnitedHealthcare - Medicare Supplement",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q3",
+   "value": 4245000,
+   "unit": "assistiti",
+   "source": {
+    "docId": "unh-risultati-q3-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Assistiti UnitedHealthcare - totale medical (USA)",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 47210000,
+   "unit": "assistiti",
+   "source": {
+    "docId": "unh-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Assistiti UnitedHealthcare - totale medical (USA)",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 49345000,
+   "unit": "assistiti",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Assistiti UnitedHealthcare - totale medical (USA)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 49760000,
+   "unit": "assistiti",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Assistiti UnitedHealthcare - totale medical (USA)",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q3",
+   "value": 48300000,
+   "unit": "assistiti",
+   "source": {
+    "docId": "unh-risultati-q3-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Assistiti Medicare Part D stand-alone",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 3315000,
+   "unit": "assistiti",
+   "source": {
+    "docId": "unh-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Assistiti Medicare Part D stand-alone",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 3050000,
+   "unit": "assistiti",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Assistiti Medicare Part D stand-alone",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 2770000,
+   "unit": "assistiti",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Assistiti Medicare Part D stand-alone",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q3",
+   "value": 2690000,
+   "unit": "assistiti",
+   "source": {
+    "docId": "unh-risultati-q3-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Optum Health - consumatori serviti",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 103000000,
+   "unit": "persone",
+   "source": {
+    "docId": "unh-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Optum Health - consumatori serviti",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 100000000,
+   "unit": "persone",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Optum Health - consumatori serviti",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 95000000,
+   "unit": "persone",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Optum Health - consumatori serviti",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q2",
+   "value": 93000000,
+   "unit": "persone",
+   "source": {
+    "docId": "unh-risultati-q2-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Optum Health - consumatori serviti",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q3",
+   "value": 92000000,
+   "unit": "persone",
+   "source": {
+    "docId": "unh-risultati-q3-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Optum Insight - contract backlog",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 32100000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Optum Insight - contract backlog",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 32800000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Optum Insight - contract backlog",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 31100000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Optum Rx - adjusted scripts",
+   "fiscalYear": 2023,
+   "fiscalPeriod": "FY",
+   "value": 1540000000,
+   "unit": "prescrizioni",
+   "source": {
+    "docId": "unh-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Optum Rx - adjusted scripts",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 1620000000,
+   "unit": "prescrizioni",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Optum Rx - adjusted scripts",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 1660000000,
+   "unit": "prescrizioni",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Optum Rx - adjusted scripts",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q1",
+   "value": 383000000,
+   "unit": "prescrizioni",
+   "source": {
+    "docId": "unh-risultati-q2-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Optum Rx - adjusted scripts",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q2",
+   "value": 387000000,
+   "unit": "prescrizioni",
+   "source": {
+    "docId": "unh-risultati-q2-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Optum Rx - adjusted scripts",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q3",
+   "value": 393000000,
+   "unit": "prescrizioni",
+   "source": {
+    "docId": "unh-risultati-q3-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Cyberattacco Change Healthcare - costi diretti di risposta (ante imposte)",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 2200000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Cyberattacco Change Healthcare - interruzione di attività (minori ricavi)",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 867000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Cyberattacco Change Healthcare - impatto totale (ante imposte)",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 3100000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Cyberattacco Change Healthcare - impatto totale per azione",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 2.6,
+   "unit": "USD per azione",
+   "source": {
+    "docId": "unh-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Cyberattacco Change Healthcare - costi finali (riserve su prestiti ai fornitori)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q4",
+   "value": 799000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Effetti Sud America esclusi dal risultato rettificato",
+   "fiscalYear": 2024,
+   "fiscalPeriod": "FY",
+   "value": 8500000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2024"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Oneri di ristrutturazione e altro (ante imposte)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q4",
+   "value": 2521000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Onere complessivo quarto trimestre 2025 (ante imposte)",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "Q4",
+   "value": 2878000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Sviluppo favorevole netto delle riserve sinistri",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q2",
+   "value": 860000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q2-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Sviluppo favorevole netto delle riserve sinistri",
+   "fiscalYear": 2026,
+   "fiscalPeriod": "Q3",
+   "value": 610000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-risultati-q3-2026"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Quota dei ricavi da premi CMS sui ricavi consolidati",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 0.44,
+   "unit": "percent",
+   "source": {
+    "docId": "unh-10k-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Dipendenti",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 390000,
+   "unit": "count",
+   "source": {
+    "docId": "unh-10k-fy2025"
+   }
+  },
+  {
+   "category": "kpi",
+   "name": "Avviamento e attività immateriali",
+   "fiscalYear": 2025,
+   "fiscalPeriod": "FY",
+   "value": 131000000000,
+   "unit": "currency",
+   "source": {
+    "docId": "unh-10k-fy2025"
+   }
+  }
+ ],
+ "insights": {
+  "id": "unh-risultati-q3-2026",
+  "summary": "Il 2025 è stato l'anno della rottura: guidance iniziale di adjusted EPS 29,50-30,00 USD tagliata ad aprile, sospesa a maggio insieme all'uscita del CEO Andrew Witty, ristabilita a luglio ad almeno 16,00 USD; consuntivo 16,35 USD (GAAP 13,23) con ricavi di 447,6 miliardi (+12%) e medical care ratio all'89,1% (85,5% nel 2024). Il quarto trimestre 2025 ha assorbito oneri per 2,9 miliardi ante imposte. Nel 2026 la società ha scelto di ridurre gli assistiti e riprezzare: ricavi dei nove mesi 336,4 miliardi (+0,6%), risultato operativo 23,5 miliardi (18,6 un anno prima), adjusted EPS 18,30 USD. La guidance 2026 è stata alzata tre volte, da oltre 17,75 ad almeno 20,50 USD. Restano aperte le indagini civile e penale del Department of Justice sulla partecipazione a Medicare.",
+  "businessModel": "Due piattaforme. UnitedHealthcare è l'assicuratore sanitario: incassa premi per coperture a rischio (Medicare Advantage, Medicaid, commerciale) e commissioni per piani autofinanziati dei datori di lavoro; nel 2025 ricavi 344,9 miliardi di USD, di cui 171,3 da Medicare & Retirement, 94,4 da Community & State e 79,2 da Employer & Individual. Optum vende servizi sanitari, in buona parte alla stessa UnitedHealthcare: Optum Health (cure erogate, spesso con contratti a rischio pieno, 102,0 miliardi), Optum Rx (gestione dei farmaci, 154,7 miliardi) e Optum Insight (tecnologia e servizi, inclusa Change Healthcare, 19,4 miliardi). I premi da prodotti a rischio sono quasi l'80% dei ricavi consolidati e i premi pagati da CMS il 44%: il risultato dipende dallo scarto tra premi fissati un anno prima e costi medici effettivi.",
+  "highlights": [
+   "Guidance 2026 di adjusted EPS alzata tre volte: oltre 17,75 USD (gennaio), oltre 18,25 (aprile), 19,50-20,00 (luglio), almeno 20,50 (ottobre).",
+   "Medical care ratio in calo: 88,4% nel terzo trimestre 2026 contro 89,9% un anno prima; 86,7% nel secondo (89,4%) e 83,9% nel primo (84,8%).",
+   "Risultato operativo dei nove mesi 2026 a 23,5 miliardi di USD contro 18,6; UnitedHealthcare 12,5 miliardi contro 9,1, Optum 11,1 contro 9,5.",
+   "Flusso di cassa operativo dei nove mesi 2026 25,1 miliardi di USD (18,6 un anno prima); guidance di luglio circa 24 miliardi sull'anno contro oltre 18 di gennaio.",
+   "Debt-to-capital sceso dal 43,9% di fine 2025 al 41,7% al 30 settembre 2026, con obiettivo di circa 40% a fine anno; riacquisti di azioni per 5,0 miliardi da inizio anno.",
+   "Optum Health torna in utile: 3,1 miliardi di USD di risultato operativo nei nove mesi 2026 dopo una perdita di 278 milioni nell'intero 2025."
+  ],
+  "lowlights": [
+   "Consuntivo 2025 di adjusted EPS 16,35 USD contro una guidance iniziale di 29,50-30,00: scostamento di circa il 45% rispetto al punto medio.",
+   "Assistiti in calo per scelta: Medicare Advantage 7,6 milioni al 30 settembre 2026 contro 8,4 a fine 2025 (-935.000 secondo il comunicato); Medicaid 6,7 milioni contro 7,4; totale medical 48,3 milioni contro 49,8.",
+   "Ricavi fermi: terzo trimestre 2026 a 112,7 miliardi di USD contro 113,2 un anno prima; Optum Health -10% a 22,9 miliardi.",
+   "Quarto trimestre 2025 con utile GAAP di 0,01 USD per azione: oneri per 2.878 milioni ante imposte, tra cui 799 milioni di costi finali del cyberattacco e 623 milioni di riserva per contratti in perdita.",
+   "Il risultato del terzo trimestre 2026 include 610 milioni di USD di sviluppo favorevole delle riserve (860 milioni nel secondo), che abbassa il medical care ratio riportato.",
+   "Operating cost ratio in aumento: 12,8% nel terzo trimestre 2026 e 13,8% nel primo, contro 12,4% del primo trimestre 2025."
+  ],
+  "risks": [
+   {
+    "title": "Indagini del Department of Justice su Medicare",
+    "detail": "A luglio 2025 la società ha dichiarato di aver iniziato a rispondere a richieste formali, penali e civili, del DOJ su aspetti della partecipazione a Medicare. Il comunicato del terzo trimestre 2026 cita ancora le azioni legali del DOJ tra i fattori di rischio. Nessun importo è stato accantonato o indicato nei documenti letti; con il 44% dei ricavi da premi CMS un esito sfavorevole peserebbe sul cuore del business.",
+    "severity": "alta"
+   },
+   {
+    "title": "Tariffe e regole del Medicare Advantage",
+    "detail": "Il margine dipende dai tassi fissati da CMS, dal modello di aggiustamento per il rischio e dagli Star ratings. A gennaio 2026 il responsabile di UnitedHealthcare ha detto che l'Advance Notice 2027 non rifletteva l'andamento reale di utilizzo e costi. Gli Stars 2027 indicano almeno il 69% degli iscritti in piani con 4 o più stelle.",
+    "severity": "alta"
+   },
+   {
+    "title": "Trend dei costi medici sopra i prezzi",
+    "detail": "Nel 2025 le ipotesi di prezzo si sono rivelate molto inferiori ai costi effettivi (medical care ratio 89,1%). Il 2026 è stato prezzato con un trend Medicare del 10% contro circa 7,5% nel 2025. Se il trend accelera ancora, il premio fisso annuale non permette di recuperare in corso d'anno.",
+    "severity": "alta"
+   },
+   {
+    "title": "Medicaid: disallineamento tra tariffe statali e gravità degli assistiti",
+    "detail": "Il management segnala attività elevata in salute mentale, farmacia e assistenza domiciliare e un ritardo degli aggiornamenti tariffari statali; attende un miglioramento solo nel 2027. Gli assistiti Medicaid sono scesi a 6,7 milioni.",
+    "severity": "media"
+   },
+   {
+    "title": "Riduzione della base assistiti",
+    "detail": "La strategia 2026 prevede 2,3-2,8 milioni di assistiti in meno in UnitedHealthcare. Il recupero dei margini avviene su ricavi in calo; Optum, che serve in parte gli stessi assistiti, ne risente (Optum Health -10% di ricavi nel terzo trimestre 2026).",
+    "severity": "media"
+   },
+   {
+    "title": "Contratti a rischio pieno in Optum Health",
+    "detail": "Optum Health ha chiuso il 2025 in perdita (-278 milioni di USD) e ha iscritto 623 milioni di riserva per perdite attese nel 2026 su alcuni contratti value-based. La società ha ridotto del 20% circa la rete affiliata e del 15% gli assistiti a rischio.",
+    "severity": "media"
+   }
+  ],
+  "accountingFlags": [
+   {
+    "title": "Distanza tra utile GAAP e rettificato nel 2025",
+    "detail": "EPS GAAP 13,23 USD contro adjusted 16,35. Oltre all'ammortamento degli immateriali (1,77 USD) sono esclusi oneri di ristrutturazione e altro per 2.521 milioni di USD, costi finali del cyberattacco per 799 milioni e una plusvalenza netta da cessioni di 442 milioni. Fino al 2024 la misura rettificata escludeva solo l'ammortamento e voci specifiche (Sud America, cyberattacco).",
+    "severity": "alta"
+   },
+   {
+    "title": "Riserva per contratti in perdita esclusa e poi rilasciata fuori dal rettificato",
+    "detail": "La riserva di 623 milioni di USD iscritta a fine 2025 per perdite 2026 di Optum Health è stata esclusa dall'adjusted; nel 2026 il suo utilizzo (137 milioni nel primo trimestre, 282 milioni nei nove mesi) riduce i costi riportati e viene a sua volta escluso. Il confronto tra risultato riportato e rettificato di Optum Health richiede attenzione.",
+    "severity": "media"
+   },
+   {
+    "title": "Sviluppo favorevole delle riserve sinistri nel 2026",
+    "detail": "860 milioni di USD nel secondo trimestre e 610 milioni nel terzo, quest'ultimo riferito a prestazioni del 2026. Non sono rettificati e migliorano il medical care ratio del trimestre.",
+    "severity": "media"
+   },
+   {
+    "title": "Riesposizione dei segmenti dal 2026",
+    "detail": "Dal 1° gennaio 2026 Optum Financial (inclusa Optum Bank) è passata da Optum Health a Optum Insight. I dati 2025 nei comunicati 2026 sono riesposti: ad esempio il risultato operativo del terzo trimestre 2025 di Optum Health passa da 255 a 41 milioni di USD e quello di Optum Insight da 706 a 920.",
+    "severity": "bassa"
+   },
+   {
+    "title": "Contributo alla fondazione finanziato da una plusvalenza",
+    "detail": "Nel primo trimestre 2026 la società ha versato 400 milioni di USD alla United Health Foundation, finanziati dalla plusvalenza sulla cessione di un'attività di Optum Insight; entrambe le voci sono fuori dal risultato rettificato. A fine 2025 era stato escluso anche un anticipo di 250 milioni alla fondazione.",
+    "severity": "bassa"
+   }
+  ],
+  "capitalAllocation": "Dividendo trimestrale alzato a giugno 2025 a un tasso annuo di 8,84 USD per azione (da 8,40); dividendi pagati 7,9 miliardi nel 2025 e 6,2 miliardi nei nove mesi 2026. Riacquisti: 9,0 miliardi nel 2024, 5,5 nel 2025 (nessuno nel quarto trimestre), 5,0 nei nove mesi 2026 contro una guidance iniziale di circa 2,5 miliardi. Debt-to-capital 43,9% a fine 2025, 41,7% al 30 settembre 2026, obiettivo circa 40% a fine 2026. In corso la cessione delle attività sudamericane residue (classificate come destinate alla vendita); acquisizione di Alegeus chiusa il 2 luglio 2026.",
+  "competitivePosition": "Primo gruppo sanitario statunitense per ricavi (447,6 miliardi di USD nel 2025), con 48,3 milioni di assistiti medical in UnitedHealthcare e circa 92 milioni di consumatori serviti da Optum Health al 30 settembre 2026. L'integrazione tra assicurazione, cure, farmacia e tecnologia è il vantaggio dichiarato, ma è anche l'oggetto dell'attenzione di regolatori e DOJ. Nel 2026 la società ha ceduto quota nel Medicare Advantage per ripristinare i margini; i documenti letti non forniscono quote di mercato.",
+  "managementTone": {
+   "label": "positivo",
+   "rationale": "Dopo il linguaggio di ricostruzione del 2025 (\"rigorous path back\"), nel 2026 il management parla di disciplina ed esecuzione e ha alzato la guidance a ogni trimestre. Il tono resta misurato su Medicare e Medicaid e nulla viene detto sull'esito delle indagini."
+  },
+  "nonGaapAdjustments": [
+   "Ammortamento delle attività immateriali da acquisizioni: 1.613 milioni di USD nel 2025 (1,77 USD per azione); 1.053 milioni nei nove mesi 2026.",
+   "Costi diretti di risposta al cyberattacco a Change Healthcare: 2,2 miliardi di USD nel 2024, 799 milioni nel quarto trimestre 2025.",
+   "Effetti Sud America e cessioni di portafoglio: 8,5 miliardi di USD nel 2024 (9,11 USD per azione); plusvalenza netta di 442 milioni nel 2025; -206 milioni nei nove mesi 2026.",
+   "Ristrutturazione e altro: 2.521 milioni di USD nel 2025 (immobili e personale 746, riserva contratti in perdita 623, revisione contratti 573, minusvalenze su partecipazioni 329, fondazione 250).",
+   "L'interruzione di attività dovuta al cyberattacco (867 milioni di USD di minori ricavi nel 2024) non è stata esclusa dall'adjusted EPS."
+  ],
+  "keyQuotes": [
+   {
+    "text": "Company suspends 2025 outlook as medical expenditures expected to be higher than anticipated.",
+    "why": "13 maggio 2025: la guidance viene ritirata meno di un mese dopo essere stata tagliata, insieme al cambio di CEO."
+   },
+   {
+    "text": "UnitedHealth Group has embarked on a rigorous path back to being a high-performing company",
+    "why": "Stephen Hemsley, 29 luglio 2025: ammissione che la società non stava operando ai livelli attesi."
+   },
+   {
+    "text": "has now begun complying with formal criminal and civil requests from the Department.",
+    "why": "24 luglio 2025: conferma ufficiale delle indagini penale e civile del DOJ su Medicare."
+   },
+   {
+    "text": "Our third quarter results reflect the discipline and execution our teams are bringing to every part of our business",
+    "why": "Stephen Hemsley, 13 ottobre 2026: il messaggio con cui accompagna il terzo rialzo della guidance 2026."
+   }
+  ],
+  "openQuestions": [
+   "A che punto sono le indagini civile e penale del DOJ e quale esposizione economica comportano? I documenti letti non indicano importi né tempi.",
+   "Quanto del miglioramento del medical care ratio 2026 è strutturale (prezzi, uscita da assistiti in perdita) e quanto dipende dallo sviluppo favorevole delle riserve?",
+   "Quale sarà la guidance 2027 e come incidono le tariffe Medicare Advantage 2027 definitive? Nel comunicato del terzo trimestre 2026 non c'è un outlook 2027.",
+   "Gli assistiti Medicare Advantage torneranno a crescere nel 2027 o la contrazione prosegue?",
+   "Qual è il saldo residuo dei prestiti senza interessi concessi ai fornitori dopo il cyberattacco e quanto è ancora recuperabile dopo la svalutazione di 799 milioni di USD?"
+  ]
+ },
+ "price": {
+  "value": 389.82,
+  "date": "2026-11-17",
+  "currency": "USD",
+  "url": "https://pro.stockalarm.io/quote/UNH/historical-prices"
+ },
+ "missing": [
+  "Motivo del calo del titolo del 17 novembre 2026 (-5,42% a 389,82 USD): cercato, non trovata una fonte apribile.",
+  "Trascrizioni delle conference call (in particolare terzo trimestre 2026) e commenti del management sul 2027: gli articoli di stampa trovati (Fierce Healthcare, Healthcare Finance News) non si sono aperti.",
+  "Form 10-K 2025: letti Item 1, 1A, 5 e parte dell'Item 7; non letti la Nota 12 (procedimenti legali e indagini governative), il bilancio e le note. La data di deposito non è indicata nel testo letto: quella in elenco (2 marzo 2026) è la data di riferimento dei dirigenti riportata nel documento.",
+  "Numero di persone coinvolte nella violazione dei dati di Change Healthcare e saldo dei prestiti ai fornitori: non presenti nei documenti letti.",
+  "Guidance 2026 su ricavi e medical care ratio aggiornata a ottobre 2026: il comunicato del terzo trimestre aggiorna solo l'utile per azione.",
+  "Medical care ratio e risultato operativo del quarto trimestre 2024 e del 2023 per trimestre: non rilevati.",
+  "Optum Insight contract backlog nel 2026: non riportato nei comunicati trimestrali letti.",
+  "Guidance 2026 di ricavi e margine di Optum Health (gennaio 2026): celle illeggibili nell'estrazione del PDF.",
+  "Dati di segmento 2023: disponibili solo arrotondati al decimo di miliardo dal comunicato sui risultati 2024.",
+  "Sito SEC non raggiungibile con download diretto: i documenti sono stati letti tramite WebFetch, quindi le citazioni sono limitate a frasi brevi e alcune tabelle potrebbero contenere errori di estrazione (nel comunicato del primo trimestre 2024 il testo e la tabella sui costi diretti del cyberattacco per azione non coincidono).",
+  "Nomine di Tim Noel (CEO UnitedHealthcare) e Patrick Conway (CEO Optum): confermate solo dall'elenco dei dirigenti nel 10-K 2025, comunicati di nomina non aperti.",
+  "Eventuali obiettivi pluriennali (crescita di lungo periodo dell'utile per azione 13-16%): non trovati nei documenti letti."
+ ]
+}

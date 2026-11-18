@@ -127,6 +127,8 @@ export interface TtmPeriod {
  * Ultimi dodici mesi: somma degli ultimi 4 trimestri consecutivi per i flussi, ultimo dato per lo stato patrimoniale.
  * Restituisce null se non ci sono 4 trimestri consecutivi.
  */
+const hasBalance = (p: FinancialPeriod) => num(p.values.total_assets) || num(p.values.total_equity);
+
 export function ttm(quarters: FinancialPeriod[]): TtmPeriod | null {
   if (quarters.length < 4) return null;
   const last4 = quarters.slice(-4);
@@ -137,6 +139,8 @@ export function ttm(quarters: FinancialPeriod[]): TtmPeriod | null {
   for (const k of FIELD_KEYS) {
     if (isStock(k) || !isAdditive(k)) {
       if (num(latest.values[k])) values[k] = latest.values[k];
+      // stato patrimoniale dell'ultimo trimestre non ancora disponibile: vale l'ultimo pubblicato
+      else if (isStock(k) && !hasBalance(latest) && num(last4[2].values[k])) values[k] = last4[2].values[k];
       continue;
     }
     const vs = last4.map((q) => q.values[k]);
@@ -151,20 +155,61 @@ export function ttm(quarters: FinancialPeriod[]): TtmPeriod | null {
   };
 }
 
+/**
+ * Ultimi dodici mesi per le società che pubblicano solo semestrali (molte europee):
+ * esercizio precedente − primo semestre precedente + primo semestre corrente.
+ * `back` sposta il calcolo indietro di N anni (serve per la crescita TTM su TTM).
+ */
+export function ttmFromHalves(periods: FinancialPeriod[], back = 0): TtmPeriod | null {
+  const h1s = periods.filter((p) => p.fiscalPeriod === "H1").sort((a, b) => a.fiscalYear - b.fiscalYear);
+  const latestH1 = h1s[h1s.length - 1];
+  if (!latestH1) return null;
+  const year = latestH1.fiscalYear - back;
+  const find = (fy: number, fp: FiscalPeriod) => periods.find((p) => p.fiscalYear === fy && p.fiscalPeriod === fp);
+  const h1 = find(year, "H1");
+  const prevH1 = find(year - 1, "H1");
+  const prevFy = find(year - 1, "FY");
+  if (!h1 || !prevH1 || !prevFy) return null;
+  const values: Values = {};
+  for (const k of FIELD_KEYS) {
+    if (isStock(k) || !isAdditive(k)) {
+      if (num(h1.values[k])) values[k] = h1.values[k];
+      continue;
+    }
+    const a = prevFy.values[k], b = prevH1.values[k], c = h1.values[k];
+    if (num(a) && num(b) && num(c)) values[k] = a - b + c;
+  }
+  if (!num(values.revenue)) return null;
+  return { fiscalYear: year, fiscalPeriod: "TTM", periodEnd: h1.periodEnd, values, quarters: [`H2 ${year - 1}`, `H1 ${year}`] };
+}
+
 /** Stesso periodo dell'anno precedente (per crescita anno su anno). */
 export function yearAgo<T extends { fiscalYear: number; fiscalPeriod: FiscalPeriod }>(series: T[], p: T): T | undefined {
   return series.find((x) => x.fiscalYear === p.fiscalYear - 1 && x.fiscalPeriod === p.fiscalPeriod);
+}
+
+/**
+ * I trimestri su cui calcolare gli ultimi dodici mesi: se l'ultimo non ha ancora il rendiconto finanziario
+ * (succede quando la fonte pubblica prima il conto economico) si arretra di uno, per avere dodici mesi completi.
+ */
+export function ttmQuarters(qs: FinancialPeriod[]): FinancialPeriod[] {
+  const full = ttm(qs);
+  if (full && num(full.values.cfo)) return qs;
+  const back = ttm(qs.slice(0, -1));
+  return back && num(back.values.cfo) ? qs.slice(0, -1) : qs;
 }
 
 /** Il periodo più recente utile per l'analisi "a oggi": TTM se disponibile e più recente dell'ultimo FY, altrimenti ultimo FY. */
 export function latestSnapshot(periods: FinancialPeriod[]): { label: string; values: Values; periodEnd: string; isTtm: boolean } | null {
   const fy = annualSeries(periods);
   const lastFy = fy[fy.length - 1];
-  const t = ttm(quarterlySeries(periods));
-  if (t && (!lastFy || t.periodEnd > lastFy.periodEnd)) {
-    return { label: `TTM (${t.quarters[3]})`, values: t.values, periodEnd: t.periodEnd, isTtm: true };
+  const t = ttm(ttmQuarters(quarterlySeries(periods))) ?? ttmFromHalves(periods);
+  // un TTM senza rendiconto finanziario (trimestrali ridotte) darebbe un'analisi monca: meglio l'ultimo esercizio completo
+  const usable = t && (num(t.values.cfo) || !lastFy);
+  if (t && usable && (!lastFy || t.periodEnd > lastFy.periodEnd)) {
+    return { label: `TTM (${t.quarters[t.quarters.length - 1]})`, values: t.values, periodEnd: t.periodEnd, isTtm: true };
   }
   if (lastFy) return { label: `FY${lastFy.fiscalYear}`, values: lastFy.values, periodEnd: lastFy.periodEnd, isTtm: false };
-  if (t) return { label: `TTM (${t.quarters[3]})`, values: t.values, periodEnd: t.periodEnd, isTtm: true };
+  if (t) return { label: `TTM (${t.quarters[t.quarters.length - 1]})`, values: t.values, periodEnd: t.periodEnd, isTtm: true };
   return null;
 }

@@ -38,6 +38,9 @@ export interface Company {
   priceDate?: string;
   cik?: string;
   demo?: boolean;
+  /** dati raccolti e distribuiti con l'app: da dove vengono e quando sono stati aggiornati */
+  dataSource?: string;
+  dataAsOf?: string;
   createdAt: string;
   updatedAt: string;
 }
@@ -60,6 +63,8 @@ export interface DocumentMeta {
   title: string;
   type: DocType;
   fileName?: string;
+  /** indirizzo della fonte originale, per i documenti non caricati come file */
+  url?: string;
   /** data di pubblicazione o di riferimento del documento (YYYY-MM-DD) */
   date?: string;
   fiscalYear?: number;

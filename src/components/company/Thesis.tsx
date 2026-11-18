@@ -141,7 +141,7 @@ export function QuarterCard({ q, currency }: { q: QuarterBrief; currency: string
   const g = q.growthChange;
   return (
     <Card
-      title={`Ultimo trimestre: ${q.label}`}
+      title={`Ultimo ${q.label.startsWith("H") ? "semestre" : "trimestre"}: ${q.label}`}
       hint={g === undefined ? undefined : Math.abs(g) < 0.01 ? "Crescita dei ricavi stabile rispetto al trimestre precedente" : g > 0 ? `Crescita dei ricavi in accelerazione di ${(g * 100).toFixed(1).replace(".", ",")} punti sul trimestre precedente` : `Crescita dei ricavi in rallentamento di ${(-g * 100).toFixed(1).replace(".", ",")} punti sul trimestre precedente`}
       pad={false}
     >
@@ -151,7 +151,7 @@ export function QuarterCard({ q, currency }: { q: QuarterBrief; currency: string
             <th className="text-left font-medium px-4 py-1.5">Voce</th>
             <th className="text-right font-medium px-3 py-1.5">{q.label}</th>
             <th className="text-right font-medium px-3 py-1.5">{q.compareLabel ? `vs ${q.compareLabel}` : "a/a"}</th>
-            <th className="text-right font-medium px-4 py-1.5">{q.previousLabel ? `vs ${q.previousLabel}` : "t/t"}</th>
+            {q.previousLabel && <th className="text-right font-medium px-4 py-1.5">vs {q.previousLabel}</th>}
           </tr>
         </thead>
         <tbody>
@@ -160,7 +160,7 @@ export function QuarterCard({ q, currency }: { q: QuarterBrief; currency: string
               <td className="px-4 py-1.5">{r.label}</td>
               <td className="px-3 py-1.5 text-right num font-medium">{val(r)}</td>
               <td className="px-3 py-1.5 text-right num">{delta(r, r.yoy)}</td>
-              <td className="px-4 py-1.5 text-right num">{delta(r, r.qoq)}</td>
+              {q.previousLabel && <td className="px-4 py-1.5 text-right num">{delta(r, r.qoq)}</td>}
             </tr>
           ))}
         </tbody>

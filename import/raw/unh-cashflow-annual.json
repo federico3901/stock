@@ -1,0 +1,486 @@
+{
+ "ticker": "UNH",
+ "statement": "cashflow",
+ "frequency": "annual",
+ "url": "https://stockanalysis.com/stocks/unh/financials/cash-flow-statement/",
+ "unitsNote": "Financials in millions USD. Fiscal year is January - December.",
+ "columns": [
+  {
+   "label": "TTM",
+   "periodEnd": "2026-09-30"
+  },
+  {
+   "label": "FY 2025",
+   "periodEnd": "2025-12-31"
+  },
+  {
+   "label": "FY 2024",
+   "periodEnd": "2024-12-31"
+  },
+  {
+   "label": "FY 2023",
+   "periodEnd": "2023-12-31"
+  },
+  {
+   "label": "FY 2022",
+   "periodEnd": "2022-12-31"
+  },
+  {
+   "label": "FY 2021",
+   "periodEnd": "2021-12-31"
+  }
+ ],
+ "rows": [
+  {
+   "label": "Net Income",
+   "values": [
+    15884,
+    12056,
+    14405,
+    22381,
+    20120,
+    17285
+   ]
+  },
+  {
+   "label": "Depreciation & Amortization",
+   "values": [
+    2559,
+    2661,
+    2699,
+    2772,
+    2400,
+    2203
+   ]
+  },
+  {
+   "label": "Other Amortization",
+   "values": [
+    1700,
+    1700,
+    1400,
+    1200,
+    1000,
+    900
+   ]
+  },
+  {
+   "label": "Gain (Loss) on Sale of Assets",
+   "values": [
+    -575,
+    -645,
+    4977,
+    -489,
+    -588,
+    null
+   ]
+  },
+  {
+   "label": "Stock-Based Compensation",
+   "values": [
+    1019,
+    971,
+    1018,
+    1059,
+    925,
+    800
+   ]
+  },
+  {
+   "label": "Change in Accounts Receivable",
+   "values": [
+    -764,
+    -764,
+    -1437,
+    -3114,
+    -2523,
+    -1000
+   ]
+  },
+  {
+   "label": "Change in Accounts Payable",
+   "values": [
+    1665,
+    1665,
+    2463,
+    3516,
+    1964,
+    1162
+   ]
+  },
+  {
+   "label": "Change in Unearned Revenue",
+   "values": [
+    163,
+    163,
+    -197,
+    203,
+    126,
+    -310
+   ]
+  },
+  {
+   "label": "Change in Insurance Reserves / Liabilities",
+   "values": [
+    5824,
+    5824,
+    2503,
+    3482,
+    4053,
+    2701
+   ]
+  },
+  {
+   "label": "Change in Other Net Operating Assets",
+   "values": [
+    -3056,
+    -4606,
+    -4140,
+    -2444,
+    -1374,
+    -1031
+   ]
+  },
+  {
+   "label": "Other Operating Activities",
+   "values": [
+    1776,
+    672,
+    513,
+    502,
+    103,
+    -367
+   ]
+  },
+  {
+   "label": "Operating Cash Flow",
+   "values": [
+    26195,
+    19697,
+    24204,
+    29068,
+    26206,
+    22343
+   ]
+  },
+  {
+   "label": "Operating Cash Flow Growth",
+   "values": [
+    24.99,
+    -18.62,
+    -16.73,
+    10.92,
+    17.29,
+    0.76
+   ]
+  },
+  {
+   "label": "Capital Expenditures",
+   "values": [
+    -3369,
+    -3622,
+    -3499,
+    -3386,
+    -2802,
+    -2454
+   ]
+  },
+  {
+   "label": "Sale of Property, Plant & Equipment",
+   "values": [
+    561,
+    561,
+    2041,
+    685,
+    3414,
+    15
+   ]
+  },
+  {
+   "label": "Cash Acquisitions",
+   "values": [
+    -1611,
+    -4509,
+    -13408,
+    -10136,
+    -21458,
+    -4821
+   ]
+  },
+  {
+   "label": "Investment in Securities",
+   "values": [
+    -5782,
+    361,
+    525,
+    -1777,
+    -6837,
+    -1843
+   ]
+  },
+  {
+   "label": "Other Investing Activities",
+   "values": [
+    1168,
+    -341,
+    -98,
+    91,
+    -793,
+    -1269
+   ]
+  },
+  {
+   "label": "Investing Cash Flow",
+   "values": [
+    -11429,
+    -8685,
+    -20527,
+    -15574,
+    -28476,
+    -10372
+   ]
+  },
+  {
+   "label": "Short-Term Debt Issued",
+   "values": [
+    null,
+    807,
+    null,
+    11,
+    732,
+    null
+   ]
+  },
+  {
+   "label": "Long-Term Debt Issued",
+   "values": [
+    null,
+    2969,
+    17811,
+    6394,
+    14819,
+    6933
+   ]
+  },
+  {
+   "label": "Total Debt Issued",
+   "values": [
+    1338,
+    3776,
+    17811,
+    6405,
+    15551,
+    6933
+   ]
+  },
+  {
+   "label": "Total Debt Repaid",
+   "values": [
+    -6125,
+    -3050,
+    -3151,
+    -2125,
+    -3015,
+    -4452
+   ]
+  },
+  {
+   "label": "Net Debt Issued (Repaid)",
+   "values": [
+    -4787,
+    726,
+    14660,
+    4280,
+    12536,
+    2481
+   ]
+  },
+  {
+   "label": "Issuance of Common Stock",
+   "values": [
+    827,
+    827,
+    1846,
+    1353,
+    1253,
+    1355
+   ]
+  },
+  {
+   "label": "Repurchases of Common Stock",
+   "values": [
+    -5031,
+    -5545,
+    -9000,
+    -8000,
+    -7000,
+    -5000
+   ]
+  },
+  {
+   "label": "Common Dividends Paid",
+   "values": [
+    -8172,
+    -7916,
+    -7533,
+    -6761,
+    -5991,
+    -5280
+   ]
+  },
+  {
+   "label": "Other Financing Activities",
+   "values": [
+    1099,
+    264,
+    -3485,
+    -2401,
+    3428,
+    -1011
+   ]
+  },
+  {
+   "label": "Financing Cash Flow",
+   "values": [
+    -16064,
+    -11644,
+    -3512,
+    -11529,
+    4226,
+    -7455
+   ]
+  },
+  {
+   "label": "Foreign Exchange Rate Adjustments",
+   "values": [
+    4,
+    40,
+    -61,
+    97,
+    34,
+    -62
+   ]
+  },
+  {
+   "label": "Miscellaneous Cash Flow Adjustments",
+   "values": [
+    -71,
+    -355,
+    -219,
+    null,
+    null,
+    null
+   ]
+  },
+  {
+   "label": "Net Cash Flow",
+   "values": [
+    -1365,
+    -947,
+    -115,
+    2062,
+    1990,
+    4454
+   ]
+  },
+  {
+   "label": "Free Cash Flow",
+   "values": [
+    22826,
+    16075,
+    20705,
+    25682,
+    23404,
+    19889
+   ]
+  },
+  {
+   "label": "Free Cash Flow Growth",
+   "values": [
+    31.39,
+    -22.36,
+    -19.38,
+    9.73,
+    17.67,
+    -1.16
+   ]
+  },
+  {
+   "label": "Free Cash Flow Margin",
+   "values": [
+    5.07,
+    3.59,
+    5.17,
+    6.91,
+    7.22,
+    6.92
+   ]
+  },
+  {
+   "label": "Free Cash Flow Per Share",
+   "values": [
+    25.18,
+    17.64,
+    22.29,
+    27.38,
+    24.64,
+    20.8
+   ]
+  },
+  {
+   "label": "Levered Free Cash Flow",
+   "values": [
+    26501,
+    15376,
+    12588,
+    20855,
+    23759,
+    19251
+   ]
+  },
+  {
+   "label": "Unlevered Free Cash Flow",
+   "values": [
+    28910,
+    17877,
+    15029,
+    22884,
+    25067,
+    20288
+   ]
+  },
+  {
+   "label": "Cash Interest Paid",
+   "values": [
+    4030,
+    4030,
+    3594,
+    3035,
+    1945,
+    1653
+   ]
+  },
+  {
+   "label": "Cash Income Tax Paid",
+   "values": [
+    3714,
+    3714,
+    4620,
+    6078,
+    5222,
+    3966
+   ]
+  },
+  {
+   "label": "Change in Working Capital",
+   "values": [
+    3832,
+    2282,
+    -808,
+    1643,
+    2246,
+    1522
+   ]
+  }
+ ]
+}
