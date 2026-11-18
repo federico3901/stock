@@ -1,0 +1,9 @@
+// Copia il worker di pdf.js nella cartella public, da dove il browser lo carica.
+import { copyFileSync, mkdirSync } from "fs";
+import { dirname, join } from "path";
+import { fileURLToPath } from "url";
+
+const root = join(dirname(fileURLToPath(import.meta.url)), "..");
+mkdirSync(join(root, "public"), { recursive: true });
+copyFileSync(join(root, "node_modules/pdfjs-dist/build/pdf.worker.min.mjs"), join(root, "public/pdf.worker.min.mjs"));
+console.log("pdf.worker.min.mjs copiato in public/");
